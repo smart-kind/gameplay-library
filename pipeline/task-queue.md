@@ -2,24 +2,15 @@
 
 ## Sources Pending（待探索来源）
 
-| ID | 来源 | 标题 | URL | 发现时间 |
-|---|---|---|---|---|
-| S036 | Addicting Games Top Games | https://www.addictinggames.com/top-games | - | 2026-08-11 14:30 |
-| S037 | CrazyGames Minigames | https://www.crazygames.com/t/mini | - | 2026-08-11 14:30 |
-| S039 | Best Browser Games 2025 - TechsNGames | https://techsngames.com/best-browser-games/ | - | 2026-08-11 14:30 |
-| S040 | Top 30 Online MiniGames - Strafe | https://www.strafe.com/browser-games/minigames/ | - | 2026-08-11 14:30 |
-| S042 | MiniPlay Free Online Games | https://miniplay.io/ | - | 2026-08-11 14:30 |
-| S044 | Top 10 Casual Games 2025 - Gamigion | https://www.gamigion.com/top-10-casual-games-of-2025-road-ahead-to-2028/ | - | 2026-08-11 14:30 |
-| S045 | 50 Best Mobile Games 2025 - FictionHorizon | https://fictionhorizon.com/best-mobile-games-to-play-in-2025/ | - | 2026-08-11 14:30 |
-| S046 | Best Casual Mobile Games 2025 - HardReset | https://www.hardreset.info/articles/best-casual-mobile-games-2025-adults-secretly-love/ | - | 2026-08-11 14:30 |
-| S047 | Casual Gaming Report 2024 - AppMagic | https://appmagic.rocks/research/casual-gaming-2024 | - | 2026-08-11 14:30 |
-| S048 | FlashArch Game Archive | https://flasharch.com/en | - | 2026-08-11 14:30 |
+
 
 ## Sources Processing（处理中）
 
 ## Sources Archived（已处理）
+
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S037 | CrazyGames Minigames | https://www.crazygames.com/t/mini | 21 | 2026-08-11 21:00 |
 | S026 | Pocket Gamer Game Finder Page 1 | https://www.pocketgamer.com/game-finder/page/1/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
 | S027 | Pocket Gamer Game Finder Page 2 | https://www.pocketgamer.com/game-finder/page/2/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
 | S028 | Pocket Gamer Game Finder Page 3 | https://www.pocketgamer.com/game-finder/page/3/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
@@ -53,10 +44,20 @@
 | S043 | PlayboxJS Mini Games | https://playboxjs.com/games/ | 4 | 2026-08-11 15:31 |
 | S049 | Flash Era Games 2026 - Dinogame | https://dinogame.gg/blog/flash-era-games-still-playable/ | 8 | 2026-08-11 15:31 |
 | S051 | Nostalgic Flash Games 2000s - CBR | https://www.cbr.com/best-flash-games-nostalgic-2000s/ | 10 | 2026-08-11 15:31 |
-| S052 | Best Flash Games Ever Made - TheGamer | https://www.thegamer.com/best-flash-games-ever-made/ | 9 | 2026-08-11 15:31 |
+|| S052 | Best Flash Games Ever Made - TheGamer | https://www.thegamer.com/best-flash-games-ever-made/ | 9 | 2026-08-11 15:31 |
+| S036 | Addicting Games Top Games | https://www.addictinggames.com/top-games | 10 | 2026-08-11 18:30 |
+
 ## Sources Failed（失败）
 | ID | 标题 | URL | 失败原因 | 失败时间 |
 |---|---|---|---|---|
+| S039 | Best Browser Games 2025 - TechsNGames | https://techsngames.com/best-browser-games/ | 页面结构复杂/列表无法结构化提取 | 2026-08-11 21:00 |
+| S040 | Top 30 Online MiniGames - Strafe | https://www.strafe.com/browser-games/minigames/ | JS渲染/无法提取游戏列表 | 2026-08-11 21:00 |
+| S042 | MiniPlay Free Online Games | https://miniplay.io/ | JS渲染 (Next.js)，无静态数据 | 2026-08-11 21:00 |
+| S044 | Top 10 Casual Games 2025 - Gamigion | https://www.gamigion.com/top-10-casual-games-of-2025-road-ahead-to-2028/ | 页面结构复杂，无法提取结构化游戏名 | 2026-08-11 21:00 |
+| S045 | 50 Best Mobile Games 2025 - FictionHorizon | https://fictionhorizon.com/best-mobile-games-to-play-in-2025/ | 反爬虫 (Human verification) | 2026-08-11 21:00 |
+| S046 | Best Casual Mobile Games 2025 - HardReset | https://www.hardreset.info/articles/best-casual-mobile-games-2025-adults-secretly-love/ | 访问被拒/内容过短 | 2026-08-11 21:00 |
+| S047 | Casual Gaming Report 2024 - AppMagic | https://appmagic.rocks/research/casual-gaming-2024 | 页面结构复杂/数据图表无法文本提取 | 2026-08-11 21:00 |
+| S048 | FlashArch Game Archive | https://flasharch.com/en | 404 Not Found | 2026-08-11 21:00 |
 | S013 | Best Android Games - Android Central | https://www.androidcentral.com/best-android-games | 页面JS渲染，无法提取游戏名 | 2026-08-11 12:00 |
 | S014 | Best Mobile Games 2019 - CNET | https://www.cnet.com/pictures/best-mobile-games-2019/ | 页面结构复杂，无法提取游戏名 | 2026-08-11 12:00 |
 | S018 | Best Mobile Games - Pocket Tactics | https://www.pockettactics.com/best-mobile-games | 页面JS渲染，提取失败 | 2026-08-11 12:00 |
@@ -119,6 +120,27 @@
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G183 | Moto X3M | docs/MotoX3M_20260811_2100.md | 2026-08-11 21:00 |
+| G182 | Basket Random | docs/BasketRandom_20260811_2100.md | 2026-08-11 21:00 |
+| G181 | Basketball Stars | docs/BasketballStars_20260811_2100.md | 2026-08-11 21:00 |
+| G180 | PolyTrack | docs/PolyTrack_20260811_2100.md | 2026-08-11 21:00 |
+| G179 | Slice Master | docs/SliceMaster_20260811_2100.md | 2026-08-11 21:00 |
+| G178 | Spades | docs/Spades_20260811_2100.md | 2026-08-11 21:00 |
+| G177 | Smash Karts | docs/SmashKarts_20260811_2100.md | 2026-08-11 21:00 |
+| G176 | Grow A Garden | Growden.io | docs/GrowAGardenGrowdenio_20260811_2100.md | 2026-08-11 21:00 |
+| G175 | Spider Solitaire | docs/SpiderSolitaire_20260811_2100.md | 2026-08-11 21:00 |
+| G174 | Word Wipe | docs/WordWipe_20260811_2100.md | 2026-08-11 21:00 |
+| G173 | Bloxd.io | docs/BloxdIO_20260811_2100.md | 2026-08-11 21:00 |
+| G172 | Knife Show | docs/KnifeShow_20260811_2100.md | 2026-08-11 21:00 |
+| G171 | Mussoumano Game | docs/MussoumanoGame_20260811_2100.md | 2026-08-11 21:00 |
+| G170 | PRISM | docs/PRISM_20260811_2100.md | 2026-08-11 21:00 |
+| G169 | Spy Highway | docs/SpyHighway_20260811_2100.md | 2026-08-11 21:00 |
+| G168 | 67 Steal a Brainrot Game | docs/67StealaBrainrotGame_20260811_2100.md | 2026-08-11 21:00 |
+| G167 | Bus and Subway Runner | docs/BusandSubwayRunner_20260811_2100.md | 2026-08-11 21:00 |
+| G166 | Om Nom: Run | docs/OmNomRun_20260811_2100.md | 2026-08-11 21:00 |
+| G165 | Snow Rider 3D | docs/SnowRider3D_20260811_2100.md | 2026-08-11 21:00 |
+| G164 | Drift Boss | docs/DriftBoss_20260811_2100.md | 2026-08-11 21:00 |
+| G163 | Tap-Tap Shots | docs/TapTapShots_20260811_2100.md | 2026-08-11 21:00 |
 | G096 | Heroes of Fortune | docs/HeroesOfFortune_20260811_1531.md | 2026-08-11 15:31 |
 | G097 | AstroCat Adventures | docs/AstroCatAdventures_20260811_1531.md | 2026-08-11 15:31 |
 | G098 | Skadi Tower | docs/SkadiTower_20260811_1531.md | 2026-08-11 15:31 |
@@ -250,3 +272,4 @@
 | 2026-08-11 12:13 | (R008 快速收尾: Phase 2搜索5个来源S031-S035) | 5 | 0 | 0 | 0 | 0 |
 | 2026-08-11 14:30 | (R009 3组搜索: browser mini games / mobile casual 2024 / flash games) | 17 | 2 (S041, S050) | 10 | 10 | 0 |
 | 2026-08-11 15:31 | (R010 3组来源处理: S038/S043/S049/S051/S052) | 0 | 5 (S038/S043/S049/S051/S052) | 36 | 12 | 0 |
+| 2026-08-11 21:00 | (R012: S037 processed, S039-S048 failed) | 1 | 1 | 21 | 21 | 8 (S039-S048 结构复杂/反爬/JS渲染/404) |
