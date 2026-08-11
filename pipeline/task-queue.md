@@ -25,6 +25,8 @@
 | S015 | Best Casual Games Android - Android Central | https://www.androidcentral.com/best-casual-games-android | 30 | 2026-08-11 12:00 |
 | S016 | Best Multiplayer Games Android - Android Central | https://www.androidcentral.com/best-multiplayer-games-android | 10 | 2026-08-11 12:00 |
 | S017 | Best Arcade Games Android - Android Central | https://www.androidcentral.com/best-arcade-games-android | 11 | 2026-08-11 12:00 |
+| S024 | Top Casual Games - Arionis Games | https://arionisgames.com/blog/top-casual-games/ | 11 | 2026-08-11 07:08 |
+| S025 | 10 Hyper Casual Games That Redefined The Genre | https://screenrant.com/hyper-casual-video-games-redefine-genre/ | 10 | 2026-08-11 07:08 |
 
 ## Sources Failed（失败）
 | ID | 标题 | URL | 失败原因 | 失败时间 |
@@ -118,6 +120,16 @@
 | G073 | Shoot Bubble Deluxe | docs/ShootBubbleDeluxe_20260811_1200.md | 2026-08-11 12:00 |
 | G074 | Secret Cat Forest | docs/SecretCatForest_20260811_1200.md | 2026-08-11 12:00 |
 | G075 | Fishing and Life | docs/FishingAndLife_20260811_1200.md | 2026-08-11 12:00 |
+| G076 | Flappy Bird | docs/FlappyBird_20260811_0708.md | 2026-08-11 07:08 |
+| G077 | Crossy Road | docs/CrossyRoad_20260811_0708.md | 2026-08-11 07:08 |
+| G078 | Temple Run | docs/TempleRun_20260811_0708.md | 2026-08-11 07:08 |
+| G079 | Helix Jump | docs/HelixJump_20260811_0708.md | 2026-08-11 07:08 |
+| G080 | Bridge Race | docs/BridgeRace_20260811_0708.md | 2026-08-11 07:08 |
+| G081 | Blob Hero | docs/BlobHero_20260811_0708.md | 2026-08-11 07:08 |
+| G082 | Jelly Dye | docs/JellyDye_20260811_0708.md | 2026-08-11 07:08 |
+| G083 | Amaze! | docs/Amaze_20260811_0708.md | 2026-08-11 07:08 |
+| G084 | Fill The Fridge | docs/FillTheFridge_20260811_0708.md | 2026-08-11 07:08 |
+| G085 | Aquapark.io | docs/AquaparkIO_20260811_0708.md | 2026-08-11 07:08 |
 
 ## Execution Log
 
@@ -127,3 +139,4 @@
 | 2026-08-10 20:48 | PopCap classic games list gameplay mechanics Bejeweled Plants vs Zombies | 2 | 0 | 0 | 4 | 0 |
 | 2026-08-10 22:43 | (无新搜索，直接处理pending sources) | 0 | 12 (S001,S003-S012) | 50 | 50 | 2 (S004/S008反爬虫, S012内容不足) |
 | 2026-08-11 12:00 | (Pending≥5，跳过搜索) | 0 | 11 (S013-S023) | 51 | 11 | 8 (S013/S014/S018-S023 JS渲染/结构复杂) |
+| 2026-08-11 07:08 | 3组 (best mini games / hyper casual mechanics / indie puzzle) | 2 (S024, S025) | 2 (S024, S025) | 10 | 10 | 1 (search1 Tor重定向失败) |

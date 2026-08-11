@@ -1,16 +1,16 @@
-# Graph Report - gameplay-library  (2026-08-11)
+# Graph Report - gameplay-library  (2026-08-10)
 
 ## Corpus Check
-- 111 files · ~11,340 words
+- 66 files · ~6,445 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1198 nodes · 1087 edges · 111 communities
+- 753 nodes · 687 edges · 66 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `fb3d6d15`
+- Built from commit: `bffff446`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -81,51 +81,6 @@
 - 上帝视角的世界模拟沙盒游戏（WorldBox）
 - 三消+动物园经营的休闲游戏（Zookeeper World）
 - 射击消除游戏，用彩球消除轨道上的球链（Zuma）
-- Alto's Odyssey（奥德赛）
-- Amaze!（Amaze!）
-- Aquapark.io（Aquapark.io）
-- Blob Hero（Blob Hero）
-- Brawl Stars（荒野乱斗）
-- Bridge Race（Bridge Race）
-- Cats are Cute（猫咪真可爱）
-- Celeste（蔚蓝）
-- Chessplode（爆裂象棋）
-- Civilization VI
-- Crossy Road（Crossy Road）
-- Disney Dreamlight Valley（Disney Dreamlight Valley）
-- Fill The Fridge（Fill The Fridge）
-- Fishing and Life（钓鱼与生活）
-- Flappy Bird（Flappy Bird）
-- Genshin Impact（原神）
-- Hades（黑帝斯）
-- Hearthstone
-- Helix Jump
-- Helix Jump（Helix Jump）
-- Hole.io
-- Hollow Knight（空洞骑士）
-- Honkai: Star Rail（崩坏：星穹铁道）
-- Iron Marines
-- Jelly Dye（Jelly Dye）
-- Kingdom Rush
-- Kingdom Rush（Kingdom Rush）
-- Limbo
-- Pinball Arcade（弹球街机）
-- Plague Inc.
-- Postknight & Postknight 2（邮递骑士）
-- PUBG Mobile（绝地求生手游）
-- Secret Cat Forest（秘密猫咪森林）
-- Shoot Bubble Deluxe（泡泡射击豪华版）
-- SimCity BuildIt
-- Slay the Spire（杀戮尖塔）
-- Stardew Valley（星露谷物语）
-- Temple Run（Temple Run）
-- Terraria
-- The Fishercat（钓鱼猫）
-- The Room
-- Threes!（三消数字）
-- Vainglory
-- Xenowerk
-- Pipeline Run Log
 
 ## God Nodes (most connected - your core abstractions)
 1. `台球模拟游戏，支持在线对战（8 Ball Pool）` - 11 edges
@@ -142,7 +97,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (111 total, 0 thin omitted)
+## Communities (66 total, 0 thin omitted)
 
 ### Community 0 - "Gameplay Discovery Pipeline - Task Queue"
 Cohesion: 0.22
@@ -408,192 +363,12 @@ Nodes (11): Meta 系统, 三消+动物园经营的休闲游戏（Zookeeper World
 Cohesion: 0.17
 Nodes (11): Meta 系统, 为什么好玩, 同类游戏对比, 实现难度, 射击消除游戏，用彩球消除轨道上的球链（Zuma）, 来源, 核心循环, 核心机制 (+3 more)
 
-### Community 66 - "Alto's Odyssey（奥德赛）"
-Cohesion: 0.20
-Nodes (9): Alto's Odyssey（奥德赛）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 67 - "Amaze!（Amaze!）"
-Cohesion: 0.20
-Nodes (9): Amaze!（Amaze!）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 68 - "Aquapark.io（Aquapark.io）"
-Cohesion: 0.20
-Nodes (9): Aquapark.io（Aquapark.io）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 69 - "Blob Hero（Blob Hero）"
-Cohesion: 0.20
-Nodes (9): Blob Hero（Blob Hero）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 70 - "Brawl Stars（荒野乱斗）"
-Cohesion: 0.20
-Nodes (9): Brawl Stars（荒野乱斗）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 71 - "Bridge Race（Bridge Race）"
-Cohesion: 0.20
-Nodes (9): Bridge Race（Bridge Race）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 72 - "Cats are Cute（猫咪真可爱）"
-Cohesion: 0.20
-Nodes (9): Cats are Cute（猫咪真可爱）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 73 - "Celeste（蔚蓝）"
-Cohesion: 0.20
-Nodes (9): Celeste（蔚蓝）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 74 - "Chessplode（爆裂象棋）"
-Cohesion: 0.20
-Nodes (9): Chessplode（爆裂象棋）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 75 - "Civilization VI"
-Cohesion: 0.20
-Nodes (9): Civilization VI, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 76 - "Crossy Road（Crossy Road）"
-Cohesion: 0.20
-Nodes (9): Crossy Road（Crossy Road）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 77 - "Disney Dreamlight Valley（Disney Dreamlight Valley）"
-Cohesion: 0.20
-Nodes (9): Disney Dreamlight Valley（Disney Dreamlight Valley）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 78 - "Fill The Fridge（Fill The Fridge）"
-Cohesion: 0.20
-Nodes (9): Fill The Fridge（Fill The Fridge）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 79 - "Fishing and Life（钓鱼与生活）"
-Cohesion: 0.20
-Nodes (9): Fishing and Life（钓鱼与生活）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 80 - "Flappy Bird（Flappy Bird）"
-Cohesion: 0.20
-Nodes (9): Flappy Bird（Flappy Bird）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 81 - "Genshin Impact（原神）"
-Cohesion: 0.20
-Nodes (9): Genshin Impact（原神）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 82 - "Hades（黑帝斯）"
-Cohesion: 0.20
-Nodes (9): Hades（黑帝斯）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 83 - "Hearthstone"
-Cohesion: 0.20
-Nodes (9): Hearthstone, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 84 - "Helix Jump"
-Cohesion: 0.20
-Nodes (9): Helix Jump, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 85 - "Helix Jump（Helix Jump）"
-Cohesion: 0.20
-Nodes (9): Helix Jump（Helix Jump）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 86 - "Hole.io"
-Cohesion: 0.20
-Nodes (9): Hole.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 87 - "Hollow Knight（空洞骑士）"
-Cohesion: 0.20
-Nodes (9): Hollow Knight（空洞骑士）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 88 - "Honkai: Star Rail（崩坏：星穹铁道）"
-Cohesion: 0.20
-Nodes (9): Honkai: Star Rail（崩坏：星穹铁道）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 89 - "Iron Marines"
-Cohesion: 0.20
-Nodes (9): Iron Marines, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 90 - "Jelly Dye（Jelly Dye）"
-Cohesion: 0.20
-Nodes (9): Jelly Dye（Jelly Dye）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 91 - "Kingdom Rush"
-Cohesion: 0.20
-Nodes (9): Kingdom Rush, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 92 - "Kingdom Rush（Kingdom Rush）"
-Cohesion: 0.20
-Nodes (9): Kingdom Rush（Kingdom Rush）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 93 - "Limbo"
-Cohesion: 0.20
-Nodes (9): Limbo, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 94 - "Pinball Arcade（弹球街机）"
-Cohesion: 0.20
-Nodes (9): Meta 系统, Pinball Arcade（弹球街机）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 95 - "Plague Inc."
-Cohesion: 0.20
-Nodes (9): Meta 系统, Plague Inc., 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 96 - "Postknight & Postknight 2（邮递骑士）"
-Cohesion: 0.20
-Nodes (9): Meta 系统, Postknight & Postknight 2（邮递骑士）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 97 - "PUBG Mobile（绝地求生手游）"
-Cohesion: 0.20
-Nodes (9): Meta 系统, PUBG Mobile（绝地求生手游）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 98 - "Secret Cat Forest（秘密猫咪森林）"
-Cohesion: 0.20
-Nodes (9): Meta 系统, Secret Cat Forest（秘密猫咪森林）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 99 - "Shoot Bubble Deluxe（泡泡射击豪华版）"
-Cohesion: 0.20
-Nodes (9): Meta 系统, Shoot Bubble Deluxe（泡泡射击豪华版）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 100 - "SimCity BuildIt"
-Cohesion: 0.20
-Nodes (9): Meta 系统, SimCity BuildIt, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 101 - "Slay the Spire（杀戮尖塔）"
-Cohesion: 0.20
-Nodes (9): Meta 系统, Slay the Spire（杀戮尖塔）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 102 - "Stardew Valley（星露谷物语）"
-Cohesion: 0.20
-Nodes (9): Meta 系统, Stardew Valley（星露谷物语）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 103 - "Temple Run（Temple Run）"
-Cohesion: 0.20
-Nodes (9): Meta 系统, Temple Run（Temple Run）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 104 - "Terraria"
-Cohesion: 0.20
-Nodes (9): Meta 系统, Terraria, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 105 - "The Fishercat（钓鱼猫）"
-Cohesion: 0.20
-Nodes (9): Meta 系统, The Fishercat（钓鱼猫）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 106 - "The Room"
-Cohesion: 0.20
-Nodes (9): Meta 系统, The Room, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 107 - "Threes!（三消数字）"
-Cohesion: 0.20
-Nodes (9): Meta 系统, Threes!（三消数字）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 108 - "Vainglory"
-Cohesion: 0.20
-Nodes (9): Meta 系统, Vainglory, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 109 - "Xenowerk"
-Cohesion: 0.20
-Nodes (9): Meta 系统, Xenowerk, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
-
-### Community 110 - "Pipeline Run Log"
-Cohesion: 0.40
-Nodes (4): 2026-08-10, 2026-08-11, 2026-08-11, Pipeline Run Log
-
 ## Knowledge Gaps
-- **976 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+971 more)
+- **621 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+616 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `玩法规则`, `核心循环`, `核心机制` to the rest of the system?**
-  _976 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _621 weakly-connected nodes found - possible documentation gaps or missing edges._
