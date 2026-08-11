@@ -2,6 +2,8 @@
 
 ## Sources Pending（待探索来源）
 
+| ID | 来源 | 标题 | URL | 发现时间 |
+|---|---|---|---|---|
 
 ## Sources Processing（处理中）
 
@@ -20,11 +22,23 @@
 | S010 | 15 of the Best Mobile Games for Casual Players | https://mobilematters.gg/guides/gaming/best-mobile-games-for-casual-players | 8 | 2026-08-10 22:43 |
 | S011 | PopCap Games full game list | https://gamecompanies.com/companies/popcap-games | 6 | 2026-08-10 22:43 |
 | S012 | EA PopCap Studios games | https://www.ea.com/ea-studios/popcap/games | 0 | 2026-08-10 22:43 |
+| S015 | Best Casual Games Android - Android Central | https://www.androidcentral.com/best-casual-games-android | 30 | 2026-08-11 12:00 |
+| S016 | Best Multiplayer Games Android - Android Central | https://www.androidcentral.com/best-multiplayer-games-android | 10 | 2026-08-11 12:00 |
+| S017 | Best Arcade Games Android - Android Central | https://www.androidcentral.com/best-arcade-games-android | 11 | 2026-08-11 12:00 |
 
 ## Sources Failed（失败）
+| ID | 标题 | URL | 失败原因 | 失败时间 |
+|---|---|---|---|---|
+| S013 | Best Android Games - Android Central | https://www.androidcentral.com/best-android-games | 页面JS渲染，无法提取游戏名 | 2026-08-11 12:00 |
+| S014 | Best Mobile Games 2019 - CNET | https://www.cnet.com/pictures/best-mobile-games-2019/ | 页面结构复杂，无法提取游戏名 | 2026-08-11 12:00 |
+| S018 | Best Mobile Games - Pocket Tactics | https://www.pockettactics.com/best-mobile-games | 页面JS渲染，提取失败 | 2026-08-11 12:00 |
+| S019 | Steam Casual Games | https://store.steampowered.com/tags/en/Casual | Steam需要JS渲染 | 2026-08-11 12:00 |
+| S020 | Steam Indie Games | https://store.steampowered.com/tags/en/Indie | Steam需要JS渲染 | 2026-08-11 12:00 |
+| S021 | Best Nintendo Switch Games 2026 - Nintendo Life | https://www.nintendolife.com/guides/the-best-nintendo-switch-games-2026 | 页面JS渲染，提取失败 | 2026-08-11 12:00 |
+| S022 | Best Mobile Games for Kids - TouchTapPlay | https://www.touchtapplay.com/best-mobile-games-for-kids/ | 页面结构复杂，无法提取游戏名 | 2026-08-11 12:00 |
+| S023 | Best iPad Games - CNET | https://www.cnet.com/tech/services-and-software/best-ipad-games/ | 页面结构复杂，无法提取游戏名 | 2026-08-11 12:00 |
 
 ## Games Pending（待撰写文档）
-
 
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
@@ -93,6 +107,17 @@
 | G062 | Grindstone | docs/Grindstone_20260810_2243.md | 2026-08-10 22:43 |
 | G063 | Pocket World 3D | docs/PocketWorld3D_20260810_2243.md | 2026-08-10 22:43 |
 | G064 | The Battle Cats | docs/TheBattleCats_20260810_2243.md | 2026-08-10 22:43 |
+| G065 | Threes! | docs/Threes_20260811_1200.md | 2026-08-11 12:00 |
+| G066 | The Fishercat | docs/TheFishercat_20260811_1200.md | 2026-08-11 12:00 |
+| G067 | Postknight | docs/Postknight_20260811_1200.md | 2026-08-11 12:00 |
+| G068 | PUBG Mobile | docs/PUBGMobile_20260811_1200.md | 2026-08-11 12:00 |
+| G069 | Brawl Stars | docs/BrawlStars_20260811_1200.md | 2026-08-11 12:00 |
+| G070 | Pinball Arcade | docs/PinballArcade_20260811_1200.md | 2026-08-11 12:00 |
+| G071 | Cats are Cute | docs/CatsAreCute_20260811_1200.md | 2026-08-11 12:00 |
+| G072 | Chessplode | docs/Chessplode_20260811_1200.md | 2026-08-11 12:00 |
+| G073 | Shoot Bubble Deluxe | docs/ShootBubbleDeluxe_20260811_1200.md | 2026-08-11 12:00 |
+| G074 | Secret Cat Forest | docs/SecretCatForest_20260811_1200.md | 2026-08-11 12:00 |
+| G075 | Fishing and Life | docs/FishingAndLife_20260811_1200.md | 2026-08-11 12:00 |
 
 ## Execution Log
 
@@ -101,3 +126,4 @@
 | 2026-08-10 20:46 | best mini games casual mobile gameplay mechanics list 2024 | 10 | 2 (S002, S009) | 23 | 14 | 0 |
 | 2026-08-10 20:48 | PopCap classic games list gameplay mechanics Bejeweled Plants vs Zombies | 2 | 0 | 0 | 4 | 0 |
 | 2026-08-10 22:43 | (无新搜索，直接处理pending sources) | 0 | 12 (S001,S003-S012) | 50 | 50 | 2 (S004/S008反爬虫, S012内容不足) |
+| 2026-08-11 12:00 | (Pending≥5，跳过搜索) | 0 | 11 (S013-S023) | 51 | 11 | 8 (S013/S014/S018-S023 JS渲染/结构复杂) |
