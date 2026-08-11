@@ -4,6 +4,21 @@
 
 | ID | 来源 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S036 | Addicting Games Top Games | https://www.addictinggames.com/top-games | - | 2026-08-11 14:30 |
+| S037 | CrazyGames Minigames | https://www.crazygames.com/t/mini | - | 2026-08-11 14:30 |
+| S038 | 45 Best Browser Games - Beebom | https://beebom.com/browser-games/ | - | 2026-08-11 14:30 |
+| S039 | Best Browser Games 2025 - TechsNGames | https://techsngames.com/best-browser-games/ | - | 2026-08-11 14:30 |
+| S040 | Top 30 Online MiniGames - Strafe | https://www.strafe.com/browser-games/minigames/ | - | 2026-08-11 14:30 |
+| S042 | MiniPlay Free Online Games | https://miniplay.io/ | - | 2026-08-11 14:30 |
+| S043 | PlayboxJS Mini Games | https://playboxjs.com/games/ | - | 2026-08-11 14:30 |
+| S044 | Top 10 Casual Games 2025 - Gamigion | https://www.gamigion.com/top-10-casual-games-of-2025-road-ahead-to-2028/ | - | 2026-08-11 14:30 |
+| S045 | 50 Best Mobile Games 2025 - FictionHorizon | https://fictionhorizon.com/best-mobile-games-to-play-in-2025/ | - | 2026-08-11 14:30 |
+| S046 | Best Casual Mobile Games 2025 - HardReset | https://www.hardreset.info/articles/best-casual-mobile-games-2025-adults-secretly-love/ | - | 2026-08-11 14:30 |
+| S047 | Casual Gaming Report 2024 - AppMagic | https://appmagic.rocks/research/casual-gaming-2024 | - | 2026-08-11 14:30 |
+| S048 | FlashArch Game Archive | https://flasharch.com/en | - | 2026-08-11 14:30 |
+| S049 | Flash Era Games 2026 - Dinogame | https://dinogame.gg/blog/flash-era-games-still-playable/ | - | 2026-08-11 14:30 |
+| S051 | Nostalgic Flash Games 2000s - CBR | https://www.cbr.com/best-flash-games-nostalgic-2000s/ | - | 2026-08-11 14:30 |
+| S052 | Best Flash Games Ever Made - TheGamer | https://www.thegamer.com/best-flash-games-ever-made/ | - | 2026-08-11 14:30 |
 
 ## Sources Processing（处理中）
 
@@ -16,6 +31,11 @@
 | S029 | Pocket Gamer Game Finder Page 4 | https://www.pocketgamer.com/game-finder/page/4/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
 | S030 | Pocket Gamer Game Finder Page 5 | https://www.pocketgamer.com/game-finder/page/5/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
 | S002 | The best casual games in 2024 | https://mastersingaming.com/2024/11/13/the-best-casual-games-in-2024/ | 13 | 2026-08-10 20:46 |
+| S031 | Best Retro Football Games Mobile | https://gamingonphone.com/miscellaneous/5-best-retro-football-games-on-mobile/ | - | 2026-08-11 12:12 |
+| S032 | Best Arcade Football Games Mobile | https://gamingonphone.com/miscellaneous/best-arcade-football-games-on-mobile/ | - | 2026-08-11 12:12 |
+| S033 | Top 20 Mobile Games Holiday Season | https://gamingonphone.com/miscellaneous/top-20-mobile-games-to-play-in-this-holiday-season/ | - | 2026-08-11 12:12 |
+| S034 | Best Mobile Games for Couples | https://gamingonphone.com/miscellaneous/top-best-mobile-games-to-play-with-your-partner-this-valentines-day/ | - | 2026-08-11 12:12 |
+| S035 | Best Star Wars Mobile Games | https://gamingonphone.com/miscellaneous/best-star-wars-games-to-play-on-mobile-devices/ | - | 2026-08-11 12:12 |
 | S009 | Best casual games you can play - Android Police | https://www.androidpolice.com/best-casual-games-android/ | 10 | 2026-08-10 20:47 |
 | S001 | Best Mobile Games of 2024 TIER LIST (70 games!) | https://minireview.io/top-mobile-games/best-mobile-games-2024-tier-list | 0 | 2026-08-10 22:43 |
 | S003 | Top Casual Mobile Games for 2024 | https://www.techacrobat.com/top-casual-mobile-games-for-2024/ | 3 | 2026-08-10 22:43 |
@@ -32,6 +52,8 @@
 | S017 | Best Arcade Games Android - Android Central | https://www.androidcentral.com/best-arcade-games-android | 11 | 2026-08-11 12:00 |
 | S024 | Top Casual Games - Arionis Games | https://arionisgames.com/blog/top-casual-games/ | 11 | 2026-08-11 07:08 |
 | S025 | 10 Hyper Casual Games That Redefined The Genre | https://screenrant.com/hyper-casual-video-games-redefine-genre/ | 10 | 2026-08-11 07:08 |
+| S050 | Best Classic Flash Games - Game Rant | https://gamerant.com/best-classic-flash-games/ | 10 | 2026-08-11 14:30 |
+| S041 | 15 Most Addicting Browser Games - Cavecarp | https://cavecarp.com/blog/most-addicting-browser-games/ | 10 | 2026-08-11 14:30 |
 
 ## Sources Failed（失败）
 | ID | 标题 | URL | 失败原因 | 失败时间 |
@@ -68,6 +90,16 @@
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G111 | QWOP | docs/QWOP_20260811_1430.md | 2026-08-11 14:30 |
+| G112 | Agar.io | docs/AgarIO_20260811_1430.md | 2026-08-11 14:30 |
+| G113 | Cookie Clicker | docs/CookieClicker_20260811_1430.md | 2026-08-11 14:30 |
+| G114 | 2048 | docs/2048_20260811_1430.md | 2026-08-11 14:30 |
+| G115 | Chrome Dino Game | docs/ChromeDinoGame_20260811_1430.md | 2026-08-11 14:30 |
+| G116 | Slither.io | docs/SlitherIO_20260811_1430.md | 2026-08-11 14:30 |
+| G117 | Pandemic 2 | docs/Pandemic2_20260811_1430.md | 2026-08-11 14:30 |
+| G118 | Stick RPG | docs/StickRPG_20260811_1430.md | 2026-08-11 14:30 |
+| G119 | Bloons Tower Defense | docs/BloonsTowerDefense_20260811_1430.md | 2026-08-11 14:30 |
+| G120 | Wordle | docs/Wordle_20260811_1430.md | 2026-08-11 14:30 |
 | G086 | Dungeon Story: Match & Monsters | docs/DungeonStoryMatchMonsters_20260811_0900.md | 2026-08-11 09:00 |
 | G087 | Hidden around the World | docs/HiddenaroundtheWorld_20260811_0900.md | 2026-08-11 09:00 |
 | G088 | Afterard | docs/Afterard_20260811_0900.md | 2026-08-11 09:00 |
@@ -173,4 +205,6 @@
 | 2026-08-10 22:43 | (无新搜索，直接处理pending sources) | 0 | 12 (S001,S003-S012) | 50 | 50 | 2 (S004/S008反爬虫, S012内容不足) |
 | 2026-08-11 12:00 | (Pending≥5，跳过搜索) | 0 | 11 (S013-S023) | 51 | 11 | 8 (S013/S014/S018-S023 JS渲染/结构复杂) |
 | 2026-08-11 07:08 | 3组 (best mini games / hyper casual mechanics / indie puzzle) | 2 (S024, S025) | 2 (S024, S025) | 10 | 10 | 1 (search1 Tor重定向失败) |
-| 2026-08-11 09:00 | (Pending<5，跳过搜索) | 0 | 4 (S026-S030) | 50 | 10 | 0 |
+| 2026-08-11 09:00 | (Pending≥5，跳过搜索) | 0 | 4 (S026-S030) | 50 | 10 | 0 |
+| 2026-08-11 12:13 | (R008 快速收尾: Phase 2搜索5个来源S031-S035) | 5 | 0 | 0 | 0 | 0 |
+| 2026-08-11 14:30 | (R009 3组搜索: browser mini games / mobile casual 2024 / flash games) | 17 | 2 (S041, S050) | 10 | 10 | 0 |
