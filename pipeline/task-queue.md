@@ -72,45 +72,55 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-|| G122 | Freeciv-Web | 待生成 | S038 Beebom |
-| G123 | War Brokers | 待生成 | S038 Beebom |
-| G124 | Powerline.io | 待生成 | S038 Beebom |
-| G125 | Street Skater | 待生成 | S038 Beebom |
-| G126 | TacticsCore.io | 待生成 | S038 Beebom |
-| G127 | Linerider | 待生成 | S038 Beebom |
-| G128 | Skribbl | 待生成 | S038 Beebom |
-| G129 | Nightpoint | 待生成 | S038 Beebom |
-| G130 | Sunset Bike Racer | 待生成 | S038 Beebom |
-| G131 | Copter | 待生成 | S038 Beebom |
-| G132 | Quick Draw | 待生成 | S038 Beebom |
-| G133 | Snail Bob | 待生成 | S038 Beebom |
-| G134 | Winter Rush | 待生成 | S038 Beebom |
-| G135 | Prince of Persia | 待生成 | S038 Beebom |
-| G136 | Hexar.io | 待生成 | S038 Beebom |
-| G137 | Coma | 待生成 | S038 Beebom |
-| G138 | Prodigy | 待生成 | S038 Beebom |
-| G139 | Scary Maze | 待生成 | S038 Beebom |
-| G140 | Pokemon Showdown | 待生成 | S038 Beebom |
-| G141 | Six-sided Streets | 待生成 | S038 Beebom |
-| G142 | Flip O | 待生成 | S038 Beebom |
-| G143 | No one Has to Die | 待生成 | S038 Beebom |
-| G144 | Wilds.io | 待生成 | S038 Beebom |
-| G145 | Slow Roads | 待生成 | S038 Beebom |
-| G146 | Astro Race | 待生成 | S038 Beebom |
-| G147 | Make It Meme | 待生成 | S038 Beebom |
-| G148 | Abobo Big Adventure | 待生成 | S038 Beebom |
-| G149 | Madness: Project Nexus | 待生成 | S052 TheGamer |
-| G150 | Dad N Me | 待生成 | S052 TheGamer |
-| G151 | Alien Hominid | 待生成 | S052 TheGamer |
-| G152 | Dadgame | 待生成 | S052 TheGamer |
-| G153 | Territory War Online | 待生成 | S052 TheGamer |
-| G154 | Dr. Stanley's House 2 | 待生成 | S052 TheGamer |
-| G155 | Interactive Buddy | 待生成 | S052 TheGamer |
-| G156 | Dino Run | 待生成 | S052 TheGamer |
 
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
+| G194 | Freeciv-Web | docs/Freeciv-Web_20260811_2226.md | 2026-08-11 22:26 |
+| G195 | War Brokers | docs/WarBrokers_20260811_2226.md | 2026-08-11 22:26 |
+| G196 | Powerline.io | docs/PowerlineIO_20260811_2226.md | 2026-08-11 22:26 |
+| G197 | Street Skater | docs/StreetSkater_20260811_2226.md | 2026-08-11 22:26 |
+| G198 | TacticsCore.io | docs/TacticsCoreIO_20260811_2226.md | 2026-08-11 22:26 |
+| G199 | Line Rider | docs/LineRider_20260811_2226.md | 2026-08-11 22:26 |
+| G200 | Skribbl.io | docs/SkribblIO_20260811_2226.md | 2026-08-11 22:26 |
+| G201 | Nightpoint | docs/Nightpoint_20260811_2226.md | 2026-08-11 22:26 |
+| G202 | Sunset Bike Racer | docs/SunsetBikeRacer_20260811_2226.md | 2026-08-11 22:26 |
+| G203 | Copter | docs/Copter_20260811_2226.md | 2026-08-11 22:26 |
+| G204 | Quick, Draw! | docs/QuickDraw_20260811_2226.md | 2026-08-11 22:26 |
+| G205 | Snail Bob | docs/SnailBob_20260811_2226.md | 2026-08-11 22:26 |
+| G206 | Winter Rush | docs/WinterRush_20260811_2226.md | 2026-08-11 22:26 |
+| G207 | Prince of Persia | docs/PrinceOfPersia_20260811_2226.md | 2026-08-11 22:26 |
+| G208 | Hexar.io | docs/HexarIO_20260811_2226.md | 2026-08-11 22:26 |
+| G209 | Coma | docs/Coma_20260811_2226.md | 2026-08-11 22:26 |
+| G210 | Prodigy | docs/Prodigy_20260811_2226.md | 2026-08-11 22:26 |
+| G211 | Scary Maze | docs/ScaryMaze_20260811_2226.md | 2026-08-11 22:26 |
+| G212 | Pokemon Showdown | docs/PokemonShowdown_20260811_2226.md | 2026-08-11 22:26 |
+| G213 | Six-sided Streets | docs/Six-sidedStreets_20260811_2226.md | 2026-08-11 22:26 |
+| G214 | Flip O | docs/FlipO_20260811_2226.md | 2026-08-11 22:26 |
+| G215 | No one Has to Die | docs/NoOneHasToDie_20260811_2226.md | 2026-08-11 22:26 |
+| G216 | Wilds.io | docs/WildsIO_20260811_2226.md | 2026-08-11 22:26 |
+| G217 | Slow Roads | docs/SlowRoads_20260811_2226.md | 2026-08-11 22:26 |
+| G218 | Astro Race | docs/AstroRace_20260811_2226.md | 2026-08-11 22:26 |
+| G219 | Make It Meme | docs/MakeItMeme_20260811_2226.md | 2026-08-11 22:26 |
+| G220 | Abobo Big Adventure | docs/AboboBigAdventure_20260811_2226.md | 2026-08-11 22:26 |
+| G221 | Madness: Project Nexus | docs/MadnessProjectNexus_20260811_2226.md | 2026-08-11 22:26 |
+| G222 | Dad N Me | docs/DadNMe_20260811_2226.md | 2026-08-11 22:26 |
+| G223 | Alien Hominid | docs/AlienHominid_20260811_2226.md | 2026-08-11 22:26 |
+| G224 | Dadgame | docs/Dadgame_20260811_2226.md | 2026-08-11 22:26 |
+| G225 | Territory War Online | docs/TerritoryWarOnline_20260811_2226.md | 2026-08-11 22:26 |
+| G226 | Dr. Stanley's House 2 | docs/DrStanleysHouse2_20260811_2226.md | 2026-08-11 22:26 |
+| G227 | Interactive Buddy | docs/InteractiveBuddy_20260811_2226.md | 2026-08-11 22:26 |
+| G228 | Dino Run | docs/DinoRun_20260811_2226.md | 2026-08-11 22:26 |
 |---|---|---|---|
+| G193 | City Guesser | docs/City_Guesser_20260811_2053.md | 2026-08-12 00:00 |
+| G192 | Color Flow | docs/Color_Flow_20260811_2053.md | 2026-08-12 00:00 |
+| G191 | Crystal Knights | docs/Crystal_Knights_20260811_2052.md | 2026-08-12 00:00 |
+| G190 | Sokobond Express | docs/Sokobond_Express_20260811_2052.md | 2026-08-12 00:00 |
+| G189 | Choice of Life: Wild Islands | docs/Choice_of_Life_Wild_Islands_20260811_2052.md | 2026-08-12 00:00 |
+| G188 | Hidden in my Paradise | docs/Hidden_in_my_Paradise_20260811_2052.md | 2026-08-12 00:00 |
+| G187 | Drive Ahead | docs/Drive_Ahead_20260811_2052.md | 2026-08-12 00:00 |
+| G186 | Arkanoid vs Space Invaders | docs/Arkanoid_vs_Space_Invaders_20260811_2052.md | 2026-08-12 00:00 |
+| G185 | Crunchyroll: Kawaii Kitchen | docs/Crunchyroll_Kawaii_Kitchen_20260811_2052.md | 2026-08-12 00:00 |
+| G184 | Graine | docs/Graine_20260811_2052.md | 2026-08-12 00:00 |
 | G183 | Moto X3M | docs/MotoX3M_20260811_2100.md | 2026-08-11 21:00 |
 | G182 | Basket Random | docs/BasketRandom_20260811_2100.md | 2026-08-11 21:00 |
 | G181 | Basketball Stars | docs/BasketballStars_20260811_2100.md | 2026-08-11 21:00 |
@@ -264,7 +274,8 @@
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
 |---|---|---|---|---|---|---|
-| 2026-08-10 20:46 | best mini games casual mobile gameplay mechanics list 2024 | 10 | 2 (S002, S009) | 23 | 14 | 0 |
+| 2026-08-12 00:00 | (R013: iTunes API+Wikipedia, MCP wigolo不可用) | 0 | 1 (S053) | 0 | 10 (G184-G193) | 0 |
+| 2026-08-11 22:26 | (R014: Phase2跳过, 处理G122-G156共35款) | 0 | 0 | 35 | 35 (G122-G156) | 0 |
 | 2026-08-10 20:48 | PopCap classic games list gameplay mechanics Bejeweled Plants vs Zombies | 2 | 0 | 0 | 4 | 0 |
 | 2026-08-10 22:43 | (无新搜索，直接处理pending sources) | 0 | 12 (S001,S003-S012) | 50 | 50 | 2 (S004/S008反爬虫, S012内容不足) |
 | 2026-08-11 12:00 | (Pending≥5，跳过搜索) | 0 | 11 (S013-S023) | 51 | 11 | 8 (S013/S014/S018-S023 JS渲染/结构复杂) |
