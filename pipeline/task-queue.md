@@ -10,6 +10,11 @@
 ## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S026 | Pocket Gamer Game Finder Page 1 | https://www.pocketgamer.com/game-finder/page/1/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
+| S027 | Pocket Gamer Game Finder Page 2 | https://www.pocketgamer.com/game-finder/page/2/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
+| S028 | Pocket Gamer Game Finder Page 3 | https://www.pocketgamer.com/game-finder/page/3/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
+| S029 | Pocket Gamer Game Finder Page 4 | https://www.pocketgamer.com/game-finder/page/4/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
+| S030 | Pocket Gamer Game Finder Page 5 | https://www.pocketgamer.com/game-finder/page/5/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
 | S002 | The best casual games in 2024 | https://mastersingaming.com/2024/11/13/the-best-casual-games-in-2024/ | 13 | 2026-08-10 20:46 |
 | S009 | Best casual games you can play - Android Police | https://www.androidpolice.com/best-casual-games-android/ | 10 | 2026-08-10 20:47 |
 | S001 | Best Mobile Games of 2024 TIER LIST (70 games!) | https://minireview.io/top-mobile-games/best-mobile-games-2024-tier-list | 0 | 2026-08-10 22:43 |
@@ -42,9 +47,37 @@
 
 ## Games Pending（待撰写文档）
 
+| ID | 游戏名 | 文档文件 | 来源 |
+|---|---|---|---|
+| G096 | Heroes of Fortune | 待生成 | Pocket Gamer |
+| G097 | AstroCat Adventures | 待生成 | Pocket Gamer |
+| G098 | Skadi Tower | 待生成 | Pocket Gamer |
+| G099 | Oby Adventure | 待生成 | Pocket Gamer |
+| G100 | Magical Maintenance Mystery | 待生成 | Pocket Gamer |
+| G101 | Jump King | 待生成 | Pocket Gamer |
+| G102 | Graine | 待生成 | Pocket Gamer |
+| G103 | Crunchyroll: Kawaii Kitchen | 待生成 | Pocket Gamer |
+| G104 | Arkanoid vs Space Invaders+ | 待生成 | Pocket Gamer |
+| G105 | Drive Ahead! Carcade | 待生成 | Pocket Gamer |
+| G106 | Hidden in my Paradise | 待生成 | Pocket Gamer |
+| G107 | Choice of Life: Wild Islands | 待生成 | Pocket Gamer |
+| G108 | Sokobond Express | 待生成 | Pocket Gamer |
+| G109 | Crystal Knights | 待生成 | Pocket Gamer |
+| G110 | Color Flow: Physics Puzzles | 待生成 | Pocket Gamer |
+
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G086 | Dungeon Story: Match & Monsters | docs/DungeonStoryMatchMonsters_20260811_0900.md | 2026-08-11 09:00 |
+| G087 | Hidden around the World | docs/HiddenaroundtheWorld_20260811_0900.md | 2026-08-11 09:00 |
+| G088 | Afterard | docs/Afterard_20260811_0900.md | 2026-08-11 09:00 |
+| G089 | Mini Escapes Infinity Pool | docs/MiniEscapesInfinityPool_20260811_0900.md | 2026-08-11 09:00 |
+| G090 | SlimyLeap | docs/SlimyLeap_20260811_0900.md | 2026-08-11 09:00 |
+| G091 | Glorbs | docs/Glorbs_20260811_0900.md | 2026-08-11 09:00 |
+| G092 | Animal Mafia | docs/AnimalMafia_20260811_0900.md | 2026-08-11 09:00 |
+| G093 | Chicken vs Hotdog: Trickshot | docs/ChickenvsHotdogTrickshot_20260811_0900.md | 2026-08-11 09:00 |
+| G094 | Fangs Breaker | docs/FangsBreaker_20260811_0900.md | 2026-08-11 09:00 |
+| G095 | Soul Hunter | docs/SoulHunter_20260811_0900.md | 2026-08-11 09:00 |
 | G001 | What the Golf? | docs/WhatTheGolf_20260810_2047.md | 2026-08-10 20:47 |
 | G002 | Idle Miner Tycoon | docs/IdleMinerTycoon_20260810_2047.md | 2026-08-10 20:47 |
 | G003 | Word Connect | docs/WordConnect_20260810_2047.md | 2026-08-10 20:47 |
@@ -140,3 +173,4 @@
 | 2026-08-10 22:43 | (无新搜索，直接处理pending sources) | 0 | 12 (S001,S003-S012) | 50 | 50 | 2 (S004/S008反爬虫, S012内容不足) |
 | 2026-08-11 12:00 | (Pending≥5，跳过搜索) | 0 | 11 (S013-S023) | 51 | 11 | 8 (S013/S014/S018-S023 JS渲染/结构复杂) |
 | 2026-08-11 07:08 | 3组 (best mini games / hyper casual mechanics / indie puzzle) | 2 (S024, S025) | 2 (S024, S025) | 10 | 10 | 1 (search1 Tor重定向失败) |
+| 2026-08-11 09:00 | (Pending<5，跳过搜索) | 0 | 4 (S026-S030) | 50 | 10 | 0 |
