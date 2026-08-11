@@ -34,3 +34,9 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 
 [2026-08-11 12:00] [R005] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=11, Processing=0, Archived=12
 [2026-08-11 12:00] [R005] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (11个)
+[2026-08-11 12:00] [R005] [Phase 3: Process Sources] ✅ 完成 — 处理11个来源(S013-S023)，产出11款游戏文档，8个失败(JS渲染/结构复杂)
+[2026-08-11 12:00] [R005] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空
+[2026-08-11 12:00] [R005] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
+[2026-08-11 12:00] [R005] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
+[2026-08-11 12:00] [R005] [Phase 7: Git Push] ✅ 完成 — commit 成功 (36 files, +1837 lines)，push 跳过(无远程或网络)
+
