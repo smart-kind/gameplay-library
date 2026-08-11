@@ -10,7 +10,8 @@
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
-| S037 | CrazyGames Minigames | https://www.crazygames.com/t/mini | 21 | 2026-08-11 21:00 |
+|| S037 | CrazyGames Minigames | https://www.crazygames.com/t/mini | 21 | 2026-08-11 21:00 |
+|| S053 | Pocket Gamer Game Finder Page 6 | https://www.pocketgamer.com/game-finder/page/6/0_all_0_1_1/ | 10 | 2026-08-12 00:00 |
 | S026 | Pocket Gamer Game Finder Page 1 | https://www.pocketgamer.com/game-finder/page/1/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
 | S027 | Pocket Gamer Game Finder Page 2 | https://www.pocketgamer.com/game-finder/page/2/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
 | S028 | Pocket Gamer Game Finder Page 3 | https://www.pocketgamer.com/game-finder/page/3/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
@@ -71,17 +72,7 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G102 | Graine | 待生成 | Pocket Gamer |
-| G103 | Crunchyroll: Kawaii Kitchen | 待生成 | Pocket Gamer |
-| G104 | Arkanoid vs Space Invaders+ | 待生成 | Pocket Gamer |
-| G105 | Drive Ahead! Carcade | 待生成 | Pocket Gamer |
-| G106 | Hidden in my Paradise | 待生成 | Pocket Gamer |
-| G107 | Choice of Life: Wild Islands | 待生成 | Pocket Gamer |
-| G108 | Sokobond Express | 待生成 | Pocket Gamer |
-| G109 | Crystal Knights | 待生成 | Pocket Gamer |
-| G110 | Color Flow: Physics Puzzles | 待生成 | Pocket Gamer |
-| G121 | City Guesser | 待生成 | S038 Beebom |
-| G122 | Freeciv-Web | 待生成 | S038 Beebom |
+|| G122 | Freeciv-Web | 待生成 | S038 Beebom |
 | G123 | War Brokers | 待生成 | S038 Beebom |
 | G124 | Powerline.io | 待生成 | S038 Beebom |
 | G125 | Street Skater | 待生成 | S038 Beebom |
@@ -138,9 +129,19 @@
 | G168 | 67 Steal a Brainrot Game | docs/67StealaBrainrotGame_20260811_2100.md | 2026-08-11 21:00 |
 | G167 | Bus and Subway Runner | docs/BusandSubwayRunner_20260811_2100.md | 2026-08-11 21:00 |
 | G166 | Om Nom: Run | docs/OmNomRun_20260811_2100.md | 2026-08-11 21:00 |
-| G165 | Snow Rider 3D | docs/SnowRider3D_20260811_2100.md | 2026-08-11 21:00 |
-| G164 | Drift Boss | docs/DriftBoss_20260811_2100.md | 2026-08-11 21:00 |
-| G163 | Tap-Tap Shots | docs/TapTapShots_20260811_2100.md | 2026-08-11 21:00 |
+|| G165 | Snow Rider 3D | docs/SnowRider3D_20260811_2100.md | 2026-08-11 21:00 |
+|| G164 | Drift Boss | docs/DriftBoss_20260811_2100.md | 2026-08-11 21:00 |
+|| G163 | Tap-Tap Shots | docs/TapTapShots_20260811_2100.md | 2026-08-11 21:00 |
+|| G193 | City Guesser | docs/City_Guesser_20260811_2053.md | 2026-08-12 00:00 |
+|| G192 | Color Flow | docs/Color_Flow_20260811_2053.md | 2026-08-12 00:00 |
+|| G191 | Crystal Knights | docs/Crystal_Knights_20260811_2052.md | 2026-08-12 00:00 |
+|| G190 | Sokobond Express | docs/Sokobond_Express_20260811_2052.md | 2026-08-12 00:00 |
+|| G189 | Choice of Life: Wild Islands | docs/Choice_of_Life_Wild_Islands_20260811_2052.md | 2026-08-12 00:00 |
+|| G188 | Hidden in my Paradise | docs/Hidden_in_my_Paradise_20260811_2052.md | 2026-08-12 00:00 |
+|| G187 | Drive Ahead | docs/Drive_Ahead_20260811_2052.md | 2026-08-12 00:00 |
+|| G186 | Arkanoid vs Space Invaders | docs/Arkanoid_vs_Space_Invaders_20260811_2052.md | 2026-08-12 00:00 |
+|| G185 | Crunchyroll: Kawaii Kitchen | docs/Crunchyroll_Kawaii_Kitchen_20260811_2052.md | 2026-08-12 00:00 |
+|| G184 | Graine | docs/Graine_20260811_2052.md | 2026-08-12 00:00 |
 | G096 | Heroes of Fortune | docs/HeroesOfFortune_20260811_1531.md | 2026-08-11 15:31 |
 | G097 | AstroCat Adventures | docs/AstroCatAdventures_20260811_1531.md | 2026-08-11 15:31 |
 | G098 | Skadi Tower | docs/SkadiTower_20260811_1531.md | 2026-08-11 15:31 |
@@ -272,4 +273,5 @@
 | 2026-08-11 12:13 | (R008 快速收尾: Phase 2搜索5个来源S031-S035) | 5 | 0 | 0 | 0 | 0 |
 | 2026-08-11 14:30 | (R009 3组搜索: browser mini games / mobile casual 2024 / flash games) | 17 | 2 (S041, S050) | 10 | 10 | 0 |
 | 2026-08-11 15:31 | (R010 3组来源处理: S038/S043/S049/S051/S052) | 0 | 5 (S038/S043/S049/S051/S052) | 36 | 12 | 0 |
-| 2026-08-11 21:00 | (R012: S037 processed, S039-S048 failed) | 1 | 1 | 21 | 21 | 8 (S039-S048 结构复杂/反爬/JS渲染/404) |
+|| 2026-08-11 21:00 | (R012: S037 processed, S039-S048 failed) | 1 | 1 | 21 | 21 | 8 (S039-S048 结构复杂/反爬/JS渲染/404) |
+|| 2026-08-12 00:00 | (R013: iTunes API+Wikipedia, MCP wigolo不可用) | 0 | 1 (S053) | 0 | 10 (G184-G193) | 0 |
