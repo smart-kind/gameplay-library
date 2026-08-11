@@ -70,5 +70,11 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-11 14:30] [R009] [Phase 4: Process Games] ⏭️ 跳过 — Games已由Phase 3直接生成文档
 [2026-08-11 14:30] [R009] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
 [2026-08-11 14:30] [R009] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
-[2026-08-11 14:30] [R009] [Phase 7: Git Push] ⏭️ 进行中
+[2026-08-11 14:30] [R010] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=17, Processing=0, Archived=35
+[2026-08-11 14:30] [R010] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (17个)
+[2026-08-11 14:30] [R010] [Phase 3: Process Sources] ✅ 完成 — 处理5个来源(S038,S043,S049,S051,S052)，产出12款游戏文档，36款加入Pending，5个来源无法提取(需JS渲染)
+[2026-08-11 14:30] [R010] [Phase 4: Process Games] ⏭️ 跳过 — 12款游戏文档由Phase 3直接生成，无需单独搜索
+[2026-08-11 14:30] [R010] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
+[2026-08-11 14:30] [R010] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
+[2026-08-11 14:30] [R010] [Phase 7: Git Push] — 待执行
 

@@ -6,19 +6,14 @@
 |---|---|---|---|---|
 | S036 | Addicting Games Top Games | https://www.addictinggames.com/top-games | - | 2026-08-11 14:30 |
 | S037 | CrazyGames Minigames | https://www.crazygames.com/t/mini | - | 2026-08-11 14:30 |
-| S038 | 45 Best Browser Games - Beebom | https://beebom.com/browser-games/ | - | 2026-08-11 14:30 |
 | S039 | Best Browser Games 2025 - TechsNGames | https://techsngames.com/best-browser-games/ | - | 2026-08-11 14:30 |
 | S040 | Top 30 Online MiniGames - Strafe | https://www.strafe.com/browser-games/minigames/ | - | 2026-08-11 14:30 |
 | S042 | MiniPlay Free Online Games | https://miniplay.io/ | - | 2026-08-11 14:30 |
-| S043 | PlayboxJS Mini Games | https://playboxjs.com/games/ | - | 2026-08-11 14:30 |
 | S044 | Top 10 Casual Games 2025 - Gamigion | https://www.gamigion.com/top-10-casual-games-of-2025-road-ahead-to-2028/ | - | 2026-08-11 14:30 |
 | S045 | 50 Best Mobile Games 2025 - FictionHorizon | https://fictionhorizon.com/best-mobile-games-to-play-in-2025/ | - | 2026-08-11 14:30 |
 | S046 | Best Casual Mobile Games 2025 - HardReset | https://www.hardreset.info/articles/best-casual-mobile-games-2025-adults-secretly-love/ | - | 2026-08-11 14:30 |
 | S047 | Casual Gaming Report 2024 - AppMagic | https://appmagic.rocks/research/casual-gaming-2024 | - | 2026-08-11 14:30 |
 | S048 | FlashArch Game Archive | https://flasharch.com/en | - | 2026-08-11 14:30 |
-| S049 | Flash Era Games 2026 - Dinogame | https://dinogame.gg/blog/flash-era-games-still-playable/ | - | 2026-08-11 14:30 |
-| S051 | Nostalgic Flash Games 2000s - CBR | https://www.cbr.com/best-flash-games-nostalgic-2000s/ | - | 2026-08-11 14:30 |
-| S052 | Best Flash Games Ever Made - TheGamer | https://www.thegamer.com/best-flash-games-ever-made/ | - | 2026-08-11 14:30 |
 
 ## Sources Processing（处理中）
 
@@ -54,7 +49,11 @@
 | S025 | 10 Hyper Casual Games That Redefined The Genre | https://screenrant.com/hyper-casual-video-games-redefine-genre/ | 10 | 2026-08-11 07:08 |
 | S050 | Best Classic Flash Games - Game Rant | https://gamerant.com/best-classic-flash-games/ | 10 | 2026-08-11 14:30 |
 | S041 | 15 Most Addicting Browser Games - Cavecarp | https://cavecarp.com/blog/most-addicting-browser-games/ | 10 | 2026-08-11 14:30 |
-
+| S038 | 45 Best Browser Games - Beebom | https://beebom.com/browser-games/ | 28 | 2026-08-11 15:31 |
+| S043 | PlayboxJS Mini Games | https://playboxjs.com/games/ | 4 | 2026-08-11 15:31 |
+| S049 | Flash Era Games 2026 - Dinogame | https://dinogame.gg/blog/flash-era-games-still-playable/ | 8 | 2026-08-11 15:31 |
+| S051 | Nostalgic Flash Games 2000s - CBR | https://www.cbr.com/best-flash-games-nostalgic-2000s/ | 10 | 2026-08-11 15:31 |
+| S052 | Best Flash Games Ever Made - TheGamer | https://www.thegamer.com/best-flash-games-ever-made/ | 9 | 2026-08-11 15:31 |
 ## Sources Failed（失败）
 | ID | 标题 | URL | 失败原因 | 失败时间 |
 |---|---|---|---|---|
@@ -71,12 +70,6 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G096 | Heroes of Fortune | 待生成 | Pocket Gamer |
-| G097 | AstroCat Adventures | 待生成 | Pocket Gamer |
-| G098 | Skadi Tower | 待生成 | Pocket Gamer |
-| G099 | Oby Adventure | 待生成 | Pocket Gamer |
-| G100 | Magical Maintenance Mystery | 待生成 | Pocket Gamer |
-| G101 | Jump King | 待生成 | Pocket Gamer |
 | G102 | Graine | 待生成 | Pocket Gamer |
 | G103 | Crunchyroll: Kawaii Kitchen | 待生成 | Pocket Gamer |
 | G104 | Arkanoid vs Space Invaders+ | 待生成 | Pocket Gamer |
@@ -86,10 +79,58 @@
 | G108 | Sokobond Express | 待生成 | Pocket Gamer |
 | G109 | Crystal Knights | 待生成 | Pocket Gamer |
 | G110 | Color Flow: Physics Puzzles | 待生成 | Pocket Gamer |
+| G121 | City Guesser | 待生成 | S038 Beebom |
+| G122 | Freeciv-Web | 待生成 | S038 Beebom |
+| G123 | War Brokers | 待生成 | S038 Beebom |
+| G124 | Powerline.io | 待生成 | S038 Beebom |
+| G125 | Street Skater | 待生成 | S038 Beebom |
+| G126 | TacticsCore.io | 待生成 | S038 Beebom |
+| G127 | Linerider | 待生成 | S038 Beebom |
+| G128 | Skribbl | 待生成 | S038 Beebom |
+| G129 | Nightpoint | 待生成 | S038 Beebom |
+| G130 | Sunset Bike Racer | 待生成 | S038 Beebom |
+| G131 | Copter | 待生成 | S038 Beebom |
+| G132 | Quick Draw | 待生成 | S038 Beebom |
+| G133 | Snail Bob | 待生成 | S038 Beebom |
+| G134 | Winter Rush | 待生成 | S038 Beebom |
+| G135 | Prince of Persia | 待生成 | S038 Beebom |
+| G136 | Hexar.io | 待生成 | S038 Beebom |
+| G137 | Coma | 待生成 | S038 Beebom |
+| G138 | Prodigy | 待生成 | S038 Beebom |
+| G139 | Scary Maze | 待生成 | S038 Beebom |
+| G140 | Pokemon Showdown | 待生成 | S038 Beebom |
+| G141 | Six-sided Streets | 待生成 | S038 Beebom |
+| G142 | Flip O | 待生成 | S038 Beebom |
+| G143 | No one Has to Die | 待生成 | S038 Beebom |
+| G144 | Wilds.io | 待生成 | S038 Beebom |
+| G145 | Slow Roads | 待生成 | S038 Beebom |
+| G146 | Astro Race | 待生成 | S038 Beebom |
+| G147 | Make It Meme | 待生成 | S038 Beebom |
+| G148 | Abobo Big Adventure | 待生成 | S038 Beebom |
+| G149 | Madness: Project Nexus | 待生成 | S052 TheGamer |
+| G150 | Dad N Me | 待生成 | S052 TheGamer |
+| G151 | Alien Hominid | 待生成 | S052 TheGamer |
+| G152 | Dadgame | 待生成 | S052 TheGamer |
+| G153 | Territory War Online | 待生成 | S052 TheGamer |
+| G154 | Dr. Stanley's House 2 | 待生成 | S052 TheGamer |
+| G155 | Interactive Buddy | 待生成 | S052 TheGamer |
+| G156 | Dino Run | 待生成 | S052 TheGamer |
 
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G096 | Heroes of Fortune | docs/HeroesOfFortune_20260811_1531.md | 2026-08-11 15:31 |
+| G097 | AstroCat Adventures | docs/AstroCatAdventures_20260811_1531.md | 2026-08-11 15:31 |
+| G098 | Skadi Tower | docs/SkadiTower_20260811_1531.md | 2026-08-11 15:31 |
+| G099 | Oby Adventure | docs/ObyAdventure_20260811_1531.md | 2026-08-11 15:31 |
+| G100 | Magical Maintenance Mystery | docs/MagicalMaintenanceMystery_20260811_1531.md | 2026-08-11 15:31 |
+| G101 | Jump King | docs/JumpKing_20260811_1531.md | 2026-08-11 15:31 |
+| G157 | Happy Wheels | docs/HappyWheels_20260811_1531.md | 2026-08-11 15:31 |
+| G158 | Krunker.io | docs/KrunkerIO_20260811_1531.md | 2026-08-11 15:31 |
+| G159 | Shapez.io | docs/ShapezIO_20260811_1531.md | 2026-08-11 15:31 |
+| G160 | Diep.io | docs/DiepIO_20260811_1531.md | 2026-08-11 15:31 |
+| G161 | Shell Shockers | docs/ShellShockers_20260811_1531.md | 2026-08-11 15:31 |
+| G162 | Powder Game | docs/PowderGame_20260811_1531.md | 2026-08-11 15:31 |
 | G111 | QWOP | docs/QWOP_20260811_1430.md | 2026-08-11 14:30 |
 | G112 | Agar.io | docs/AgarIO_20260811_1430.md | 2026-08-11 14:30 |
 | G113 | Cookie Clicker | docs/CookieClicker_20260811_1430.md | 2026-08-11 14:30 |
@@ -208,3 +249,4 @@
 | 2026-08-11 09:00 | (Pending≥5，跳过搜索) | 0 | 4 (S026-S030) | 50 | 10 | 0 |
 | 2026-08-11 12:13 | (R008 快速收尾: Phase 2搜索5个来源S031-S035) | 5 | 0 | 0 | 0 | 0 |
 | 2026-08-11 14:30 | (R009 3组搜索: browser mini games / mobile casual 2024 / flash games) | 17 | 2 (S041, S050) | 10 | 10 | 0 |
+| 2026-08-11 15:31 | (R010 3组来源处理: S038/S043/S049/S051/S052) | 0 | 5 (S038/S043/S049/S051/S052) | 36 | 12 | 0 |
