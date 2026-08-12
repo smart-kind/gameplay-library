@@ -144,4 +144,6 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-12 07:28] [R019] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空（游戏文档已由Phase 3直接生成）
 [2026-08-12 07:28] [R019] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
 [2026-08-12 07:28] [R019] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
+[2026-08-12 09:00] [R020] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (10个)
+[2026-08-12 09:00] [R020] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=10, Processing=0, Archived=69
 [2026-08-12 07:28] [R019] [Phase 7: Git Push] ✅ 完成

@@ -1,19 +1,21 @@
+
+| G272 | Cattails | docs/Cattails_20260812_1057.md | 2026-08-12 10:57 |
+| G273 | Nidhogg 2 | docs/Nidhogg2_20260812_1057.md | 2026-08-12 10:57 |
+| G274 | Trailblazers | docs/Trailblazers_20260812_1057.md | 2026-08-12 10:57 |
+| G275 | Baba is You | docs/BabaisYou_20260812_1057.md | 2026-08-12 10:57 |
+| G276 | Gorogoa | docs/Gorogoa_20260812_1057.md | 2026-08-12 10:57 |
+| G277 | Monument Valley 3 | docs/MonumentValley3_20260812_1057.md | 2026-08-12 10:57 |
+| G278 | Layton's Mystery Journey | docs/LaytonsMysteryJourney_20260812_1057.md | 2026-08-12 10:57 |
+| G279 | The Gardens Between | docs/TheGardensBetween_20260812_1057.md | 2026-08-12 10:57 |
+| G280 | Pako Forever | docs/PakoForever_20260812_1057.md | 2026-08-12 10:57 |
+| G281 | Candies n' Curses | docs/CandiesnCurses_20260812_1057.md | 2026-08-12 10:57 |
 # Gameplay Discovery Pipeline - Task Queue
 
 ## Sources Pending（待探索来源）
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S069 | search_result | GamesZoom Best Mobile Games 2025 | https://gameszoom.com/blog/best-mobile-games-2025.html | 2026-08-12 07:11 |
-| S070 | search_result | 19 Best Indie Games 2026 ENEBA | https://www.eneba.com/hub/games/best-indie-games/ | 2026-08-12 07:11 |
-| S071 | search_result | 20 Time-Loop Games Fiction Horizon | https://fictionhorizon.com/time-loop-games-that-bend-your-brain/ | 2026-08-12 07:11 |
-| S072 | search_result | Casual Game Mechanics Classics 2025 | https://meliorgames.com/best-practices/casual-game-mechanics-classics-and-new-hits-of-2025/ | 2026-08-12 07:11 |
-| S073 | search_result | 7+1 Hyper Casual Game Mechanics | https://www.costcenter.net/post/7-1-hyper-casual-game-mechanics | 2026-08-12 07:11 |
-| S074 | search_result | APKMadness Best Idle Games Mobile 2026 | https://www.apkmadness.com/blog/best-idle-games-mobile-2026/ | 2026-08-12 07:11 |
-| S077 | search_result | IdleDB Best Mobile Idle Games | https://idledb.com/best-idle-games-mobile | 2026-08-12 07:11 |
-| S081 | search_result | AddictingGames IO Games | https://www.addictinggames.com/io-games | 2026-08-12 07:11 |
-| S083 | search_result | AxoGamer What Are IO Games Guide | https://www.axogamer.com/blog/what-are-io-games-complete-guide | 2026-08-12 07:11 |
-| S084 | search_result | igaminglab Top-Rated IO Games 2026 | https://igaminglab.org/io-games/ | 2026-08-12 07:11 |
+
 
 
 
@@ -101,7 +103,9 @@
 | S021 | Best Nintendo Switch Games 2026 - Nintendo Life | https://www.nintendolife.com/guides/the-best-nintendo-switch-games-2026 | 页面JS渲染，提取失败 | 2026-08-11 12:00 |
 | S022 | Best Mobile Games for Kids - TouchTapPlay | https://www.touchtapplay.com/best-mobile-games-for-kids/ | 页面结构复杂，无法提取游戏名 | 2026-08-11 12:00 |
 | S023 | Best iPad Games - CNET | https://www.cnet.com/tech/services-and-software/best-ipad-games/ | 页面结构复杂，无法提取游戏名 | 2026-08-11 12:00 |
-
+|     | S085 | PocketGamer Game Finder Page 9 | https://www.pocketgamer.com/game-finder/page/9/0_all_0_1_1/ | 25 | 2026-08-12 10:57 |
+|     | S086 | PocketGamer Game Finder Page 10 | https://www.pocketgamer.com/game-finder/page/10/0_all_0_1_1/ | 25 | 2026-08-12 10:57 |
+|     | S087 | PocketGamer Best Puzzle Android | https://www.pocketgamer.com/android/best-puzzle-games-android/ | 25 | 2026-08-12 10:57 |
 ## Games Pending（待撰写文档）
 
 | ID | 游戏名 | 文档文件 | 来源 |
@@ -339,6 +343,7 @@
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
 || 2026-08-12 05:27 | (R018: 跳过搜索-MCP不可用，处理3个来源S065-S068，产出20款游戏文档) | 0 | 3 (S065-S068) | 20 | 20 (G252-G271) | 0 |
 |---|---|---|---|---|---|---|
+| 2026-08-12 10:57 | (R021: 跳过搜索-MCP不可用，处理3个来源S085-S087，产出10款游戏文档) | 0 | 3 (S085-S087) | 75 | 10 (G272-G281) | 0 |
 | 2026-08-12 00:00 | (R013: iTunes API+Wikipedia, MCP wigolo不可用) | 0 | 1 (S053) | 0 | 10 (G184-G193) | 0 |
 | 2026-08-11 22:26 | (R014: Phase2跳过, 处理G122-G156共35款) | 0 | 0 | 35 | 35 (G122-G156) | 0 |
 | 2026-08-10 20:48 | PopCap classic games list gameplay mechanics Bejeweled Plants vs Zombies | 2 | 0 | 0 | 4 | 0 |

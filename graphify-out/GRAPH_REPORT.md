@@ -1,16 +1,16 @@
 # Graph Report - gameplay-library  (2026-08-12)
 
 ## Corpus Check
-- 277 files · ~266,810 words
+- 425 files · ~411,002 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 2633 nodes · 2406 edges · 247 communities
+- 4134 nodes · 3759 edges · 395 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `4e764f4b`
+- Built from commit: `5b74134f`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -260,9 +260,157 @@
 - Winter Rush（Winter Rush）
 - Wordle（Wordle）
 - 时空幻境（Braid）
+- 狂野飙车：越野极限（Asphalt Xtreme）
+- 潜水员戴夫（Dave the Diver）
+- 水果忍者免费版（Fruit Ninja Free）
+- 黑手党：海市蜃楼之城（Gangstar Mirage City）
+- 侠盗猎车手：三部曲（Grand Theft Auto: The Trilogy）
+- 勇闯死人谷 2：解放（Into the Dead 2: Unleashed）
+- JOJO的奇妙冒险：黄金之魂（JoJo's Bizarre Adventure: Golden Spirit）
+- 纸钞屋：终极计划（Money Heist: Ultimate）
+- 扑克骑士 2（Postknight 2）
+- 拉吉：远古传奇（Raji: An Ancient Epic）
+- 王权：超越（Reigns: Beyond）
+- 怪奇物语：1984（Stranger Things: 1984）
+- 超级马里奥酷跑（Super Mario Run）
+- 多托邦之战（The Battle of Polytopia）
+- 忍者神龟：施莱德的复仇（TMNT: Shredder's Revenge）
+- 欲罢不能：恋爱游戏（Too Hot to Handle: Love Is a Game）
+- 维京传奇：英灵神殿（Vikings: Valhalla）
+- 战锤40K：爆弹枪轰鸣（Warhammer 40,000: Boltgun Boom）
+- 迷你高尔夫乐园（Wonderputt Forever）
+- 拼字之友 2（Words With Friends 2）
+- Adventure Clicker: Kingdoms
+- AFK Arena
+- Agar.io
+- Agar.io
+- Alto's Odyssey: The Lost City
+- AstLibra Revision
+- astlibra revision
+- Baba is You（Baba is You）
+- Balatro
+- Bit City 2
+- Bloxd.io
+- Bloxd.io
+- blue prince
+- Blue Prince
+- 土豆兄弟 (Brotato)
+- 恶霸鲁尼（Bully）
+- 糖果与诅咒（Candies n' Curses）
+- Cardgames.io
+- Cardgames.io
+- Cassette Beasts
+- cassette beasts
+- 猫尾（Cattails）
+- Circuit Superstars
+- circuit superstars
+- Clash Royale
+- Clicker Heroes 2
+- 泣血太阳 (Crying Suns)
+- 死亡细胞 (Dead Cells)
+- Deadshot.io
+- Deadshot.io
+- 通往加拿大的死亡之路（Death Road to Canada）
+- Diep.io
+- Diep.io
+- Disco Elysium: The Final Cut
+- 毁灭战士（1993）（DOOM）
+- 井底探险 (Downwell)
+- Ducklings.io
+- Ducklings.io
+- Egg, Inc. 2
+- EvoWars.io
+- EvoWars.io
+- Factorio
+- Final Fantasy VII Ever Crisis
+- Flappyroyale.io
+- Flappyroyale.io
+- FrontWars.io
+- FrontWars.io
+- Gats.io
+- Gats.io
+- Genshin Impact
+- Gorogoa（Gorogoa）
+- Gulper.io
+- Gulper.io
+- Hades
+- Honkai: Star Rail
+- Idle Factory Tycoon
+- Idle Heroes
+- Idle Miner Tycoon
+- Idle Wizard: Magic Realm
+- 不朽流氓 (Immortal Rogue)
+- Kirka.io
+- Kirka.io
+- Krunker.io
+- Krunker.io
+- 雷顿神秘之旅（Layton's Mystery Journey）
+- 地狱边境（Limbo）
+- 运气当房东 (Luck Be a Landlord)
+- 马克思·佩恩（Max Payne）
+- 梅尔沃放置 (Melvor Idle)
+- Mewgenics
+- mewgenics
+- MineFun.io
+- MineFun.io
+- Mobile Legends: Bang Bang
+- Monument Valley 3
+- 纪念碑谷3（Monument Valley 3）
+- Mope.io
+- Mope.io
+- 尼德霍格2（Nidhogg 2）
+- OpenFront.io
+- OpenFront.io
+- Pako Forever（Pako Forever）
+- Palworld
+- palworld
+- Paper.io 2
+- Paper.io 2
+- 宝可梦睡眠 (Pokémon Sleep)
+- Project Zomboid
+- PUBG Mobile
+- Realm Grinder
+- Royal Match
+- 破碎像素地牢 (Shattered Pixel Dungeon)
+- Skribbl.io
+- Skribbl.io
+- Slay the Spire 2
+- slay the spire 2
+- Slither.io
+- Slither.io
+- Spelunky 2
+- Starve.io
+- Starve.io
+- Stray
+- Subway Surfers
+- Sunless Sea
+- sunless sea
+- Survivor.io
+- Survivor.io
+- Taming.io
+- Taming.io
+- Tap Titans 3
+- 泰拉瑞亚（Terraria）
+- Terraria
+- terraria
+- Tetr.io
+- Tetr.io
+- The Binding of Isaac: Rebirth
+- the binding of isaac rebirth
+- 花园之间（The Gardens Between）
+- The Room: Old Sins
+- 开拓者（Trailblazers）
+- 黎明前的20分钟 (20 Minutes Till Dawn)
+- valheim
+- Valheim
+- Venge.io
+- Venge.io
+- Wings.io
+- Wings.io
+- Wordle (NYT Games)
 
 ## God Nodes (most connected - your core abstractions)
-1. `Pipeline Run Log` - 12 edges
+1. `Pipeline Run Log` - 13 edges
 2. `台球模拟游戏，支持在线对战（8 Ball Pool）` - 11 edges
 3. `放置类商业帝国经营游戏（AdVenture Capitalist）` - 11 edges
 4. `风景优美的无尽滑板跑酷游戏（Alto's Odyssey）` - 11 edges
@@ -279,7 +427,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (247 total, 0 thin omitted)
+## Communities (395 total, 0 thin omitted)
 
 ### Community 0 - "Gameplay Discovery Pipeline - Task Queue"
 Cohesion: 0.22
@@ -722,8 +870,8 @@ Cohesion: 0.20
 Nodes (9): Meta 系统, Xenowerk, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
 
 ### Community 110 - "Pipeline Run Log"
-Cohesion: 0.15
-Nodes (12): 2026-08-10, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11 (+4 more)
+Cohesion: 0.14
+Nodes (13): 2026-08-10, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11 (+5 more)
 
 ### Community 111 - "process_games_v2.py"
 Cohesion: 0.14
@@ -1261,15 +1409,609 @@ Nodes (9): Meta 系统, Wordle（Wordle）, 为什么好玩, 实现难度, 来�
 Cohesion: 0.22
 Nodes (8): Meta 系统, 为什么好玩, 实现难度, 时空幻境（Braid）, 核心循环, 核心机制, 玩法规则, 粘性来源
 
+### Community 247 - "狂野飙车：越野极限（Asphalt Xtreme）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 狂野飙车：越野极限（Asphalt Xtreme）, 玩法规则 (+2 more)
+
+### Community 248 - "潜水员戴夫（Dave the Diver）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 海洋生态与季节变化, 潜水员戴夫（Dave the Diver） (+2 more)
+
+### Community 249 - "水果忍者免费版（Fruit Ninja Free）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 水果忍者免费版（Fruit Ninja Free）, 游戏模式与社交功能 (+2 more)
+
+### Community 250 - "黑手党：海市蜃楼之城（Gangstar Mirage City）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 城市探索与互动, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 251 - "侠盗猎车手：三部曲（Grand Theft Auto: The Trilogy）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 侠盗猎车手：三部曲（Grand Theft Auto: The Trilogy）, 实现难度, 来源, 核心循环, 核心机制, 游戏特色与历史意义 (+2 more)
+
+### Community 252 - "勇闯死人谷 2：解放（Into the Dead 2: Unleashed）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 勇闯死人谷 2：解放（Into the Dead 2: Unleashed）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 253 - "JOJO的奇妙冒险：黄金之魂（JoJo's Bizarre Adventure: Golden Spirit）"
+Cohesion: 0.18
+Nodes (10): JOJO的奇妙冒险：黄金之魂（JoJo's Bizarre Adventure: Golden Spirit）, Meta 系统, 为什么好玩, 实现难度, 替身能力系统详解, 来源, 核心循环, 核心机制 (+2 more)
+
+### Community 254 - "纸钞屋：终极计划（Money Heist: Ultimate）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+2 more)
+
+### Community 255 - "扑克骑士 2（Postknight 2）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 扑克骑士 2（Postknight 2）, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 256 - "拉吉：远古传奇（Raji: An Ancient Epic）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 拉吉：远古传奇（Raji: An Ancient Epic）, 文化与艺术价值, 来源, 核心循环, 核心机制 (+2 more)
+
+### Community 257 - "王权：超越（Reigns: Beyond）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 太空主题创新, 实现难度, 来源, 核心循环, 核心机制, 王权：超越（Reigns: Beyond） (+2 more)
+
+### Community 258 - "怪奇物语：1984（Stranger Things: 1984）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 怪奇物语：1984（Stranger Things: 1984）, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 259 - "超级马里奥酷跑（Super Mario Run）"
+Cohesion: 0.18
+Nodes (10): Kingdom Builder 系统, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 260 - "多托邦之战（The Battle of Polytopia）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 多托邦之战（The Battle of Polytopia）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 261 - "忍者神龟：施莱德的复仇（TMNT: Shredder's Revenge）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 忍者神龟：施莱德的复仇（TMNT: Shredder's Revenge）, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 262 - "欲罢不能：恋爱游戏（Too Hot to Handle: Love Is a Game）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 欲罢不能：恋爱游戏（Too Hot to Handle: Love Is a Game）, 玩法规则 (+2 more)
+
+### Community 263 - "维京传奇：英灵神殿（Vikings: Valhalla）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+2 more)
+
+### Community 264 - "战锤40K：爆弹枪轰鸣（Warhammer 40,000: Boltgun Boom）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 战锤40K：爆弹枪轰鸣（Warhammer 40,000: Boltgun Boom）, 来源, 核心循环, 核心机制, 武器与战斗深度 (+2 more)
+
+### Community 265 - "迷你高尔夫乐园（Wonderputt Forever）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+2 more)
+
+### Community 266 - "拼字之友 2（Words With Friends 2）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 单人模式与挑战, 实现难度, 拼字之友 2（Words With Friends 2）, 来源, 核心循环, 核心机制 (+2 more)
+
+### Community 267 - "Adventure Clicker: Kingdoms"
+Cohesion: 0.20
+Nodes (9): Adventure Clicker: Kingdoms, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 268 - "AFK Arena"
+Cohesion: 0.20
+Nodes (9): AFK Arena, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 269 - "Agar.io"
+Cohesion: 0.20
+Nodes (9): Agar.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 270 - "Agar.io"
+Cohesion: 0.20
+Nodes (9): Agar.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 271 - "Alto's Odyssey: The Lost City"
+Cohesion: 0.20
+Nodes (9): Alto's Odyssey: The Lost City, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 272 - "AstLibra Revision"
+Cohesion: 0.20
+Nodes (9): AstLibra Revision, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 273 - "astlibra revision"
+Cohesion: 0.20
+Nodes (9): astlibra revision, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 274 - "Baba is You（Baba is You）"
+Cohesion: 0.20
+Nodes (9): Baba is You（Baba is You）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 275 - "Balatro"
+Cohesion: 0.20
+Nodes (9): Balatro, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 276 - "Bit City 2"
+Cohesion: 0.20
+Nodes (9): Bit City 2, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 277 - "Bloxd.io"
+Cohesion: 0.20
+Nodes (9): Bloxd.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 278 - "Bloxd.io"
+Cohesion: 0.20
+Nodes (9): Bloxd.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 279 - "blue prince"
+Cohesion: 0.20
+Nodes (9): blue prince, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 280 - "Blue Prince"
+Cohesion: 0.20
+Nodes (9): Blue Prince, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 281 - "土豆兄弟 (Brotato)"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 土豆兄弟 (Brotato), 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 282 - "恶霸鲁尼（Bully）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 恶霸鲁尼（Bully）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 283 - "糖果与诅咒（Candies n' Curses）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 284 - "Cardgames.io"
+Cohesion: 0.20
+Nodes (9): Cardgames.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 285 - "Cardgames.io"
+Cohesion: 0.20
+Nodes (9): Cardgames.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 286 - "Cassette Beasts"
+Cohesion: 0.20
+Nodes (9): Cassette Beasts, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 287 - "cassette beasts"
+Cohesion: 0.20
+Nodes (9): cassette beasts, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 288 - "猫尾（Cattails）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 猫尾（Cattails）, 玩法规则 (+1 more)
+
+### Community 289 - "Circuit Superstars"
+Cohesion: 0.20
+Nodes (9): Circuit Superstars, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 290 - "circuit superstars"
+Cohesion: 0.20
+Nodes (9): circuit superstars, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 291 - "Clash Royale"
+Cohesion: 0.20
+Nodes (9): Clash Royale, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 292 - "Clicker Heroes 2"
+Cohesion: 0.20
+Nodes (9): Clicker Heroes 2, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 293 - "泣血太阳 (Crying Suns)"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 泣血太阳 (Crying Suns), 玩法规则 (+1 more)
+
+### Community 294 - "死亡细胞 (Dead Cells)"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 死亡细胞 (Dead Cells), 玩法规则 (+1 more)
+
+### Community 295 - "Deadshot.io"
+Cohesion: 0.20
+Nodes (9): Deadshot.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 296 - "Deadshot.io"
+Cohesion: 0.20
+Nodes (9): Deadshot.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 297 - "通往加拿大的死亡之路（Death Road to Canada）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 298 - "Diep.io"
+Cohesion: 0.20
+Nodes (9): Diep.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 299 - "Diep.io"
+Cohesion: 0.20
+Nodes (9): Diep.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 300 - "Disco Elysium: The Final Cut"
+Cohesion: 0.20
+Nodes (9): Disco Elysium: The Final Cut, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 301 - "毁灭战士（1993）（DOOM）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 毁灭战士（1993）（DOOM）, 玩法规则 (+1 more)
+
+### Community 302 - "井底探险 (Downwell)"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 井底探险 (Downwell), 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 303 - "Ducklings.io"
+Cohesion: 0.20
+Nodes (9): Ducklings.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 304 - "Ducklings.io"
+Cohesion: 0.20
+Nodes (9): Ducklings.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 305 - "Egg, Inc. 2"
+Cohesion: 0.20
+Nodes (9): Egg, Inc. 2, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 306 - "EvoWars.io"
+Cohesion: 0.20
+Nodes (9): EvoWars.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 307 - "EvoWars.io"
+Cohesion: 0.20
+Nodes (9): EvoWars.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 308 - "Factorio"
+Cohesion: 0.20
+Nodes (9): Factorio, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 309 - "Final Fantasy VII Ever Crisis"
+Cohesion: 0.20
+Nodes (9): Final Fantasy VII Ever Crisis, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 310 - "Flappyroyale.io"
+Cohesion: 0.20
+Nodes (9): Flappyroyale.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 311 - "Flappyroyale.io"
+Cohesion: 0.20
+Nodes (9): Flappyroyale.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 312 - "FrontWars.io"
+Cohesion: 0.20
+Nodes (9): FrontWars.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 313 - "FrontWars.io"
+Cohesion: 0.20
+Nodes (9): FrontWars.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 314 - "Gats.io"
+Cohesion: 0.20
+Nodes (9): Gats.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 315 - "Gats.io"
+Cohesion: 0.20
+Nodes (9): Gats.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 316 - "Genshin Impact"
+Cohesion: 0.20
+Nodes (9): Genshin Impact, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 317 - "Gorogoa（Gorogoa）"
+Cohesion: 0.20
+Nodes (9): Gorogoa（Gorogoa）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 318 - "Gulper.io"
+Cohesion: 0.20
+Nodes (9): Gulper.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 319 - "Gulper.io"
+Cohesion: 0.20
+Nodes (9): Gulper.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 320 - "Hades"
+Cohesion: 0.20
+Nodes (9): Hades, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 321 - "Honkai: Star Rail"
+Cohesion: 0.20
+Nodes (9): Honkai: Star Rail, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 322 - "Idle Factory Tycoon"
+Cohesion: 0.20
+Nodes (9): Idle Factory Tycoon, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 323 - "Idle Heroes"
+Cohesion: 0.20
+Nodes (9): Idle Heroes, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 324 - "Idle Miner Tycoon"
+Cohesion: 0.20
+Nodes (9): Idle Miner Tycoon, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 325 - "Idle Wizard: Magic Realm"
+Cohesion: 0.20
+Nodes (9): Idle Wizard: Magic Realm, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 326 - "不朽流氓 (Immortal Rogue)"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 不朽流氓 (Immortal Rogue), 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 327 - "Kirka.io"
+Cohesion: 0.20
+Nodes (9): Kirka.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 328 - "Kirka.io"
+Cohesion: 0.20
+Nodes (9): Kirka.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 329 - "Krunker.io"
+Cohesion: 0.20
+Nodes (9): Krunker.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 330 - "Krunker.io"
+Cohesion: 0.20
+Nodes (9): Krunker.io, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 331 - "雷顿神秘之旅（Layton's Mystery Journey）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 332 - "地狱边境（Limbo）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 地狱边境（Limbo）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 333 - "运气当房东 (Luck Be a Landlord)"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 334 - "马克思·佩恩（Max Payne）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 335 - "梅尔沃放置 (Melvor Idle)"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 梅尔沃放置 (Melvor Idle), 玩法规则 (+1 more)
+
+### Community 336 - "Mewgenics"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Mewgenics, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 337 - "mewgenics"
+Cohesion: 0.20
+Nodes (9): Meta 系统, mewgenics, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 338 - "MineFun.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, MineFun.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 339 - "MineFun.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, MineFun.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 340 - "Mobile Legends: Bang Bang"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Mobile Legends: Bang Bang, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 341 - "Monument Valley 3"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Monument Valley 3, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 342 - "纪念碑谷3（Monument Valley 3）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 343 - "Mope.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Mope.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 344 - "Mope.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Mope.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 345 - "尼德霍格2（Nidhogg 2）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 尼德霍格2（Nidhogg 2）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 346 - "OpenFront.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, OpenFront.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 347 - "OpenFront.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, OpenFront.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 348 - "Pako Forever（Pako Forever）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Pako Forever（Pako Forever）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 349 - "Palworld"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Palworld, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 350 - "palworld"
+Cohesion: 0.20
+Nodes (9): Meta 系统, palworld, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 351 - "Paper.io 2"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Paper.io 2, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 352 - "Paper.io 2"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Paper.io 2, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 353 - "宝可梦睡眠 (Pokémon Sleep)"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 宝可梦睡眠 (Pokémon Sleep), 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 354 - "Project Zomboid"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Project Zomboid, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 355 - "PUBG Mobile"
+Cohesion: 0.20
+Nodes (9): Meta 系统, PUBG Mobile, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 356 - "Realm Grinder"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Realm Grinder, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 357 - "Royal Match"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Royal Match, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 358 - "破碎像素地牢 (Shattered Pixel Dungeon)"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 破碎像素地牢 (Shattered Pixel Dungeon) (+1 more)
+
+### Community 359 - "Skribbl.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Skribbl.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 360 - "Skribbl.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Skribbl.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 361 - "Slay the Spire 2"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Slay the Spire 2, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 362 - "slay the spire 2"
+Cohesion: 0.20
+Nodes (9): Meta 系统, slay the spire 2, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 363 - "Slither.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Slither.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 364 - "Slither.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Slither.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 365 - "Spelunky 2"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Spelunky 2, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 366 - "Starve.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Starve.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 367 - "Starve.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Starve.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 368 - "Stray"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Stray, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 369 - "Subway Surfers"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Subway Surfers, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 370 - "Sunless Sea"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Sunless Sea, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 371 - "sunless sea"
+Cohesion: 0.20
+Nodes (9): Meta 系统, sunless sea, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 372 - "Survivor.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Survivor.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 373 - "Survivor.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Survivor.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 374 - "Taming.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Taming.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 375 - "Taming.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Taming.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 376 - "Tap Titans 3"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Tap Titans 3, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 377 - "泰拉瑞亚（Terraria）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 泰拉瑞亚（Terraria）, 玩法规则 (+1 more)
+
+### Community 378 - "Terraria"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Terraria, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 379 - "terraria"
+Cohesion: 0.20
+Nodes (9): Meta 系统, terraria, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 380 - "Tetr.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Tetr.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 381 - "Tetr.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Tetr.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 382 - "The Binding of Isaac: Rebirth"
+Cohesion: 0.20
+Nodes (9): Meta 系统, The Binding of Isaac: Rebirth, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 383 - "the binding of isaac rebirth"
+Cohesion: 0.20
+Nodes (9): Meta 系统, the binding of isaac rebirth, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 384 - "花园之间（The Gardens Between）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 385 - "The Room: Old Sins"
+Cohesion: 0.20
+Nodes (9): Meta 系统, The Room: Old Sins, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 386 - "开拓者（Trailblazers）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 开拓者（Trailblazers）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 387 - "黎明前的20分钟 (20 Minutes Till Dawn)"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 388 - "valheim"
+Cohesion: 0.20
+Nodes (9): Meta 系统, valheim, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 389 - "Valheim"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Valheim, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 390 - "Venge.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Venge.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 391 - "Venge.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Venge.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 392 - "Wings.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Wings.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 393 - "Wings.io"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Wings.io, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 394 - "Wordle (NYT Games)"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Wordle (NYT Games), 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
 ## Knowledge Gaps
-- **2077 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+2072 more)
+- **3282 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+3277 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `玩法规则`, `核心循环`, `核心机制` to the rest of the system?**
-  _2077 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _3282 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Should `Pipeline Run Log` be split into smaller, more focused modules?**
+  _Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected._
 - **Should `process_games_v2.py` be split into smaller, more focused modules?**
   _Cohesion score 0.1368421052631579 - nodes in this community are weakly interconnected._
 - **Should `Bloxd.io` be split into smaller, more focused modules?**
