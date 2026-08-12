@@ -147,3 +147,19 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-12 09:00] [R020] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (10个)
 [2026-08-12 09:00] [R020] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=10, Processing=0, Archived=69
 [2026-08-12 07:28] [R019] [Phase 7: Git Push] ✅ 完成
+[2026-08-12 10:57] [R021] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3, Processing=0, Archived=69
+[2026-08-12 10:57] [R021] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S085-S087)，MCP wigolo_search不可用
+[2026-08-12 10:57] [R021] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S085-S087)，产出75款游戏名到待处理队列，选10款生成文档
+[2026-08-12 10:57] [R021] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(G272-G281)，产出10份文档(全部≥50行)，0个失败
+[2026-08-12 10:57] [R021] [Phase 5: Graphify] ✅ 完成 — 4134 nodes, 3759 edges, 395 communities
+[2026-08-12 10:57] [R021] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
+[2026-08-12 10:57] [R021] [Phase 7: Git Push] ✅ 完成 — commit 成功 (275 files, +99586/-28858 lines), push 成功
+
+## 2026-08-12
+
+[2026-08-12 12:42] [R022] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=87
+[2026-08-12 12:42] [R022] [Phase 2: Discover] ✅ 完成 — 搜索3组关键词(DuckDuckGo)，发现10个新来源(S088-S097)
+[2026-08-12 12:48] [R022] [Phase 3: Process Sources] ✅ 完成 — 处理5个来源(S088-S091,S094)，产出10款游戏文档，5个来源产出0款
+[2026-08-12 12:48] [R022] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空（游戏文档已由Phase 3直接生成）
+[2026-08-12 12:48] [R022] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
+[2026-08-12 12:48] [R022] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新

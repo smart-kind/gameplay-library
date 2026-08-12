@@ -15,6 +15,26 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S088 | search_result | GamingonPhone Staff Picks - Best Mobile Games of 2025 | https://gamingonphone.com/news/gamingonphone-staff-picks-our-favorite-mobile-games-of-2025/ | 2026-08-12 12:42 |
+| S089 | search_result | Top 10 Best Mobile Games to Play December 2025 | https://gamingonphone.com/news/top-10-best-mobile-games-to-play-in-december-2025/ | 2026-08-12 12:42 |
+| S090 | search_result | Top 15 Mobile Games September 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-september-2025/ | 2026-08-12 12:42 |
+| S091 | search_result | Top 15 Mobile Games November 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-november-2025/ | 2026-08-12 12:42 |
+| S092 | search_result | Top 15 Mobile Games July 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-july-2025/ | 2026-08-12 12:42 |
+| S093 | search_result | Top 15 Mobile Games June 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-june-2025/ | 2026-08-12 12:42 |
+| S094 | search_result | Top Puzzle Games Mobile - Udonis Blog | https://www.blog.udonis.co/mobile-marketing/mobile-games/top-puzzle-games | 2026-08-12 12:42 |
+| S095 | search_result | Best Android Puzzle Games - AndroidGuias | https://en.androidguias.com/best-android-puzzle-games/ | 2026-08-12 12:42 |
+| S096 | search_result | Best Puzzle Mobile Games - Mobile Matters | https://mobilematters.gg/guides/gaming/best-puzzle-mobile-games | 2026-08-12 12:42 |
+| S097 | search_result | Best Puzzle Games for Android - LucidPuzzle | https://www.lucidpuzzle.com/best-puzzle-games-for-android/ | 2026-08-12 12:42 |
+| S088 | search_result | GamingonPhone Staff Picks - Best Mobile Games of 2025 | https://gamingonphone.com/news/gamingonphone-staff-picks-our-favorite-mobile-games-of-2025/ | 2026-08-12 12:42 |
+| S089 | search_result | Top 10 Best Mobile Games to Play December 2025 | https://gamingonphone.com/news/top-10-best-mobile-games-to-play-in-december-2025/ | 2026-08-12 12:42 |
+| S090 | search_result | Top 15 Mobile Games September 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-september-2025/ | 2026-08-12 12:42 |
+| S091 | search_result | Top 15 Mobile Games November 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-november-2025/ | 2026-08-12 12:42 |
+| S092 | search_result | Top 15 Mobile Games July 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-july-2025/ | 2026-08-12 12:42 |
+| S093 | search_result | Top 15 Mobile Games June 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-june-2025/ | 2026-08-12 12:42 |
+| S094 | search_result | Top Puzzle Games Mobile - Udonis Blog | https://www.blog.udonis.co/mobile-marketing/mobile-games/top-puzzle-games | 2026-08-12 12:42 |
+| S095 | search_result | Best Android Puzzle Games - AndroidGuias | https://en.androidguias.com/best-android-puzzle-games/ | 2026-08-12 12:42 |
+| S096 | search_result | Best Puzzle Mobile Games - Mobile Matters | https://mobilematters.gg/guides/gaming/best-puzzle-mobile-games | 2026-08-12 12:42 |
+| S097 | search_result | Best Puzzle Games for Android - LucidPuzzle | https://www.lucidpuzzle.com/best-puzzle-games-for-android/ | 2026-08-12 12:42 |
 
 
 
@@ -22,6 +42,11 @@
 ## Sources Processing（处理中）
 
 ## Sources Archived（已处理）
+|| S088 | GamingonPhone Staff Picks 2025 | https://gamingonphone.com/news/gamingonphone-staff-picks-our-favorite-mobile-games-of-2025/ | 0 | 2026-08-12 12:48 |
+|| S089 | Top 10 Mobile Games December 2025 | https://gamingonphone.com/news/top-10-best-mobile-games-to-play-in-december-2025/ | 10 | 2026-08-12 12:48 |
+|| S090 | Top 15 Mobile Games September 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-september-2025/ | 0 | 2026-08-12 12:48 |
+|| S091 | Top 15 Mobile Games November 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-november-2025/ | 0 | 2026-08-12 12:48 |
+|| S094 | Top Puzzle Games Mobile - Udonis | https://www.blog.udonis.co/mobile-marketing/mobile-games/top-puzzle-games | 7 | 2026-08-12 12:48 |
 
 || ID | 标题 | URL | 产出游戏数 | 完成时间 |
 ||     | S065 | Netflix Games List | https://gamingonphone.com/netflix-games-list-of-all-available-and-upcoming-games/ | 10 | 2026-08-12 05:27 |
@@ -179,6 +204,16 @@
 | G227 | Interactive Buddy | docs/InteractiveBuddy_20260811_2226.md | 2026-08-11 22:26 |
 | G228 | Dino Run | docs/DinoRun_20260811_2226.md | 2026-08-11 22:26 |
 |---|---|---|---|
+| G291 | Gossip Harbor | docs/GossipHarbor_20260812_1248.md | 2026-08-12 12:48 |
+| G290 | Mekorama | docs/Mekorama_20260812_1248.md | 2026-08-12 12:48 |
+| G289 | Lara Croft GO | docs/LaraCroftGO_20260812_1248.md | 2026-08-12 12:48 |
+| G288 | Brain It On! | docs/BrainItOn_20260812_1248.md | 2026-08-12 12:48 |
+| G287 | Besiege | docs/Besiege_20260812_1248.md | 2026-08-12 12:48 |
+| G286 | Timelie | docs/Timelie_20260812_1248.md | 2026-08-12 12:48 |
+| G285 | Deep Rock Galactic: Survivor | docs/DRGSurvivor_20260812_1248.md | 2026-08-12 12:48 |
+| G284 | BLEACH: Soul Resonance | docs/BLEACHSoulRes_20260812_1248.md | 2026-08-12 12:48 |
+| G283 | Sonic Rumble | docs/SonicRumble_20260812_1248.md | 2026-08-12 12:48 |
+| G282 | Resident Evil Survival Unit | docs/RESurvivalUnit_20260812_1248.md | 2026-08-12 12:48 |
 | G193 | City Guesser | docs/City_Guesser_20260811_2053.md | 2026-08-12 00:00 |
 | G192 | Color Flow | docs/Color_Flow_20260811_2053.md | 2026-08-12 00:00 |
 | G191 | Crystal Knights | docs/Crystal_Knights_20260811_2052.md | 2026-08-12 00:00 |
@@ -343,6 +378,7 @@
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
 || 2026-08-12 05:27 | (R018: 跳过搜索-MCP不可用，处理3个来源S065-S068，产出20款游戏文档) | 0 | 3 (S065-S068) | 20 | 20 (G252-G271) | 0 |
 |---|---|---|---|---|---|---|
+| 2026-08-12 12:48 | (R022: 3组搜索DuckDuckGo, 发现10来源S088-S097, 处理5来源, 产出10款游戏G282-G291) | 10 | 5 (S088-S091,S094) | 17 | 10 (G282-G291) | 0 |
 | 2026-08-12 10:57 | (R021: 跳过搜索-MCP不可用，处理3个来源S085-S087，产出10款游戏文档) | 0 | 3 (S085-S087) | 75 | 10 (G272-G281) | 0 |
 | 2026-08-12 00:00 | (R013: iTunes API+Wikipedia, MCP wigolo不可用) | 0 | 1 (S053) | 0 | 10 (G184-G193) | 0 |
 | 2026-08-11 22:26 | (R014: Phase2跳过, 处理G122-G156共35款) | 0 | 0 | 35 | 35 (G122-G156) | 0 |
