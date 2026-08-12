@@ -127,3 +127,15 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-12 06:00] [R016] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
 [2026-08-12 06:00] [R016] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
 [2026-08-12 06:00] [R016] [Phase 7: Git Push] ✅ 完成 — commit 成功
+
+[2026-08-12 05:27] [R018] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3, Processing=0, Archived=59+
+[2026-08-12 05:27] [R018] [Phase 2: Discover] ⏭️ 跳过 — MCP wigolo_search 不可用，Pending Sources=3 < 5但无法搜索
+[2026-08-12 05:27] [R018] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S065-S068)，产出20款游戏文档(G252-G271)，0个失败
+[2026-08-12 05:27] [R018] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空（游戏文档已由Phase 3直接生成）
+[2026-08-12 05:27] [R018] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
+[2026-08-12 05:27] [R018] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
+
+## 2026-08-12
+
+[2026-08-12 09:00] [R017] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=59
+[2026-08-12 09:00] [R017] [Phase 2: Discover] ✅ 完成 — 搜索3组关键词，发现新来源（进行中）

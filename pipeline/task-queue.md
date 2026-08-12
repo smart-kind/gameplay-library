@@ -12,14 +12,21 @@
 ## Sources Archived（已处理）
 
 || ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|     | S065 | Netflix Games List | https://gamingonphone.com/netflix-games-list-of-all-available-and-upcoming-games/ | 10 | 2026-08-12 05:27 |
+|     | S067 | Mobile Games Releasing August 2026 | https://gamingonphone.com/news/all-mobile-games-android-and-ios-releasing-in-august-2026/ | 5 | 2026-08-12 05:27 |
+|     | S068 | Android Central Best Casual Games | https://www.androidcentral.com/best-casual-games-android | 5 | 2026-08-12 05:27 |
 |---|---|---|---|---|
 ||| S054 | Top Hyper-Casual Games Lessons for Developers | https://www.blog.udonis.co/mobile-marketing/mobile-games/top-hyper-casual-games | 5 | 2026-08-12 03:00 |
-||| S055 | Best Hyper-Casual Game Mechanics Guide | https://game-ace.com/blog/hyper-casual-game-mechanics/ | 5 | 2026-08-12 06:00 |
-||| S056 | Top 10 Hyper-Casual Game Mechanics 2025 | https://ejaw.net/top-10-hyper-casual-mechanics/ | 0 | 2026-08-12 06:00 |
-||| S057 | Best Hyper-Casual Games 2026 - Tummy Games | https://tummygames.com/blog/best-hyper-casual-games-2026 | 5 | 2026-08-12 06:00 |
-||| S060 | Best Indie Puzzle Video Games - TheGamer | https://www.thegamer.com/best-indie-puzzle-video-games/ | 3 | 2026-08-12 06:00 |
-||| S061 | Indie Puzzle Games - The Cozy Gaming Nook | https://thecozygamingnook.com/indie-puzzle-games/ | 5 | 2026-08-12 06:00 |
-||| S059 | Best Indie Puzzle Games 21 Titles | https://indiegameculture.com/best-indie-puzzle-games-2/ | 5 | 2026-08-12 03:00 |
+|||| S055 | Best Hyper-Casual Game Mechanics Guide | https://game-ace.com/blog/hyper-casual-game-mechanics/ | 5 | 2026-08-12 06:00 |
+|||| S056 | Top 10 Hyper-Casual Game Mechanics 2025 | https://ejaw.net/top-10-hyper-casual-mechanics/ | 0 | 2026-08-12 06:00 |
+|||| S057 | Best Hyper-Casual Games 2026 - Tummy Games | https://tummygames.com/blog/best-hyper-casual-games-2026 | 5 | 2026-08-12 06:00 |
+|||| S060 | Best Indie Puzzle Video Games - TheGamer | https://www.thegamer.com/best-indie-puzzle-video-games/ | 3 | 2026-08-12 06:00 |
+|||| S061 | Indie Puzzle Games - The Cozy Gaming Nook | https://thecozygamingnook.com/indie-puzzle-games/ | 5 | 2026-08-12 06:00 |
+|||| S062 | Pocket Gamer Game Finder Page 7 | https://www.pocketgamer.com/game-finder/page/7/0_all_0_1_1/ | 0 | 2026-08-12 09:00 |
+|||| S063 | Pocket Gamer Game Finder Page 8 | https://www.pocketgamer.com/game-finder/page/8/0_all_0_1_1/ | 0 | 2026-08-12 09:00 |
+|||| S064 | Top 15 Mobile Games July 2026 | https://gamingonphone.com/news/top-15-mobile-games-for-july-2026/ | 0 | 2026-08-12 09:00 |
+|||| S066 | Console PC Games Ported to Mobile | https://gamingonphone.com/list-of-console-pc-games-ported-to-mobile/ | 6 | 2026-08-12 09:00 |
+|||| S059 | Best Indie Puzzle Games 21 Titles | https://indiegameculture.com/best-indie-puzzle-games-2/ | 5 | 2026-08-12 03:00 |
 || S037 | CrazyGames Minigames | https://www.crazygames.com/t/mini | 21 | 2026-08-11 21:00 |
 || S053 | Pocket Gamer Game Finder Page 6 | https://www.pocketgamer.com/game-finder/page/6/0_all_0_1_1/ | 10 | 2026-08-12 00:00 |
 | S026 | Pocket Gamer Game Finder Page 1 | https://www.pocketgamer.com/game-finder/page/1/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
@@ -86,6 +93,26 @@
 
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
+|| G271 | Words With Friends 2 | docs/WordsWithFriends2_20260812_0527.md | 2026-08-12 05:27 |
+|| G270 | Super Mario Run | docs/SuperMarioRun_20260812_0527.md | 2026-08-12 05:27 |
+|| G269 | Postknight 2 | docs/Postknight2_20260812_0527.md | 2026-08-12 05:27 |
+|| G268 | Fruit Ninja Free | docs/FruitNinjaFree_20260812_0527.md | 2026-08-12 05:27 |
+|| G267 | The Battle of Polytopia | docs/TheBattleOfPolytopia_20260812_0527.md | 2026-08-12 05:27 |
+|| G266 | Dave The Diver | docs/DaveTheDiver_20260812_0527.md | 2026-08-12 05:27 |
+|| G265 | Warhammer 40,000: Boltgun Boom | docs/Warhammer40KBoltgunBoom_20260812_0527.md | 2026-08-12 05:27 |
+|| G264 | Gangstar Mirage City | docs/GangstarMirageCity_20260812_0527.md | 2026-08-12 05:27 |
+|| G263 | JoJo's Bizarre Adventure: Golden Spirit | docs/JoJosBizarreAdventureGoldenSpirit_20260812_0527.md | 2026-08-12 05:27 |
+|| G262 | Reigns: Beyond | docs/ReignsBeyond_20260812_0527.md | 2026-08-12 05:27 |
+|| G261 | Into the Dead 2: Unleashed | docs/IntotheDead2Unleashed_20260812_0527.md | 2026-08-12 05:27 |
+|| G260 | Raji: An Ancient Epic | docs/RajiAnAncientEpic_20260812_0527.md | 2026-08-12 05:27 |
+|| G259 | Too Hot to Handle: Love Is a Game | docs/TooHottoHandleLoveIsAGame_20260812_0527.md | 2026-08-12 05:27 |
+|| G258 | Asphalt Xtreme | docs/AsphaltXtreme_20260812_0527.md | 2026-08-12 05:27 |
+|| G257 | Money Heist: Ultimate | docs/MoneyHeistUltimate_20260812_0527.md | 2026-08-12 05:27 |
+|| G256 | TMNT: Shredder's Revenge | docs/TMNTShreddersRevenge_20260812_0527.md | 2026-08-12 05:27 |
+|| G255 | Vikings: Valhalla | docs/VikingsValhalla_20260812_0527.md | 2026-08-12 05:27 |
+|| G254 | Wonderputt Forever | docs/WonderputtForever_20260812_0527.md | 2026-08-12 05:27 |
+|| G253 | Stranger Things: 1984 | docs/StrangerThings1984_20260812_0527.md | 2026-08-12 05:27 |
+|| G252 | Grand Theft Auto: The Trilogy | docs/GrandTheftAutoTrilogy_20260812_0527.md | 2026-08-12 05:27 |
 | G229 | Attack Hole | docs/AttackHole_20260812_0300.md | 2026-08-12 03:00 |
 | G230 | Going Balls | docs/GoingBalls_20260812_0300.md | 2026-08-12 03:00 |
 | G231 | Race Master 3D | docs/RaceMaster3D_20260812_0300.md | 2026-08-12 03:00 |
@@ -294,6 +321,7 @@
 ## Execution Log
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
+|| 2026-08-12 05:27 | (R018: 跳过搜索-MCP不可用，处理3个来源S065-S068，产出20款游戏文档) | 0 | 3 (S065-S068) | 20 | 20 (G252-G271) | 0 |
 |---|---|---|---|---|---|---|
 | 2026-08-12 00:00 | (R013: iTunes API+Wikipedia, MCP wigolo不可用) | 0 | 1 (S053) | 0 | 10 (G184-G193) | 0 |
 | 2026-08-11 22:26 | (R014: Phase2跳过, 处理G122-G156共35款) | 0 | 0 | 35 | 35 (G122-G156) | 0 |
