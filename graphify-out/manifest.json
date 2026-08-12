@@ -65,8 +65,8 @@
     "semantic_hash": ""
   },
   "pipeline/task-queue.md": {
-    "mtime": 1786533023.3275876,
-    "ast_hash": "ab577a241e5431d3af5aba603dd5b9ca",
+    "mtime": 1786539128.8435361,
+    "ast_hash": "9d4ddf7e6d9dff7af21a0ed9663e1db5",
     "semantic_hash": ""
   },
   "docs/WordConnect_20260810_2047.md": {
@@ -550,8 +550,8 @@
     "semantic_hash": ""
   },
   "pipeline/run.log.md": {
-    "mtime": 1786525563.4042795,
-    "ast_hash": "d1d7b4ec223c34bfaf8b15d57401f771",
+    "mtime": 1786545484.5925887,
+    "ast_hash": "510297f9f35147ee26e4eb6ade98f71e",
     "semantic_hash": ""
   },
   "pipeline/tmp/extract_s053.py": {
@@ -2257,6 +2257,106 @@
   "pipeline/tmp/s068_androidcentral.html": {
     "mtime": 1786512730.6963353,
     "ast_hash": "605fd266251ad6989563c2dd0c558009",
+    "semantic_hash": ""
+  },
+  "docs/BLEACHSoulRes_20260812_1248.md": {
+    "mtime": 1786539074.9534864,
+    "ast_hash": "1c057cbe05d41587e4602db7067f0dcb",
+    "semantic_hash": ""
+  },
+  "docs/Badland_20260812_1423.md": {
+    "mtime": 1786545461.4845667,
+    "ast_hash": "192fcce981e0dbf71546e25a1685cce8",
+    "semantic_hash": ""
+  },
+  "docs/Besiege_20260812_1248.md": {
+    "mtime": 1786539074.9534864,
+    "ast_hash": "7e5b583e2d07421cee827012808bad46",
+    "semantic_hash": ""
+  },
+  "docs/BrainItOn_20260812_1248.md": {
+    "mtime": 1786539074.9574866,
+    "ast_hash": "93740eb9163120c7f52dcaa9d0f01200",
+    "semantic_hash": ""
+  },
+  "docs/CosmicExpress_20260812_1423.md": {
+    "mtime": 1786545461.4845667,
+    "ast_hash": "b0a1f85b1480c42cd96eeab4462bb7fe",
+    "semantic_hash": ""
+  },
+  "docs/DRGSurvivor_20260812_1248.md": {
+    "mtime": 1786539074.9534864,
+    "ast_hash": "9071a8e7ac16f1be2465e206e6111f8c",
+    "semantic_hash": ""
+  },
+  "docs/G30AMemoryMaze_20260812_1423.md": {
+    "mtime": 1786545461.4845667,
+    "ast_hash": "0497ea140358f8eb6760e835177c6cb8",
+    "semantic_hash": ""
+  },
+  "docs/GossipHarbor_20260812_1248.md": {
+    "mtime": 1786539074.9574866,
+    "ast_hash": "1ae0d6810368271e62d885cca69a5536",
+    "semantic_hash": ""
+  },
+  "docs/ILoveHue_20260812_1423.md": {
+    "mtime": 1786545461.4845667,
+    "ast_hash": "8027e0196d92273f6d58394df29f277a",
+    "semantic_hash": ""
+  },
+  "docs/Knotwords_20260812_1423.md": {
+    "mtime": 1786545461.4845667,
+    "ast_hash": "237a18bc474457fdd5a2e7995909c48c",
+    "semantic_hash": ""
+  },
+  "docs/LaraCroftGO_20260812_1248.md": {
+    "mtime": 1786539074.9574866,
+    "ast_hash": "ae0c43cfabbe9d5fa69874472962e6b6",
+    "semantic_hash": ""
+  },
+  "docs/Limbo_20260812_1423.md": {
+    "mtime": 1786545461.4845667,
+    "ast_hash": "f75860fe779db3065a1effa11fcd937b",
+    "semantic_hash": ""
+  },
+  "docs/Machinarium_20260812_1423.md": {
+    "mtime": 1786545461.4845667,
+    "ast_hash": "affbe70d690821cad0a380cef58f5765",
+    "semantic_hash": ""
+  },
+  "docs/Mekorama_20260812_1248.md": {
+    "mtime": 1786539074.9574866,
+    "ast_hash": "37c5d905bacfedaa383d02de09f5fb11",
+    "semantic_hash": ""
+  },
+  "docs/Prune_20260812_1423.md": {
+    "mtime": 1786545461.4845667,
+    "ast_hash": "2014f706b0ddd665df32124750f06db2",
+    "semantic_hash": ""
+  },
+  "docs/RESurvivalUnit_20260812_1248.md": {
+    "mtime": 1786539074.9534864,
+    "ast_hash": "8a3bd139291a246cd715dcda099c6a27",
+    "semantic_hash": ""
+  },
+  "docs/SonicRumble_20260812_1248.md": {
+    "mtime": 1786539074.9534864,
+    "ast_hash": "616f9ea140154def63a305163fd793f5",
+    "semantic_hash": ""
+  },
+  "docs/Threes_20260812_1423.md": {
+    "mtime": 1786545461.4845667,
+    "ast_hash": "f4f43ba445d9d46b1b019dee66b68bd5",
+    "semantic_hash": ""
+  },
+  "docs/Timelie_20260812_1248.md": {
+    "mtime": 1786539074.9534864,
+    "ast_hash": "94472c0d23221226a239108cae2ee48b",
+    "semantic_hash": ""
+  },
+  "docs/TotalPartyKill_20260812_1423.md": {
+    "mtime": 1786545461.4845667,
+    "ast_hash": "6cef6cbc2122c033ab71aa7690ed6532",
     "semantic_hash": ""
   }
 }

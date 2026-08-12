@@ -1,48 +1,17 @@
-
-| G272 | Cattails | docs/Cattails_20260812_1057.md | 2026-08-12 10:57 |
-| G273 | Nidhogg 2 | docs/Nidhogg2_20260812_1057.md | 2026-08-12 10:57 |
-| G274 | Trailblazers | docs/Trailblazers_20260812_1057.md | 2026-08-12 10:57 |
-| G275 | Baba is You | docs/BabaisYou_20260812_1057.md | 2026-08-12 10:57 |
-| G276 | Gorogoa | docs/Gorogoa_20260812_1057.md | 2026-08-12 10:57 |
-| G277 | Monument Valley 3 | docs/MonumentValley3_20260812_1057.md | 2026-08-12 10:57 |
-| G278 | Layton's Mystery Journey | docs/LaytonsMysteryJourney_20260812_1057.md | 2026-08-12 10:57 |
-| G279 | The Gardens Between | docs/TheGardensBetween_20260812_1057.md | 2026-08-12 10:57 |
-| G280 | Pako Forever | docs/PakoForever_20260812_1057.md | 2026-08-12 10:57 |
-| G281 | Candies n' Curses | docs/CandiesnCurses_20260812_1057.md | 2026-08-12 10:57 |
 # Gameplay Discovery Pipeline - Task Queue
 
 ## Sources Pending（待探索来源）
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S088 | search_result | GamingonPhone Staff Picks - Best Mobile Games of 2025 | https://gamingonphone.com/news/gamingonphone-staff-picks-our-favorite-mobile-games-of-2025/ | 2026-08-12 12:42 |
-| S089 | search_result | Top 10 Best Mobile Games to Play December 2025 | https://gamingonphone.com/news/top-10-best-mobile-games-to-play-in-december-2025/ | 2026-08-12 12:42 |
-| S090 | search_result | Top 15 Mobile Games September 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-september-2025/ | 2026-08-12 12:42 |
-| S091 | search_result | Top 15 Mobile Games November 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-november-2025/ | 2026-08-12 12:42 |
-| S092 | search_result | Top 15 Mobile Games July 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-july-2025/ | 2026-08-12 12:42 |
-| S093 | search_result | Top 15 Mobile Games June 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-june-2025/ | 2026-08-12 12:42 |
-| S094 | search_result | Top Puzzle Games Mobile - Udonis Blog | https://www.blog.udonis.co/mobile-marketing/mobile-games/top-puzzle-games | 2026-08-12 12:42 |
-| S095 | search_result | Best Android Puzzle Games - AndroidGuias | https://en.androidguias.com/best-android-puzzle-games/ | 2026-08-12 12:42 |
-| S096 | search_result | Best Puzzle Mobile Games - Mobile Matters | https://mobilematters.gg/guides/gaming/best-puzzle-mobile-games | 2026-08-12 12:42 |
-| S097 | search_result | Best Puzzle Games for Android - LucidPuzzle | https://www.lucidpuzzle.com/best-puzzle-games-for-android/ | 2026-08-12 12:42 |
-| S088 | search_result | GamingonPhone Staff Picks - Best Mobile Games of 2025 | https://gamingonphone.com/news/gamingonphone-staff-picks-our-favorite-mobile-games-of-2025/ | 2026-08-12 12:42 |
-| S089 | search_result | Top 10 Best Mobile Games to Play December 2025 | https://gamingonphone.com/news/top-10-best-mobile-games-to-play-in-december-2025/ | 2026-08-12 12:42 |
-| S090 | search_result | Top 15 Mobile Games September 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-september-2025/ | 2026-08-12 12:42 |
-| S091 | search_result | Top 15 Mobile Games November 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-november-2025/ | 2026-08-12 12:42 |
-| S092 | search_result | Top 15 Mobile Games July 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-july-2025/ | 2026-08-12 12:42 |
-| S093 | search_result | Top 15 Mobile Games June 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-june-2025/ | 2026-08-12 12:42 |
-| S094 | search_result | Top Puzzle Games Mobile - Udonis Blog | https://www.blog.udonis.co/mobile-marketing/mobile-games/top-puzzle-games | 2026-08-12 12:42 |
-| S095 | search_result | Best Android Puzzle Games - AndroidGuias | https://en.androidguias.com/best-android-puzzle-games/ | 2026-08-12 12:42 |
-| S096 | search_result | Best Puzzle Mobile Games - Mobile Matters | https://mobilematters.gg/guides/gaming/best-puzzle-mobile-games | 2026-08-12 12:42 |
-| S097 | search_result | Best Puzzle Games for Android - LucidPuzzle | https://www.lucidpuzzle.com/best-puzzle-games-for-android/ | 2026-08-12 12:42 |
-
-
-
-
-## Sources Processing（处理中）
 
 ## Sources Archived（已处理）
-|| S088 | GamingonPhone Staff Picks 2025 | https://gamingonphone.com/news/gamingonphone-staff-picks-our-favorite-mobile-games-of-2025/ | 0 | 2026-08-12 12:48 |
+||| S092 | Top 15 Mobile Games July 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-july-2025/ | 0 | 2026-08-12 14:23 |
+||| S093 | Top 15 Mobile Games June 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-june-2025/ | 0 | 2026-08-12 14:23 |
+||| S095 | Best Android Puzzle Games - AndroidGuias | https://en.androidguias.com/best-android-puzzle-games/ | 10 | 2026-08-12 14:23 |
+||| S096 | Best Puzzle Mobile Games - Mobile Matters | https://mobilematters.gg/guides/gaming/best-puzzle-mobile-games | 9 | 2026-08-12 14:23 |
+||| S097 | Best Puzzle Games for Android - LucidPuzzle | https://www.lucidpuzzle.com/best-puzzle-games-for-android/ | 28 | 2026-08-12 14:23 |
+||| S088 | GamingonPhone Staff Picks 2025 | https://gamingonphone.com/news/gamingonphone-staff-picks-our-favorite-mobile-games-of-2025/ | 0 | 2026-08-12 12:48 |
 || S089 | Top 10 Mobile Games December 2025 | https://gamingonphone.com/news/top-10-best-mobile-games-to-play-in-december-2025/ | 10 | 2026-08-12 12:48 |
 || S090 | Top 15 Mobile Games September 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-september-2025/ | 0 | 2026-08-12 12:48 |
 || S091 | Top 15 Mobile Games November 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-november-2025/ | 0 | 2026-08-12 12:48 |
@@ -371,12 +340,24 @@
 | G082 | Jelly Dye | docs/JellyDye_20260811_0708.md | 2026-08-11 07:08 |
 | G083 | Amaze! | docs/Amaze_20260811_0708.md | 2026-08-11 07:08 |
 | G084 | Fill The Fridge | docs/FillTheFridge_20260811_0708.md | 2026-08-11 07:08 |
-| G085 | Aquapark.io | docs/AquaparkIO_20260811_0708.md | 2026-08-11 07:08 |
+|| G085 | Aquapark.io | docs/AquaparkIO_20260811_0708.md | 2026-08-11 07:08 |
+||| G292 | Machinarium | docs/Machinarium_20260812_1423.md | 2026-08-12 14:23 |
+||| G293 | Limbo | docs/Limbo_20260812_1423.md | 2026-08-12 14:23 |
+||| G294 | Threes! | docs/Threes_20260812_1423.md | 2026-08-12 14:23 |
+||| G295 | Badland | docs/Badland_20260812_1423.md | 2026-08-12 14:23 |
+||| G296 | Prune | docs/Prune_20260812_1423.md | 2026-08-12 14:23 |
+||| G297 | Knotwords | docs/Knotwords_20260812_1423.md | 2026-08-12 14:23 |
+||| G298 | Cosmic Express | docs/CosmicExpress_20260812_1423.md | 2026-08-12 14:23 |
+||| G299 | I Love Hue | docs/ILoveHue_20260812_1423.md | 2026-08-12 14:23 |
+||| G300 | G30 - A Memory Maze | docs/G30AMemoryMaze_20260812_1423.md | 2026-08-12 14:23 |
+||| G301 | Total Party Kill | docs/TotalPartyKill_20260812_1423.md | 2026-08-12 14:23 |
 
 ## Execution Log
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
-|| 2026-08-12 05:27 | (R018: 跳过搜索-MCP不可用，处理3个来源S065-S068，产出20款游戏文档) | 0 | 3 (S065-S068) | 20 | 20 (G252-G271) | 0 |
+|---|---|---|---|---|---|---|
+| 2026-08-12 14:23 | (R023: 跳过搜索-Pending≥5, 处理5来源S092-S097, 产出10款游戏G292-G301) | 0 | 5 (S092-S093,S095-S097) | 47 | 10 (G292-G301) | 0 (S092/S093为月度数据报告无新游戏) |
+|| 2026-08-12 05:27 | (R018: 跳过搜索-MCP不可用，处理3个来源S065-S068，产出20款游戏文档)
 |---|---|---|---|---|---|---|
 | 2026-08-12 12:48 | (R022: 3组搜索DuckDuckGo, 发现10来源S088-S097, 处理5来源, 产出10款游戏G282-G291) | 10 | 5 (S088-S091,S094) | 17 | 10 (G282-G291) | 0 |
 | 2026-08-12 10:57 | (R021: 跳过搜索-MCP不可用，处理3个来源S085-S087，产出10款游戏文档) | 0 | 3 (S085-S087) | 75 | 10 (G272-G281) | 0 |
