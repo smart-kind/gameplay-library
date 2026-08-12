@@ -14,12 +14,6 @@
 | S081 | search_result | AddictingGames IO Games | https://www.addictinggames.com/io-games | 2026-08-12 07:11 |
 | S083 | search_result | AxoGamer What Are IO Games Guide | https://www.axogamer.com/blog/what-are-io-games-complete-guide | 2026-08-12 07:11 |
 | S084 | search_result | igaminglab Top-Rated IO Games 2026 | https://igaminglab.org/io-games/ | 2026-08-12 07:11 |
-|| S075 | PlaynForge Best Idle Games Android 2026 | https://www.playnforge.com/best-idle-games-android/ | 10 | 2026-08-12 07:28 |
-|| S076 | Tummy Games Best Idle Games 2026 | https://tummygames.com/blog/best-idle-games-2026 | 5 | 2026-08-12 07:28 |
-|| S078 | Rogueliker Android Roguelikes | https://rogueliker.com/android-roguelikes/ | 7 | 2026-08-12 07:28 |
-|| S079 | PocketGamer Best Roguelikes Android | https://www.pocketgamer.com/android/best-roguelikes-android/ | 5 | 2026-08-12 07:28 |
-|| S080 | Screen Rant Best IO Games | https://screenrant.com/best-io-browser-games-unblocked/ | 3 | 2026-08-12 07:28 |
-|| S082 | Playgama Top 15 IO Games | https://playgama.com/blog/top-games/io-games-top-%E2%80%91-15-august-2025/ | 2 | 2026-08-12 07:28 |
 
 
 
@@ -28,9 +22,15 @@
 ## Sources Archived（已处理）
 
 || ID | 标题 | URL | 产出游戏数 | 完成时间 |
-|     | S065 | Netflix Games List | https://gamingonphone.com/netflix-games-list-of-all-available-and-upcoming-games/ | 10 | 2026-08-12 05:27 |
-|     | S067 | Mobile Games Releasing August 2026 | https://gamingonphone.com/news/all-mobile-games-android-and-ios-releasing-in-august-2026/ | 5 | 2026-08-12 05:27 |
-|     | S068 | Android Central Best Casual Games | https://www.androidcentral.com/best-casual-games-android | 5 | 2026-08-12 05:27 |
+||     | S065 | Netflix Games List | https://gamingonphone.com/netflix-games-list-of-all-available-and-upcoming-games/ | 10 | 2026-08-12 05:27 |
+||     | S067 | Mobile Games Releasing August 2026 | https://gamingonphone.com/news/all-mobile-games-android-and-ios-releasing-in-august-2026/ | 5 | 2026-08-12 05:27 |
+||     | S068 | Android Central Best Casual Games | https://www.androidcentral.com/best-casual-games-android | 5 | 2026-08-12 05:27 |
+||     | S075 | PlaynForge Best Idle Games Android 2026 | https://www.playnforge.com/best-idle-games-android/ | 10 | 2026-08-12 07:28 |
+||     | S076 | Tummy Games Best Idle Games 2026 | https://tummygames.com/blog/best-idle-games-2026 | 5 | 2026-08-12 07:28 |
+||     | S078 | Rogueliker Android Roguelikes | https://rogueliker.com/android-roguelikes/ | 7 | 2026-08-12 07:28 |
+||     | S079 | PocketGamer Best Roguelikes Android | https://www.pocketgamer.com/android/best-roguelikes-android/ | 5 | 2026-08-12 07:28 |
+||     | S080 | Screen Rant Best IO Games | https://screenrant.com/best-io-browser-games-unblocked/ | 3 | 2026-08-12 07:28 |
+||     | S082 | Playgama Top 15 IO Games | https://playgama.com/blog/top-games/io-games-top-%E2%80%91-15-august-2025/ | 2 | 2026-08-12 07:28 |
 |---|---|---|---|---|
 ||| S054 | Top Hyper-Casual Games Lessons for Developers | https://www.blog.udonis.co/mobile-marketing/mobile-games/top-hyper-casual-games | 5 | 2026-08-12 03:00 |
 |||| S055 | Best Hyper-Casual Game Mechanics Guide | https://game-ace.com/blog/hyper-casual-game-mechanics/ | 5 | 2026-08-12 06:00 |
