@@ -4,12 +4,6 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S055 | search | Best Hyper-Casual Game Mechanics Guide | https://game-ace.com/blog/hyper-casual-game-mechanics/ | 2026-08-12 03:00 |
-| S056 | search | Top 10 Hyper-Casual Game Mechanics 2025 | https://ejaw.net/top-10-hyper-casual-mechanics/ | 2026-08-12 03:00 |
-| S057 | search | Best Hyper-Casual Games 2026 - Tummy Games | https://tummygames.com/blog/best-hyper-casual-games-2026 | 2026-08-12 03:00 |
-| S058 | search | Types of Hyper Casual Games and Mechanics | https://www.hypercasualgames.io/articles/top_10_types_of_hyper_casual_games_and_their_mechanics_part_1 | 2026-08-12 03:00 |
-| S060 | search | Best Indie Puzzle Video Games - TheGamer | https://www.thegamer.com/best-indie-puzzle-video-games/ | 2026-08-12 03:00 |
-| S061 | search | Indie Puzzle Games - The Cozy Gaming Nook | https://thecozygamingnook.com/indie-puzzle-games/ | 2026-08-12 03:00 |
 
 
 
@@ -19,8 +13,13 @@
 
 || ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
-|| S054 | Top Hyper-Casual Games Lessons for Developers | https://www.blog.udonis.co/mobile-marketing/mobile-games/top-hyper-casual-games | 5 | 2026-08-12 03:00 |
-|| S059 | Best Indie Puzzle Games 21 Titles | https://indiegameculture.com/best-indie-puzzle-games-2/ | 5 | 2026-08-12 03:00 |
+||| S054 | Top Hyper-Casual Games Lessons for Developers | https://www.blog.udonis.co/mobile-marketing/mobile-games/top-hyper-casual-games | 5 | 2026-08-12 03:00 |
+||| S055 | Best Hyper-Casual Game Mechanics Guide | https://game-ace.com/blog/hyper-casual-game-mechanics/ | 5 | 2026-08-12 06:00 |
+||| S056 | Top 10 Hyper-Casual Game Mechanics 2025 | https://ejaw.net/top-10-hyper-casual-mechanics/ | 0 | 2026-08-12 06:00 |
+||| S057 | Best Hyper-Casual Games 2026 - Tummy Games | https://tummygames.com/blog/best-hyper-casual-games-2026 | 5 | 2026-08-12 06:00 |
+||| S060 | Best Indie Puzzle Video Games - TheGamer | https://www.thegamer.com/best-indie-puzzle-video-games/ | 3 | 2026-08-12 06:00 |
+||| S061 | Indie Puzzle Games - The Cozy Gaming Nook | https://thecozygamingnook.com/indie-puzzle-games/ | 5 | 2026-08-12 06:00 |
+||| S059 | Best Indie Puzzle Games 21 Titles | https://indiegameculture.com/best-indie-puzzle-games-2/ | 5 | 2026-08-12 03:00 |
 || S037 | CrazyGames Minigames | https://www.crazygames.com/t/mini | 21 | 2026-08-11 21:00 |
 || S053 | Pocket Gamer Game Finder Page 6 | https://www.pocketgamer.com/game-finder/page/6/0_all_0_1_1/ | 10 | 2026-08-12 00:00 |
 | S026 | Pocket Gamer Game Finder Page 1 | https://www.pocketgamer.com/game-finder/page/1/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
@@ -71,7 +70,8 @@
 | S047 | Casual Gaming Report 2024 - AppMagic | https://appmagic.rocks/research/casual-gaming-2024 | 页面结构复杂/数据图表无法文本提取 | 2026-08-11 21:00 |
 | S048 | FlashArch Game Archive | https://flasharch.com/en | 404 Not Found | 2026-08-11 21:00 |
 | S013 | Best Android Games - Android Central | https://www.androidcentral.com/best-android-games | 页面JS渲染，无法提取游戏名 | 2026-08-11 12:00 |
-| S014 | Best Mobile Games 2019 - CNET | https://www.cnet.com/pictures/best-mobile-games-2019/ | 页面结构复杂，无法提取游戏名 | 2026-08-11 12:00 |
+|| S014 | Best Mobile Games 2019 - CNET | https://www.cnet.com/pictures/best-mobile-games-2019/ | 页面结构复杂，无法提取游戏名 | 2026-08-11 12:00 |
+|| S058 | Types of Hyper Casual Games and Mechanics | https://www.hypercasualgames.io/articles/top_10_types_of_hyper_casual_games_and_their_mechanics_part_1 | 页面内容过少(919 bytes)，无法提取有效信息 | 2026-08-12 06:00 |
 | S018 | Best Mobile Games - Pocket Tactics | https://www.pockettactics.com/best-mobile-games | 页面JS渲染，提取失败 | 2026-08-11 12:00 |
 | S019 | Steam Casual Games | https://store.steampowered.com/tags/en/Casual | Steam需要JS渲染 | 2026-08-11 12:00 |
 | S020 | Steam Indie Games | https://store.steampowered.com/tags/en/Indie | Steam需要JS渲染 | 2026-08-11 12:00 |
@@ -306,5 +306,6 @@
 | 2026-08-11 14:30 | (R009 3组搜索: browser mini games / mobile casual 2024 / flash games) | 17 | 2 (S041, S050) | 10 | 10 | 0 |
 | 2026-08-11 15:31 | (R010 3组来源处理: S038/S043/S049/S051/S052) | 0 | 5 (S038/S043/S049/S051/S052) | 36 | 12 | 0 |
 || 2026-08-11 21:00 | (R012: S037 processed, S039-S048 failed) | 1 | 1 | 21 | 21 | 8 (S039-S048 结构复杂/反爬/JS渲染/404) |
-|| 2026-08-12 03:00 | (R015: 3组搜索: hyper casual / indie puzzle) | 8 (S054-S061) | 2 (S054, S059) | 10 | 10 (G229-G238) | 0 |
+||| 2026-08-12 03:00 | (R015: 3组搜索: hyper casual / indie puzzle) | 8 (S054-S061) | 2 (S054, S059) | 10 | 10 (G229-G238) | 0 |
+||| 2026-08-12 06:00 | (R016: 跳过搜索，处理6个来源S055-S061) | 0 | 5 (S055-S057,S060-S061) | 13 | 13 (G239-G251) | 1 (S058内容过少) |
 || 2026-08-12 00:00 | (R013: iTunes API+Wikipedia, MCP wigolo不可用) | 0 | 1 (S053) | 0 | 10 (G184-G193) | 0 |
