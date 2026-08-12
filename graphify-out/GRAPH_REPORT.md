@@ -1,16 +1,16 @@
 # Graph Report - gameplay-library  (2026-08-12)
 
 ## Corpus Check
-- 466 files · ~417,483 words
+- 478 files · ~419,236 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 4554 nodes · 4138 edges · 436 communities
+- 4675 nodes · 4247 edges · 448 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `59b8b3d1`
+- Built from commit: `db76893c`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -449,6 +449,18 @@
 - 鬼鬼祟祟的大脚怪（Sneaky Sasquatch）
 - Stardew Valley
 - Warbits+（战争比特+）
+- 阿尔托的奥德赛：失落的城市（Alto's Odyssey: The Lost City）
+- 部落冲突：皇室战争（Clash Royale）
+- 最终幻想 VII：永恒危机（Final Fantasy VII Ever Crisis）
+- 原神（Genshin Impact）
+- 崩坏：星穹铁道（Honkai: Star Rail）
+- 决胜巅峰（Mobile Legends: Bang Bang）
+- 纪念碑谷 3（Monument Valley 3）
+- 绝地求生手游（PUBG Mobile）
+- 皇家对决（Royal Match）
+- 地铁跑酷（Subway Surfers）
+- 迷室：旧罪的迷宫（The Room: Old Sins）
+- 拼字猜词（Wordle / NYT Games）
 
 ## God Nodes (most connected - your core abstractions)
 1. `Pipeline Run Log` - 14 edges
@@ -468,11 +480,11 @@
 ## Import Cycles
 - None detected.
 
-## Communities (436 total, 0 thin omitted)
+## Communities (448 total, 0 thin omitted)
 
 ### Community 0 - "Gameplay Discovery Pipeline - Task Queue"
-Cohesion: 0.25
-Nodes (7): Execution Log, Gameplay Discovery Pipeline - Task Queue, Games Archived（已归档）, Games Pending（待撰写文档）, Sources Archived（已处理）, Sources Failed（失败）, Sources Pending（待探索来源）
+Cohesion: 0.22
+Nodes (8): Execution Log, Gameplay Discovery Pipeline - Task Queue, Games Archived（已归档）, Games Pending（待撰写文档）, Sources Archived（已处理）, Sources Failed（失败）, Sources Failed（失败）, Sources Pending（待探索来源）
 
 ### Community 1 - "游戏资料输出格式约束"
 Cohesion: 0.50
@@ -2206,15 +2218,63 @@ Nodes (9): Meta 系统, Stardew Valley, 为什么好玩, 实现难度, 来源, �
 Cohesion: 0.20
 Nodes (9): Meta 系统, Warbits+（战争比特+）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
 
+### Community 436 - "阿尔托的奥德赛：失落的城市（Alto's Odyssey: The Lost City）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 437 - "部落冲突：皇室战争（Clash Royale）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 438 - "最终幻想 VII：永恒危机（Final Fantasy VII Ever Crisis）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 最终幻想 VII：永恒危机（Final Fantasy VII Ever Crisis）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 439 - "原神（Genshin Impact）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 原神（Genshin Impact）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 440 - "崩坏：星穹铁道（Honkai: Star Rail）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 崩坏：星穹铁道（Honkai: Star Rail）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 441 - "决胜巅峰（Mobile Legends: Bang Bang）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 决胜巅峰（Mobile Legends: Bang Bang）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 442 - "纪念碑谷 3（Monument Valley 3）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 443 - "绝地求生手游（PUBG Mobile）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 444 - "皇家对决（Royal Match）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 皇家对决（Royal Match） (+1 more)
+
+### Community 445 - "地铁跑酷（Subway Surfers）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 地铁跑酷（Subway Surfers）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 446 - "迷室：旧罪的迷宫（The Room: Old Sins）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 447 - "拼字猜词（Wordle / NYT Games）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 拼字猜词（Wordle / NYT Games）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
 ## Knowledge Gaps
-- **3620 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+3615 more)
+- **3717 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+3712 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `玩法规则`, `核心循环`, `核心机制` to the rest of the system?**
-  _3620 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _3717 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Pipeline Run Log` be split into smaller, more focused modules?**
   _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
 - **Should `process_games_v2.py` be split into smaller, more focused modules?**

@@ -170,8 +170,16 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-12 14:23] [R023] [Phase 7: Git Push] 
 [2026-08-12 16:14] [R024] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=6, Processing=0, Archived=97
 [2026-08-12 19:30] [R025] [Phase 5: Graphify] ✅ 完成 — 4554 nodes, 4138 edges, 436 communities
+[2026-08-12 19:30] [R025] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
+[2026-08-12 19:30] [R025] [Phase 7: Git Push] ✅ 完成 — commit 成功 (57 files, +10545/-89 lines), push 跳过(无远程或网络)
 [2026-08-12 19:30] [R025] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空（游戏文档已由Phase 3直接生成）
 [2026-08-12 19:30] [R025] [Phase 3: Process Sources] ✅ 完成 — 处理6个来源(S098-S103)，产出6款游戏文档(HorizonChase/SlayawayCamp/GameDevStory/WarbitsPlus/SneakySasquatch/HallsOfTorment)，5个失败(JS渲染/无法提取)
 [2026-08-12 19:30] [R025] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (6个)
 [2026-08-12 19:30] [R025] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=6, Processing=0, Archived=97
+[2026-08-12 19:48] [R026] [Phase 7: Git Push] ✅ 完成 — commit 成功
+[2026-08-12 19:48] [R026] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
+[2026-08-12 19:48] [R026] [Phase 5: Graphify] ✅ 完成 — 4675 nodes, 4247 edges, 448 communities
+[2026-08-12 19:48] [R026] [Phase 3: Process Sources] ✅ 完成 — 处理1个来源(S104)，产出12款游戏(G302-G313)，4个失败(S105-S108)
+[2026-08-12 19:48] [R026] [Phase 2: Discover] ✅ 完成 — 搜索3组，发现5个新来源(S104-S108)
+[2026-08-12 19:48] [R026] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=103
 [2026-08-12 16:14] [R024] [Phase 2: Discover] ✅ 完成 — 搜索12个站点，发现6个新来源(S098-S103)
