@@ -6,11 +6,17 @@
 |---|---|---|---|---|
 
 ## Sources Archived（已处理）
-||| S092 | Top 15 Mobile Games July 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-july-2025/ | 0 | 2026-08-12 14:23 |
-||| S093 | Top 15 Mobile Games June 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-june-2025/ | 0 | 2026-08-12 14:23 |
-||| S095 | Best Android Puzzle Games - AndroidGuias | https://en.androidguias.com/best-android-puzzle-games/ | 10 | 2026-08-12 14:23 |
-||| S096 | Best Puzzle Mobile Games - Mobile Matters | https://mobilematters.gg/guides/gaming/best-puzzle-mobile-games | 9 | 2026-08-12 14:23 |
-||| S097 | Best Puzzle Games for Android - LucidPuzzle | https://www.lucidpuzzle.com/best-puzzle-games-for-android/ | 28 | 2026-08-12 14:23 |
+| S092 | Top 15 Mobile Games July 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-july-2025/ | 0 | 2026-08-12 14:23 |
+| S093 | Top 15 Mobile Games June 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-june-2025/ | 0 | 2026-08-12 14:23 |
+| S095 | Best Android Puzzle Games - AndroidGuias | https://en.androidguias.com/best-android-puzzle-games/ | 10 | 2026-08-12 14:23 |
+| S096 | Best Puzzle Mobile Games - Mobile Matters | https://mobilematters.gg/guides/gaming/best-puzzle-mobile-games | 9 | 2026-08-12 14:23 |
+| S097 | Best Puzzle Games for Android - LucidPuzzle | https://www.lucidpuzzle.com/best-puzzle-games-for-android/ | 28 | 2026-08-12 14:23 |
+| S098 | Touch Tap Play Best Mobile Games | https://www.touchtapplay.com/best-mobile-games/ | 0 | 2026-08-12 19:30 |
+| S099 | Wired Best Mobile Games Gallery | https://www.wired.com/gallery/best-mobile-games/ | 6 | 2026-08-12 19:30 |
+| S100 | Kotaku Best Mobile Games | https://kotaku.com/best-mobile-games-1849657362 | 0 | 2026-08-12 19:30 |
+| S101 | Google Play Best New Games | https://play.google.com/store/apps/editorial?id=mc_apps_games_best_new | 0 | 2026-08-12 19:30 |
+| S102 | Google Play Editor's Picks | https://play.google.com/store/apps/editorial?id=mc_apps_games_editor_pick | 0 | 2026-08-12 19:30 |
+| S103 | TheGamer Best Casual Games | https://www.thegamer.com/best-casual-games/ | 0 | 2026-08-12 19:30 |
 ||| S088 | GamingonPhone Staff Picks 2025 | https://gamingonphone.com/news/gamingonphone-staff-picks-our-favorite-mobile-games-of-2025/ | 0 | 2026-08-12 12:48 |
 || S089 | Top 10 Mobile Games December 2025 | https://gamingonphone.com/news/top-10-best-mobile-games-to-play-in-december-2025/ | 10 | 2026-08-12 12:48 |
 || S090 | Top 15 Mobile Games September 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-september-2025/ | 0 | 2026-08-12 12:48 |
@@ -356,6 +362,7 @@
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
 |---|---|---|---|---|---|---|
+| 2026-08-12 19:30 | (R025: 跳过搜索-Pending≥5, 处理6来源S098-S103, 产出6款游戏: HorizonChase/SlayawayCamp/GameDevStory/WarbitsPlus/SneakySasquatch/HallsOfTorment) | 0 | 6 (S098-S103) | 0 | 6 | 5 (S098/S100-S103 JS渲染/无法提取) |
 | 2026-08-12 14:23 | (R023: 跳过搜索-Pending≥5, 处理5来源S092-S097, 产出10款游戏G292-G301) | 0 | 5 (S092-S093,S095-S097) | 47 | 10 (G292-G301) | 0 (S092/S093为月度数据报告无新游戏) |
 || 2026-08-12 05:27 | (R018: 跳过搜索-MCP不可用，处理3个来源S065-S068，产出20款游戏文档)
 |---|---|---|---|---|---|---|

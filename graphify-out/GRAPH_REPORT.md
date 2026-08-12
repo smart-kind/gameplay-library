@@ -1,16 +1,16 @@
 # Graph Report - gameplay-library  (2026-08-12)
 
 ## Corpus Check
-- 445 files · ~413,423 words
+- 466 files · ~417,483 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 4345 nodes · 3950 edges · 415 communities
+- 4554 nodes · 4138 edges · 436 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `7fc25a9d`
+- Built from commit: `59b8b3d1`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -428,6 +428,27 @@
 - 生化危机：生存小队（Resident Evil Survival Unit）
 - 索尼克大乱斗（Sonic Rumble）
 - 时间线（Timelie）
+- 2048
+- Alto
+- Balatro
+- Fallout Shelter
+- 游戏开发物语（Game Dev Story）
+- 折磨大厅（Halls of Torment: Premium）
+- 追逐地平线（Horizon Chase）
+- Kingdom Rush Tower Defense TD
+- Little Inferno HD
+- Mars: Mars
+- Minecraft: Play with Friends!
+- Mini Metro
+- MONOPOLY: The Board Game
+- Monument Valley
+- Pikmin Bloom: Walking Game
+- Pokémon Playhouse
+- Reigns
+- 杀戮营地（Slayaway Camp）
+- 鬼鬼祟祟的大脚怪（Sneaky Sasquatch）
+- Stardew Valley
+- Warbits+（战争比特+）
 
 ## God Nodes (most connected - your core abstractions)
 1. `Pipeline Run Log` - 14 edges
@@ -447,11 +468,11 @@
 ## Import Cycles
 - None detected.
 
-## Communities (415 total, 0 thin omitted)
+## Communities (436 total, 0 thin omitted)
 
 ### Community 0 - "Gameplay Discovery Pipeline - Task Queue"
-Cohesion: 0.22
-Nodes (8): Execution Log, Gameplay Discovery Pipeline - Task Queue, Games Archived（已归档）, Games Pending（待撰写文档）, Sources Archived（已处理）, Sources Failed（失败）, Sources Pending（待探索来源）, Sources Processing（处理中）
+Cohesion: 0.25
+Nodes (7): Execution Log, Gameplay Discovery Pipeline - Task Queue, Games Archived（已归档）, Games Pending（待撰写文档）, Sources Archived（已处理）, Sources Failed（失败）, Sources Pending（待探索来源）
 
 ### Community 1 - "游戏资料输出格式约束"
 Cohesion: 0.50
@@ -2101,15 +2122,99 @@ Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核
 Cohesion: 0.20
 Nodes (9): Meta 系统, 为什么好玩, 实现难度, 时间线（Timelie）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
 
+### Community 415 - "2048"
+Cohesion: 0.20
+Nodes (9): 2048, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 416 - "Alto"
+Cohesion: 0.20
+Nodes (9): Alto, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 417 - "Balatro"
+Cohesion: 0.20
+Nodes (9): Balatro, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 418 - "Fallout Shelter"
+Cohesion: 0.20
+Nodes (9): Fallout Shelter, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 419 - "游戏开发物语（Game Dev Story）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 游戏开发物语（Game Dev Story）, 玩法规则 (+1 more)
+
+### Community 420 - "折磨大厅（Halls of Torment: Premium）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 折磨大厅（Halls of Torment: Premium）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 421 - "追逐地平线（Horizon Chase）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 422 - "Kingdom Rush Tower Defense TD"
+Cohesion: 0.20
+Nodes (9): Kingdom Rush Tower Defense TD, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 423 - "Little Inferno HD"
+Cohesion: 0.20
+Nodes (9): Little Inferno HD, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 424 - "Mars: Mars"
+Cohesion: 0.20
+Nodes (9): Mars: Mars, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 425 - "Minecraft: Play with Friends!"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Minecraft: Play with Friends!, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 426 - "Mini Metro"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Mini Metro, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 427 - "MONOPOLY: The Board Game"
+Cohesion: 0.20
+Nodes (9): Meta 系统, MONOPOLY: The Board Game, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 428 - "Monument Valley"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Monument Valley, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 429 - "Pikmin Bloom: Walking Game"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Pikmin Bloom: Walking Game, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 430 - "Pokémon Playhouse"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Pokémon Playhouse, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 431 - "Reigns"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Reigns, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 432 - "杀戮营地（Slayaway Camp）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 杀戮营地（Slayaway Camp）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 433 - "鬼鬼祟祟的大脚怪（Sneaky Sasquatch）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 434 - "Stardew Valley"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Stardew Valley, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 435 - "Warbits+（战争比特+）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Warbits+（战争比特+）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
 ## Knowledge Gaps
-- **3453 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+3448 more)
+- **3620 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+3615 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `玩法规则`, `核心循环`, `核心机制` to the rest of the system?**
-  _3453 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _3620 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Pipeline Run Log` be split into smaller, more focused modules?**
   _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
 - **Should `process_games_v2.py` be split into smaller, more focused modules?**

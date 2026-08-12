@@ -1,16 +1,16 @@
 # Graph Report - gameplay-library  (2026-08-12)
 
 ## Corpus Check
-- 425 files · ~411,002 words
+- 445 files · ~413,423 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 4134 nodes · 3759 edges · 395 communities
+- 4345 nodes · 3950 edges · 415 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `5b74134f`
+- Built from commit: `7fc25a9d`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -408,9 +408,29 @@
 - Wings.io
 - Wings.io
 - Wordle (NYT Games)
+- 迷失之地（Badland）
+- 宇宙快递（Cosmic Express）
+- G30 - 记忆迷宫（G30 - A Memory Maze）
+- 色彩之爱（I Love Hue）
+- 结词（Knotwords）
+- 地狱边境（Limbo）
+- 机械迷城（Machinarium）
+- 修剪艺术（Prune）
+- 小三传奇（Threes!）
+- 全员阵亡（Total Party Kill）
+- 围攻（Besiege）
+- 死神：灵魂共鸣（BLEACH: Soul Resonance）
+- 脑力大作战（Brain It On!）
+- 深岩银河：幸存者（Deep Rock Galactic: Survivor）
+- 八卦港（Gossip Harbor）
+- 劳拉GO（Lara Croft GO）
+- 微型世界（Mekorama）
+- 生化危机：生存小队（Resident Evil Survival Unit）
+- 索尼克大乱斗（Sonic Rumble）
+- 时间线（Timelie）
 
 ## God Nodes (most connected - your core abstractions)
-1. `Pipeline Run Log` - 13 edges
+1. `Pipeline Run Log` - 14 edges
 2. `台球模拟游戏，支持在线对战（8 Ball Pool）` - 11 edges
 3. `放置类商业帝国经营游戏（AdVenture Capitalist）` - 11 edges
 4. `风景优美的无尽滑板跑酷游戏（Alto's Odyssey）` - 11 edges
@@ -427,7 +447,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (395 total, 0 thin omitted)
+## Communities (415 total, 0 thin omitted)
 
 ### Community 0 - "Gameplay Discovery Pipeline - Task Queue"
 Cohesion: 0.22
@@ -870,8 +890,8 @@ Cohesion: 0.20
 Nodes (9): Meta 系统, Xenowerk, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
 
 ### Community 110 - "Pipeline Run Log"
-Cohesion: 0.14
-Nodes (13): 2026-08-10, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11 (+5 more)
+Cohesion: 0.13
+Nodes (14): 2026-08-10, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11 (+6 more)
 
 ### Community 111 - "process_games_v2.py"
 Cohesion: 0.14
@@ -2001,17 +2021,97 @@ Nodes (9): Meta 系统, Wings.io, 为什么好玩, 实现难度, 来源, 核心�
 Cohesion: 0.20
 Nodes (9): Meta 系统, Wordle (NYT Games), 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
 
+### Community 395 - "迷失之地（Badland）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 游戏变体, 玩法规则 (+2 more)
+
+### Community 396 - "宇宙快递（Cosmic Express）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 宇宙快递（Cosmic Express）, 实现难度, 来源, 核心循环, 核心机制, 游戏变体 (+2 more)
+
+### Community 397 - "G30 - 记忆迷宫（G30 - A Memory Maze）"
+Cohesion: 0.18
+Nodes (10): G30 - 记忆迷宫（G30 - A Memory Maze）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 游戏变体 (+2 more)
+
+### Community 398 - "色彩之爱（I Love Hue）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 游戏变体, 玩法规则 (+2 more)
+
+### Community 399 - "结词（Knotwords）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 游戏变体, 玩法规则 (+2 more)
+
+### Community 400 - "地狱边境（Limbo）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 地狱边境（Limbo）, 实现难度, 来源, 核心循环, 核心机制, 游戏变体 (+2 more)
+
+### Community 401 - "机械迷城（Machinarium）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 机械迷城（Machinarium）, 来源, 核心循环, 核心机制, 游戏变体 (+2 more)
+
+### Community 402 - "修剪艺术（Prune）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 修剪艺术（Prune）, 实现难度, 来源, 核心循环, 核心机制, 游戏变体 (+2 more)
+
+### Community 403 - "小三传奇（Threes!）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 小三传奇（Threes!）, 来源, 核心循环, 核心机制, 游戏变体 (+2 more)
+
+### Community 404 - "全员阵亡（Total Party Kill）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 全员阵亡（Total Party Kill）, 实现难度, 来源, 核心循环, 核心机制, 游戏变体 (+2 more)
+
+### Community 405 - "围攻（Besiege）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 围攻（Besiege）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 406 - "死神：灵魂共鸣（BLEACH: Soul Resonance）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 死神：灵魂共鸣（BLEACH: Soul Resonance）, 玩法规则 (+1 more)
+
+### Community 407 - "脑力大作战（Brain It On!）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 408 - "深岩银河：幸存者（Deep Rock Galactic: Survivor）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 深岩银河：幸存者（Deep Rock Galactic: Survivor）, 玩法规则 (+1 more)
+
+### Community 409 - "八卦港（Gossip Harbor）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 八卦港（Gossip Harbor）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 410 - "劳拉GO（Lara Croft GO）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 劳拉GO（Lara Croft GO）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 411 - "微型世界（Mekorama）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 微型世界（Mekorama）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 412 - "生化危机：生存小队（Resident Evil Survival Unit）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 生化危机：生存小队（Resident Evil Survival Unit） (+1 more)
+
+### Community 413 - "索尼克大乱斗（Sonic Rumble）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 414 - "时间线（Timelie）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 时间线（Timelie）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
 ## Knowledge Gaps
-- **3282 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+3277 more)
+- **3453 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+3448 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `玩法规则`, `核心循环`, `核心机制` to the rest of the system?**
-  _3282 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _3453 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Pipeline Run Log` be split into smaller, more focused modules?**
-  _Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
 - **Should `process_games_v2.py` be split into smaller, more focused modules?**
   _Cohesion score 0.1368421052631579 - nodes in this community are weakly interconnected._
 - **Should `Bloxd.io` be split into smaller, more focused modules?**

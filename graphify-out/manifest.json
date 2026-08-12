@@ -65,8 +65,8 @@
     "semantic_hash": ""
   },
   "pipeline/task-queue.md": {
-    "mtime": 1786539128.8435361,
-    "ast_hash": "9d4ddf7e6d9dff7af21a0ed9663e1db5",
+    "mtime": 1786558550.8196383,
+    "ast_hash": "a3237d131ce87e2b77f5bbed3eec7fb2",
     "semantic_hash": ""
   },
   "docs/WordConnect_20260810_2047.md": {
@@ -550,8 +550,8 @@
     "semantic_hash": ""
   },
   "pipeline/run.log.md": {
-    "mtime": 1786545484.5925887,
-    "ast_hash": "510297f9f35147ee26e4eb6ade98f71e",
+    "mtime": 1786558559.703946,
+    "ast_hash": "0f57284ee8f513b115581b5da7702b40",
     "semantic_hash": ""
   },
   "pipeline/tmp/extract_s053.py": {
@@ -2357,6 +2357,111 @@
   "docs/TotalPartyKill_20260812_1423.md": {
     "mtime": 1786545461.4845667,
     "ast_hash": "6cef6cbc2122c033ab71aa7690ed6532",
+    "semantic_hash": ""
+  },
+  "docs/2048_20260812_1614.md": {
+    "mtime": 1786552336.5751007,
+    "ast_hash": "db4272643c30c263f9b0e04f542c27d4",
+    "semantic_hash": ""
+  },
+  "docs/Alto_20260812_1614.md": {
+    "mtime": 1786552387.9822686,
+    "ast_hash": "0e362b783aa1ee14a760bb1fe520df96",
+    "semantic_hash": ""
+  },
+  "docs/Balatro_20260812_1614.md": {
+    "mtime": 1786552321.7221665,
+    "ast_hash": "ff39ea077c32ed764aa4f06774cfbf79",
+    "semantic_hash": ""
+  },
+  "docs/FalloutShelter_20260812_1614.md": {
+    "mtime": 1786552388.00627,
+    "ast_hash": "0ca73aca7bfed95b5480a6c6eca42df3",
+    "semantic_hash": ""
+  },
+  "docs/GameDevStory_20260812_1930.md": {
+    "mtime": 1786558344.3286004,
+    "ast_hash": "3fb18140fe62f5183963509b0a38fcf5",
+    "semantic_hash": ""
+  },
+  "docs/HallsOfTorment_20260812_1930.md": {
+    "mtime": 1786558426.7993827,
+    "ast_hash": "f6d5235921d48d5d5fe51278c0398f1f",
+    "semantic_hash": ""
+  },
+  "docs/HorizonChase_20260812_1930.md": {
+    "mtime": 1786558255.6176589,
+    "ast_hash": "c798af7f7d3e796a418cc3f783424a8d",
+    "semantic_hash": ""
+  },
+  "docs/KingdomRushTowerDefenseTD_20260812_1614.md": {
+    "mtime": 1786552334.1149464,
+    "ast_hash": "bea39e7b6ce8c0ef21eacaea22685f63",
+    "semantic_hash": ""
+  },
+  "docs/LittleInfernoHD_20260812_1614.md": {
+    "mtime": 1786552297.6446338,
+    "ast_hash": "0e14d72f87b6d3fd28a656d604520347",
+    "semantic_hash": ""
+  },
+  "docs/MONOPOLYTheBoardGame_20260812_1614.md": {
+    "mtime": 1786552326.5744727,
+    "ast_hash": "95cf77df98aa1aebcad1740b1b363d4a",
+    "semantic_hash": ""
+  },
+  "docs/MarsMars_20260812_1614.md": {
+    "mtime": 1786552388.00627,
+    "ast_hash": "95362cb9b9085b36fdb878535124b4c1",
+    "semantic_hash": ""
+  },
+  "docs/MinecraftPlaywithFriends_20260812_1614.md": {
+    "mtime": 1786552388.00627,
+    "ast_hash": "e81cfce9d04d51df03e6c7fd2ed8e2b4",
+    "semantic_hash": ""
+  },
+  "docs/MiniMetro_20260812_1614.md": {
+    "mtime": 1786552319.2420099,
+    "ast_hash": "0f43d81af4fa008b0cc44dea28ee99b0",
+    "semantic_hash": ""
+  },
+  "docs/MonumentValley_20260812_1614.md": {
+    "mtime": 1786552312.289569,
+    "ast_hash": "84f6ea5f6ef7e31eaf1b1a264cf03279",
+    "semantic_hash": ""
+  },
+  "docs/PikminBloomWalkingGame_20260812_1614.md": {
+    "mtime": 1786552388.00627,
+    "ast_hash": "54f9f6ac8b7594e285a48d53deb5bae2",
+    "semantic_hash": ""
+  },
+  "docs/PokmonPlayhouse_20260812_1614.md": {
+    "mtime": 1786552387.9822686,
+    "ast_hash": "f7368ac68619432d99b524ded170978a",
+    "semantic_hash": ""
+  },
+  "docs/Reigns_20260812_1614.md": {
+    "mtime": 1786552388.00627,
+    "ast_hash": "e4853fe7a5815d091ce5b1b488eef92b",
+    "semantic_hash": ""
+  },
+  "docs/SlayawayCamp_20260812_1930.md": {
+    "mtime": 1786558325.5839741,
+    "ast_hash": "2f839bf73c6e7d9448be0aeb5113aee3",
+    "semantic_hash": ""
+  },
+  "docs/SneakySasquatch_20260812_1930.md": {
+    "mtime": 1786558399.4184544,
+    "ast_hash": "cb091b0b6bdce5a3c6025b8582b9bec3",
+    "semantic_hash": ""
+  },
+  "docs/StardewValley_20260812_1614.md": {
+    "mtime": 1786552388.00627,
+    "ast_hash": "34d7ef608299d12d3db2eddf354f49ed",
+    "semantic_hash": ""
+  },
+  "docs/WarbitsPlus_20260812_1930.md": {
+    "mtime": 1786558368.4054081,
+    "ast_hash": "209569cb17e8e18574d4e21188db8aaa",
     "semantic_hash": ""
   }
 }
