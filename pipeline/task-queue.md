@@ -4,6 +4,22 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S069 | search_result | GamesZoom Best Mobile Games 2025 | https://gameszoom.com/blog/best-mobile-games-2025.html | 2026-08-12 07:11 |
+| S070 | search_result | 19 Best Indie Games 2026 ENEBA | https://www.eneba.com/hub/games/best-indie-games/ | 2026-08-12 07:11 |
+| S071 | search_result | 20 Time-Loop Games Fiction Horizon | https://fictionhorizon.com/time-loop-games-that-bend-your-brain/ | 2026-08-12 07:11 |
+| S072 | search_result | Casual Game Mechanics Classics 2025 | https://meliorgames.com/best-practices/casual-game-mechanics-classics-and-new-hits-of-2025/ | 2026-08-12 07:11 |
+| S073 | search_result | 7+1 Hyper Casual Game Mechanics | https://www.costcenter.net/post/7-1-hyper-casual-game-mechanics | 2026-08-12 07:11 |
+| S074 | search_result | APKMadness Best Idle Games Mobile 2026 | https://www.apkmadness.com/blog/best-idle-games-mobile-2026/ | 2026-08-12 07:11 |
+| S077 | search_result | IdleDB Best Mobile Idle Games | https://idledb.com/best-idle-games-mobile | 2026-08-12 07:11 |
+| S081 | search_result | AddictingGames IO Games | https://www.addictinggames.com/io-games | 2026-08-12 07:11 |
+| S083 | search_result | AxoGamer What Are IO Games Guide | https://www.axogamer.com/blog/what-are-io-games-complete-guide | 2026-08-12 07:11 |
+| S084 | search_result | igaminglab Top-Rated IO Games 2026 | https://igaminglab.org/io-games/ | 2026-08-12 07:11 |
+|| S075 | PlaynForge Best Idle Games Android 2026 | https://www.playnforge.com/best-idle-games-android/ | 10 | 2026-08-12 07:28 |
+|| S076 | Tummy Games Best Idle Games 2026 | https://tummygames.com/blog/best-idle-games-2026 | 5 | 2026-08-12 07:28 |
+|| S078 | Rogueliker Android Roguelikes | https://rogueliker.com/android-roguelikes/ | 7 | 2026-08-12 07:28 |
+|| S079 | PocketGamer Best Roguelikes Android | https://www.pocketgamer.com/android/best-roguelikes-android/ | 5 | 2026-08-12 07:28 |
+|| S080 | Screen Rant Best IO Games | https://screenrant.com/best-io-browser-games-unblocked/ | 3 | 2026-08-12 07:28 |
+|| S082 | Playgama Top 15 IO Games | https://playgama.com/blog/top-games/io-games-top-%E2%80%91-15-august-2025/ | 2 | 2026-08-12 07:28 |
 
 
 
