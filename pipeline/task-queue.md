@@ -2,14 +2,25 @@
 
 ## Sources Pending（待探索来源）
 
+| ID | 类型 | 标题 | URL | 发现时间 |
+|---|---|---|---|---|
+| S055 | search | Best Hyper-Casual Game Mechanics Guide | https://game-ace.com/blog/hyper-casual-game-mechanics/ | 2026-08-12 03:00 |
+| S056 | search | Top 10 Hyper-Casual Game Mechanics 2025 | https://ejaw.net/top-10-hyper-casual-mechanics/ | 2026-08-12 03:00 |
+| S057 | search | Best Hyper-Casual Games 2026 - Tummy Games | https://tummygames.com/blog/best-hyper-casual-games-2026 | 2026-08-12 03:00 |
+| S058 | search | Types of Hyper Casual Games and Mechanics | https://www.hypercasualgames.io/articles/top_10_types_of_hyper_casual_games_and_their_mechanics_part_1 | 2026-08-12 03:00 |
+| S060 | search | Best Indie Puzzle Video Games - TheGamer | https://www.thegamer.com/best-indie-puzzle-video-games/ | 2026-08-12 03:00 |
+| S061 | search | Indie Puzzle Games - The Cozy Gaming Nook | https://thecozygamingnook.com/indie-puzzle-games/ | 2026-08-12 03:00 |
+
 
 
 ## Sources Processing（处理中）
 
 ## Sources Archived（已处理）
 
-| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|| ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+|| S054 | Top Hyper-Casual Games Lessons for Developers | https://www.blog.udonis.co/mobile-marketing/mobile-games/top-hyper-casual-games | 5 | 2026-08-12 03:00 |
+|| S059 | Best Indie Puzzle Games 21 Titles | https://indiegameculture.com/best-indie-puzzle-games-2/ | 5 | 2026-08-12 03:00 |
 || S037 | CrazyGames Minigames | https://www.crazygames.com/t/mini | 21 | 2026-08-11 21:00 |
 || S053 | Pocket Gamer Game Finder Page 6 | https://www.pocketgamer.com/game-finder/page/6/0_all_0_1_1/ | 10 | 2026-08-12 00:00 |
 | S026 | Pocket Gamer Game Finder Page 1 | https://www.pocketgamer.com/game-finder/page/1/0_all_0_1_1/ | 10 | 2026-08-11 09:00 |
@@ -75,7 +86,17 @@
 
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
-| G194 | Freeciv-Web | docs/Freeciv-Web_20260811_2226.md | 2026-08-11 22:26 |
+| G229 | Attack Hole | docs/AttackHole_20260812_0300.md | 2026-08-12 03:00 |
+| G230 | Going Balls | docs/GoingBalls_20260812_0300.md | 2026-08-12 03:00 |
+| G231 | Race Master 3D | docs/RaceMaster3D_20260812_0300.md | 2026-08-12 03:00 |
+| G232 | Car Games 3D | docs/CarGames3D_20260812_0300.md | 2026-08-12 03:00 |
+| G233 | Magic Tiles 3 | docs/MagicTiles3_20260812_0300.md | 2026-08-12 03:00 |
+| G234 | Omno | docs/Omno_20260812_0300.md | 2026-08-12 03:00 |
+| G235 | Cocoon | docs/Cocoon_20260812_0300.md | 2026-08-12 03:00 |
+| G236 | A Little to the Left | docs/ALittleToTheLeft_20260812_0300.md | 2026-08-12 03:00 |
+| G237 | Gorogoa | docs/Gorogoa_20260812_0300.md | 2026-08-12 03:00 |
+| G238 | Braid | docs/Braid_20260812_0300.md | 2026-08-12 03:00 |
+|| G194 | Freeciv-Web | docs/Freeciv-Web_20260811_2226.md | 2026-08-11 22:26 |
 | G195 | War Brokers | docs/WarBrokers_20260811_2226.md | 2026-08-11 22:26 |
 | G196 | Powerline.io | docs/PowerlineIO_20260811_2226.md | 2026-08-11 22:26 |
 | G197 | Street Skater | docs/StreetSkater_20260811_2226.md | 2026-08-11 22:26 |
@@ -285,4 +306,5 @@
 | 2026-08-11 14:30 | (R009 3组搜索: browser mini games / mobile casual 2024 / flash games) | 17 | 2 (S041, S050) | 10 | 10 | 0 |
 | 2026-08-11 15:31 | (R010 3组来源处理: S038/S043/S049/S051/S052) | 0 | 5 (S038/S043/S049/S051/S052) | 36 | 12 | 0 |
 || 2026-08-11 21:00 | (R012: S037 processed, S039-S048 failed) | 1 | 1 | 21 | 21 | 8 (S039-S048 结构复杂/反爬/JS渲染/404) |
+|| 2026-08-12 03:00 | (R015: 3组搜索: hyper casual / indie puzzle) | 8 (S054-S061) | 2 (S054, S059) | 10 | 10 (G229-G238) | 0 |
 || 2026-08-12 00:00 | (R013: iTunes API+Wikipedia, MCP wigolo不可用) | 0 | 1 (S053) | 0 | 10 (G184-G193) | 0 |
