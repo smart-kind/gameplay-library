@@ -4,19 +4,29 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S104 | search | Best Mobile Games 2025: Top iOS & Android Games | https://gameszoom.com/blog/best-mobile-games-2025.html | 2026-08-12 19:48 |
-| S105 | search | 10 Mobile Games You'll Actually Want to Play in 2025 | https://fictionhorizon.com/mobile-games-youll-actually-want-to-play-in-2025/ | 2026-08-12 19:48 |
-| S106 | search | Top rated Puzzle games tagged loop - itch.io | https://itch.io/games/top-rated/genre-puzzle/tag-loop | 2026-08-12 19:48 |
-| S107 | search | Top Hyper Casual Game Trends to Watch in 2026 | https://www.coherentlab.com/blog/top-hyper-casual-game-trends | 2026-08-12 19:48 |
-| S108 | search | 7+1 Hyper Casual Game Mechanics | https://www.costcenter.net/post/7-1-hyper-casual-game-mechanics | 0 | 2026-08-12 19:48 |
 
 ## Sources Failed（失败）
+| ID | 标题 | URL | 失败原因 | 失败时间 |
+|---|---|---|---|---|
 | S105 | 10 Mobile Games You'll Actually Want to Play in 2025 | https://fictionhorizon.com/mobile-games-youll-actually-want-to-play-in-2025/ | 反爬虫 (Human verification) | 2026-08-12 19:48 |
 | S106 | Top rated Puzzle games tagged loop - itch.io | https://itch.io/games/top-rated/genre-puzzle/tag-loop | JS渲染，内容过少(5616 bytes) | 2026-08-12 19:48 |
 | S107 | Top Hyper Casual Game Trends to Watch in 2026 | https://www.coherentlab.com/blog/top-hyper-casual-game-trends | 趋势分析文章，无可提取游戏列表 | 2026-08-12 19:48 |
 | S108 | 7+1 Hyper Casual Game Mechanics | https://www.costcenter.net/post/7-1-hyper-casual-game-mechanics | 机制分析文章，无可提取游戏列表 | 2026-08-12 19:48 |
+| S109 | Casual Game Mechanics: Classics and New Hits of 2025 | https://meliorgames.com/best-practices/casual-game-mechanics-classics-and-new-hits-of-2025/ | 机制分析文章，无可提取游戏列表 | 2026-08-12 21:32 |
+| S110 | Time Loop Games That Bend Your Brain | https://fictionhorizon.com/time-loop-games-that-bend-your-brain/ | Cloudflare 反爬虫 (Human verification) | 2026-08-12 21:32 |
+| S111 | itch.io Games tagged loop | https://itch.io/games/tag-loop | 36款小游戏均为独立开发者作品，非目标游戏库类型 | 2026-08-12 21:32 |
+| S113 | GameSpot Best Indie Games | https://www.gamespot.com/gallery/best-indie-games/2900-5964/ | 内容过少(5KB)，JS渲染 | 2026-08-12 21:32 |
 
 ## Sources Archived（已处理）
+| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|---|---|---|---|---|
+| S114 | PocketGamer Game Finder Page 11 | https://www.pocketgamer.com/game-finder/page/11/0_all_0_1_1/ | 9 | 2026-08-12 23:26 |
+| S115 | PocketGamer Game Finder Page 12 | https://www.pocketgamer.com/game-finder/page/12/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
+| S116 | PocketGamer Game Finder Page 13 | https://www.pocketgamer.com/game-finder/page/13/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
+| S117 | PocketGamer Game Finder Page 14 | https://www.pocketgamer.com/game-finder/page/14/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
+| S118 | PocketGamer Game Finder Page 15 | https://www.pocketgamer.com/game-finder/page/15/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
+| S119 | PocketGamer Game Finder Page 16 | https://www.pocketgamer.com/game-finder/page/16/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
+
 | S104 | Best Mobile Games 2025: Top iOS & Android Games | https://gameszoom.com/blog/best-mobile-games-2025.html | 12 | 2026-08-12 19:48 |
 
 | S092 | Top 15 Mobile Games July 2025 | https://gamingonphone.com/news/top-15-mobile-games-for-july-2025/ | 0 | 2026-08-12 14:23 |
@@ -370,7 +380,7 @@
 ||| G299 | I Love Hue | docs/ILoveHue_20260812_1423.md | 2026-08-12 14:23 |
 ||| G300 | G30 - A Memory Maze | docs/G30AMemoryMaze_20260812_1423.md | 2026-08-12 14:23 |
 ||| G301 | Total Party Kill | docs/TotalPartyKill_20260812_1423.md | 2026-08-12 14:23 |
-|| G313 | Wordle (NYT Games) | docs/WordleNYTGames_20260812_1948.md | 2026-08-12 19:48 |
+||| G314 | MOUSE: P.I. For Hire | docs/MOUSEPIForHire_20260812_2132.md | 2026-08-12 21:32 |
 || G312 | The Room: Old Sins | docs/TheRoomOldSins_20260812_1948.md | 2026-08-12 19:48 |
 || G311 | Monument Valley 3 | docs/MonumentValley3_20260812_1948.md | 2026-08-12 19:48 |
 || G310 | Final Fantasy VII Ever Crisis | docs/FinalFantasyVIIEverCrisis_20260812_1948.md | 2026-08-12 19:48 |
@@ -381,13 +391,23 @@
 || G305 | PUBG Mobile | docs/PUBGMobile_20260812_1948.md | 2026-08-12 19:48 |
 || G304 | Alto's Odyssey: The Lost City | docs/AltosOdysseyTheLostCity_20260812_1948.md | 2026-08-12 19:48 |
 || G303 | Royal Match | docs/RoyalMatch_20260812_1948.md | 2026-08-12 19:48 |
-|| G302 | Subway Surfers | docs/SubwaySurfers_20260812_1948.md | 2026-08-12 19:48 |
+||| G302 | Subway Surfers | docs/SubwaySurfers_20260812_1948.md | 2026-08-12 19:48 |
+||| G315 | Hordes of Enemies | docs/HordesOfEnemies_20260812_2325.md | 2026-08-12 23:26 |
+||| G316 | The Midnight Sanctuary | docs/TheMidnightSanctuary_20260812_2325.md | 2026-08-12 23:26 |
+||| G317 | Meowoof | docs/Meowoof_20260812_2325.md | 2026-08-12 23:26 |
+||| G318 | Hexio | docs/Hexio_20260812_2325.md | 2026-08-12 23:26 |
+||| G319 | Cube Escape: Paradox | docs/CubeEscapeParadox_20260812_2325.md | 2026-08-12 23:26 |
+||| G320 | Ammo Pigs: Armed and Delicious | docs/AmmoPigs_20260812_2325.md | 2026-08-12 23:26 |
+||| G321 | Golfing Around | docs/GolfingAround_20260812_2325.md | 2026-08-12 23:26 |
+||| G322 | Hooky Crook | docs/HookyCrook_20260812_2325.md | 2026-08-12 23:26 |
+||| G323 | Decipher | docs/Decipher_20260812_2325.md | 2026-08-12 23:26 |
 
 ## Execution Log
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
 |---|---|---|---|---|---|---|
-| 2026-08-12 19:48 | (R026: 3组搜索DuckDuckGo, 发现5来源S104-S108, 处理1来源S104产出12款游戏G302-G313, 4来源失败) | 5 | 1 (S104) | 0 | 12 (G302-G313) | 4 (S105反爬/S106 JS渲染/S107,S108无可提取游戏列表) |
+|| 2026-08-12 19:48 | (R026: 3组搜索DuckDuckGo, 发现5来源S104-S108, 处理1来源S104产出12款游戏G302-G313, 4来源失败) | 5 | 1 (S104) | 0 | 12 (G302-G313) | 4 (S105反爬/S106 JS渲染/S107,S108无可提取游戏列表) |
+| 2026-08-12 23:26 | (R028: DuckDuckGo被CAPTCHA阻止，改用PocketGamer Game Finder直接发现6来源S114-S119, 处理1来源S114产出9款游戏G315-G323, 5来源仅提取游戏名) | 6 | 1 (S114) | 153 | 9 (G315-G323) | 0 |
 | 2026-08-12 19:30 | (R025: 跳过搜索-Pending≥5, 处理6来源S098-S103, 产出6款游戏: HorizonChase/SlayawayCamp/GameDevStory/WarbitsPlus/SneakySasquatch/HallsOfTorment) | 0 | 6 (S098-S103) | 0 | 6 | 5 (S098/S100-S103 JS渲染/无法提取) |
 | 2026-08-12 14:23 | (R023: 跳过搜索-Pending≥5, 处理5来源S092-S097, 产出10款游戏G292-G301) | 0 | 5 (S092-S093,S095-S097) | 47 | 10 (G292-G301) | 0 (S092/S093为月度数据报告无新游戏) |
 || 2026-08-12 05:27 | (R018: 跳过搜索-MCP不可用，处理3个来源S065-S068，产出20款游戏文档)

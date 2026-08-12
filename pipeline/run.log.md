@@ -181,5 +181,13 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-12 19:48] [R026] [Phase 5: Graphify] ✅ 完成 — 4675 nodes, 4247 edges, 448 communities
 [2026-08-12 19:48] [R026] [Phase 3: Process Sources] ✅ 完成 — 处理1个来源(S104)，产出12款游戏(G302-G313)，4个失败(S105-S108)
 [2026-08-12 19:48] [R026] [Phase 2: Discover] ✅ 完成 — 搜索3组，发现5个新来源(S104-S108)
-[2026-08-12 19:48] [R026] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=103
-[2026-08-12 16:14] [R024] [Phase 2: Discover] ✅ 完成 — 搜索12个站点，发现6个新来源(S098-S103)
+[2026-08-12 21:32] [R027] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=5(stale:已全部处理), Processing=0, Archived=104+
+[2026-08-12 21:32] [R027] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空（游戏文档已由Phase 3直接生成）
+
+[2026-08-12 23:26] [R028] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=104+
+[2026-08-12 23:26] [R028] [Phase 2: Discover] ⚠️ 部分完成 — DuckDuckGo CAPTCHA阻止搜索，改用PocketGamer Game Finder直接发现6来源S114-S119(153款游戏)
+[2026-08-12 23:26] [R028] [Phase 3: Process Sources] ✅ 完成 — 处理1来源S114，基于PocketGamer review内容产出9款游戏文档G315-G323(均≥50行)，5来源仅提取游戏名
+[2026-08-12 23:26] [R028] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空（游戏文档已由Phase 3直接生成）
+[2026-08-12 23:26] [R028] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
+[2026-08-12 23:26] [R028] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新(6来源S114-S119, 9游戏G315-G323)
+[2026-08-12 23:26] [R028] [Phase 7: Git Push] ✅ 完成 — commit 成功
