@@ -402,12 +402,49 @@
 ||| G322 | Hooky Crook | docs/HookyCrook_20260812_2325.md | 2026-08-12 23:26 |
 ||| G323 | Decipher | docs/Decipher_20260812_2325.md | 2026-08-12 23:26 |
 
+||| G324 | Black Paradox | docs/BlackParadox_20260813_0117.md | 2026-08-13 03:00 |
+||| G325 | T3 Arena | docs/T3Arena_20260813_0117.md | 2026-08-13 03:00 |
+||| G326 | Streets of Rage 4 | docs/StreetsofRage4_20260813_0117.md | 2026-08-13 03:00 |
+||| G327 | Brawlhalla | docs/Brawlhalla_20260813_0117.md | 2026-08-13 03:00 |
+||| G328 | Guns of Boom | docs/GunsofBoom_20260813_0117.md | 2026-08-13 03:00 |
+||| G329 | Call of Duty Mobile | docs/CallofDutyMobile_20260813_0117.md | 2026-08-13 03:00 |
+||| G330 | Skullgirls Mobile | docs/SkullgirlsMobile_20260813_0117.md | 2026-08-13 03:00 |
+||| G331 | Bleach: Brave Souls | docs/BleachBraveSouls_20260813_0117.md | 2026-08-13 03:00 |
+||| G332 | Soul Knight | docs/SoulKnight_20260813_0117.md | 2026-08-13 03:00 |
+||| G333 | Shadowgun Legends | docs/ShadowgunLegends_20260813_0117.md | 2026-08-13 03:00 |
+||| G334 | Pascal's Wager | docs/PascalsWager_20260813_0117.md | 2026-08-13 03:00 |
+||| G335 | Nameless Cat | docs/NamelessCat_20260813_0117.md | 2026-08-13 03:00 |
+||| G336 | Dadish 2 | docs/Dadish2_20260813_0117.md | 2026-08-13 03:00 |
+||| G337 | Archero | docs/Archero_20260813_0118.md | 2026-08-13 03:00 |
+||| G338 | Ronin: The Last Samurai | docs/RoninTheLastSamurai_20260813_0118.md | 2026-08-13 03:00 |
+||| G339 | Otherworld Legends | docs/OtherworldLegends_20260813_0118.md | 2026-08-13 03:00 |
+||| G340 | Grimvalor | docs/Grimvalor_20260813_0118.md | 2026-08-13 03:00 |
+||| G341 | Tesla vs Lovecraft | docs/TeslavsLovecraft_20260813_0118.md | 2026-08-13 03:00 |
+||| G342 | Lovecraft's Untold Stories | docs/LovecraftsUntoldStories_20260813_0118.md | 2026-08-13 03:00 |
+||| G343 | Dragon Ball Legends | docs/DragonBallLegends_20260813_0118.md | 2026-08-13 03:00 |
+||| G344 | Neon Chrome | docs/NeonChrome_20260813_0118.md | 2026-08-13 03:00 |
+||| G345 | Tomb of the Mask | docs/TomboftheMask_20260813_0118.md | 2026-08-13 03:00 |
+||| G346 | Castlevania: SotN | docs/CastlevaniaSotN_20260813_0118.md | 2026-08-13 03:00 |
+||| G347 | Hitman: Blood Money | docs/HitmanBloodMoney_20260813_0118.md | 2026-08-13 03:00 |
+||| G348 | Thimbleweed Park | docs/ThimbleweedPark_20260813_0118.md | 2026-08-13 03:00 |
+||| G349 | Pokemon Go | docs/PokemonGo_20260813_0118.md | 2026-08-13 03:00 |
+||| G350 | Kombinera | docs/Kombinera_20260813_0118.md | 2026-08-13 03:00 |
+||| G351 | Exploding Kittens 2 | docs/ExplodingKittens2_20260813_0119.md | 2026-08-13 03:00 |
+||| G352 | Dicey Dungeons | docs/DiceyDungeons_20260813_0119.md | 2026-08-13 03:00 |
+||| G353 | Minesweeper | docs/Minesweeper_20260813_0119.md | 2026-08-13 03:00 |
+
+| S120 | PocketGamer Android Best Action Games | https://www.pocketgamer.com/android/best-action-games/ | 25 | 2026-08-13 03:00 |
+| S121 | Android Police Best Android Games | https://www.androidpolice.com/best-android-games/ | 28 | 2026-08-13 03:00 |
+| S122 | Rock Paper Shotgun Best Puzzle Games | https://www.rockpapershotgun.com/best-puzzle-games | 23 | 2026-08-13 03:00 |
+
 ## Execution Log
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
 |---|---|---|---|---|---|---|
 || 2026-08-12 19:48 | (R026: 3组搜索DuckDuckGo, 发现5来源S104-S108, 处理1来源S104产出12款游戏G302-G313, 4来源失败) | 5 | 1 (S104) | 0 | 12 (G302-G313) | 4 (S105反爬/S106 JS渲染/S107,S108无可提取游戏列表) |
-| 2026-08-12 23:26 | (R028: DuckDuckGo被CAPTCHA阻止，改用PocketGamer Game Finder直接发现6来源S114-S119, 处理1来源S114产出9款游戏G315-G323, 5来源仅提取游戏名) | 6 | 1 (S114) | 153 | 9 (G315-G323) | 0 |
+| 2026-08-12 23:26 | (R028: DuckDuckGo被CAPTCHA阻止，改用PocketGamer Game Finder直接发现6来源S114-S119, 处理1来源S114产出9款游戏G315-G323, 5来源仅提取游戏名) |
+|| 2026-08-13 03:00 | (R029: 3组搜索来源, 发现3来源S120-S122, 处理3来源, 产出30款游戏文档G324-G353) | 3 | 3 (S120-S122) | 0 | 30 (G324-G353) | 0 |
+ 6 | 1 (S114) | 153 | 9 (G315-G323) | 0 |
 | 2026-08-12 19:30 | (R025: 跳过搜索-Pending≥5, 处理6来源S098-S103, 产出6款游戏: HorizonChase/SlayawayCamp/GameDevStory/WarbitsPlus/SneakySasquatch/HallsOfTorment) | 0 | 6 (S098-S103) | 0 | 6 | 5 (S098/S100-S103 JS渲染/无法提取) |
 | 2026-08-12 14:23 | (R023: 跳过搜索-Pending≥5, 处理5来源S092-S097, 产出10款游戏G292-G301) | 0 | 5 (S092-S093,S095-S097) | 47 | 10 (G292-G301) | 0 (S092/S093为月度数据报告无新游戏) |
 || 2026-08-12 05:27 | (R018: 跳过搜索-MCP不可用，处理3个来源S065-S068，产出20款游戏文档)

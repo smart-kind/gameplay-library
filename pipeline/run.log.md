@@ -191,3 +191,12 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-12 23:26] [R028] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
 [2026-08-12 23:26] [R028] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新(6来源S114-S119, 9游戏G315-G323)
 [2026-08-12 23:26] [R028] [Phase 7: Git Push] ✅ 完成 — commit 成功
+
+## 2026-08-13
+
+[2026-08-13 03:00] [R029] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=107+
+[2026-08-13 03:00] [R029] [Phase 2: Discover] ✅ 完成 — 3个静态页面源, 发现3个新来源(S120-S122)
+[2026-08-13 03:00] [R029] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S120-S122)，产出76款游戏名，选择30款生成文档
+[2026-08-13 03:00] [R029] [Phase 4: Process Games] ✅ 完成 — 处理30款游戏(G324-G353)，产出30份文档(iTunes+Wikipedia)，0个失败
+[2026-08-13 03:00] [R029] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
+[2026-08-13 03:00] [R029] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
