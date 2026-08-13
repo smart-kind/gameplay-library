@@ -4,8 +4,8 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S141 | These 9 Hypercasual Games Stood Out in 2025 | https://www.gamigion.com/these-9-hypercasual-games-stood-out-in-2025/ | 9 | 2026-08-13 09:57 |
-| S142 | Top 10 Best Casual Games To Play In 2025 HotBot | https://www.hotbot.com/articles/best-casual-games-2025/ | 模板文章(Game Title等占位符)，无真实游戏内容 | 2026-08-13 09:57 |
+| S145 | PocketGamer Game Finder Page 30 | https://www.pocketgamer.com/game-finder/page/30/0_all_0_1_1/ | 游戏列表 | 2026-08-13 13:00 |
+| S146 | PocketGamer Game Finder Page 31 | https://www.pocketgamer.com/game-finder/page/31/0_all_0_1_1/ | 游戏列表 | 2026-08-13 13:00 |
 
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
@@ -40,6 +40,9 @@
 | S113 | GameSpot Best Indie Games | https://www.gamespot.com/gallery/best-indie-games/2900-5964/ | 内容过少(5KB)，JS渲染 | 2026-08-12 21:32 |
 | S131 | Games with the most engaging gameplay loops : r/gamedesign | https://www.reddit.com/r/gamedesign/comments/11kdfl0/games_with_the_most_engaging_gameplay_loops/ | JS渲染/无法提取游戏列表 | 2026-08-13 04:37 |
 | S132 | Simple yet unique indie puzzle games : r/gamingsuggestions | https://www.reddit.com/r/gamingsuggestions/comments/16dlhsc/what_are_some_simple_yet_unique_indie_puzzle/ | JS渲染/无法提取游戏列表 | 2026-08-13 04:37 |
+
+| S145 | PocketGamer Game Finder Page 30 | https://www.pocketgamer.com/game-finder/page/30/0_all_0_1_1/ | 25 | 2026-08-13 13:00 |
+| S146 | PocketGamer Game Finder Page 31 | https://www.pocketgamer.com/game-finder/page/31/0_all_0_1_1/ | 25 | 2026-08-13 13:00 |
 
 ## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
