@@ -7,9 +7,22 @@
 | S145 | PocketGamer Game Finder Page 30 | https://www.pocketgamer.com/game-finder/page/30/0_all_0_1_1/ | 游戏列表 | 2026-08-13 13:00 |
 | S146 | PocketGamer Game Finder Page 31 | https://www.pocketgamer.com/game-finder/page/31/0_all_0_1_1/ | 游戏列表 | 2026-08-13 13:00 |
 
+
+
+
+| S151 | MiniReview Best Puzzle Games on Mobile | https://minireview.io/top-mobile-games/best-puzzle-games-on-mobile | 游戏列表 | 2026-08-13 13:15 |
+| S152 | GamerCatZ Purrfect Puzzles 2025 | https://gamercatz.com/purrfect-puzzles-best-mobile-puzzle-games-for-2025/ | 游戏列表 | 2026-08-13 13:15 |
+| S153 | FoxData 10 Best Puzzle Mobile Games 2025 | https://foxdata.com/en/blogs/10-best-puzzle-mobile-games-to-play-in-2025/ | 游戏列表 | 2026-08-13 13:15 |
+
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S147 | PocketGamer Best Mobile Games of 2025 | https://www.pocketgamer.com/best-games/mobile-games-of-2025/ | 3 | 2026-08-13 13:23 |
+| S148 | PocketGamer Most Addictive Mobile Games | https://www.pocketgamer.com/best-games/most-addictive-mobile-games/ | 15 | 2026-08-13 13:23 |
+| S149 | PocketGamer Best Free Mobile Games | https://www.pocketgamer.com/best-games/free-mobile-games/ | 24 | 2026-08-13 13:23 |
+| S150 | PocketGamer Best Indie Mobile Games | https://www.pocketgamer.com/best-games/indie-mobile-games/ | 19 | 2026-08-13 13:23 |
+| S152 | GamerCatZ Purrfect Puzzles 2025 | https://gamercatz.com/purrfect-puzzles-best-mobile-puzzle-games-for-2025/ | 5 | 2026-08-13 13:23 |
+| S153 | FoxData 10 Best Puzzle Mobile Games 2025 | https://foxdata.com/en/blogs/10-best-puzzle-mobile-games-to-play-in-2025/ | 10 | 2026-08-13 13:23 |
 | S136 | Top 5 Best Hyper Casual Games of 2025 | https://gamercatz.com/top-5-best-hyper-casual-games-of-2025-purrfect-picks/ | 3 | 2026-08-13 10:30 |
 | S137 | 2025 Top 5 Hyper-Casual Games | https://playhve.com/article/2025-top-5-hyper-casual-games-instant-fun-in-your-pocket | 0 | 2026-08-13 10:30 |
 | S138 | Top Hypercasual Games with Over 250 Million Downloads | https://nextbiggames.com/2025/11/14/top-hypercasual-games-with-over-250-million-downloads/ | 5 | 2026-08-13 10:30 |
@@ -30,6 +43,7 @@
 ## Sources Failed（失败）
 | ID | 标题 | URL | 失败原因 | 失败时间 |
 |---|---|---|---|---|
+| S151 | MiniReview Best Puzzle Games on Mobile | https://minireview.io/top-mobile-games/best-puzzle-games-on-mobile | JS渲染/无法提取游戏列表 | 2026-08-13 13:23 |
 | S105 | 10 Mobile Games You'll Actually Want to Play in 2025 | https://fictionhorizon.com/mobile-games-youll-actually-want-to-play-in-2025/ | 反爬虫 (Human verification) | 2026-08-12 19:48 |
 | S106 | Top rated Puzzle games tagged loop - itch.io | https://itch.io/games/top-rated/genre-puzzle/tag-loop | JS渲染，内容过少(5616 bytes) | 2026-08-12 19:48 |
 | S107 | Top Hyper Casual Game Trends to Watch in 2026 | https://www.coherentlab.com/blog/top-hyper-casual-game-trends | 趋势分析文章，无可提取游戏列表 | 2026-08-12 19:48 |
@@ -471,6 +485,16 @@
 ||| G351 | Exploding Kittens 2 | docs/ExplodingKittens2_20260813_0119.md | 2026-08-13 03:00 |
 ||| G352 | Dicey Dungeons | docs/DiceyDungeons_20260813_0119.md | 2026-08-13 03:00 |
 ||| G353 | Minesweeper | docs/Minesweeper_20260813_0119.md | 2026-08-13 03:00 |
+|| G381 | Disco Elysium | docs/DiscoElysium_20260813_1323.md | 2026-08-13 13:23 |
+|| G382 | Dark and Darker Mobile | docs/DarkandDarkerMobile_20260813_1323.md | 2026-08-13 13:23 |
+|| G383 | Roblox | docs/Roblox_20260813_1323.md | 2026-08-13 13:23 |
+|| G384 | Tower of Fantasy | docs/TowerofFantasy_20260813_1323.md | 2026-08-13 13:23 |
+|| G385 | Cookie Run: Kingdom | docs/CookieRunKingdom_20260813_1323.md | 2026-08-13 13:23 |
+|| G386 | Hearthstone: Heroes of Warcraft | docs/HearthstoneHeroesofWarcraft_20260813_1323.md | 2026-08-13 13:23 |
+|| G387 | Garena Free Fire | docs/GarenaFreeFire_20260813_1323.md | 2026-08-13 13:23 |
+|| G388 | Whiteout Survival | docs/WhiteoutSurvival_20260813_1323.md | 2026-08-13 13:23 |
+|| G389 | Minecraft | docs/Minecraft_20260813_1323.md | 2026-08-13 13:23 |
+|| G390 | Geometry Dash | docs/GeometryDash_20260813_1323.md | 2026-08-13 13:23 |
 || G354 | Dash Quest Heroes | docs/DashQuestHeroes_20260813_0447.md | 2026-08-13 04:47 |
 || G355 | Prizefighters | docs/Prizefighters_20260813_0447.md | 2026-08-13 04:47 |
 || G356 | Mantis Burn Racing | docs/MantisBurnRacing_20260813_0447.md | 2026-08-13 04:47 |
