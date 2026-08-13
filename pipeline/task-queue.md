@@ -30,6 +30,9 @@
 
 | S143 | PocketGamer Game Finder Page 28 | https://www.pocketgamer.com/game-finder/page/28/0_all_0_1_1/ | 15 | 2026-08-13 09:57 |
 | S144 | PocketGamer Game Finder Page 29 | https://www.pocketgamer.com/game-finder/page/29/0_all_0_1_1/ | 10 | 2026-08-13 09:57 |
+| S154 | PocketGamer Game Finder Page 32 | https://www.pocketgamer.com/game-finder/page/32/0_all_0_1_1/ | 25 | 2026-08-13 15:12 |
+| S155 | PocketGamer Game Finder Page 33 | https://www.pocketgamer.com/game-finder/page/33/0_all_0_1_1/ | 25 | 2026-08-13 15:12 |
+| S156 | PocketGamer Game Finder Page 34 | https://www.pocketgamer.com/game-finder/page/34/0_all_0_1_1/ | 25 | 2026-08-13 15:12 |
 
 ## Sources Failed（本轮新增）
 | ID | 标题 | URL | 失败原因 | 失败时间 |
@@ -531,6 +534,8 @@
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
 
 | 2026-08-13 09:57 | 3组(PocketGamer P28/P29+Gamigion) | 2 | 3(S141成功9款,S142失败,S143/S144归档) | 34 | 34 | 1(S142模板文章) |
+|---|---|---|---|---|---|---|
+| 2026-08-13 15:12 | (R036: 处理PocketGamer P32/P33/P34共75款游戏名，产出10款文档G424-G433) | 3 (S154-S156) | 3 (S154-S156) | 75 | 10 (G424-G433) | 0 |
 |---|---|---|---|---|---|---|
 || 2026-08-12 19:48 | (R026: 3组搜索DuckDuckGo, 发现5来源S104-S108, 处理1来源S104产出12款游戏G302-G313, 4来源失败) | 5 | 1 (S104) | 0 | 12 (G302-G313) | 4 (S105反爬/S106 JS渲染/S107,S108无可提取游戏列表) |
 | 2026-08-12 23:26 | (R028: DuckDuckGo被CAPTCHA阻止，改用PocketGamer Game Finder直接发现6来源S114-S119, 处理1来源S114产出9款游戏G315-G323, 5来源仅提取游戏名) |
