@@ -4,8 +4,25 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S141 | These 9 Hypercasual Games Stood Out in 2025 | https://www.gamigion.com/these-9-hypercasual-games-stood-out-in-2025/ | 9 | 2026-08-13 09:57 |
+| S142 | Top 10 Best Casual Games To Play In 2025 HotBot | https://www.hotbot.com/articles/best-casual-games-2025/ | 模板文章(Game Title等占位符)，无真实游戏内容 | 2026-08-13 09:57 |
 
-## Sources Processing（处理中）
+## Sources Archived（本轮新增）
+| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|---|---|---|---|---|
+| S136 | Top 5 Best Hyper Casual Games of 2025 | https://gamercatz.com/top-5-best-hyper-casual-games-of-2025-purrfect-picks/ | 3 | 2026-08-13 10:30 |
+| S137 | 2025 Top 5 Hyper-Casual Games | https://playhve.com/article/2025-top-5-hyper-casual-games-instant-fun-in-your-pocket | 0 | 2026-08-13 10:30 |
+| S138 | Top Hypercasual Games with Over 250 Million Downloads | https://nextbiggames.com/2025/11/14/top-hypercasual-games-with-over-250-million-downloads/ | 5 | 2026-08-13 10:30 |
+
+
+| S143 | PocketGamer Game Finder Page 28 | https://www.pocketgamer.com/game-finder/page/28/0_all_0_1_1/ | 15 | 2026-08-13 09:57 |
+| S144 | PocketGamer Game Finder Page 29 | https://www.pocketgamer.com/game-finder/page/29/0_all_0_1_1/ | 10 | 2026-08-13 09:57 |
+
+## Sources Failed（本轮新增）
+| ID | 标题 | URL | 失败原因 | 失败时间 |
+|---|---|---|---|---|
+| S139 | Top 10 Casual Games of 2025 Road Ahead | https://www.gamigion.com/top-10-casual-games-of-2025-road-ahead-to-2028/ | 趋势分析文章，无可提取游戏列表 | 2026-08-13 10:30 |
+| S140 | Top 10 Best Casual Games To Play In 2025 | https://www.hotbot.com/articles/best-casual-games-2025/ | 模板文章(Game Title One等占位符)，无真实游戏内容 | 2026-08-13 10:30 |
 
 | ID | 类型 | 标题 | URL | 开始时间 |
 |---|---|---|---|---|
@@ -485,6 +502,8 @@
 ## Execution Log
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
+
+| 2026-08-13 09:57 | 3组(PocketGamer P28/P29+Gamigion) | 2 | 3(S141成功9款,S142失败,S143/S144归档) | 34 | 34 | 1(S142模板文章) |
 |---|---|---|---|---|---|---|
 || 2026-08-12 19:48 | (R026: 3组搜索DuckDuckGo, 发现5来源S104-S108, 处理1来源S104产出12款游戏G302-G313, 4来源失败) | 5 | 1 (S104) | 0 | 12 (G302-G313) | 4 (S105反爬/S106 JS渲染/S107,S108无可提取游戏列表) |
 | 2026-08-12 23:26 | (R028: DuckDuckGo被CAPTCHA阻止，改用PocketGamer Game Finder直接发现6来源S114-S119, 处理1来源S114产出9款游戏G315-G323, 5来源仅提取游戏名) |
