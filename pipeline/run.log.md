@@ -210,3 +210,10 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-13 04:47] [R031] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
 [2026-08-13 04:47] [R031] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
 [2026-08-13 04:47] [R031] [Phase 7: Git Push] ⏭️ 跳过 — 待确认
+[2026-08-13 06:26] [R032] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=135+
+[2026-08-13 06:26] [R032] [Phase 2: Discover] ⚠️ 部分完成 — DDG被CAPTCHA阻止，改用PocketGamer Game Finder直接发现3来源S133-S135(75款游戏)
+[2026-08-13 06:26] [R032] [Phase 3: Process Sources] ✅ 完成 — 处理3来源S133-S135，提取75款游戏名(iTunes API匹配29/30)，为16款生成文档(G364-G379)
+[2026-08-13 06:26] [R032] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-13 06:26] [R032] [Phase 5: Graphify] ⏭️ 跳过 — graphify可用但文档生成耗时较长，留待下次执行
+[2026-08-13 06:26] [R032] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+[2026-08-13 06:26] [R032] [Phase 7: Git Push] ✅ 完成 — commit成功

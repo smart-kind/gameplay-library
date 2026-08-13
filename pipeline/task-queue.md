@@ -42,6 +42,9 @@
 | S128 | PocketGamer Game Finder Page 21 | https://www.pocketgamer.com/game-finder/page/21/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
 | S129 | PocketGamer Game Finder Page 22 | https://www.pocketgamer.com/game-finder/page/22/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
 | S130 | PocketGamer Game Finder Page 23 | https://www.pocketgamer.com/game-finder/page/23/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S133 | PocketGamer Game Finder Page 24 | https://www.pocketgamer.com/game-finder/page/24/0_all_0_1_1/ | 25 | 2026-08-13 06:26 |
+| S134 | PocketGamer Game Finder Page 25 | https://www.pocketgamer.com/game-finder/page/25/0_all_0_1_1/ | 25 | 2026-08-13 06:26 |
+| S135 | PocketGamer Game Finder Page 26 | https://www.pocketgamer.com/game-finder/page/26/0_all_0_1_1/ | 25 | 2026-08-13 06:26 |
 
 | S104 | Best Mobile Games 2025: Top iOS & Android Games | https://gameszoom.com/blog/best-mobile-games-2025.html | 12 | 2026-08-12 19:48 |
 
@@ -458,6 +461,22 @@
 || G361 | Corporate Salmon | docs/CorporateSalmon_20260813_0447.md | 2026-08-13 04:47 |
 || G362 | LA Noire | docs/LANoire_20260813_0447.md | 2026-08-13 04:47 |
 || G363 | Bladebound | docs/Bladebound_20260813_0447.md | 2026-08-13 04:47 |
+|| G364 | Kickerinho World | docs/KickerinhoWorld_20260813_0626.md | 2026-08-13 06:26 |
+|| G365 | Hungry Shark World | docs/HungrySharkWorld_20260813_0626.md | 2026-08-13 06:26 |
+|| G366 | Slither.io | docs/slitherio_20260813_0626.md | 2026-08-13 06:26 |
+|| G367 | Thumb Drift | docs/ThumbDriftFuriousRacing_20260813_0626.md | 2026-08-13 06:26 |
+|| G368 | Beat Stomper | docs/BeatStomper_20260813_0626.md | 2026-08-13 06:26 |
+|| G369 | Olympus Rising | docs/OlympusRisingHeroDefense_20260813_0626.md | 2026-08-13 06:26 |
+|| G370 | Candy Crush Jelly Saga | docs/CandyCrushJellySaga_20260813_0626.md | 2026-08-13 06:26 |
+|| G371 | Badland 2 | docs/BADLAND2_20260813_0626.md | 2026-08-13 06:26 |
+|| G372 | Virtual Families | docs/VirtualFamilies3_20260813_0626.md | 2026-08-13 06:26 |
+|| G373 | Township | docs/Township_20260813_0626.md | 2026-08-13 06:26 |
+|| G374 | Cookie Jam | docs/CookieJamMatch3Games_20260813_0626.md | 2026-08-13 06:26 |
+|| G375 | LEGO Ninjago | docs/LEGONinjago_20260813_0626.md | 2026-08-13 06:26 |
+|| G376 | Zenonia 5 | docs/ZENONIA5_20260813_0626.md | 2026-08-13 06:26 |
+|| G377 | Spellstone | docs/Spellstone_20260813_0626.md | 2026-08-13 06:26 |
+|| G378 | Kitty Pops | docs/KittyPops_20260813_0626.md | 2026-08-13 06:26 |
+|| G379 | Polybear | docs/Polybear_20260813_0626.md | 2026-08-13 06:26 |
 
 | S120 | PocketGamer Android Best Action Games | https://www.pocketgamer.com/android/best-action-games/ | 25 | 2026-08-13 03:00 |
 | S121 | Android Police Best Android Games | https://www.androidpolice.com/best-android-games/ | 28 | 2026-08-13 03:00 |
@@ -471,6 +490,7 @@
 | 2026-08-12 23:26 | (R028: DuckDuckGo被CAPTCHA阻止，改用PocketGamer Game Finder直接发现6来源S114-S119, 处理1来源S114产出9款游戏G315-G323, 5来源仅提取游戏名) |
 ||| 2026-08-13 03:00 | (R029: 3组搜索来源, 发现3来源S120-S122, 处理3来源, 产出30款游戏文档G324-G353) | 3 | 3 (S120-S122) | 0 | 30 (G324-G353) | 0 |
 || 2026-08-13 04:47 | (R031: 3组DDG搜索, 发现11候选URL, 去重后加入6新来源S127-S132, 处理8个来源S123-S130产出194款游戏名, 产出10款文档G354-G363, 2来源失败) | 6 | 8 (S123-S130) | 194 | 10 (G354-G363) | 2 (S131/S132 Reddit JS渲染) |
+|| 2026-08-13 06:32 | (R032: DDG被CAPTCHA阻止，改用PocketGamer Game Finder直接发现3来源S133-S135共75款游戏名，通过iTunes API+Wikipedia为其中16款生成详细文档G364-G379) | 3 | 3 (S133-S135) | 75 | 16 (G364-G379) | 0 |
  6 | 1 (S114) | 153 | 9 (G315-G323) | 0 |
 | 2026-08-12 19:30 | (R025: 跳过搜索-Pending≥5, 处理6来源S098-S103, 产出6款游戏: HorizonChase/SlayawayCamp/GameDevStory/WarbitsPlus/SneakySasquatch/HallsOfTorment) | 0 | 6 (S098-S103) | 0 | 6 | 5 (S098/S100-S103 JS渲染/无法提取) |
 | 2026-08-12 14:23 | (R023: 跳过搜索-Pending≥5, 处理5来源S092-S097, 产出10款游戏G292-G301) | 0 | 5 (S092-S093,S095-S097) | 47 | 10 (G292-G301) | 0 (S092/S093为月度数据报告无新游戏) |
