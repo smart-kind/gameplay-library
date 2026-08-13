@@ -5,6 +5,11 @@
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
 
+## Sources Processing（处理中）
+
+| ID | 类型 | 标题 | URL | 开始时间 |
+|---|---|---|---|---|
+
 ## Sources Failed（失败）
 | ID | 标题 | URL | 失败原因 | 失败时间 |
 |---|---|---|---|---|
@@ -16,6 +21,8 @@
 | S110 | Time Loop Games That Bend Your Brain | https://fictionhorizon.com/time-loop-games-that-bend-your-brain/ | Cloudflare 反爬虫 (Human verification) | 2026-08-12 21:32 |
 | S111 | itch.io Games tagged loop | https://itch.io/games/tag-loop | 36款小游戏均为独立开发者作品，非目标游戏库类型 | 2026-08-12 21:32 |
 | S113 | GameSpot Best Indie Games | https://www.gamespot.com/gallery/best-indie-games/2900-5964/ | 内容过少(5KB)，JS渲染 | 2026-08-12 21:32 |
+| S131 | Games with the most engaging gameplay loops : r/gamedesign | https://www.reddit.com/r/gamedesign/comments/11kdfl0/games_with_the_most_engaging_gameplay_loops/ | JS渲染/无法提取游戏列表 | 2026-08-13 04:37 |
+| S132 | Simple yet unique indie puzzle games : r/gamingsuggestions | https://www.reddit.com/r/gamingsuggestions/comments/16dlhsc/what_are_some_simple_yet_unique_indie_puzzle/ | JS渲染/无法提取游戏列表 | 2026-08-13 04:37 |
 
 ## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
@@ -26,6 +33,15 @@
 | S117 | PocketGamer Game Finder Page 14 | https://www.pocketgamer.com/game-finder/page/14/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
 | S118 | PocketGamer Game Finder Page 15 | https://www.pocketgamer.com/game-finder/page/15/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
 | S119 | PocketGamer Game Finder Page 16 | https://www.pocketgamer.com/game-finder/page/16/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
+
+| S123 | PocketGamer Game Finder Page 17 | https://www.pocketgamer.com/game-finder/page/17/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S124 | PocketGamer Game Finder Page 18 | https://www.pocketgamer.com/game-finder/page/18/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S125 | PocketGamer Game Finder Page 19 | https://www.pocketgamer.com/game-finder/page/19/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S126 | PocketGamer Game Finder Page 20 | https://www.pocketgamer.com/game-finder/page/20/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S127 | 19 Best Indie Games to Play in 2026 Expert Picks by Genre | https://www.eneba.com/hub/games/best-indie-games/ | 19 | 2026-08-13 04:37 |
+| S128 | PocketGamer Game Finder Page 21 | https://www.pocketgamer.com/game-finder/page/21/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S129 | PocketGamer Game Finder Page 22 | https://www.pocketgamer.com/game-finder/page/22/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S130 | PocketGamer Game Finder Page 23 | https://www.pocketgamer.com/game-finder/page/23/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
 
 | S104 | Best Mobile Games 2025: Top iOS & Android Games | https://gameszoom.com/blog/best-mobile-games-2025.html | 12 | 2026-08-12 19:48 |
 
@@ -432,6 +448,16 @@
 ||| G351 | Exploding Kittens 2 | docs/ExplodingKittens2_20260813_0119.md | 2026-08-13 03:00 |
 ||| G352 | Dicey Dungeons | docs/DiceyDungeons_20260813_0119.md | 2026-08-13 03:00 |
 ||| G353 | Minesweeper | docs/Minesweeper_20260813_0119.md | 2026-08-13 03:00 |
+|| G354 | Dash Quest Heroes | docs/DashQuestHeroes_20260813_0447.md | 2026-08-13 04:47 |
+|| G355 | Prizefighters | docs/Prizefighters_20260813_0447.md | 2026-08-13 04:47 |
+|| G356 | Mantis Burn Racing | docs/MantisBurnRacing_20260813_0447.md | 2026-08-13 04:47 |
+|| G357 | Timber West | docs/TimberWest_20260813_0447.md | 2026-08-13 04:47 |
+|| G358 | Amazing Katamari Damacy | docs/AmazingKatamariDamacy_20260813_0447.md | 2026-08-13 04:47 |
+|| G359 | Mayhem | docs/Mayhem_20260813_0447.md | 2026-08-13 04:47 |
+|| G360 | Tap Busters: Galaxy Heroes | docs/TapBustersGalaxyHeroes_20260813_0447.md | 2026-08-13 04:47 |
+|| G361 | Corporate Salmon | docs/CorporateSalmon_20260813_0447.md | 2026-08-13 04:47 |
+|| G362 | LA Noire | docs/LANoire_20260813_0447.md | 2026-08-13 04:47 |
+|| G363 | Bladebound | docs/Bladebound_20260813_0447.md | 2026-08-13 04:47 |
 
 | S120 | PocketGamer Android Best Action Games | https://www.pocketgamer.com/android/best-action-games/ | 25 | 2026-08-13 03:00 |
 | S121 | Android Police Best Android Games | https://www.androidpolice.com/best-android-games/ | 28 | 2026-08-13 03:00 |
@@ -443,7 +469,8 @@
 |---|---|---|---|---|---|---|
 || 2026-08-12 19:48 | (R026: 3组搜索DuckDuckGo, 发现5来源S104-S108, 处理1来源S104产出12款游戏G302-G313, 4来源失败) | 5 | 1 (S104) | 0 | 12 (G302-G313) | 4 (S105反爬/S106 JS渲染/S107,S108无可提取游戏列表) |
 | 2026-08-12 23:26 | (R028: DuckDuckGo被CAPTCHA阻止，改用PocketGamer Game Finder直接发现6来源S114-S119, 处理1来源S114产出9款游戏G315-G323, 5来源仅提取游戏名) |
-|| 2026-08-13 03:00 | (R029: 3组搜索来源, 发现3来源S120-S122, 处理3来源, 产出30款游戏文档G324-G353) | 3 | 3 (S120-S122) | 0 | 30 (G324-G353) | 0 |
+||| 2026-08-13 03:00 | (R029: 3组搜索来源, 发现3来源S120-S122, 处理3来源, 产出30款游戏文档G324-G353) | 3 | 3 (S120-S122) | 0 | 30 (G324-G353) | 0 |
+|| 2026-08-13 04:47 | (R031: 3组DDG搜索, 发现11候选URL, 去重后加入6新来源S127-S132, 处理8个来源S123-S130产出194款游戏名, 产出10款文档G354-G363, 2来源失败) | 6 | 8 (S123-S130) | 194 | 10 (G354-G363) | 2 (S131/S132 Reddit JS渲染) |
  6 | 1 (S114) | 153 | 9 (G315-G323) | 0 |
 | 2026-08-12 19:30 | (R025: 跳过搜索-Pending≥5, 处理6来源S098-S103, 产出6款游戏: HorizonChase/SlayawayCamp/GameDevStory/WarbitsPlus/SneakySasquatch/HallsOfTorment) | 0 | 6 (S098-S103) | 0 | 6 | 5 (S098/S100-S103 JS渲染/无法提取) |
 | 2026-08-12 14:23 | (R023: 跳过搜索-Pending≥5, 处理5来源S092-S097, 产出10款游戏G292-G301) | 0 | 5 (S092-S093,S095-S097) | 47 | 10 (G292-G301) | 0 (S092/S093为月度数据报告无新游戏) |

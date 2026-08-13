@@ -199,4 +199,14 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-13 03:00] [R029] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S120-S122)，产出76款游戏名，选择30款生成文档
 [2026-08-13 03:00] [R029] [Phase 4: Process Games] ✅ 完成 — 处理30款游戏(G324-G353)，产出30份文档(iTunes+Wikipedia)，0个失败
 [2026-08-13 03:00] [R029] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
-[2026-08-13 03:00] [R029] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
+[2026-08-13 07:00] [R030] [Phase 2: Discover] ✅ 完成 — 手动发现4个新来源(S123-S126)，PocketGamer Game Finder 17-20
+
+## 2026-08-13
+
+[2026-08-13 04:37] [R031] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=4, Processing=0, Archived=107+
+[2026-08-13 04:47] [R031] [Phase 2: Discover] ✅ 完成 — 搜索3组关键词(DDG)，发现11个候选URL，去重后加入6个新来源(S127-S132)
+[2026-08-13 04:47] [R031] [Phase 3: Process Sources] ✅ 完成 — 处理8个来源(S123-S130)，提取194款游戏名(7页PocketGamer各25款+ENEBА19款)，产出10款文档(G354-G363)，2来源失败(S131/S132 Reddit JS渲染)
+[2026-08-13 04:47] [R031] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空（游戏文档已由Phase 3直接生成）
+[2026-08-13 04:47] [R031] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
+[2026-08-13 04:47] [R031] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
+[2026-08-13 04:47] [R031] [Phase 7: Git Push] ⏭️ 跳过 — 待确认
