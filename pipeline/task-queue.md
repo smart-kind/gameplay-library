@@ -4,19 +4,13 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S145 | PocketGamer Game Finder Page 30 | https://www.pocketgamer.com/game-finder/page/30/0_all_0_1_1/ | 游戏列表 | 2026-08-13 13:00 |
-| S146 | PocketGamer Game Finder Page 31 | https://www.pocketgamer.com/game-finder/page/31/0_all_0_1_1/ | 游戏列表 | 2026-08-13 13:00 |
-
-
-
-
-| S151 | MiniReview Best Puzzle Games on Mobile | https://minireview.io/top-mobile-games/best-puzzle-games-on-mobile | 游戏列表 | 2026-08-13 13:15 |
-| S152 | GamerCatZ Purrfect Puzzles 2025 | https://gamercatz.com/purrfect-puzzles-best-mobile-puzzle-games-for-2025/ | 游戏列表 | 2026-08-13 13:15 |
-| S153 | FoxData 10 Best Puzzle Mobile Games 2025 | https://foxdata.com/en/blogs/10-best-puzzle-mobile-games-to-play-in-2025/ | 游戏列表 | 2026-08-13 13:15 |
 
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S157 | PocketGamer Game Finder Page 35 | https://www.pocketgamer.com/game-finder/page/35/0_all_0_1_1/ | 25 | 2026-08-13 16:52 |
+| S158 | PocketGamer Game Finder Page 36 | https://www.pocketgamer.com/game-finder/page/36/0_all_0_1_1/ | 25 | 2026-08-13 16:52 |
+| S159 | PocketGamer Game Finder Page 37 | https://www.pocketgamer.com/game-finder/page/37/0_all_0_1_1/ | 25 | 2026-08-13 16:52 |
 | S147 | PocketGamer Best Mobile Games of 2025 | https://www.pocketgamer.com/best-games/mobile-games-of-2025/ | 3 | 2026-08-13 13:23 |
 | S148 | PocketGamer Most Addictive Mobile Games | https://www.pocketgamer.com/best-games/most-addictive-mobile-games/ | 15 | 2026-08-13 13:23 |
 | S149 | PocketGamer Best Free Mobile Games | https://www.pocketgamer.com/best-games/free-mobile-games/ | 24 | 2026-08-13 13:23 |
@@ -497,7 +491,16 @@
 || G387 | Garena Free Fire | docs/GarenaFreeFire_20260813_1323.md | 2026-08-13 13:23 |
 || G388 | Whiteout Survival | docs/WhiteoutSurvival_20260813_1323.md | 2026-08-13 13:23 |
 || G389 | Minecraft | docs/Minecraft_20260813_1323.md | 2026-08-13 13:23 |
-|| G390 | Geometry Dash | docs/GeometryDash_20260813_1323.md | 2026-08-13 13:23 |
+||| G390 | Geometry Dash | docs/GeometryDash_20260813_1323.md | 2026-08-13 13:23 |
+|| G434 | Wrestling Revolution 3D | docs/WrestlingRevolution3D_20260813_1644.md | 2026-08-13 16:52 |
+|| G435 | Diner DASH Adventures | docs/DinerDASHAdventures_20260813_1644.md | 2026-08-13 16:52 |
+|| G436 | Dumb Ways to Die | docs/DumbWaystoDie_20260813_1644.md | 2026-08-13 16:52 |
+|| G437 | Hyper Heroes: Marble-Like RPG | docs/HyperHeroesMarbleLikeRPG_20260813_1644.md | 2026-08-13 16:52 |
+|| G438 | Samurai Flash | docs/SamuraiFlash_20260813_1644.md | 2026-08-13 16:52 |
+|| G439 | Red Ball 4 | docs/RedBall4AdSupported_20260813_1644.md | 2026-08-13 16:52 |
+|| G440 | Auto Brawl Chess: Battle Royale | docs/AutoBrawlChessBattleRoyale_20260813_1644.md | 2026-08-13 16:52 |
+|| G441 | Pyramid Solitaire Saga | docs/PyramidSolitaireSaga_20260813_1644.md | 2026-08-13 16:52 |
+|| G442 | VS. Racing 2 | docs/VSRacing2_20260813_1644.md | 2026-08-13 16:52 |
 || G354 | Dash Quest Heroes | docs/DashQuestHeroes_20260813_0447.md | 2026-08-13 04:47 |
 || G355 | Prizefighters | docs/Prizefighters_20260813_0447.md | 2026-08-13 04:47 |
 || G356 | Mantis Burn Racing | docs/MantisBurnRacing_20260813_0447.md | 2026-08-13 04:47 |
