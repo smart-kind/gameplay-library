@@ -5,6 +5,19 @@
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
 
+
+## Sources Archived（本轮新增）
+| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|---|---|---|---|---|
+| S160 | PocketGamer Game Finder Page 38 | https://www.pocketgamer.com/game-finder/page/38/0_all_0_1_1/ | 10 | 2026-08-13 20:00 |
+| S161 | PocketGamer Game Finder Page 39 | https://www.pocketgamer.com/game-finder/page/39/0_all_0_1_1/ | 10 | 2026-08-13 20:00 |
+| S162 | PocketGamer Game Finder Page 40 | https://www.pocketgamer.com/game-finder/page/40/0_all_0_1_1/ | 10 | 2026-08-13 20:00 |
+| S163 | GameSpot Hidden Gems 2025 | https://www.gamespot.com/gallery/hidden-gems-2025-the-best-new-games-you-might-never-have-heard-of/2900-7329/ | 0 | 2026-08-13 23:00 |
+| S164 | Polygon Best Indie Games 2025 | https://www.polygon.com/best-indie-games-2025/ | 10 | 2026-08-13 23:00 |
+| S165 | ChronicReload 10 Hidden Gems 2025 | https://www.chronicreload.com/blog/10-hidden-gems-2025 | 10 | 2026-08-13 23:00 |
+| S166 | Punished Backlog Best Indie Games 2025 | https://punishedbacklog.com/best-indie-games-2025/ | 16 | 2026-08-13 23:00 |
+| S167 | TierListMaker Indie Hidden Gems 2025 | https://tierlistmaker.org/blog/indie-games-hidden-gems-2025 | 11 | 2026-08-13 23:00 |
+
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
@@ -500,7 +513,37 @@
 || G439 | Red Ball 4 | docs/RedBall4AdSupported_20260813_1644.md | 2026-08-13 16:52 |
 || G440 | Auto Brawl Chess: Battle Royale | docs/AutoBrawlChessBattleRoyale_20260813_1644.md | 2026-08-13 16:52 |
 || G441 | Pyramid Solitaire Saga | docs/PyramidSolitaireSaga_20260813_1644.md | 2026-08-13 16:52 |
-|| G442 | VS. Racing 2 | docs/VSRacing2_20260813_1644.md | 2026-08-13 16:52 |
+||| G442 | VS. Racing 2 | docs/VSRacing2_20260813_1644.md | 2026-08-13 16:52 |
+||| G443 | Cally's Caves 2 | docs/CallysCaves2_20260813_2000.md | 2026-08-13 20:00 |
+||| G444 | Magical Beat | docs/MagicalBeat_20260813_2000.md | 2026-08-13 20:00 |
+||| G445 | AiRace Xeno | docs/AiRaceXeno_20260813_2000.md | 2026-08-13 20:00 |
+||| G446 | Monty Python's Ministry of Silly Walks | docs/MontyPythonsMinistryofSillyWalks_20260813_2000.md | 2026-08-13 20:00 |
+||| G447 | Mecha Ace | docs/MechaAce_20260813_2000.md | 2026-08-13 20:00 |
+||| G448 | nanoRPG | docs/nanoRPG_20260813_2000.md | 2026-08-13 20:00 |
+||| G449 | Outernauts | docs/Outernauts_20260813_2000.md | 2026-08-13 20:00 |
+||| G450 | Inazuma Eleven | docs/InazumaEleven_20260813_2000.md | 2026-08-13 20:00 |
+||| G451 | RubPix | docs/RubPix_20260813_2000.md | 2026-08-13 20:00 |
+||| G452 | Pigs Can't Fly | docs/PigsCantFly_20260813_2000.md | 2026-08-13 20:00 |
+||| G453 | Eliza's Quest | docs/ElizasQuest_20260813_2000.md | 2026-08-13 20:00 |
+||| G454 | Gunship X | docs/GunshipX_20260813_2000.md | 2026-08-13 20:00 |
+||| G455 | Heroes of Camelot | docs/HeroesofCamelot_20260813_2000.md | 2026-08-13 20:00 |
+||| G456 | Star Wars Pinball | docs/StarWarsPinball_20260813_2000.md | 2026-08-13 20:00 |
+||| G457 | CastleStorm | docs/CastleStorm_20260813_2000.md | 2026-08-13 20:00 |
+||| G458 | Titan Attacks | docs/TitanAttacks_20260813_2000.md | 2026-08-13 20:00 |
+||| G459 | FarmVille 2 | docs/FarmVille2_20260813_2000.md | 2026-08-13 20:00 |
+||| G460 | Bomb Buds | docs/BombBuds_20260813_2000.md | 2026-08-13 20:00 |
+||| G461 | Overkill Mafia | docs/OverkillMafia_20260813_2000.md | 2026-08-13 20:00 |
+||| G462 | Spy Wars | docs/SpyWars_20260813_2000.md | 2026-08-13 20:00 |
+||| G463 | Battle Gems | docs/BattleGems_20260813_2000.md | 2026-08-13 20:00 |
+||| G464 | Wind-up Knight 2 | docs/WindupKnight2_20260813_2000.md | 2026-08-13 20:00 |
+||| G465 | Polar Bowler | docs/PolarBowler_20260813_2000.md | 2026-08-13 20:00 |
+||| G466 | Ace Fishing | docs/AceFishing_20260813_2000.md | 2026-08-13 20:00 |
+||| G467 | Dark Guardians | docs/DarkGuardians_20260813_2000.md | 2026-08-13 20:00 |
+||| G468 | Ethan Meteor Hunter | docs/EthanMeteorHunter_20260813_2000.md | 2026-08-13 20:00 |
+||| G469 | FreeDum | docs/FreeDum_20260813_2000.md | 2026-08-13 20:00 |
+||| G470 | Bloo Kid 2 | docs/BlooKid2_20260813_2000.md | 2026-08-13 20:00 |
+||| G471 | Pac-Man Ghostly Adventures | docs/PacManGhostlyAdventures_20260813_2000.md | 2026-08-13 20:00 |
+||| G472 | Tiny City | docs/TinyCity_20260813_2000.md | 2026-08-13 20:00 |
 || G354 | Dash Quest Heroes | docs/DashQuestHeroes_20260813_0447.md | 2026-08-13 04:47 |
 || G355 | Prizefighters | docs/Prizefighters_20260813_0447.md | 2026-08-13 04:47 |
 || G356 | Mantis Burn Racing | docs/MantisBurnRacing_20260813_0447.md | 2026-08-13 04:47 |
@@ -537,6 +580,8 @@
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
 
 | 2026-08-13 09:57 | 3组(PocketGamer P28/P29+Gamigion) | 2 | 3(S141成功9款,S142失败,S143/S144归档) | 34 | 34 | 1(S142模板文章) |
+|---|---|---|---|---|---|---|
+| 2026-08-13 20:00 | (R038: 手动发现3来源S160-S162, 处理3来源产出30款游戏文档G443-G472) | 3 (S160-S162) | 3 (S160-S162) | 75 | 30 (G443-G472) | 0 |
 |---|---|---|---|---|---|---|
 | 2026-08-13 15:12 | (R036: 处理PocketGamer P32/P33/P34共75款游戏名，产出10款文档G424-G433) | 3 (S154-S156) | 3 (S154-S156) | 75 | 10 (G424-G433) | 0 |
 |---|---|---|---|---|---|---|
