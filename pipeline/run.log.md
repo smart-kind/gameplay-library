@@ -386,4 +386,10 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 |[2026-08-14 18:41] [R048] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 |[2026-08-14 18:41] [R048] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
 |[2026-08-14 18:41] [R048] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(新增3来源S192-S194，10款游戏G687-G696)
-|[2026-08-14 18:41] [R048] [Phase 7: Git Push] ⏭️ 跳过 — 待提交
+|[2026-08-14 21:30] [R049] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3(S192-S194), Processing=0, Archived=191+, Games=686
+|[2026-08-14 21:30] [R049] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources=3(<5 但已存在)，MCP wigolo_search 不可用
+|[2026-08-14 21:30] [R049] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S192-S194)，提取75款游戏名(25+25+25)，为10款生成文档(G687-G696)，65款新游戏加入Pending(G697-G761)
+|[2026-08-14 21:30] [R049] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-14 21:30] [R049] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-14 21:30] [R049] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-14 21:30] [R049] [Phase 7: Git Push] 

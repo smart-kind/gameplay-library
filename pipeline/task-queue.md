@@ -4,13 +4,13 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S192 | search_result | PocketGamer Game Finder Page 65 | https://www.pocketgamer.com/game-finder/page/65/0_all_0_1_1/ | 2026-08-14 18:41 |
-| S193 | search_result | PocketGamer Game Finder Page 66 | https://www.pocketgamer.com/game-finder/page/66/0_all_0_1_1/ | 2026-08-14 18:41 |
-| S194 | search_result | PocketGamer Game Finder Page 67 | https://www.pocketgamer.com/game-finder/page/67/0_all_0_1_1/ | 2026-08-14 18:41 |
 
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S192 | PocketGamer Game Finder Page 65 | https://www.pocketgamer.com/game-finder/page/65/0_all_0_1_1/ | 25 | 2026-08-14 21:30 |
+| S193 | PocketGamer Game Finder Page 66 | https://www.pocketgamer.com/game-finder/page/66/0_all_0_1_1/ | 25 | 2026-08-14 21:30 |
+| S194 | PocketGamer Game Finder Page 67 | https://www.pocketgamer.com/game-finder/page/67/0_all_0_1_1/ | 25 | 2026-08-14 21:30 |
 | S189 | PocketGamer Game Finder Page 62 | https://www.pocketgamer.com/game-finder/page/62/0_all_0_1_1/ | 10 | 2026-08-14 15:14 |
 | S190 | PocketGamer Game Finder Page 63 | https://www.pocketgamer.com/game-finder/page/63/0_all_0_1_1/ | 12 | 2026-08-14 15:14 |
 | S191 | PocketGamer Game Finder Page 64 | https://www.pocketgamer.com/game-finder/page/64/0_all_0_1_1/ | 22 | 2026-08-14 15:14 |
@@ -196,32 +196,79 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G665 | 21 Days | — | PocketGamer P64 |
-| G666 | AR Defender 2 | — | PocketGamer P64 |
-| G667 | Build a Lot 4 | — | PocketGamer P64 |
-| G668 | City Conquest | — | PocketGamer P64 |
-| G669 | Crumble Zone | — | PocketGamer P64 |
-| G670 | DJMax Technika Tune | — | PocketGamer P64 |
-| G671 | Dragon's Dream | — | PocketGamer P64 |
-| G672 | Dress to Play: Cute Witches! | — | PocketGamer P64 |
-| G673 | Elminage Original | — | PocketGamer P64 |
-| G674 | Freeze | — | PocketGamer P64 |
-| G675 | Hydroventure: Spin Cycle | — | PocketGamer P64 |
-| G676 | Lazy Raiders | — | PocketGamer P64 |
-| G677 | Magic Orbz | — | PocketGamer P64 |
-| G678 | Mini Dash | — | PocketGamer P64 |
-| G679 | My Little Pony: Friendship is Magic | — | PocketGamer P64 |
-| G680 | Pix3d | — | PocketGamer P64 |
-| G681 | Qatqi | — | PocketGamer P64 |
-| G682 | Sky Hero | — | PocketGamer P64 |
-| G683 | Smash Cops Heat | — | PocketGamer P64 |
-| G684 | Spellwood | — | PocketGamer P64 |
-| G685 | The Adorables | — | PocketGamer P64 |
-| G686 | Towers & Dungeons | — | PocketGamer P64 |
+| G707 | Real Heroes: Firefighter 3D | — | PocketGamer P65 |
+| G708 | Motley Blocks | — | PocketGamer P65 |
+| G709 | Desert Stormfront (RTS) | — | PocketGamer P65 |
+| G710 | AC/DC Pinball Rocks HD | — | PocketGamer P65 |
+| G711 | Marksman Shooting | — | PocketGamer P65 |
+| G712 | Micro Miners | — | PocketGamer P65 |
+| G713 | Ghost Racer | — | PocketGamer P65 |
+| G714 | Max Awesome | — | PocketGamer P65 |
+| G715 | Slide Circus | — | PocketGamer P65 |
+| G716 | Flow Free: Bridges | — | PocketGamer P65 |
+| G717 | Asura Cross | — | PocketGamer P65 |
+| G718 | Johnny HotShot | — | PocketGamer P65 |
+| G719 | BreakQuest Extra Evolution | — | PocketGamer P65 |
+| G720 | Outlaw | — | PocketGamer P65 |
+| G721 | Beatdown! | — | PocketGamer P65 |
+| G722 | Merlin: A Servant of Two Masters | — | PocketGamer P65 |
+| G723 | Matchstick Wars | — | PocketGamer P66 |
+| G724 | Gear Jack | — | PocketGamer P66 |
+| G725 | Finger Tied | — | PocketGamer P66 |
+| G726 | Build-a-lot 3: Passport to Europe | — | PocketGamer P66 |
+| G727 | Storm the Train | — | PocketGamer P66 |
+| G728 | Ayakashi: Ghost Guild | — | PocketGamer P66 |
+| G729 | Pump it Up! Aerobics | — | PocketGamer P66 |
+| G730 | Super Tiny Leap | — | PocketGamer P66 |
+| G731 | Slice the Ice | — | PocketGamer P66 |
+| G732 | Chip Chain | — | PocketGamer P66 |
+| G733 | SpinCraft | — | PocketGamer P66 |
+| G734 | Meganoid 2 | — | PocketGamer P66 |
+| G735 | The Hobbit: Kingdoms of Middle-Earth | — | PocketGamer P66 |
+| G736 | Janksy | — | PocketGamer P66 |
+| G737 | Heads Up! Hot Dogs | — | PocketGamer P66 |
+| G738 | Sk8 Krazy | — | PocketGamer P66 |
+| G739 | League of Heroes | — | PocketGamer P66 |
+| G740 | Wizardlings | — | PocketGamer P66 |
+| G741 | Panic! | — | PocketGamer P66 |
+| G742 | Need for Speed Most Wanted (2005 edition) | — | PocketGamer P66 |
+| G743 | About Love, Hate and the other ones | — | PocketGamer P66 |
+| G744 | Crazy Chicken Pirates 3D | — | PocketGamer P67 |
+| G745 | Hairy Tales | — | PocketGamer P67 |
+| G746 | Square Planet | — | PocketGamer P67 |
+| G747 | Heavy Fuel Motor Racing | — | PocketGamer P67 |
+| G748 | Feisty Feet | — | PocketGamer P67 |
+| G749 | Wonder Zoo - Animal Rescue! | — | PocketGamer P67 |
+| G750 | Heavy Fire: Special Operations 3D | — | PocketGamer P67 |
+| G751 | Adventure Time: Super Jumping Finn | — | PocketGamer P67 |
+| G752 | Hole in One | — | PocketGamer P67 |
+| G753 | Save Them All | — | PocketGamer P67 |
+| G754 | Future Shooter | — | PocketGamer P67 |
+| G755 | Don't Look Back | — | PocketGamer P67 |
+| G756 | Stunt Star: The Hollywood Years | — | PocketGamer P67 |
+| G757 | Fin Friends | — | PocketGamer P67 |
+| G758 | Razor Salvation THD | — | PocketGamer P67 |
+| G759 | Jewel Master: Cradle of Egypt 2 | — | PocketGamer P67 |
+| G760 | Crash Test Dummy Racer | — | PocketGamer P67 |
+| G761 | Tall Unlimited | — | PocketGamer P67 |
+| G762 | A Wonderland Story | — | PocketGamer P67 |
+| G763 | Take It Easy | — | PocketGamer P67 |
+| G764 | Help Volty | — | PocketGamer P67 |
+| G765 | Fuel Tiracas | — | PocketGamer P67 |
 
 ## Games Archived（已归档）
 || ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G697 | 300 Dwarves | docs/300Dwarves_20260814_2130.md | 2026-08-14 21:30 |
+| G698 | Dream of Pixels | docs/DreamOfPixels_20260814_2130.md | 2026-08-14 21:30 |
+| G699 | Zookeeper Battle | docs/ZookeeperBattle_20260814_2130.md | 2026-08-14 21:30 |
+| G700 | Railbot | docs/Railbot_20260814_2130.md | 2026-08-14 21:30 |
+| G701 | Nintendo presents: New Style Boutique | docs/NewStyleBoutique_20260814_2130.md | 2026-08-14 21:30 |
+| G702 | Reflec Beat + | docs/ReflecBeatPlus_20260814_2130.md | 2026-08-14 21:30 |
+| G703 | Spaceteam | docs/Spaceteam_20260814_2130.md | 2026-08-14 21:30 |
+| G704 | Zero Escape: Virtue's Last Reward | docs/ZeroEscapeVLR_20260814_2130.md | 2026-08-14 21:30 |
+| G705 | Monopoly Millionaire | docs/MonopolyMillionaire_20260814_2130.md | 2026-08-14 21:30 |
+| G706 | Stay Alive | docs/StayAlive_20260814_2130.md | 2026-08-14 21:30 |
 | G651 | Wide Sky | docs/WideSky_20260814_1730.md | 2026-08-14 15:14 |
 | G652 | Tennis in the Face | docs/TennisintheFace_20260814_1730.md | 2026-08-14 15:14 |
 | G653 | 35 Junior Games | docs/35JuniorGames_20260814_1730.md | 2026-08-14 15:14 |
