@@ -9,6 +9,15 @@
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S171 | PocketGamer Game Finder Page 44 | https://www.pocketgamer.com/game-finder/page/44/0_all_0_1_1/ | 25 | 2026-08-14 01:12 |
+| S172 | PocketGamer Game Finder Page 45 | https://www.pocketgamer.com/game-finder/page/45/0_all_0_1_1/ | 25 | 2026-08-14 01:12 |
+| S173 | PocketGamer Game Finder Page 46 | https://www.pocketgamer.com/game-finder/page/46/0_all_0_1_1/ | 25 | 2026-08-14 01:12 |
+| S174 | PocketGamer Game Finder Page 47 | https://www.pocketgamer.com/game-finder/page/47/0_all_0_1_1/ | 25 | 2026-08-14 02:59 |
+| S175 | PocketGamer Game Finder Page 48 | https://www.pocketgamer.com/game-finder/page/48/0_all_0_1_1/ | 25 | 2026-08-14 02:59 |
+| S176 | PocketGamer Game Finder Page 49 | https://www.pocketgamer.com/game-finder/page/49/0_all_0_1_1/ | 25 | 2026-08-14 02:59 |
+| S168 | PocketGamer Game Finder Page 41 | https://www.pocketgamer.com/game-finder/page/41/0_all_0_1_1/ | 25 | 2026-08-14 02:00 |
+| S169 | PocketGamer Game Finder Page 42 | https://www.pocketgamer.com/game-finder/page/42/0_all_0_1_1/ | 25 | 2026-08-14 02:00 |
+| S170 | PocketGamer Game Finder Page 43 | https://www.pocketgamer.com/game-finder/page/43/0_all_0_1_1/ | 25 | 2026-08-14 02:00 |
 | S160 | PocketGamer Game Finder Page 38 | https://www.pocketgamer.com/game-finder/page/38/0_all_0_1_1/ | 10 | 2026-08-13 20:00 |
 | S161 | PocketGamer Game Finder Page 39 | https://www.pocketgamer.com/game-finder/page/39/0_all_0_1_1/ | 10 | 2026-08-13 20:00 |
 | S162 | PocketGamer Game Finder Page 40 | https://www.pocketgamer.com/game-finder/page/40/0_all_0_1_1/ | 10 | 2026-08-13 20:00 |
@@ -199,6 +208,51 @@
 
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
+| G495 | Jelly Splash | | https://www.pocketgamer.com/jelly-splash/ |
+| G496 | Grindcore | | https://www.pocketgamer.com/grindcore/ |
+| G497 | Animal Voyage: Island Adventure | | https://www.pocketgamer.com/animal-voyage-island-adventure/ |
+| G498 | ControlCraft 3 | | https://www.pocketgamer.com/controlcraft-3/ |
+| G499 | Cloud Spin | | https://www.pocketgamer.com/cloud-spin/ |
+| G500 | Death Mile | | https://www.pocketgamer.com/death-mile/ |
+| G501 | Tetra | | https://www.pocketgamer.com/tetra/ |
+| G502 | Wakedas | | https://www.pocketgamer.com/wakedas/ |
+| G503 | Mine Run 3D - Escape 2 Temple | | https://www.pocketgamer.com/mine-run-3d-escape-2-temple/ |
+| G504 | Gurk III - the 8-bit RPG | | https://www.pocketgamer.com/gurk-iii-the-8-bit-rpg/ |
+| G505 | Bike Rider DX | | https://www.pocketgamer.com/bike-rider-dx/ |
+| G506 | Sage Fusion 2 | | https://www.pocketgamer.com/sage-fusion-2/ |
+| G507 | Way to Go | | https://www.pocketgamer.com/way-to-go/ |
+| G508 | Ninjas - Stolen Scrolls | | https://www.pocketgamer.com/ninjas-stolen-scrolls/ |
+| G509 | Indie Pixel | | https://www.pocketgamer.com/indie-pixel/ |
+| G510 | Telekinesis Kyle | | https://www.pocketgamer.com/telekinesis-kyle/ |
+| G511 | The Impossible Line | | https://www.pocketgamer.com/the-impossible-line/ |
+| G512 | Alexia the Great | | https://www.pocketgamer.com/alexia-the-great/ |
+| G513 | Air War 3D | | https://www.pocketgamer.com/air-war-3d/ |
+| G514 | Pocket Land | | https://www.pocketgamer.com/pocket-land/ |
+| G515 | Nun Attack: Run and Gun | | https://www.pocketgamer.com/nun-attack-run-and-gun/ |
+| G516 | Gleamer | | https://www.pocketgamer.com/gleamer/ |
+| G517 | Brick Roll | | https://www.pocketgamer.com/brick-roll/ |
+| G518 | Trial by Survival | | https://www.pocketgamer.com/trial-by-survival/ |
+| G519 | Heroes War | | https://www.pocketgamer.com/heroes-war/ |
+| G520 | Happy Dinos | | https://www.pocketgamer.com/happy-dinos/ |
+| G521 | Abyss Attack | | https://www.pocketgamer.com/abyss-attack/ |
+| G522 | Rugby Kicks 2 | | https://www.pocketgamer.com/rugby-kicks-2/ |
+| G523 | Baby Nom Nom | | https://www.pocketgamer.com/baby-nom-nom/ |
+| G524 | NFL Pro 2014 | | https://www.pocketgamer.com/nfl-pro-2014/ |
+| G525 | Mystic Chronicles | | https://www.pocketgamer.com/mystic-chronicles/ |
+| G526 | Expander | | https://www.pocketgamer.com/expander/ |
+| G527 | Die!Die!Die! | | https://www.pocketgamer.com/die-die-die/ |
+| G528 | Lightning Fighter 2 | | https://www.pocketgamer.com/lightning-fighter-2/ |
+| G529 | Prehistorik | | https://www.pocketgamer.com/prehistorik/ |
+| G530 | Muscle Run | | https://www.pocketgamer.com/muscle-run/ |
+| G531 | Chain Blaster | | https://www.pocketgamer.com/chain-blaster/ |
+| G532 | Rally Drive | | https://www.pocketgamer.com/rally-drive/ |
+| G533 | The Fight 3D | | https://www.pocketgamer.com/the-fight-3d/ |
+| G534 | Need A Hero | | https://www.pocketgamer.com/need-a-hero/ |
+| G535 | An Alien With A Magnet | | https://www.pocketgamer.com/an-alien-with-a-magnet/ |
+| G536 | Undead Bowling | | https://www.pocketgamer.com/undead-bowling/ |
+| G537 | Chillaxian | | https://www.pocketgamer.com/chillaxian/ |
+| G538 | Rivals at War: 2084 | | https://www.pocketgamer.com/rivals-at-war-2084/ |
+| G539 | Lub vs Dub | | https://www.pocketgamer.com/lub-vs-dub/ |
 || G271 | Words With Friends 2 | docs/WordsWithFriends2_20260812_0527.md | 2026-08-12 05:27 |
 || G270 | Super Mario Run | docs/SuperMarioRun_20260812_0527.md | 2026-08-12 05:27 |
 || G269 | Postknight 2 | docs/Postknight2_20260812_0527.md | 2026-08-12 05:27 |
@@ -581,6 +635,7 @@
 
 | 2026-08-13 09:57 | 3组(PocketGamer P28/P29+Gamigion) | 2 | 3(S141成功9款,S142失败,S143/S144归档) | 34 | 34 | 1(S142模板文章) |
 |---|---|---|---|---|---|---|
+| 2026-08-14 02:59 | R040: 静态发现S174-S176(75款), 处理30款(G495-G524) | 3 (S174-S176) | 3 (S174-S176) | 75 | 30 (G495-G569) | 0 |
 | 2026-08-13 20:00 | (R038: 手动发现3来源S160-S162, 处理3来源产出30款游戏文档G443-G472) | 3 (S160-S162) | 3 (S160-S162) | 75 | 30 (G443-G472) | 0 |
 |---|---|---|---|---|---|---|
 | 2026-08-13 15:12 | (R036: 处理PocketGamer P32/P33/P34共75款游戏名，产出10款文档G424-G433) | 3 (S154-S156) | 3 (S154-S156) | 75 | 10 (G424-G433) | 0 |
@@ -594,7 +649,47 @@
 | 2026-08-12 19:30 | (R025: 跳过搜索-Pending≥5, 处理6来源S098-S103, 产出6款游戏: HorizonChase/SlayawayCamp/GameDevStory/WarbitsPlus/SneakySasquatch/HallsOfTorment) | 0 | 6 (S098-S103) | 0 | 6 | 5 (S098/S100-S103 JS渲染/无法提取) |
 | 2026-08-12 14:23 | (R023: 跳过搜索-Pending≥5, 处理5来源S092-S097, 产出10款游戏G292-G301) | 0 | 5 (S092-S093,S095-S097) | 47 | 10 (G292-G301) | 0 (S092/S093为月度数据报告无新游戏) |
 || 2026-08-12 05:27 | (R018: 跳过搜索-MCP不可用，处理3个来源S065-S068，产出20款游戏文档)
-|---|---|---|---|---|---|---|
+|---|---|---| G485 | Clumsy Ninja | docs/ClumsyNinja_20260814_0119.md | 2026-08-14 01:12 |
+| G486 | DEEMO | docs/DEEMO_20260814_0119.md | 2026-08-14 01:12 |
+| G487 | Farm Frenzy 3 | docs/FarmFrenzy3_20260814_0119.md | 2026-08-14 01:12 |
+| G488 | Vampire Season: Monster Defence | docs/VampireSeasonMonsterDefence_20260814_0119.md | 2026-08-14 01:12 |
+| G489 | Mario Party: Island Tour | docs/MarioPartyIslandTour_20260814_0119.md | 2026-08-14 01:12 |
+| G490 | Tekken Arena | docs/TekkenArena_20260814_0119.md | 2026-08-14 01:12 |
+| G491 | Juice Cubes | docs/JuiceCubes_20260814_0119.md | 2026-08-14 01:12 |
+| G492 | Worms Revolution Extreme | docs/WormsRevolutionExtreme_20260814_0119.md | 2026-08-14 01:12 |
+| G493 | Pandemic: The Board Game | docs/PandemicTheBoardGame_20260814_0119.md | 2026-08-14 01:12 |
+| G494 | Amigo Pancho | docs/AmigoPancho_20260814_0119.md | 2026-08-14 01:12 |
+| G540 | CastleVille Legends | docs/CastleVilleLegends_20260814_0259.md | 2026-08-14 02:59 |
+| G541 | Orborun | docs/Orborun_20260814_0259.md | 2026-08-14 02:59 |
+| G542 | SimpleRockets | docs/SimpleRockets_20260814_0259.md | 2026-08-14 02:59 |
+| G543 | Dragon Finga | docs/DragonFinga_20260814_0259.md | 2026-08-14 02:59 |
+| G544 | Carnage Racing | docs/CarnageRacing_20260814_0259.md | 2026-08-14 02:59 |
+| G545 | Rage Warriors | docs/RageWarriors_20260814_0259.md | 2026-08-14 02:59 |
+| G546 | DuckTales: Scrooge's Loot | docs/DuckTalesScroogesLoot_20260814_0259.md | 2026-08-14 02:59 |
+| G547 | Ookibloks | docs/Ookibloks_20260814_0259.md | 2026-08-14 02:59 |
+| G548 | Total Conquest | docs/TotalConquest_20260814_0259.md | 2026-08-14 02:59 |
+| G549 | Gods VS Humans - Protect your Kingdom | docs/GodsVSHumans-ProtectyourKingdom_20260814_0259.md | 2026-08-14 02:59 |
+| G550 | Strata | docs/Strata_20260814_0259.md | 2026-08-14 02:59 |
+| G551 | Little Galaxy | docs/LittleGalaxy_20260814_0259.md | 2026-08-14 02:59 |
+| G552 | Madden NFL 25 | docs/MaddenNFL25_20260814_0259.md | 2026-08-14 02:59 |
+| G553 | Boom! Tanks | docs/BoomTanks_20260814_0259.md | 2026-08-14 02:59 |
+| G554 | A Brief History of the World | docs/ABriefHistoryoftheWorld_20260814_0259.md | 2026-08-14 02:59 |
+| G555 | Hell, The Dungeon Again | docs/HellTheDungeonAgain_20260814_0259.md | 2026-08-14 02:59 |
+| G556 | Motocross Elite | docs/MotocrossElite_20260814_0259.md | 2026-08-14 02:59 |
+| G557 | Bird Hunt | docs/BirdHunt_20260814_0259.md | 2026-08-14 02:59 |
+| G558 | Zombie Highway: Driver's Ed | docs/ZombieHighwayDriversEd_20260814_0259.md | 2026-08-14 02:59 |
+| G559 | Fix the Leaks | docs/FixtheLeaks_20260814_0259.md | 2026-08-14 02:59 |
+| G560 | 4 Thrones | docs/4Thrones_20260814_0259.md | 2026-08-14 02:59 |
+| G561 | Robbery Bob | docs/RobberyBob_20260814_0259.md | 2026-08-14 02:59 |
+| G562 | Soul Grinder | docs/SoulGrinder_20260814_0259.md | 2026-08-14 02:59 |
+| G563 | Link the Slug | docs/LinktheSlug_20260814_0259.md | 2026-08-14 02:59 |
+| G564 | Don't Fall in the Hole | docs/DontFallintheHole_20260814_0259.md | 2026-08-14 02:59 |
+| G565 | Containment: The Zombie Puzzler | docs/ContainmentTheZombiePuzzler_20260814_0259.md | 2026-08-14 02:59 |
+| G566 | Fluid Football Versus | docs/FluidFootballVersus_20260814_0259.md | 2026-08-14 02:59 |
+| G567 | Heavy Fire: Black Arms 3D | docs/HeavyFireBlackArms3D_20260814_0259.md | 2026-08-14 02:59 |
+| G568 | Yu-Gi-Oh! BAM Pocket | docs/Yu-Gi-OhBAMPocket_20260814_0259.md | 2026-08-14 02:59 |
+| G569 | Bravoman: Binja Bash | docs/BravomanBinjaBash_20260814_0259.md | 2026-08-14 02:59 |
+|---|---|---|---|
 | 2026-08-12 12:48 | (R022: 3组搜索DuckDuckGo, 发现10来源S088-S097, 处理5来源, 产出10款游戏G282-G291) | 10 | 5 (S088-S091,S094) | 17 | 10 (G282-G291) | 0 |
 | 2026-08-12 10:57 | (R021: 跳过搜索-MCP不可用，处理3个来源S085-S087，产出10款游戏文档) | 0 | 3 (S085-S087) | 75 | 10 (G272-G281) | 0 |
 | 2026-08-12 00:00 | (R013: iTunes API+Wikipedia, MCP wigolo不可用) | 0 | 1 (S053) | 0 | 10 (G184-G193) | 0 |
