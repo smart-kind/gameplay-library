@@ -4,10 +4,9 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-
-| S189 | PocketGamer Game Finder Page 62 | https://www.pocketgamer.com/game-finder/page/62/0_all_0_1_1/ | 10 | 2026-08-14 17:00 |
-| S190 | PocketGamer Game Finder Page 63 | https://www.pocketgamer.com/game-finder/page/63/0_all_0_1_1/ | 10 | 2026-08-14 17:00 |
-| S191 | PocketGamer Game Finder Page 64 | https://www.pocketgamer.com/game-finder/page/64/0_all_0_1_1/ | 4 | 2026-08-14 17:00 |
+| S192 | search_result | PocketGamer Game Finder Page 65 | https://www.pocketgamer.com/game-finder/page/65/0_all_0_1_1/ | 2026-08-14 18:41 |
+| S193 | search_result | PocketGamer Game Finder Page 66 | https://www.pocketgamer.com/game-finder/page/66/0_all_0_1_1/ | 2026-08-14 18:41 |
+| S194 | search_result | PocketGamer Game Finder Page 67 | https://www.pocketgamer.com/game-finder/page/67/0_all_0_1_1/ | 2026-08-14 18:41 |
 
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
@@ -821,3 +820,9 @@
 ||| 2026-08-12 03:00 | (R015: 3组搜索: hyper casual / indie puzzle) | 8 (S054-S061) | 2 (S054, S059) | 10 | 10 (G229-G238) | 0 |
 ||| 2026-08-12 06:00 | (R016: 跳过搜索，处理6个来源S055-S061) | 0 | 5 (S055-S057,S060-S061) | 13 | 13 (G239-G251) | 1 (S058内容过少) |
 || 2026-08-12 00:00 | (R013: iTunes API+Wikipedia, MCP wigolo不可用) | 0 | 1 (S053) | 0 | 10 (G184-G193) | 0 |
+
+## Execution Log
+
+| 时间 | 执行摘要 | 新来源 | 处理来源 | 产出游戏 | 归档游戏 | 失败 |
+|---|---|---|---|---|---|---|
+| 2026-08-14 18:41 | (R048: 手动发现S192-S194, 提取75款游戏, 产出10款文档G687-G696) | 3 (S192-S194) | 0 | 75 | 10 (G687-G696) | 0 |
