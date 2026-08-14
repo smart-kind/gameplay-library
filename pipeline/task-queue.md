@@ -4,13 +4,13 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S180 | PocketGamer Game Finder Page 53 | https://www.pocketgamer.com/game-finder/page/53/0_all_0_1_1/ | static | 2026-08-14 06:19 |
-| S181 | PocketGamer Game Finder Page 54 | https://www.pocketgamer.com/game-finder/page/54/0_all_0_1_1/ | static | 2026-08-14 06:19 |
-| S182 | PocketGamer Game Finder Page 55 | https://www.pocketgamer.com/game-finder/page/55/0_all_0_1_1/ | static | 2026-08-14 06:19 |
 
 ## Sources Archived（本轮新增）
-|| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+| ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S183 | PocketGamer Game Finder Page 56 | https://www.pocketgamer.com/game-finder/page/56/0_all_0_1_1/ | 10 | 2026-08-14 09:51 |
+| S184 | PocketGamer Game Finder Page 57 | https://www.pocketgamer.com/game-finder/page/57/0_all_0_1_1/ | 10 | 2026-08-14 09:51 |
+| S185 | PocketGamer Game Finder Page 58 | https://www.pocketgamer.com/game-finder/page/58/0_all_0_1_1/ | 10 | 2026-08-14 09:51 |
 | S180 | PocketGamer Game Finder Page 53 | https://www.pocketgamer.com/game-finder/page/53/0_all_0_1_1/ | 10 | 2026-08-14 06:19 |
 | S181 | PocketGamer Game Finder Page 54 | https://www.pocketgamer.com/game-finder/page/54/0_all_0_1_1/ | 10 | 2026-08-14 06:19 |
 | S182 | PocketGamer Game Finder Page 55 | https://www.pocketgamer.com/game-finder/page/55/0_all_0_1_1/ | 10 | 2026-08-14 06:19 |
@@ -218,6 +218,16 @@
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G611 | Ninja Striker! | docs/NinjaStriker_20260814_0951.md | 2026-08-14 09:51 |
+| G612 | Deep Sea Deli | docs/DeepSeaDeli_20260814_0951.md | 2026-08-14 09:51 |
+| G613 | Orion's Forge | docs/OrionsForge_20260814_0951.md | 2026-08-14 09:51 |
+| G614 | Mighty Dungeons | docs/MightyDungeons_20260814_0951.md | 2026-08-14 09:51 |
+| G615 | Eyes: Scary Thriller | docs/EyesScaryThriller_20260814_0951.md | 2026-08-14 09:51 |
+| G616 | Relativity Wars | docs/RelativityWars_20260814_0951.md | 2026-08-14 09:51 |
+| G617 | Abalone | docs/Abalone_20260814_0951.md | 2026-08-14 09:51 |
+| G618 | Pocket Fleet Multiplayer | docs/PocketFleetMultiplayer_20260814_0951.md | 2026-08-14 09:51 |
+| G619 | Alien Hive | docs/AlienHive_20260814_0951.md | 2026-08-14 09:51 |
+| G620 | Zombie Minesweeper | docs/ZombieMinesweeper_20260814_0951.md | 2026-08-14 09:51 |
 | G570 | Lums | docs/Lums_20260814_0434.md | 2026-08-14 04:34 |
 | G571 | Delta-V Racing | docs/DeltaVRacing_20260814_0434.md | 2026-08-14 04:34 |
 | G572 | Attack of the Friday Monsters! A Tokyo Tale | docs/AttackOfTheFridayMonsters_20260814_0434.md | 2026-08-14 04:34 |
