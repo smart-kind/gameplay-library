@@ -8,6 +8,9 @@
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S195 | PocketGamer Game Finder Page 68 | https://www.pocketgamer.com/game-finder/page/68/0_all_0_1_1/ | 25 | 2026-08-14 22:13 |
+| S196 | PocketGamer Game Finder Page 69 | https://www.pocketgamer.com/game-finder/page/69/0_all_0_1_1/ | 25 | 2026-08-14 22:13 |
+| S197 | PocketGamer Game Finder Page 70 | https://www.pocketgamer.com/game-finder/page/70/0_all_0_1_1/ | 25 | 2026-08-14 22:13 |
 | S192 | PocketGamer Game Finder Page 65 | https://www.pocketgamer.com/game-finder/page/65/0_all_0_1_1/ | 25 | 2026-08-14 21:30 |
 | S193 | PocketGamer Game Finder Page 66 | https://www.pocketgamer.com/game-finder/page/66/0_all_0_1_1/ | 25 | 2026-08-14 21:30 |
 | S194 | PocketGamer Game Finder Page 67 | https://www.pocketgamer.com/game-finder/page/67/0_all_0_1_1/ | 25 | 2026-08-14 21:30 |
@@ -196,16 +199,6 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G707 | Real Heroes: Firefighter 3D | — | PocketGamer P65 |
-| G708 | Motley Blocks | — | PocketGamer P65 |
-| G709 | Desert Stormfront (RTS) | — | PocketGamer P65 |
-| G710 | AC/DC Pinball Rocks HD | — | PocketGamer P65 |
-| G711 | Marksman Shooting | — | PocketGamer P65 |
-| G712 | Micro Miners | — | PocketGamer P65 |
-| G713 | Ghost Racer | — | PocketGamer P65 |
-| G714 | Max Awesome | — | PocketGamer P65 |
-| G715 | Slide Circus | — | PocketGamer P65 |
-| G716 | Flow Free: Bridges | — | PocketGamer P65 |
 | G717 | Asura Cross | — | PocketGamer P65 |
 | G718 | Johnny HotShot | — | PocketGamer P65 |
 | G719 | BreakQuest Extra Evolution | — | PocketGamer P65 |
@@ -255,10 +248,95 @@
 | G763 | Take It Easy | — | PocketGamer P67 |
 | G764 | Help Volty | — | PocketGamer P67 |
 | G765 | Fuel Tiracas | — | PocketGamer P67 |
+| G766 | Rebel | — | PocketGamer P68 |
+| G767 | Delivery Xpress | — | PocketGamer P68 |
+| G768 | Space Disorder | — | PocketGamer P68 |
+| G769 | Cloud Village | — | PocketGamer P68 |
+| G770 | Cryptic Kingdoms HD | — | PocketGamer P68 |
+| G771 | Kumo Lumo | — | PocketGamer P68 |
+| G772 | House of Shadows | — | PocketGamer P68 |
+| G773 | Jewel Link: Legends of Atlantis | — | PocketGamer P68 |
+| G774 | BounceBack | — | PocketGamer P68 |
+| G775 | Liberation Maiden | — | PocketGamer P68 |
+| G776 | Sugar Kid | — | PocketGamer P68 |
+| G777 | NBA 2K13 | — | PocketGamer P68 |
+| G778 | Grow Away | — | PocketGamer P68 |
+| G779 | Snail Bob | — | PocketGamer P68 |
+| G780 | Cupidity | — | PocketGamer P68 |
+| G781 | Aqua Kitty - Milk Mine Defender | — | PocketGamer P68 |
+| G782 | King Oddball | — | PocketGamer P68 |
+| G783 | Catch-22 | — | PocketGamer P68 |
+| G784 | Hana Samurai: Art of the Sword | — | PocketGamer P68 |
+| G785 | Hell Rider | — | PocketGamer P68 |
+| G786 | Heritage | — | PocketGamer P68 |
+| G787 | Lich Defense | — | PocketGamer P68 |
+| G788 | NFL Pro 2013 | — | PocketGamer P68 |
+| G789 | Bookstore Dream | — | PocketGamer P68 |
+| G790 | Amazing Runner | — | PocketGamer P68 |
+| G791 | Red Weed | — | PocketGamer P69 |
+| G792 | Monster Warlord | — | PocketGamer P69 |
+| G793 | Royal Revolt! | — | PocketGamer P69 |
+| G794 | Polara | — | PocketGamer P69 |
+| G795 | Infectonator | — | PocketGamer P69 |
+| G796 | Electric Tentacle | — | PocketGamer P69 |
+| G797 | Combat Outpost Afghanistan | — | PocketGamer P69 |
+| G798 | Abyss | — | PocketGamer P69 |
+| G799 | Usagi Yojimbo: Way of the Ronin | — | PocketGamer P69 |
+| G800 | Deluxe Cafe | — | PocketGamer P69 |
+| G801 | GridBlock | — | PocketGamer P69 |
+| G802 | Crafty Creatures | — | PocketGamer P69 |
+| G803 | Jump to Medieval - Time Geeks | — | PocketGamer P69 |
+| G804 | Recess Riot | — | PocketGamer P69 |
+| G805 | Genesis | — | PocketGamer P69 |
+| G806 | Robots Attack! | — | PocketGamer P69 |
+| G807 | Neon Blitz | — | PocketGamer P69 |
+| G808 | Retro Pocket | — | PocketGamer P69 |
+| G809 | Chicago Wars | — | PocketGamer P69 |
+| G810 | Civil War: 1863 | — | PocketGamer P69 |
+| G811 | Death Golf | — | PocketGamer P69 |
+| G812 | HueBrix | — | PocketGamer P69 |
+| G813 | Cosmic Bump | — | PocketGamer P69 |
+| G814 | Amp, Watts & Circuit | — | PocketGamer P69 |
+| G815 | Twang the Fox | — | PocketGamer P69 |
+| G816 | Rail Rush | — | PocketGamer P70 |
+| G817 | Stickman Base Jumper | — | PocketGamer P70 |
+| G818 | NFL Kicker 13 | — | PocketGamer P70 |
+| G819 | House Pest | — | PocketGamer P70 |
+| G820 | Cube Defender | — | PocketGamer P70 |
+| G821 | Crazy Hunter | — | PocketGamer P70 |
+| G822 | Infinite Warrior | — | PocketGamer P70 |
+| G823 | Drakerider | — | PocketGamer P70 |
+| G824 | VS. Racing 2 | — | PocketGamer P70 |
+| G825 | Blood & Glory: Legend | — | PocketGamer P70 |
+| G826 | Chopper I | — | PocketGamer P70 |
+| G827 | Alundra | — | PocketGamer P70 |
+| G828 | Monster Cube (a.k.a. Monster Cube Full) | — | PocketGamer P70 |
+| G829 | Keri Racing | — | PocketGamer P70 |
+| G830 | Oh Hi! Octopi! | — | PocketGamer P70 |
+| G831 | Avalanche Escape! | — | PocketGamer P70 |
+| G832 | Jelly Cannon Reloaded | — | PocketGamer P70 |
+| G833 | The Last Driver | — | PocketGamer P70 |
+| G834 | Window Warrior | — | PocketGamer P70 |
+| G835 | Donkey Kong Jr. | — | PocketGamer P70 |
+| G836 | NES Open Tournament Golf | — | PocketGamer P70 |
+| G837 | Bubble Mania | — | PocketGamer P70 |
+| G838 | Cosmic Colony | — | PocketGamer P70 |
+| G839 | Puzzled Zombies | — | PocketGamer P70 |
+| G840 | Lost Cities | — | PocketGamer P70 |
 
 ## Games Archived（已归档）
 || ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G707 | Real Heroes: Firefighter 3D | docs/RealHeroesFirefighter3D_20260814_2207.md | 2026-08-14 22:13 |
+| G708 | Motley Blocks | docs/MotleyBlocks_20260814_2207.md | 2026-08-14 22:13 |
+| G709 | Desert Stormfront (RTS) | docs/DesertStormfrontRTS_20260814_2207.md | 2026-08-14 22:13 |
+| G710 | AC/DC Pinball Rocks HD | docs/ACDCPinballRocksHD_20260814_2207.md | 2026-08-14 22:13 |
+| G711 | Marksman Shooting | docs/MarksmanShooting_20260814_2207.md | 2026-08-14 22:13 |
+| G712 | Micro Miners | docs/MicroMiners_20260814_2207.md | 2026-08-14 22:13 |
+| G713 | Ghost Racer | docs/GhostRacer_20260814_2207.md | 2026-08-14 22:13 |
+| G714 | Max Awesome | docs/MaxAwesome_20260814_2207.md | 2026-08-14 22:13 |
+| G715 | Slide Circus | docs/SlideCircus_20260814_2207.md | 2026-08-14 22:13 |
+| G716 | Flow Free: Bridges | docs/FlowFreeBridges_20260814_2207.md | 2026-08-14 22:13 |
 | G697 | 300 Dwarves | docs/300Dwarves_20260814_2130.md | 2026-08-14 21:30 |
 | G698 | Dream of Pixels | docs/DreamOfPixels_20260814_2130.md | 2026-08-14 21:30 |
 | G699 | Zookeeper Battle | docs/ZookeeperBattle_20260814_2130.md | 2026-08-14 21:30 |
