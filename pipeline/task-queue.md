@@ -4,11 +4,17 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S177 | PocketGamer Game Finder Page 50 | https://www.pocketgamer.com/game-finder/page/50/0_all_0_1_1/ | 25 | 2026-08-14 04:34 |
+| S178 | PocketGamer Game Finder Page 51 | https://www.pocketgamer.com/game-finder/page/51/0_all_0_1_1/ | 25 | 2026-08-14 04:34 |
+| S179 | PocketGamer Game Finder Page 52 | https://www.pocketgamer.com/game-finder/page/52/0_all_0_1_1/ | 25 | 2026-08-14 04:34 |
 
 
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S177 | PocketGamer Game Finder Page 50 | https://www.pocketgamer.com/game-finder/page/50/0_all_0_1_1/ | 10 | 2026-08-14 04:34 |
+| S178 | PocketGamer Game Finder Page 51 | https://www.pocketgamer.com/game-finder/page/51/0_all_0_1_1/ | 25 | 2026-08-14 04:34 |
+| S179 | PocketGamer Game Finder Page 52 | https://www.pocketgamer.com/game-finder/page/52/0_all_0_1_1/ | 25 | 2026-08-14 04:34 |
 | S171 | PocketGamer Game Finder Page 44 | https://www.pocketgamer.com/game-finder/page/44/0_all_0_1_1/ | 25 | 2026-08-14 01:12 |
 | S172 | PocketGamer Game Finder Page 45 | https://www.pocketgamer.com/game-finder/page/45/0_all_0_1_1/ | 25 | 2026-08-14 01:12 |
 | S173 | PocketGamer Game Finder Page 46 | https://www.pocketgamer.com/game-finder/page/46/0_all_0_1_1/ | 25 | 2026-08-14 01:12 |
@@ -205,9 +211,20 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
+|---|---|---|---|
+| G570 | Lums | docs/Lums_20260814_0434.md | 2026-08-14 04:34 |
+| G571 | Delta-V Racing | docs/DeltaVRacing_20260814_0434.md | 2026-08-14 04:34 |
+| G572 | Attack of the Friday Monsters! A Tokyo Tale | docs/AttackOfTheFridayMonsters_20260814_0434.md | 2026-08-14 04:34 |
+| G573 | Eternal Descent: Heavy Metal Heroes | docs/EternalDescentHeavyMetalHeroes_20260814_0434.md | 2026-08-14 04:34 |
+| G574 | Asterix: Megaslap | docs/AsterixMegaslap_20260814_0434.md | 2026-08-14 04:34 |
+| G575 | Battle Rush | docs/BattleRush_20260814_0434.md | 2026-08-14 04:34 |
+| G576 | League of Mages | docs/LeagueOfMages_20260814_0434.md | 2026-08-14 04:34 |
+| G577 | SongRush | docs/SongRush_20260814_0434.md | 2026-08-14 04:34 |
+| G578 | Sky Tourist | docs/SkyTourist_20260814_0434.md | 2026-08-14 04:34 |
+| G579 | Colourtrix | docs/Colourtrix_20260814_0434.md | 2026-08-14 04:34 |
+| G580 | Bounty Arms | docs/BountyArms_20260814_0434.md | 2026-08-14 04:34 |
 | G495 | Jelly Splash | | https://www.pocketgamer.com/jelly-splash/ |
 | G496 | Grindcore | | https://www.pocketgamer.com/grindcore/ |
 | G497 | Animal Voyage: Island Adventure | | https://www.pocketgamer.com/animal-voyage-island-adventure/ |
@@ -635,6 +652,7 @@
 
 | 2026-08-13 09:57 | 3组(PocketGamer P28/P29+Gamigion) | 2 | 3(S141成功9款,S142失败,S143/S144归档) | 34 | 34 | 1(S142模板文章) |
 |---|---|---|---|---|---|---|
+| 2026-08-14 04:34 | (R041: DDG被CAPTCHA阻止，手动发现3个PocketGamer来源S177-S179共75款游戏，基于PocketGamer评测内容为11款生成文档G570-G580，均≥50行) | 3 (S177-S179) | 3 (S177-S179) | 75 | 11 (G570-G580) | 0 |
 | 2026-08-14 02:59 | R040: 静态发现S174-S176(75款), 处理30款(G495-G524) | 3 (S174-S176) | 3 (S174-S176) | 75 | 30 (G495-G569) | 0 |
 | 2026-08-13 20:00 | (R038: 手动发现3来源S160-S162, 处理3来源产出30款游戏文档G443-G472) | 3 (S160-S162) | 3 (S160-S162) | 75 | 30 (G443-G472) | 0 |
 |---|---|---|---|---|---|---|

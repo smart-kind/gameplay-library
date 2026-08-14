@@ -311,5 +311,11 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 | [2026-08-14 02:59] [R040] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S174-S176)，提取75款游戏，30款进入Phase 4处理，45款留Pending
 | [2026-08-14 02:59] [R040] [Phase 4: Process Games] ✅ 完成 — 处理30款游戏(G495-G569)，0个失败
 | [2026-08-14 02:59] [R040] [Phase 5: Graphify] ✅ 完成 — Re-extracting code files in . (no LLM needed)...
-  AST extraction: 97/97 uncached files (100%) [4 wo
+|[2026-08-14 04:34] [R041] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=179, Games=569
+|[2026-08-14 04:34] [R041] [Phase 2: Discover] ⚠️ DDG被CAPTCHA阻止，手动发现3个来源(S177-S179 PocketGamer P50/P51/P52)
+|[2026-08-14 04:34] [R041] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S177-S179)，提取75款游戏名，为11款生成文档(G570-G580)，全部≥50行
+|[2026-08-14 04:34] [R041] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-14 04:34] [R041] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-14 04:34] [R041] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-14 04:34] [R041] [Phase 7: Git Push]
 
