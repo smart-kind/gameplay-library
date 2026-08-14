@@ -376,4 +376,4 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 |[2026-08-14 20:00] [R047] [Phase 4: Process Games] ✅ 完成 — 处理22款游戏(G665-G686)，产出22份文档(均≥50行)，来源: PocketGamer+Wikipedia+iTunes API
 |[2026-08-14 20:00] [R047] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
 |[2026-08-14 20:00] [R047] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(22款游戏G665-G686移入Archived)
-|[2026-08-14 20:00] [R047] [Phase 7: Git Push]
+|[2026-08-14 20:00] [R047] [Phase 7: Git Push] ✅ 完成 — commit成功(24 files, +1547 lines)，push成功
