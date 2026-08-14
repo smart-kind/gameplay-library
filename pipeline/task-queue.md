@@ -8,6 +8,9 @@
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S186 | PocketGamer Game Finder Page 59 | https://www.pocketgamer.com/game-finder/page/59/0_all_0_1_1/ | 10 | 2026-08-14 12:58 |
+| S187 | PocketGamer Game Finder Page 60 | https://www.pocketgamer.com/game-finder/page/60/0_all_0_1_1/ | 10 | 2026-08-14 12:58 |
+| S188 | PocketGamer Game Finder Page 61 | https://www.pocketgamer.com/game-finder/page/61/0_all_0_1_1/ | 10 | 2026-08-14 12:58 |
 | S183 | PocketGamer Game Finder Page 56 | https://www.pocketgamer.com/game-finder/page/56/0_all_0_1_1/ | 10 | 2026-08-14 09:51 |
 | S184 | PocketGamer Game Finder Page 57 | https://www.pocketgamer.com/game-finder/page/57/0_all_0_1_1/ | 10 | 2026-08-14 09:51 |
 | S185 | PocketGamer Game Finder Page 58 | https://www.pocketgamer.com/game-finder/page/58/0_all_0_1_1/ | 10 | 2026-08-14 09:51 |
@@ -215,6 +218,36 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
+| G621 | Bionfly | docs/Bionfly_20260814_1258.md | PocketGamer P59 |
+| G622 | Block Fortress | docs/BlockFortress_20260814_1258.md | PocketGamer P59 |
+| G623 | Bridge Constructor Playground | docs/BridgeConstructorPlayground_20260814_1258.md | PocketGamer P59 |
+| G624 | Burt Destruction | docs/BurtDestruction_20260814_1258.md | PocketGamer P59 |
+| G625 | Color Sheep | docs/ColorSheep_20260814_1258.md | PocketGamer P59 |
+| G626 | Galactic Conflict | docs/GalacticConflict_20260814_1258.md | PocketGamer P59 |
+| G627 | Jetpack Jinx | docs/JetpackJinx_20260814_1258.md | PocketGamer P59 |
+| G628 | King Cashing 2 | docs/KingCashing2_20260814_1258.md | PocketGamer P59 |
+| G629 | Megapolis | docs/Megapolis_20260814_1258.md | PocketGamer P59 |
+| G630 | Sushi Mushi | docs/SushiMushi_20260814_1258.md | PocketGamer P59 |
+| G631 | Backflip Madness | docs/BackflipMadness_20260814_1258.md | PocketGamer P60 |
+| G632 | Clear Vision 2 | docs/ClearVision2_20260814_1258.md | PocketGamer P60 |
+| G633 | Cocoto Alien Brick Breaker | docs/CocotoAlienBrickBreaker_20260814_1258.md | PocketGamer P60 |
+| G634 | Cyto | docs/Cyto_20260814_1258.md | PocketGamer P60 |
+| G635 | Finding Teddy | docs/FindingTeddy_20260814_1258.md | PocketGamer P60 |
+| G636 | Frogger Jump | docs/FroggerJump_20260814_1258.md | PocketGamer P60 |
+| G637 | Fruit Pop | docs/FruitPop_20260814_1258.md | PocketGamer P60 |
+| G638 | Hacky Cat | docs/HackyCat_20260814_1258.md | PocketGamer P60 |
+| G639 | Life of Pixel | docs/LifeOfPixel_20260814_1258.md | PocketGamer P60 |
+| G640 | Puzzle Restorer | docs/PuzzleRestorer_20260814_1258.md | PocketGamer P60 |
+| G641 | Animal Park Tycoon | docs/AnimalParkTycoon_20260814_1258.md | PocketGamer P61 |
+| G642 | Baseball Superstars 2013 | docs/BaseballSuperstars2013_20260814_1258.md | PocketGamer P61 |
+| G643 | Covenant of Solitude | docs/CovenantOfSolitude_20260814_1258.md | PocketGamer P61 |
+| G644 | Dungeon Lore | docs/DungeonLore_20260814_1258.md | PocketGamer P61 |
+| G645 | Inbetween Land | docs/InbetweenLand_20260814_1258.md | PocketGamer P61 |
+| G646 | Krashlander | docs/Krashlander_20260814_1258.md | PocketGamer P61 |
+| G647 | Midnight Bowling 3 | docs/MidnightBowling3_20260814_1258.md | PocketGamer P61 |
+| G648 | Paper Galaxy | docs/PaperGalaxy_20260814_1258.md | PocketGamer P61 |
+| G649 | Rise of the Blobs | docs/RiseOfTheBlobs_20260814_1258.md | PocketGamer P61 |
+| G650 | Zombie Clash | docs/ZombieClash_20260814_1258.md | PocketGamer P61 |
 ## Games Archived（已归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
