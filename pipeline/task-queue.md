@@ -4,12 +4,16 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S177 | PocketGamer Game Finder Page 50 | https://www.pocketgamer.com/game-finder/page/50/0_all_0_1_1/ | 25 | 2026-08-14 04:34 |
-| S178 | PocketGamer Game Finder Page 51 | https://www.pocketgamer.com/game-finder/page/51/0_all_0_1_1/ | 25 | 2026-08-14 04:34 |
-| S179 | PocketGamer Game Finder Page 52 | https://www.pocketgamer.com/game-finder/page/52/0_all_0_1_1/ | 25 | 2026-08-14 04:34 |
-
+| S180 | PocketGamer Game Finder Page 53 | https://www.pocketgamer.com/game-finder/page/53/0_all_0_1_1/ | static | 2026-08-14 06:19 |
+| S181 | PocketGamer Game Finder Page 54 | https://www.pocketgamer.com/game-finder/page/54/0_all_0_1_1/ | static | 2026-08-14 06:19 |
+| S182 | PocketGamer Game Finder Page 55 | https://www.pocketgamer.com/game-finder/page/55/0_all_0_1_1/ | static | 2026-08-14 06:19 |
 
 ## Sources Archived（本轮新增）
+|| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|---|---|---|---|---|
+| S180 | PocketGamer Game Finder Page 53 | https://www.pocketgamer.com/game-finder/page/53/0_all_0_1_1/ | 10 | 2026-08-14 06:19 |
+| S181 | PocketGamer Game Finder Page 54 | https://www.pocketgamer.com/game-finder/page/54/0_all_0_1_1/ | 10 | 2026-08-14 06:19 |
+| S182 | PocketGamer Game Finder Page 55 | https://www.pocketgamer.com/game-finder/page/55/0_all_0_1_1/ | 10 | 2026-08-14 06:19 |
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
 | S177 | PocketGamer Game Finder Page 50 | https://www.pocketgamer.com/game-finder/page/50/0_all_0_1_1/ | 10 | 2026-08-14 04:34 |
@@ -225,6 +229,36 @@
 | G578 | Sky Tourist | docs/SkyTourist_20260814_0434.md | 2026-08-14 04:34 |
 | G579 | Colourtrix | docs/Colourtrix_20260814_0434.md | 2026-08-14 04:34 |
 | G580 | Bounty Arms | docs/BountyArms_20260814_0434.md | 2026-08-14 04:34 |
+| G581 | SpeedX 3D Hyper Edition | docs/SpeedX3DHyperEdition_20260814_0619.md | 2026-08-14 06:19 |
+| G582 | Pyramus | docs/Pyramus_20260814_0619.md | 2026-08-14 06:19 |
+| G583 | Beejumbled | docs/Beejumbled_20260814_0619.md | 2026-08-14 06:19 |
+| G584 | Pinball Rocks HD | docs/PinballRocksHD_20260814_0619.md | 2026-08-14 06:19 |
+| G585 | SpongeBob Moves In | docs/SpongeBobMovesIn_20260814_0619.md | 2026-08-14 06:19 |
+| G586 | Cling Thing | docs/ClingThing_20260814_0619.md | 2026-08-14 06:19 |
+| G587 | Fish Puncher! | docs/FishPuncher_20260814_0619.md | 2026-08-14 06:19 |
+| G588 | Gridd 2 | docs/Gridd2_20260814_0619.md | 2026-08-14 06:19 |
+| G589 | Cubemen 2 | docs/Cubemen2_20260814_0619.md | 2026-08-14 06:19 |
+| G590 | Color Zen | docs/ColorZen_20260814_0619.md | 2026-08-14 06:19 |
+| G591 | Rollabear | docs/Rollabear_20260814_0619.md | 2026-08-14 06:19 |
+| G592 | The Denpa Men 2: Beyond the Waves | docs/TheDenpaMen2_20260814_0619.md | 2026-08-14 06:19 |
+| G593 | Stickets | docs/Stickets_20260814_0619.md | 2026-08-14 06:19 |
+| G594 | I, Gladiator | docs/IGladiator_20260814_0619.md | 2026-08-14 06:19 |
+| G595 | Battle Nations | docs/BattleNations_20260814_0619.md | 2026-08-14 06:19 |
+| G596 | SlamBots | docs/SlamBots_20260814_0619.md | 2026-08-14 06:19 |
+| G597 | Bam fu | docs/Bamfu_20260814_0619.md | 2026-08-14 06:19 |
+| G598 | Hills of Glory 3D | docs/HillsOfGlory3D_20260814_0619.md | 2026-08-14 06:19 |
+| G599 | Stickman Tennis | docs/StickmanTennis_20260814_0619.md | 2026-08-14 06:19 |
+| G600 | Can Knockdown 3 | docs/CanKnockdown3_20260814_0619.md | 2026-08-14 06:19 |
+| G601 | Dots: A Game About Connecting | docs/DotsGameAboutConnecting_20260814_0619.md | 2026-08-14 06:19 |
+| G602 | Bellyfish | docs/Bellyfish_20260814_0619.md | 2026-08-14 06:19 |
+| G603 | Tomb Breaker | docs/TombBreaker_20260814_0619.md | 2026-08-14 06:19 |
+| G604 | Tales of Illyria | docs/TalesOfIllyria_20260814_0619.md | 2026-08-14 06:19 |
+| G605 | Era Deluxe | docs/EraDeluxe_20260814_0619.md | 2026-08-14 06:19 |
+| G606 | Dead Ahead | docs/DeadAhead_20260814_0619.md | 2026-08-14 06:19 |
+| G607 | CandyMeleon | docs/CandyMeleon_20260814_0619.md | 2026-08-14 06:19 |
+| G608 | Go Home Dinosaurs | docs/GoHomeDinosaurs_20260814_0619.md | 2026-08-14 06:19 |
+| G609 | Bonds of the Skies | docs/BondsOfTheSkies_20260814_0619.md | 2026-08-14 06:19 |
+| G610 | Dig! | docs/DigGame_20260814_0619.md | 2026-08-14 06:19 |
 | G495 | Jelly Splash | | https://www.pocketgamer.com/jelly-splash/ |
 | G496 | Grindcore | | https://www.pocketgamer.com/grindcore/ |
 | G497 | Animal Voyage: Island Adventure | | https://www.pocketgamer.com/animal-voyage-island-adventure/ |
@@ -650,6 +684,7 @@
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
 
+| 2026-08-14 06:19 | (R042: 手动发现3来源S180-S182共75款游戏名，为30款生成详细文档G581-G610，均≥50行) | 3 (S180-S182) | 3 (S180-S182) | 75 | 30 (G581-G610) | 0 |
 | 2026-08-13 09:57 | 3组(PocketGamer P28/P29+Gamigion) | 2 | 3(S141成功9款,S142失败,S143/S144归档) | 34 | 34 | 1(S142模板文章) |
 |---|---|---|---|---|---|---|
 | 2026-08-14 04:34 | (R041: DDG被CAPTCHA阻止，手动发现3个PocketGamer来源S177-S179共75款游戏，基于PocketGamer评测内容为11款生成文档G570-G580，均≥50行) | 3 (S177-S179) | 3 (S177-S179) | 75 | 11 (G570-G580) | 0 |
