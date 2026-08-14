@@ -10,39 +10,14 @@
 | S191 | PocketGamer Game Finder Page 64 | https://www.pocketgamer.com/game-finder/page/64/0_all_0_1_1/ | 4 | 2026-08-14 17:00 |
 
 ## Sources Archived（本轮新增）
-|| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+| ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S189 | PocketGamer Game Finder Page 62 | https://www.pocketgamer.com/game-finder/page/62/0_all_0_1_1/ | 10 | 2026-08-14 15:14 |
+| S190 | PocketGamer Game Finder Page 63 | https://www.pocketgamer.com/game-finder/page/63/0_all_0_1_1/ | 12 | 2026-08-14 15:14 |
+| S191 | PocketGamer Game Finder Page 64 | https://www.pocketgamer.com/game-finder/page/64/0_all_0_1_1/ | 22 | 2026-08-14 15:14 |
 | S186 | PocketGamer Game Finder Page 59 | https://www.pocketgamer.com/game-finder/page/59/0_all_0_1_1/ | 10 | 2026-08-14 12:58 |
 | S187 | PocketGamer Game Finder Page 60 | https://www.pocketgamer.com/game-finder/page/60/0_all_0_1_1/ | 10 | 2026-08-14 12:58 |
 | S188 | PocketGamer Game Finder Page 61 | https://www.pocketgamer.com/game-finder/page/61/0_all_0_1_1/ | 10 | 2026-08-14 12:58 |
-| S183 | PocketGamer Game Finder Page 56 | https://www.pocketgamer.com/game-finder/page/56/0_all_0_1_1/ | 10 | 2026-08-14 09:51 |
-| S184 | PocketGamer Game Finder Page 57 | https://www.pocketgamer.com/game-finder/page/57/0_all_0_1_1/ | 10 | 2026-08-14 09:51 |
-| S185 | PocketGamer Game Finder Page 58 | https://www.pocketgamer.com/game-finder/page/58/0_all_0_1_1/ | 10 | 2026-08-14 09:51 |
-| S180 | PocketGamer Game Finder Page 53 | https://www.pocketgamer.com/game-finder/page/53/0_all_0_1_1/ | 10 | 2026-08-14 06:19 |
-| S181 | PocketGamer Game Finder Page 54 | https://www.pocketgamer.com/game-finder/page/54/0_all_0_1_1/ | 10 | 2026-08-14 06:19 |
-| S182 | PocketGamer Game Finder Page 55 | https://www.pocketgamer.com/game-finder/page/55/0_all_0_1_1/ | 10 | 2026-08-14 06:19 |
-| ID | 标题 | URL | 产出游戏数 | 完成时间 |
-|---|---|---|---|---|
-| S177 | PocketGamer Game Finder Page 50 | https://www.pocketgamer.com/game-finder/page/50/0_all_0_1_1/ | 10 | 2026-08-14 04:34 |
-| S178 | PocketGamer Game Finder Page 51 | https://www.pocketgamer.com/game-finder/page/51/0_all_0_1_1/ | 25 | 2026-08-14 04:34 |
-| S179 | PocketGamer Game Finder Page 52 | https://www.pocketgamer.com/game-finder/page/52/0_all_0_1_1/ | 25 | 2026-08-14 04:34 |
-| S171 | PocketGamer Game Finder Page 44 | https://www.pocketgamer.com/game-finder/page/44/0_all_0_1_1/ | 25 | 2026-08-14 01:12 |
-| S172 | PocketGamer Game Finder Page 45 | https://www.pocketgamer.com/game-finder/page/45/0_all_0_1_1/ | 25 | 2026-08-14 01:12 |
-| S173 | PocketGamer Game Finder Page 46 | https://www.pocketgamer.com/game-finder/page/46/0_all_0_1_1/ | 25 | 2026-08-14 01:12 |
-| S174 | PocketGamer Game Finder Page 47 | https://www.pocketgamer.com/game-finder/page/47/0_all_0_1_1/ | 25 | 2026-08-14 02:59 |
-| S175 | PocketGamer Game Finder Page 48 | https://www.pocketgamer.com/game-finder/page/48/0_all_0_1_1/ | 25 | 2026-08-14 02:59 |
-| S176 | PocketGamer Game Finder Page 49 | https://www.pocketgamer.com/game-finder/page/49/0_all_0_1_1/ | 25 | 2026-08-14 02:59 |
-| S168 | PocketGamer Game Finder Page 41 | https://www.pocketgamer.com/game-finder/page/41/0_all_0_1_1/ | 25 | 2026-08-14 02:00 |
-| S169 | PocketGamer Game Finder Page 42 | https://www.pocketgamer.com/game-finder/page/42/0_all_0_1_1/ | 25 | 2026-08-14 02:00 |
-| S170 | PocketGamer Game Finder Page 43 | https://www.pocketgamer.com/game-finder/page/43/0_all_0_1_1/ | 25 | 2026-08-14 02:00 |
-| S160 | PocketGamer Game Finder Page 38 | https://www.pocketgamer.com/game-finder/page/38/0_all_0_1_1/ | 10 | 2026-08-13 20:00 |
-| S161 | PocketGamer Game Finder Page 39 | https://www.pocketgamer.com/game-finder/page/39/0_all_0_1_1/ | 10 | 2026-08-13 20:00 |
-| S162 | PocketGamer Game Finder Page 40 | https://www.pocketgamer.com/game-finder/page/40/0_all_0_1_1/ | 10 | 2026-08-13 20:00 |
-| S163 | GameSpot Hidden Gems 2025 | https://www.gamespot.com/gallery/hidden-gems-2025-the-best-new-games-you-might-never-have-heard-of/2900-7329/ | 0 | 2026-08-13 23:00 |
-| S164 | Polygon Best Indie Games 2025 | https://www.polygon.com/best-indie-games-2025/ | 10 | 2026-08-13 23:00 |
-| S165 | ChronicReload 10 Hidden Gems 2025 | https://www.chronicreload.com/blog/10-hidden-gems-2025 | 10 | 2026-08-13 23:00 |
-| S166 | Punished Backlog Best Indie Games 2025 | https://punishedbacklog.com/best-indie-games-2025/ | 16 | 2026-08-13 23:00 |
-| S167 | TierListMaker Indie Hidden Gems 2025 | https://tierlistmaker.org/blog/indie-games-hidden-gems-2025 | 11 | 2026-08-13 23:00 |
 
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
@@ -222,24 +197,46 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G651 | Wide Sky | docs/WideSky_20260814_1700.md | PocketGamer P62 |
-| G652 | Tennis in the Face | docs/TennisintheFace_20260814_1700.md | PocketGamer P62 |
-| G653 | 35 Junior Games | docs/35JuniorGames_20260814_1700.md | PocketGamer P62 |
-| G654 | Colosseum Defense | docs/ColosseumDefense_20260814_1700.md | PocketGamer P62 |
-| G655 | Dingle Dangle | docs/DingleDangle_20260814_1700.md | PocketGamer P62 |
-| G656 | Zen Training | docs/ZenTraining_20260814_1700.md | PocketGamer P62 |
-| G657 | Run'n'Gun | docs/RunnGun_20260814_1700.md | PocketGamer P62 |
-| G658 | Pub Quiz with Friends | docs/PubQuizwithFriends_20260814_1700.md | PocketGamer P62 |
-| G659 | Little Amazon | docs/LittleAmazon_20260814_1700.md | PocketGamer P63 |
-| G660 | Cognitile | docs/Cognitile_20260814_1700.md | PocketGamer P63 |
-| G661 | Uranium Inc. | docs/UraniumInc_20260814_1700.md | PocketGamer P63 |
-| G662 | The Grading Game | docs/TheGradingGame_20260814_1700.md | PocketGamer P63 |
-| G663 | Ronin | docs/Ronin_20260814_1700.md | PocketGamer P63 |
-| G664 | RC Thunderbird | docs/RCThunderbird_20260814_1700.md | PocketGamer P63 |
+| G665 | 21 Days | — | PocketGamer P64 |
+| G666 | AR Defender 2 | — | PocketGamer P64 |
+| G667 | Build a Lot 4 | — | PocketGamer P64 |
+| G668 | City Conquest | — | PocketGamer P64 |
+| G669 | Crumble Zone | — | PocketGamer P64 |
+| G670 | DJMax Technika Tune | — | PocketGamer P64 |
+| G671 | Dragon's Dream | — | PocketGamer P64 |
+| G672 | Dress to Play: Cute Witches! | — | PocketGamer P64 |
+| G673 | Elminage Original | — | PocketGamer P64 |
+| G674 | Freeze | — | PocketGamer P64 |
+| G675 | Hydroventure: Spin Cycle | — | PocketGamer P64 |
+| G676 | Lazy Raiders | — | PocketGamer P64 |
+| G677 | Magic Orbz | — | PocketGamer P64 |
+| G678 | Mini Dash | — | PocketGamer P64 |
+| G679 | My Little Pony: Friendship is Magic | — | PocketGamer P64 |
+| G680 | Pix3d | — | PocketGamer P64 |
+| G681 | Qatqi | — | PocketGamer P64 |
+| G682 | Sky Hero | — | PocketGamer P64 |
+| G683 | Smash Cops Heat | — | PocketGamer P64 |
+| G684 | Spellwood | — | PocketGamer P64 |
+| G685 | The Adorables | — | PocketGamer P64 |
+| G686 | Towers & Dungeons | — | PocketGamer P64 |
 
 ## Games Archived（已归档）
 || ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G651 | Wide Sky | docs/WideSky_20260814_1730.md | 2026-08-14 15:14 |
+| G652 | Tennis in the Face | docs/TennisintheFace_20260814_1730.md | 2026-08-14 15:14 |
+| G653 | 35 Junior Games | docs/35JuniorGames_20260814_1730.md | 2026-08-14 15:14 |
+| G654 | Colosseum Defense | docs/ColosseumDefense_20260814_1730.md | 2026-08-14 15:14 |
+| G655 | Dingle Dangle | docs/DingleDangle_20260814_1730.md | 2026-08-14 15:14 |
+| G656 | Zen Training | docs/ZenTraining_20260814_1730.md | 2026-08-14 15:14 |
+| G657 | Run'n'Gun | docs/RunnGun_20260814_1730.md | 2026-08-14 15:14 |
+| G658 | Pub Quiz with Friends | docs/PubQuizwithFriends_20260814_1730.md | 2026-08-14 15:14 |
+| G659 | Little Amazon | docs/LittleAmazon_20260814_1730.md | 2026-08-14 15:14 |
+| G660 | Cognitile | docs/Cognitile_20260814_1730.md | 2026-08-14 15:14 |
+| G661 | Uranium Inc. | docs/UraniumInc_20260814_1730.md | 2026-08-14 15:14 |
+| G662 | The Grading Game | docs/TheGradingGame_20260814_1730.md | 2026-08-14 15:14 |
+| G663 | Ronin | docs/RoninTheLastSamurai_20260813_0117.md | 2026-08-14 15:14 |
+| G664 | RC Thunderbird | docs/RCThunderbird_20260814_1730.md | 2026-08-14 15:14 |
 | G621 | Bionfly | docs/bionfly_20260814_1258.md | 2026-08-14 12:58 |
 | G622 | Block Fortress | docs/BlockFortress_20260814_1258.md | 2026-08-14 12:58 |
 | G623 | Bridge Constructor Playground | docs/BridgeConstructorPlayground_20260814_1258.md | 2026-08-14 12:58 |
@@ -743,6 +740,7 @@
 | S122 | Rock Paper Shotgun Best Puzzle Games | https://www.rockpapershotgun.com/best-puzzle-games | 23 | 2026-08-13 03:00 |
 
 ## Execution Log
+| R046 | 2026-08-14 15:14 | 处理3来源(S189-S191)，提取48款游戏名，产出13款文档(G651-G663，Ronin已存在)，22款新游戏加入Pending(G665-G686) |
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
 
