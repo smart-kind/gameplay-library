@@ -1,16 +1,16 @@
 # Graph Report - gameplay-library  (2026-08-15)
 
 ## Corpus Check
-- 927 files · ~477,121 words
+- 947 files · ~480,807 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 9193 nodes · 8316 edges · 897 communities
+- 9397 nodes · 8500 edges · 917 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `9cf9e327`
+- Built from commit: `07c4ed22`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -910,6 +910,26 @@
 - Wizardlings
 - Zero Escape: Virtue's Last Reward（Zero Escape: Virtue's Last Reward）
 - Zookeeper Battle（Zookeeper Battle）
+- Burger Cat
+- Farty Pants
+- Twist Pilot
+- Wrath of the Titans
+- Arc the Lad II
+- 大赢足球（Big Win Soccer）
+- 桥梁建造师（Bridge Constructor）
+- Busted!
+- 投石车国王（Catapult King）
+- 火柴人狙击手（Clear Vision）
+- 高尔夫狂热（Golf Mania）
+- Hambo
+- Lock 'n' Load
+- 神经沙洲六角棋（Neuroshima Hex）
+- Oddworld: Abe's Oddysee
+- 聚合（Polymer）
+- 字母拼词对战（Ruzzle）
+- Saving Private Sheep 2
+- 山脊赛车4（Ridge Racer Type 4）
+- 滑雪大冒险（Ski Safari）
 
 ## God Nodes (most connected - your core abstractions)
 1. `Pipeline Run Log` - 29 edges
@@ -929,7 +949,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (897 total, 0 thin omitted)
+## Communities (917 total, 0 thin omitted)
 
 ### Community 0 - "Gameplay Discovery Pipeline - Task Queue"
 Cohesion: 0.13
@@ -4511,15 +4531,95 @@ Nodes (9): Meta 系统, Zero Escape: Virtue's Last Reward（Zero Escape: Virtue'
 Cohesion: 0.20
 Nodes (9): Meta 系统, Zookeeper Battle（Zookeeper Battle）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
 
+### Community 897 - "Burger Cat"
+Cohesion: 0.18
+Nodes (10): Burger Cat, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 898 - "Farty Pants"
+Cohesion: 0.18
+Nodes (10): Farty Pants, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 899 - "Twist Pilot"
+Cohesion: 0.18
+Nodes (10): Meta 系统, Twist Pilot, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 900 - "Wrath of the Titans"
+Cohesion: 0.18
+Nodes (10): Meta 系统, Wrath of the Titans, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 901 - "Arc the Lad II"
+Cohesion: 0.20
+Nodes (9): Arc the Lad II, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 902 - "大赢足球（Big Win Soccer）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 大赢足球（Big Win Soccer）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 903 - "桥梁建造师（Bridge Constructor）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 桥梁建造师（Bridge Constructor）, 玩法规则 (+1 more)
+
+### Community 904 - "Busted!"
+Cohesion: 0.20
+Nodes (9): Busted!, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 905 - "投石车国王（Catapult King）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 投石车国王（Catapult King）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 906 - "火柴人狙击手（Clear Vision）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 火柴人狙击手（Clear Vision）, 玩法规则 (+1 more)
+
+### Community 907 - "高尔夫狂热（Golf Mania）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 908 - "Hambo"
+Cohesion: 0.20
+Nodes (9): Hambo, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 909 - "Lock 'n' Load"
+Cohesion: 0.20
+Nodes (9): Lock 'n' Load, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 910 - "神经沙洲六角棋（Neuroshima Hex）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 神经沙洲六角棋（Neuroshima Hex） (+1 more)
+
+### Community 911 - "Oddworld: Abe's Oddysee"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Oddworld: Abe's Oddysee, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 912 - "聚合（Polymer）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 913 - "字母拼词对战（Ruzzle）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 字母拼词对战（Ruzzle）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 914 - "Saving Private Sheep 2"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Saving Private Sheep 2, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 915 - "山脊赛车4（Ridge Racer Type 4）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 山脊赛车4（Ridge Racer Type 4）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 916 - "滑雪大冒险（Ski Safari）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 滑雪大冒险（Ski Safari）, 玩法规则 (+1 more)
+
 ## Knowledge Gaps
-- **7333 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+7328 more)
+- **7497 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+7492 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `玩法规则`, `核心循环`, `核心机制` to the rest of the system?**
-  _7333 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _7497 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Gameplay Discovery Pipeline - Task Queue` be split into smaller, more focused modules?**
   _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
 - **Should `Pipeline Run Log` be split into smaller, more focused modules?**

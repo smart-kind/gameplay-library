@@ -16,6 +16,9 @@
 | S207 | PocketGamer Game Finder Page 80 | https://www.pocketgamer.com/game-finder/page/80/0_all_0_1_1/ | 25 | 2026-08-15 07:00 |
 | S208 | PocketGamer Game Finder Page 81 | https://www.pocketgamer.com/game-finder/page/81/0_all_0_1_1/ | 25 | 2026-08-15 07:00 |
 | S209 | PocketGamer Game Finder Page 82 | https://www.pocketgamer.com/game-finder/page/82/0_all_0_1_1/ | 25 | 2026-08-15 07:00 |
+| S210 | PocketGamer Game Finder Page 83 | https://www.pocketgamer.com/game-finder/page/83/0_all_0_1_1/ | — | 2026-08-15 08:43 |
+| S211 | PocketGamer Game Finder Page 84 | https://www.pocketgamer.com/game-finder/page/84/0_all_0_1_1/ | — | 2026-08-15 08:43 |
+| S212 | PocketGamer Game Finder Page 85 | https://www.pocketgamer.com/game-finder/page/85/0_all_0_1_1/ | — | 2026-08-15 08:43 |
 | S204 | PocketGamer Game Finder Page 77 | https://www.pocketgamer.com/game-finder/page/77/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
 | S205 | PocketGamer Game Finder Page 78 | https://www.pocketgamer.com/game-finder/page/78/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
 | S206 | PocketGamer Game Finder Page 79 | https://www.pocketgamer.com/game-finder/page/79/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
@@ -230,16 +233,16 @@
 | G998 | Tekken | — | PocketGamer P77 |
 | G999 | Lock N Load | — | PocketGamer P77 |
 | G1000 | Hambo | — | PocketGamer P77 |
-| G1001 | Burger Cat | — | PocketGamer P77 |
-| G1002 | Defenders Of The Mystic Garden | — | PocketGamer P77 |
-| G1003 | Cats Dogs Pets At Play | — | PocketGamer P77 |
-| G1004 | Devildark The Fallen Kingdom | — | PocketGamer P77 |
-| G1005 | Chickens Cant Fly | — | PocketGamer P77 |
-| G1006 | Boonce | — | PocketGamer P77 |
-| G1007 | Endless War | — | PocketGamer P77 |
-| G1008 | On The Wind | — | PocketGamer P77 |
-| G1009 | Tap The Frog 2 | — | PocketGamer P77 |
-| G1010 | Blast Ball | — | PocketGamer P77 |
+|| G1001 | Burger Cat | docs/BurgerCat_20260815_0843.md | PocketGamer P77 |
+|| G1002 | Defenders Of The Mystic Garden | docs/DefendersOfTheMysticGarden_20260815_0843.md | PocketGamer P77 |
+|| G1003 | Cats Dogs Pets At Play | docs/CatsDogsPetsAtPlay_20260815_0843.md | PocketGamer P77 |
+|| G1004 | Devildark The Fallen Kingdom | docs/DevildarkTheFallenKingdom_20260815_0843.md | PocketGamer P77 |
+|| G1005 | Chickens Cant Fly | docs/ChickensCantFly_20260815_0843.md | PocketGamer P77 |
+|| G1006 | Boonce | docs/Boonce_20260815_0843.md | PocketGamer P77 |
+|| G1007 | Endless War | docs/EndlessWar_20260815_0843.md | PocketGamer P77 |
+|| G1008 | On The Wind | docs/OnTheWind_20260815_0843.md | PocketGamer P77 |
+|| G1009 | Tap The Frog 2 | docs/TapTheFrog2_20260815_0843.md | PocketGamer P77 |
+|| G1010 | Blast Ball | docs/BlastBall_20260815_0843.md | PocketGamer P77 |
 | G1011 | Farming Simulator 2012 3D | — | PocketGamer P77 |
 | G1012 | Defense Zone Hd | — | PocketGamer P77 |
 | G1013 | Stickwars 3 | — | PocketGamer P77 |
@@ -306,21 +309,31 @@
 | G993 | Arc the Lad II | docs/ArctheLadII_20260815_0508.md | 2026-08-15 05:08 |
 | G994 | Twist Pilot | docs/TwistPilot_20260815_0508.md | 2026-08-15 05:08 |
 | G995 | Farty Pants | docs/FartyPants_20260815_0508.md | 2026-08-15 05:08 |
-| G996 | Wrath of the Titans | docs/WrathoftheTitans_20260815_0508.md | 2026-08-15 05:08 |
-| G997 | Busted! | docs/Busted_20260815_0508.md | 2026-08-15 05:08 |
-| G998 | Lock 'n' Load | docs/LocknLoad_20260815_0508.md | 2026-08-15 05:08 |
-| G999 | Hambo | docs/Hambo_20260815_0508.md | 2026-08-15 05:08 |
-| G1000 | Burger Cat | docs/BurgerCat_20260815_0508.md | 2026-08-15 05:08 |
-| G717 | Asura Cross | docs/AsuraCross_20260814_2359.md | 2026-08-14 23:59 |
-| G718 | Johnny HotShot | docs/JohnnyHotShot_20260814_2359.md | 2026-08-14 23:59 |
-| G719 | BreakQuest Extra Evolution | docs/BreakQuestExtraEvolution_20260814_2359.md | 2026-08-14 23:59 |
-| G720 | Outlaw | docs/Outlaw_20260814_2359.md | 2026-08-14 23:59 |
-| G721 | Beatdown! | docs/Beatdown_20260814_2359.md | 2026-08-14 23:59 |
-| G722 | Merlin: A Servant of Two Masters | docs/MerlinAServantofTwoMasters_20260814_2359.md | 2026-08-14 23:59 |
-| G723 | Matchstick Wars | docs/MatchstickWars_20260814_2359.md | 2026-08-14 23:59 |
-| G724 | Gear Jack | docs/GearJack_20260814_2359.md | 2026-08-14 23:59 |
-| G725 | Finger Tied | docs/FingerTied_20260814_2359.md | 2026-08-14 23:59 |
-| G726 | Build-a-lot 3: Passport to Europe | docs/Buildalot3PassporttoEurope_20260814_2359.md | 2026-08-14 23:59 |
+|| G996 | Wrath of the Titans | docs/WrathoftheTitans_20260815_0508.md | 2026-08-15 05:08 |
+|| G997 | Busted! | docs/Busted_20260815_0508.md | 2026-08-15 05:08 |
+|| G998 | Lock 'n' Load | docs/LocknLoad_20260815_0508.md | 2026-08-15 05:08 |
+|| G999 | Hambo | docs/Hambo_20260815_0508.md | 2026-08-15 05:08 |
+|| G1000 | Burger Cat | docs/BurgerCat_20260815_0508.md | 2026-08-15 05:08 |
+|| G1001 | Burger Cat | docs/BurgerCat_20260815_0843.md | 2026-08-15 08:43 |
+|| G1002 | Defenders Of The Mystic Garden | docs/DefendersOfTheMysticGarden_20260815_0843.md | 2026-08-15 08:43 |
+|| G1003 | Cats Dogs Pets At Play | docs/CatsDogsPetsAtPlay_20260815_0843.md | 2026-08-15 08:43 |
+|| G1004 | Devildark The Fallen Kingdom | docs/DevildarkTheFallenKingdom_20260815_0843.md | 2026-08-15 08:43 |
+|| G1005 | Chickens Cant Fly | docs/ChickensCantFly_20260815_0843.md | 2026-08-15 08:43 |
+|| G1006 | Boonce | docs/Boonce_20260815_0843.md | 2026-08-15 08:43 |
+|| G1007 | Endless War | docs/EndlessWar_20260815_0843.md | 2026-08-15 08:43 |
+|| G1008 | On The Wind | docs/OnTheWind_20260815_0843.md | 2026-08-15 08:43 |
+|| G1009 | Tap The Frog 2 | docs/TapTheFrog2_20260815_0843.md | 2026-08-15 08:43 |
+|| G1010 | Blast Ball | docs/BlastBall_20260815_0843.md | 2026-08-15 08:43 |
+|| G717 | Asura Cross | docs/AsuraCross_20260814_2359.md | 2026-08-14 23:59 |
+|| G718 | Johnny HotShot | docs/JohnnyHotShot_20260814_2359.md | 2026-08-14 23:59 |
+|| G719 | BreakQuest Extra Evolution | docs/BreakQuestExtraEvolution_20260814_2359.md | 2026-08-14 23:59 |
+|| G720 | Outlaw | docs/Outlaw_20260814_2359.md | 2026-08-14 23:59 |
+|| G721 | Beatdown! | docs/Beatdown_20260814_2359.md | 2026-08-14 23:59 |
+|| G722 | Merlin: A Servant of Two Masters | docs/MerlinAServantofTwoMasters_20260814_2359.md | 2026-08-14 23:59 |
+|| G723 | Matchstick Wars | docs/MatchstickWars_20260814_2359.md | 2026-08-14 23:59 |
+|| G724 | Gear Jack | docs/GearJack_20260814_2359.md | 2026-08-14 23:59 |
+|| G725 | Finger Tied | docs/FingerTied_20260814_2359.md | 2026-08-14 23:59 |
+|| G726 | Build-a-lot 3: Passport to Europe | docs/Buildalot3PassporttoEurope_20260814_2359.md | 2026-08-14 23:59 |
 | G727 | Storm the Train | docs/StormtheTrain_20260814_2359.md | 2026-08-14 23:59 |
 | G728 | Ayakashi: Ghost Guild | docs/AyakashiGhostGuild_20260814_2359.md | 2026-08-14 23:59 |
 | G729 | Pump it Up! Aerobics | docs/PumpitUpAerobics_20260814_2359.md | 2026-08-14 23:59 |

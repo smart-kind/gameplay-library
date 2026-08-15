@@ -1,16 +1,16 @@
 # Graph Report - gameplay-library  (2026-08-15)
 
 ## Corpus Check
-- 947 files · ~480,807 words
+- 967 files · ~482,607 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 9397 nodes · 8500 edges · 917 communities
+- 9597 nodes · 8680 edges · 937 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `07c4ed22`
+- Built from commit: `84a46dc7`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -930,6 +930,26 @@
 - Saving Private Sheep 2
 - 山脊赛车4（Ridge Racer Type 4）
 - 滑雪大冒险（Ski Safari）
+- 爆裂弹球（Blast Ball (Ball Blast Cannon Blitz)）
+- 弹球收集（Boonce (Bounce and Collect)）
+- 汉堡猫（Burger Cat (Cat Burger Simulator)）
+- 猫狗宠物乐园（Cats Dogs Pets At Play）
+- 小鸡不会飞（Chickens Cant Fly (Rocket Chicken)）
+- 可可疯狂（Coco Loco）
+- 神秘花园的守护者（Defenders Of The Mystic Garden）
+- 暗黑堕落王国（Devildark The Fallen Kingdom）
+- 无尽战争（Endless War (Last War: Survival)）
+- 趣味迷你高尔夫（Fun! Fun! Minigolf Touch!）
+- 光之章鱼（Lightopus）
+- 随风飘叶（On The Wind (Leaf on the Wind)）
+- 植物战争（Plants War）
+- 风暴突击者（Storm Strikers）
+- 超级柠檬工厂（Super Lemonade Factory）
+- 戳青蛙2（Tap The Frog 2 (Pocket Frogs)）
+- 列车危机高清版（Train Crisis HD）
+- 怒火之翼（Wings of Fury）
+- 百战天虫：重装上阵（Worms Reloaded）
+- 僵尸好莱坞（Zombiewood）
 
 ## God Nodes (most connected - your core abstractions)
 1. `Pipeline Run Log` - 29 edges
@@ -949,7 +969,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (917 total, 0 thin omitted)
+## Communities (937 total, 0 thin omitted)
 
 ### Community 0 - "Gameplay Discovery Pipeline - Task Queue"
 Cohesion: 0.13
@@ -4611,15 +4631,95 @@ Nodes (9): Meta 系统, 为什么好玩, 实现难度, 山脊赛车4（Ridge Rac
 Cohesion: 0.20
 Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 滑雪大冒险（Ski Safari）, 玩法规则 (+1 more)
 
+### Community 917 - "爆裂弹球（Blast Ball (Ball Blast Cannon Blitz)）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 爆裂弹球（Blast Ball (Ball Blast Cannon Blitz)）, 玩法规则 (+1 more)
+
+### Community 918 - "弹球收集（Boonce (Bounce and Collect)）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 弹球收集（Boonce (Bounce and Collect)）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 919 - "汉堡猫（Burger Cat (Cat Burger Simulator)）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 汉堡猫（Burger Cat (Cat Burger Simulator)）, 玩法规则 (+1 more)
+
+### Community 920 - "猫狗宠物乐园（Cats Dogs Pets At Play）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 猫狗宠物乐园（Cats Dogs Pets At Play）, 玩法规则 (+1 more)
+
+### Community 921 - "小鸡不会飞（Chickens Cant Fly (Rocket Chicken)）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 小鸡不会飞（Chickens Cant Fly (Rocket Chicken)）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 922 - "可可疯狂（Coco Loco）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 可可疯狂（Coco Loco）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 923 - "神秘花园的守护者（Defenders Of The Mystic Garden）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 神秘花园的守护者（Defenders Of The Mystic Garden） (+1 more)
+
+### Community 924 - "暗黑堕落王国（Devildark The Fallen Kingdom）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 暗黑堕落王国（Devildark The Fallen Kingdom）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 925 - "无尽战争（Endless War (Last War: Survival)）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 无尽战争（Endless War (Last War: Survival)）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 926 - "趣味迷你高尔夫（Fun! Fun! Minigolf Touch!）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 927 - "光之章鱼（Lightopus）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 光之章鱼（Lightopus）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 928 - "随风飘叶（On The Wind (Leaf on the Wind)）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 929 - "植物战争（Plants War）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 植物战争（Plants War）, 玩法规则 (+1 more)
+
+### Community 930 - "风暴突击者（Storm Strikers）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 931 - "超级柠檬工厂（Super Lemonade Factory）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 932 - "戳青蛙2（Tap The Frog 2 (Pocket Frogs)）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 戳青蛙2（Tap The Frog 2 (Pocket Frogs)）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 933 - "列车危机高清版（Train Crisis HD）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 列车危机高清版（Train Crisis HD）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 934 - "怒火之翼（Wings of Fury）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 怒火之翼（Wings of Fury）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 935 - "百战天虫：重装上阵（Worms Reloaded）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 百战天虫：重装上阵（Worms Reloaded） (+1 more)
+
+### Community 936 - "僵尸好莱坞（Zombiewood）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 僵尸好莱坞（Zombiewood）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
 ## Knowledge Gaps
-- **7497 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+7492 more)
+- **7657 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+7652 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `玩法规则`, `核心循环`, `核心机制` to the rest of the system?**
-  _7497 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _7657 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Gameplay Discovery Pipeline - Task Queue` be split into smaller, more focused modules?**
   _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
 - **Should `Pipeline Run Log` be split into smaller, more focused modules?**

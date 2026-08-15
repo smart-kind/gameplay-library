@@ -65,8 +65,8 @@
     "semantic_hash": ""
   },
   "pipeline/task-queue.md": {
-    "mtime": 1786752106.7488992,
-    "ast_hash": "f8f4267c8f1e8568c37d7ea309688a9a",
+    "mtime": 1786771479.6734436,
+    "ast_hash": "45a106692b2b2262d573738043cdc8e8",
     "semantic_hash": ""
   },
   "docs/WordConnect_20260810_2047.md": {
@@ -550,8 +550,8 @@
     "semantic_hash": ""
   },
   "pipeline/run.log.md": {
-    "mtime": 1786751226.5200505,
-    "ast_hash": "cf0039a13383f75d89d355831689cadb",
+    "mtime": 1786764497.4414432,
+    "ast_hash": "7516ebbe79f0607ff85f865724c35c5e",
     "semantic_hash": ""
   },
   "pipeline/tmp/extract_s053.py": {
@@ -4767,6 +4767,106 @@
   "docs/ZookeeperBattle_20260814_2130.md": {
     "mtime": 1786739523.2122254,
     "ast_hash": "dc6ee344eceded8b6a149d2e5bd53916",
+    "semantic_hash": ""
+  },
+  "docs/ArctheLadII_20260815_0508.md": {
+    "mtime": 1786771417.9830153,
+    "ast_hash": "ecd01301b721cd5ef4ce8498cf2f64f0",
+    "semantic_hash": ""
+  },
+  "docs/BigWinSoccer_20260815_0300.md": {
+    "mtime": 1786758309.5803385,
+    "ast_hash": "02026668b0f55e4096dca8146bbec543",
+    "semantic_hash": ""
+  },
+  "docs/BridgeConstructor_20260815_0300.md": {
+    "mtime": 1786758309.5803385,
+    "ast_hash": "b6cec1ef3bf2add055e467dd423070f4",
+    "semantic_hash": ""
+  },
+  "docs/BurgerCat_20260815_0508.md": {
+    "mtime": 1786771430.54351,
+    "ast_hash": "a28293e1ced943871ae8f3d7df502148",
+    "semantic_hash": ""
+  },
+  "docs/Busted_20260815_0508.md": {
+    "mtime": 1786771417.9870155,
+    "ast_hash": "94459fcc15a9d98af19161925bdb74b1",
+    "semantic_hash": ""
+  },
+  "docs/CatapultKing_20260815_0300.md": {
+    "mtime": 1786758309.5803385,
+    "ast_hash": "224cec7fa7f48101a59391a5783d1b8c",
+    "semantic_hash": ""
+  },
+  "docs/ClearVision_20260815_0300.md": {
+    "mtime": 1786758309.5803385,
+    "ast_hash": "1939c92e608f9bc118911540b7f61b58",
+    "semantic_hash": ""
+  },
+  "docs/FartyPants_20260815_0508.md": {
+    "mtime": 1786771430.5395098,
+    "ast_hash": "772d00b8a45b62a534a81f52abf0b9d9",
+    "semantic_hash": ""
+  },
+  "docs/GolfMania_20260815_0300.md": {
+    "mtime": 1786758309.5803385,
+    "ast_hash": "18b65e668e309462261840980c2878f7",
+    "semantic_hash": ""
+  },
+  "docs/Hambo_20260815_0508.md": {
+    "mtime": 1786771417.9870155,
+    "ast_hash": "2109192a56048649b15603f482dd7fed",
+    "semantic_hash": ""
+  },
+  "docs/LocknLoad_20260815_0508.md": {
+    "mtime": 1786771417.9870155,
+    "ast_hash": "a5f398d87c14756c47f38ff98eeb674a",
+    "semantic_hash": ""
+  },
+  "docs/NeuroshimaHex_20260815_0300.md": {
+    "mtime": 1786758309.5803385,
+    "ast_hash": "e586d6512c5e0a997645934d27c98494",
+    "semantic_hash": ""
+  },
+  "docs/OddworldAbesOddysee_20260815_0508.md": {
+    "mtime": 1786771417.9830153,
+    "ast_hash": "5683b453ab01aa010cb2d4bcd874f5b4",
+    "semantic_hash": ""
+  },
+  "docs/Polymer_20260815_0300.md": {
+    "mtime": 1786758309.5803385,
+    "ast_hash": "8cdb0848176fbde758b84e90cf434db8",
+    "semantic_hash": ""
+  },
+  "docs/Ruzzle_20260815_0300.md": {
+    "mtime": 1786758309.5803385,
+    "ast_hash": "2769b4df258cc8bda0583dc1858a3cd8",
+    "semantic_hash": ""
+  },
+  "docs/SavingPrivateSheep2_20260815_0508.md": {
+    "mtime": 1786771417.9830153,
+    "ast_hash": "1cf8bcd3e2a8a36ca21f78522136a40b",
+    "semantic_hash": ""
+  },
+  "docs/SkiSafari_20260815_0300.md": {
+    "mtime": 1786758309.5803385,
+    "ast_hash": "e6044f119c1e4c008d239a3c11cdd4ed",
+    "semantic_hash": ""
+  },
+  "docs/SuperMarioBros_20260815_0300.md": {
+    "mtime": 1786758309.5803385,
+    "ast_hash": "5c174205368169caf5a54d0585c682d8",
+    "semantic_hash": ""
+  },
+  "docs/TwistPilot_20260815_0508.md": {
+    "mtime": 1786771430.491508,
+    "ast_hash": "02cf7e9040272239c2798c211f5f950e",
+    "semantic_hash": ""
+  },
+  "docs/WrathoftheTitans_20260815_0508.md": {
+    "mtime": 1786771430.54351,
+    "ast_hash": "16cca8ac79f6e48c1755111149054e3d",
     "semantic_hash": ""
   }
 }
