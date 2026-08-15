@@ -4,21 +4,14 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S213 | PocketGamer Game Finder Page 86 | https://www.pocketgamer.com/game-finder/page/86/0_all_0_1_1/ | 2026-08-15 10:00 |
+| S214 | PocketGamer Game Finder Page 87 | https://www.pocketgamer.com/game-finder/page/87/0_all_0_1_1/ | 2026-08-15 10:00 |
+| S215 | PocketGamer Game Finder Page 88 | https://www.pocketgamer.com/game-finder/page/88/0_all_0_1_1/ | 2026-08-15 10:00 |
 
 ## Sources Processing（处理中）
 
 | ID | 类型 | 标题 | URL | 开始时间 |
 |---|---|---|---|---|
-
-## Sources Archived（本轮新增）
-| ID | 标题 | URL | 产出游戏数 | 完成时间 |
-|---|---|---|---|---|
-| S207 | PocketGamer Game Finder Page 80 | https://www.pocketgamer.com/game-finder/page/80/0_all_0_1_1/ | 25 | 2026-08-15 07:00 |
-| S208 | PocketGamer Game Finder Page 81 | https://www.pocketgamer.com/game-finder/page/81/0_all_0_1_1/ | 25 | 2026-08-15 07:00 |
-| S209 | PocketGamer Game Finder Page 82 | https://www.pocketgamer.com/game-finder/page/82/0_all_0_1_1/ | 25 | 2026-08-15 07:00 |
-| S210 | PocketGamer Game Finder Page 83 | https://www.pocketgamer.com/game-finder/page/83/0_all_0_1_1/ | — | 2026-08-15 08:43 |
-| S211 | PocketGamer Game Finder Page 84 | https://www.pocketgamer.com/game-finder/page/84/0_all_0_1_1/ | — | 2026-08-15 08:43 |
-| S212 | PocketGamer Game Finder Page 85 | https://www.pocketgamer.com/game-finder/page/85/0_all_0_1_1/ | — | 2026-08-15 08:43 |
 | S204 | PocketGamer Game Finder Page 77 | https://www.pocketgamer.com/game-finder/page/77/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
 | S205 | PocketGamer Game Finder Page 78 | https://www.pocketgamer.com/game-finder/page/78/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
 | S206 | PocketGamer Game Finder Page 79 | https://www.pocketgamer.com/game-finder/page/79/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
@@ -48,6 +41,9 @@
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S210 | PocketGamer Game Finder Page 83 | https://www.pocketgamer.com/game-finder/page/83/0_all_0_1_1/ | 25 | 2026-08-15 10:00 |
+| S211 | PocketGamer Game Finder Page 84 | https://www.pocketgamer.com/game-finder/page/84/0_all_0_1_1/ | 25 | 2026-08-15 10:00 |
+| S212 | PocketGamer Game Finder Page 85 | https://www.pocketgamer.com/game-finder/page/85/0_all_0_1_1/ | 25 | 2026-08-15 10:00 |
 | S157 | PocketGamer Game Finder Page 35 | https://www.pocketgamer.com/game-finder/page/35/0_all_0_1_1/ | 25 | 2026-08-13 16:52 |
 | S158 | PocketGamer Game Finder Page 36 | https://www.pocketgamer.com/game-finder/page/36/0_all_0_1_1/ | 25 | 2026-08-13 16:52 |
 | S159 | PocketGamer Game Finder Page 37 | https://www.pocketgamer.com/game-finder/page/37/0_all_0_1_1/ | 25 | 2026-08-13 16:52 |
@@ -243,16 +239,6 @@
 || G1008 | On The Wind | docs/OnTheWind_20260815_0843.md | PocketGamer P77 |
 || G1009 | Tap The Frog 2 | docs/TapTheFrog2_20260815_0843.md | PocketGamer P77 |
 || G1010 | Blast Ball | docs/BlastBall_20260815_0843.md | PocketGamer P77 |
-| G1011 | Farming Simulator 2012 3D | — | PocketGamer P77 |
-| G1012 | Defense Zone Hd | — | PocketGamer P77 |
-| G1013 | Stickwars 3 | — | PocketGamer P77 |
-| G1014 | Crash Time 3D | — | PocketGamer P77 |
-| G1015 | Little Big City | — | PocketGamer P77 |
-| G1016 | Bunny Maze 3D | — | PocketGamer P78 |
-| G1017 | Beeing | — | PocketGamer P78 |
-| G1018 | 12X1 Solitaire | — | PocketGamer P78 |
-| G1019 | El Shaddai Vol 1 | — | PocketGamer P78 |
-| G1020 | Sky Gnomes | — | PocketGamer P78 |
 | G1021 | Trial Xtreme 2 Winter Edition | — | PocketGamer P78 |
 | G1022 | Violet Storm | — | PocketGamer P78 |
 | G1023 | Iootp Baseball 2012 Edition | — | PocketGamer P78 |
@@ -324,6 +310,16 @@
 || G1008 | On The Wind | docs/OnTheWind_20260815_0843.md | 2026-08-15 08:43 |
 || G1009 | Tap The Frog 2 | docs/TapTheFrog2_20260815_0843.md | 2026-08-15 08:43 |
 || G1010 | Blast Ball | docs/BlastBall_20260815_0843.md | 2026-08-15 08:43 |
+|| G1011 | Farming Simulator 2012 3D | docs/FarmingSimulator20123D_20260815_1000.md | 2026-08-15 10:00 |
+|| G1012 | Defense Zone HD | docs/DefenseZoneHD_20260815_1000.md | 2026-08-15 10:00 |
+|| G1013 | Stick Wars 3 | docs/StickWars3_20260815_1000.md | 2026-08-15 10:00 |
+|| G1014 | Crash Time 3D | docs/CrashTime3D_20260815_1000.md | 2026-08-15 10:00 |
+|| G1015 | Little Big City | docs/LittleBigCity_20260815_1000.md | 2026-08-15 10:00 |
+|| G1016 | Bunny Maze 3D | docs/BunnyMaze3D_20260815_1000.md | 2026-08-15 10:00 |
+|| G1017 | Beeing | docs/Beeing_20260815_1000.md | 2026-08-15 10:00 |
+|| G1018 | 12X1 Solitaire | docs/12X1Solitaire_20260815_1000.md | 2026-08-15 10:00 |
+|| G1019 | El Shaddai Vol 1 | docs/ElShaddaiVol1_20260815_1000.md | 2026-08-15 10:00 |
+|| G1020 | Sky Gnomes | docs/SkyGnomes_20260815_1000.md | 2026-08-15 10:00 |
 || G717 | Asura Cross | docs/AsuraCross_20260814_2359.md | 2026-08-14 23:59 |
 || G718 | Johnny HotShot | docs/JohnnyHotShot_20260814_2359.md | 2026-08-14 23:59 |
 || G719 | BreakQuest Extra Evolution | docs/BreakQuestExtraEvolution_20260814_2359.md | 2026-08-14 23:59 |
@@ -975,7 +971,8 @@
 
 ## Execution Log
 
-| 时间 | 执行摘要 | 新来源 | 处理来源 | 产出游戏 | 归档游戏 | 失败 |
+| 时间 | 执行摘要 | 新|| 2026-08-15 10:00 | (R055: 手动发现3来源S213-S215, 处理3来源S210-S212归档75款游戏, 处理10款Pending游戏G1011-G1020产出文档) | 3 (S213-S215) | 3 (S210-S212) | 75 | 10 (G1011-G1020) | 0 |
+来源 | 处理来源 | 产出游戏 | 归档游戏 | 失败 |
 |---|---|---|---|---|---|---|
 | 2026-08-14 18:41 | (R048: 手动发现S192-S194, 提取75款游戏, 产出10款文档G687-G696) | 3 (S192-S194) | 0 | 75 | 10 (G687-G696) | 0 |
 | 2026-08-14 21:30 | (R049: 处理S192-S194, 提取75款游戏, 产出10款文档G697-G706, 59款Pending) | 0 | 3 (S192-S194) | 75 | 10 (G697-G706) | 0 |
