@@ -4,6 +4,9 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S207 | manual | PocketGamer Game Finder Page 80 | https://www.pocketgamer.com/game-finder/page/80/0_all_0_1_1/ | 2026-08-15 05:08 |
+| S208 | manual | PocketGamer Game Finder Page 81 | https://www.pocketgamer.com/game-finder/page/81/0_all_0_1_1/ | 2026-08-15 05:08 |
+| S209 | manual | PocketGamer Game Finder Page 82 | https://www.pocketgamer.com/game-finder/page/82/0_all_0_1_1/ | 2026-08-15 05:08 |
 
 ## Sources Processing（处理中）
 
@@ -13,6 +16,9 @@
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S204 | PocketGamer Game Finder Page 77 | https://www.pocketgamer.com/game-finder/page/77/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
+| S205 | PocketGamer Game Finder Page 78 | https://www.pocketgamer.com/game-finder/page/78/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
+| S206 | PocketGamer Game Finder Page 79 | https://www.pocketgamer.com/game-finder/page/79/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
 | S198 | PocketGamer Game Finder Page 71 | https://www.pocketgamer.com/game-finder/page/71/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
 | S199 | PocketGamer Game Finder Page 72 | https://www.pocketgamer.com/game-finder/page/72/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
 | S200 | PocketGamer Game Finder Page 73 | https://www.pocketgamer.com/game-finder/page/73/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
@@ -214,284 +220,97 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G841 | One Tap Hero | — | PocketGamer P71 |
-| G842 | Fish Hooks | — | PocketGamer P71 |
-| G843 | Word on Word | — | PocketGamer P71 |
-| G844 | Puzzle Craft | — | PocketGamer P71 |
-| G845 | Greedy Grub | — | PocketGamer P71 |
-| G846 | Mikey Shorts | — | PocketGamer P71 |
-| G847 | Airport City HD | — | PocketGamer P71 |
-| G848 | The Sword of Hope II | — | PocketGamer P71 |
-| G849 | Greedy Spiders 2: Toby's Deception | — | PocketGamer P71 |
-| G850 | Choose a company 3 in 1 Bubble Beat | — | PocketGamer P71 |
-| G851 | Johnny Kung Fu | — | PocketGamer P71 |
-| G852 | Happy Squirrels | — | PocketGamer P71 |
-| G853 | Galaxy Life: Pocket Adventures | — | PocketGamer P71 |
-| G854 | Kingdoms & Lords | — | PocketGamer P71 |
-| G855 | Rope 'n' Fly - From Dusk Till Dawn | — | PocketGamer P71 |
-| G856 | Gasketball | — | PocketGamer P71 |
-| G857 | Kid Vector | — | PocketGamer P71 |
-| G858 | Flight! | — | PocketGamer P71 |
-| G859 | Chicken Raid | — | PocketGamer P71 |
-| G860 | Oddworld: Stranger's Wrath HD | — | PocketGamer P71 |
-| G861 | Monster Life | — | PocketGamer P71 |
-| G862 | Absolute Summer Sports 2012 | — | PocketGamer P71 |
-| G863 | Clumsy Pirates | — | PocketGamer P71 |
-| G864 | Orc: Vengeance | — | PocketGamer P71 |
-| G865 | Sci-Fi Heroes | — | PocketGamer P71 |
-| G866 | MLB 12: The Show | — | PocketGamer P72 |
-| G867 | SongPop | — | PocketGamer P72 |
-| G868 | Manos: The Hands of Fate | — | PocketGamer P72 |
-| G869 | 10000000 | — | PocketGamer P72 |
-| G870 | Harvest Moon: The Tale of Two Towns | — | PocketGamer P72 |
-| G871 | Blazing Star | — | PocketGamer P72 |
-| G872 | Gyro | — | PocketGamer P72 |
-| G873 | Flick Champions World Edition | — | PocketGamer P72 |
-| G874 | Finger Bowling 2 | — | PocketGamer P72 |
-| G875 | Zombie Defense | — | PocketGamer P72 |
-| G876 | Recurse | — | PocketGamer P72 |
-| G877 | Splash !!! | — | PocketGamer P72 |
-| G878 | Jar on a Bar | — | PocketGamer P72 |
-| G879 | Freakyforms Deluxe: Your Creations, Alive! | — | PocketGamer P72 |
-| G880 | Empire Defense II | — | PocketGamer P72 |
-| G881 | Mad Cows | — | PocketGamer P72 |
-| G882 | Bubble Island | — | PocketGamer P72 |
-| G883 | Championship Racing 2012 | — | PocketGamer P72 |
-| G884 | Ice Age 4: Continental Drift – Arctic Games | — | PocketGamer P72 |
-| G885 | Ambulance Express | — | PocketGamer P72 |
-| G886 | Ballooned! | — | PocketGamer P72 |
-| G887 | Tap Tap Revenge Tour | — | PocketGamer P72 |
-| G888 | Super Ox Wars | — | PocketGamer P72 |
-| G889 | Alien Chaos 3D | — | PocketGamer P72 |
-| G890 | Crash Birds Islands | — | PocketGamer P72 |
-| G891 | Zombie Slayer Diox | — | PocketGamer P73 |
-| G892 | KiKORiKi | — | PocketGamer P73 |
-| G893 | Follow the Rabbit | — | PocketGamer P73 |
-| G894 | BulletAsylum | — | PocketGamer P73 |
-| G895 | Heroes in Time | — | PocketGamer P73 |
-| G896 | CR7 Football 2012 | — | PocketGamer P73 |
-| G897 | Arc the Lad III | — | PocketGamer P73 |
-| G898 | Lumicon | — | PocketGamer P73 |
-| G899 | The To-Fu Collection | — | PocketGamer P73 |
-| G900 | Tomba! | — | PocketGamer P73 |
-| G901 | Hay Day | — | PocketGamer P73 |
-| G902 | Chimpact | — | PocketGamer P73 |
-| G903 | Giga Jump | — | PocketGamer P73 |
-| G904 | Light Byte | — | PocketGamer P73 |
-| G905 | Striker Soccer Euro 2012 Pro | — | PocketGamer P73 |
-| G906 | WipEout Complete Game Pack DLC | — | PocketGamer P73 |
-| G907 | Ninja Tower Defence | — | PocketGamer P73 |
-| G908 | WarGames: WOPR | — | PocketGamer P73 |
-| G909 | Astronot | — | PocketGamer P73 |
-| G910 | Traffic Panic London | — | PocketGamer P73 |
-| G911 | Self Aware | — | PocketGamer P73 |
-| G912 | Top Trumps NBA All Stars | — | PocketGamer P73 |
-| G913 | Epidemic | — | PocketGamer P73 |
-| G914 | Frisbee Forever 2 | — | PocketGamer P73 |
-| G915 | Pizza Ninja | — | PocketGamer P73 |
-| G916 | Call of Snakes | — | PocketGamer P74 |
-| G917 | Disco Kitten | — | PocketGamer P74 |
-| G918 | Yesterday | — | PocketGamer P74 |
-| G919 | Mad Acorn | — | PocketGamer P74 |
-| G920 | Sonic Blast | — | PocketGamer P74 |
-| G921 | Monster Shooter Lost Levels | — | PocketGamer P74 |
-| G922 | Spiral Episode 1 | — | PocketGamer P74 |
-| G923 | Absolute RC Plane Simulator | — | PocketGamer P74 |
-| G924 | Soulcalibur Mobile | — | PocketGamer P74 |
-| G925 | Blazing Souls Accelate | — | PocketGamer P74 |
-| G926 | Duckers | — | PocketGamer P74 |
-| G927 | Catapult King | — | PocketGamer P74 |
-| G928 | Project 83113 | — | PocketGamer P74 |
-| G929 | Ruzzle | — | PocketGamer P74 |
-| G930 | 3D Solitaire | — | PocketGamer P74 |
-| G931 | Ferrari GT 3 World Track | — | PocketGamer P74 |
-| G932 | Formula Micro GP 1 | — | PocketGamer P74 |
-| G933 | Xelorians Space Shooter | — | PocketGamer P74 |
-| G934 | Bridge Constructor | — | PocketGamer P74 |
-| G935 | No Red T Shirts | — | PocketGamer P74 |
-| G936 | Big Win Soccer | — | PocketGamer P74 |
-| G937 | Sweet Memories Blackjack | — | PocketGamer P74 |
-| G938 | Knight Fortix 2 | — | PocketGamer P74 |
-| G939 | Pathpix | — | PocketGamer P74 |
-| G940 | Ring Fling | — | PocketGamer P74 |
-| G941 | Bee Leader | — | PocketGamer P75 |
-| G942 | Scotland Yard | — | PocketGamer P75 |
-| G943 | Neoshifters Aeronauts | — | PocketGamer P75 |
-| G944 | Extreme Skater | — | PocketGamer P75 |
-| G945 | Sakura Slash | — | PocketGamer P75 |
-| G946 | Ghost Recon Future Soldier | — | PocketGamer P75 |
-| G947 | Cheese Please | — | PocketGamer P75 |
-| G948 | Bucketz | — | PocketGamer P75 |
-| G949 | Danger Racer | — | PocketGamer P75 |
-| G950 | Tigers Of The Pacific 2 | — | PocketGamer P75 |
-| G951 | Exponential Invasion | — | PocketGamer P75 |
-| G952 | Aby Escape | — | PocketGamer P75 |
-| G953 | Reiner Knizia's Skyline | — | PocketGamer P75 |
-| G954 | Arcade Hits Outlaws Of The Lost Dynasty | — | PocketGamer P75 |
-| G955 | Tiny Plane | — | PocketGamer P75 |
-| G956 | Little 3 Kingdoms | — | PocketGamer P75 |
-| G957 | Ace Combat Northern Wings | — | PocketGamer P75 |
-| G958 | Zombie Quest | — | PocketGamer P75 |
-| G959 | Pastry Panic | — | PocketGamer P75 |
-| G960 | Fate Extra | — | PocketGamer P75 |
-| G961 | Dr Rocket Pro | — | PocketGamer P75 |
-| G962 | Conquest Medieval Realms | — | PocketGamer P75 |
-| G963 | Neuroshima Hex | — | PocketGamer P75 |
-| G964 | Reiner Knizia's City Of Secrets Pipes | — | PocketGamer P75 |
-| G965 | Bird Mania 3d | — | PocketGamer P75 |
-| G966 | Slime Vs Mushroom 2 | — | PocketGamer P76 |
-| G967 | Soccer Run | — | PocketGamer P76 |
-| G968 | The Avengers The Mobile Game | — | PocketGamer P76 |
-| G969 | Battleship 3ds | — | PocketGamer P76 |
-| G970 | Star Sloth | — | PocketGamer P76 |
-| G971 | Pinch Peeps | — | PocketGamer P76 |
-| G972 | This Could Hurt | — | PocketGamer P76 |
-| G973 | Defender Chronicles Ii | — | PocketGamer P76 |
-| G974 | Cubis Creatures | — | PocketGamer P76 |
-| G975 | Dummy Defense | — | PocketGamer P76 |
-| G976 | Super Mario Bros | — | PocketGamer P76 |
-| G977 | Table Hockey Hd | — | PocketGamer P76 |
-| G978 | Cannon Cat | — | PocketGamer P76 |
-| G979 | Warhammer 40 000 Dawn Of War Ii Chaos Rising | — | PocketGamer P76 |
-| G980 | Block Factory | — | PocketGamer P76 |
-| G981 | Ridge Racer Type 4 | — | PocketGamer P76 |
-| G982 | Ski Safari | — | PocketGamer P76 |
-| G983 | Polymer | — | PocketGamer P76 |
-| G984 | Jewel Master Cradle Of Rome 2 | — | PocketGamer P76 |
-| G985 | Golf Mania | — | PocketGamer P76 |
-| G986 | Rocket Fox | — | PocketGamer P76 |
-| G987 | Frenzy Pop | — | PocketGamer P76 |
-| G988 | Action Driver | — | PocketGamer P76 |
-| G989 | Clear Vision | — | PocketGamer P76 |
-| G990 | Illusia 2 | — | PocketGamer P76 |
-| G717 | Asura Cross | — | PocketGamer P65 |
-| G718 | Johnny HotShot | — | PocketGamer P65 |
-| G719 | BreakQuest Extra Evolution | — | PocketGamer P65 |
-| G720 | Outlaw | — | PocketGamer P65 |
-| G721 | Beatdown! | — | PocketGamer P65 |
-| G722 | Merlin: A Servant of Two Masters | — | PocketGamer P65 |
-| G723 | Matchstick Wars | — | PocketGamer P66 |
-| G724 | Gear Jack | — | PocketGamer P66 |
-| G725 | Finger Tied | — | PocketGamer P66 |
-| G726 | Build-a-lot 3: Passport to Europe | — | PocketGamer P66 |
-| G727 | Storm the Train | — | PocketGamer P66 |
-| G728 | Ayakashi: Ghost Guild | — | PocketGamer P66 |
-| G729 | Pump it Up! Aerobics | — | PocketGamer P66 |
-| G730 | Super Tiny Leap | — | PocketGamer P66 |
-| G731 | Slice the Ice | — | PocketGamer P66 |
-| G732 | Chip Chain | — | PocketGamer P66 |
-| G733 | SpinCraft | — | PocketGamer P66 |
-| G734 | Meganoid 2 | — | PocketGamer P66 |
-| G735 | The Hobbit: Kingdoms of Middle-Earth | — | PocketGamer P66 |
-| G736 | Janksy | — | PocketGamer P66 |
-| G737 | Heads Up! Hot Dogs | — | PocketGamer P66 |
-| G738 | Sk8 Krazy | — | PocketGamer P66 |
-| G739 | League of Heroes | — | PocketGamer P66 |
-| G740 | Wizardlings | — | PocketGamer P66 |
-| G741 | Panic! | — | PocketGamer P66 |
-| G742 | Need for Speed Most Wanted (2005 edition) | — | PocketGamer P66 |
-| G743 | About Love, Hate and the other ones | — | PocketGamer P66 |
-| G744 | Crazy Chicken Pirates 3D | — | PocketGamer P67 |
-| G745 | Hairy Tales | — | PocketGamer P67 |
-| G746 | Square Planet | — | PocketGamer P67 |
-| G747 | Heavy Fuel Motor Racing | — | PocketGamer P67 |
-| G748 | Feisty Feet | — | PocketGamer P67 |
-| G749 | Wonder Zoo - Animal Rescue! | — | PocketGamer P67 |
-| G750 | Heavy Fire: Special Operations 3D | — | PocketGamer P67 |
-| G751 | Adventure Time: Super Jumping Finn | — | PocketGamer P67 |
-| G752 | Hole in One | — | PocketGamer P67 |
-| G753 | Save Them All | — | PocketGamer P67 |
-| G754 | Future Shooter | — | PocketGamer P67 |
-| G755 | Don't Look Back | — | PocketGamer P67 |
-| G756 | Stunt Star: The Hollywood Years | — | PocketGamer P67 |
-| G757 | Fin Friends | — | PocketGamer P67 |
-| G758 | Razor Salvation THD | — | PocketGamer P67 |
-| G759 | Jewel Master: Cradle of Egypt 2 | — | PocketGamer P67 |
-| G760 | Crash Test Dummy Racer | — | PocketGamer P67 |
-| G761 | Tall Unlimited | — | PocketGamer P67 |
-| G762 | A Wonderland Story | — | PocketGamer P67 |
-| G763 | Take It Easy | — | PocketGamer P67 |
-| G764 | Help Volty | — | PocketGamer P67 |
-| G765 | Fuel Tiracas | — | PocketGamer P67 |
-| G766 | Rebel | — | PocketGamer P68 |
-| G767 | Delivery Xpress | — | PocketGamer P68 |
-| G768 | Space Disorder | — | PocketGamer P68 |
-| G769 | Cloud Village | — | PocketGamer P68 |
-| G770 | Cryptic Kingdoms HD | — | PocketGamer P68 |
-| G771 | Kumo Lumo | — | PocketGamer P68 |
-| G772 | House of Shadows | — | PocketGamer P68 |
-| G773 | Jewel Link: Legends of Atlantis | — | PocketGamer P68 |
-| G774 | BounceBack | — | PocketGamer P68 |
-| G775 | Liberation Maiden | — | PocketGamer P68 |
-| G776 | Sugar Kid | — | PocketGamer P68 |
-| G777 | NBA 2K13 | — | PocketGamer P68 |
-| G778 | Grow Away | — | PocketGamer P68 |
-| G779 | Snail Bob | — | PocketGamer P68 |
-| G780 | Cupidity | — | PocketGamer P68 |
-| G781 | Aqua Kitty - Milk Mine Defender | — | PocketGamer P68 |
-| G782 | King Oddball | — | PocketGamer P68 |
-| G783 | Catch-22 | — | PocketGamer P68 |
-| G784 | Hana Samurai: Art of the Sword | — | PocketGamer P68 |
-| G785 | Hell Rider | — | PocketGamer P68 |
-| G786 | Heritage | — | PocketGamer P68 |
-| G787 | Lich Defense | — | PocketGamer P68 |
-| G788 | NFL Pro 2013 | — | PocketGamer P68 |
-| G789 | Bookstore Dream | — | PocketGamer P68 |
-| G790 | Amazing Runner | — | PocketGamer P68 |
-| G791 | Red Weed | — | PocketGamer P69 |
-| G792 | Monster Warlord | — | PocketGamer P69 |
-| G793 | Royal Revolt! | — | PocketGamer P69 |
-| G794 | Polara | — | PocketGamer P69 |
-| G795 | Infectonator | — | PocketGamer P69 |
-| G796 | Electric Tentacle | — | PocketGamer P69 |
-| G797 | Combat Outpost Afghanistan | — | PocketGamer P69 |
-| G798 | Abyss | — | PocketGamer P69 |
-| G799 | Usagi Yojimbo: Way of the Ronin | — | PocketGamer P69 |
-| G800 | Deluxe Cafe | — | PocketGamer P69 |
-| G801 | GridBlock | — | PocketGamer P69 |
-| G802 | Crafty Creatures | — | PocketGamer P69 |
-| G803 | Jump to Medieval - Time Geeks | — | PocketGamer P69 |
-| G804 | Recess Riot | — | PocketGamer P69 |
-| G805 | Genesis | — | PocketGamer P69 |
-| G806 | Robots Attack! | — | PocketGamer P69 |
-| G807 | Neon Blitz | — | PocketGamer P69 |
-| G808 | Retro Pocket | — | PocketGamer P69 |
-| G809 | Chicago Wars | — | PocketGamer P69 |
-| G810 | Civil War: 1863 | — | PocketGamer P69 |
-| G811 | Death Golf | — | PocketGamer P69 |
-| G812 | HueBrix | — | PocketGamer P69 |
-| G813 | Cosmic Bump | — | PocketGamer P69 |
-| G814 | Amp, Watts & Circuit | — | PocketGamer P69 |
-| G815 | Twang the Fox | — | PocketGamer P69 |
-| G816 | Rail Rush | — | PocketGamer P70 |
-| G817 | Stickman Base Jumper | — | PocketGamer P70 |
-| G818 | NFL Kicker 13 | — | PocketGamer P70 |
-| G819 | House Pest | — | PocketGamer P70 |
-| G820 | Cube Defender | — | PocketGamer P70 |
-| G821 | Crazy Hunter | — | PocketGamer P70 |
-| G822 | Infinite Warrior | — | PocketGamer P70 |
-| G823 | Drakerider | — | PocketGamer P70 |
-| G824 | VS. Racing 2 | — | PocketGamer P70 |
-| G825 | Blood & Glory: Legend | — | PocketGamer P70 |
-| G826 | Chopper I | — | PocketGamer P70 |
-| G827 | Alundra | — | PocketGamer P70 |
-| G828 | Monster Cube (a.k.a. Monster Cube Full) | — | PocketGamer P70 |
-| G829 | Keri Racing | — | PocketGamer P70 |
-| G830 | Oh Hi! Octopi! | — | PocketGamer P70 |
-| G831 | Avalanche Escape! | — | PocketGamer P70 |
-| G832 | Jelly Cannon Reloaded | — | PocketGamer P70 |
-| G833 | The Last Driver | — | PocketGamer P70 |
-| G834 | Window Warrior | — | PocketGamer P70 |
-| G835 | Donkey Kong Jr. | — | PocketGamer P70 |
-| G836 | NES Open Tournament Golf | — | PocketGamer P70 |
-| G837 | Bubble Mania | — | PocketGamer P70 |
-| G838 | Cosmic Colony | — | PocketGamer P70 |
-| G839 | Puzzled Zombies | — | PocketGamer P70 |
-| G840 | Lost Cities | — | PocketGamer P70 |
+| G991 | Oddworld Abes Oddysee | — | PocketGamer P77 |
+| G992 | Saving Private Sheep 2 | — | PocketGamer P77 |
+| G993 | Arc The Lad Ii | — | PocketGamer P77 |
+| G994 | Twist Pilot | — | PocketGamer P77 |
+| G995 | Farty Pants | — | PocketGamer P77 |
+| G996 | Wrath Of The Titans | — | PocketGamer P77 |
+| G997 | Busted | — | PocketGamer P77 |
+| G998 | Tekken | — | PocketGamer P77 |
+| G999 | Lock N Load | — | PocketGamer P77 |
+| G1000 | Hambo | — | PocketGamer P77 |
+| G1001 | Burger Cat | — | PocketGamer P77 |
+| G1002 | Defenders Of The Mystic Garden | — | PocketGamer P77 |
+| G1003 | Cats Dogs Pets At Play | — | PocketGamer P77 |
+| G1004 | Devildark The Fallen Kingdom | — | PocketGamer P77 |
+| G1005 | Chickens Cant Fly | — | PocketGamer P77 |
+| G1006 | Boonce | — | PocketGamer P77 |
+| G1007 | Endless War | — | PocketGamer P77 |
+| G1008 | On The Wind | — | PocketGamer P77 |
+| G1009 | Tap The Frog 2 | — | PocketGamer P77 |
+| G1010 | Blast Ball | — | PocketGamer P77 |
+| G1011 | Farming Simulator 2012 3D | — | PocketGamer P77 |
+| G1012 | Defense Zone Hd | — | PocketGamer P77 |
+| G1013 | Stickwars 3 | — | PocketGamer P77 |
+| G1014 | Crash Time 3D | — | PocketGamer P77 |
+| G1015 | Little Big City | — | PocketGamer P77 |
+| G1016 | Bunny Maze 3D | — | PocketGamer P78 |
+| G1017 | Beeing | — | PocketGamer P78 |
+| G1018 | 12X1 Solitaire | — | PocketGamer P78 |
+| G1019 | El Shaddai Vol 1 | — | PocketGamer P78 |
+| G1020 | Sky Gnomes | — | PocketGamer P78 |
+| G1021 | Trial Xtreme 2 Winter Edition | — | PocketGamer P78 |
+| G1022 | Violet Storm | — | PocketGamer P78 |
+| G1023 | Iootp Baseball 2012 Edition | — | PocketGamer P78 |
+| G1024 | Kung Fu Rabbit | — | PocketGamer P78 |
+| G1025 | My Little City | — | PocketGamer P78 |
+| G1026 | Fmx Iv Pro | — | PocketGamer P78 |
+| G1027 | Kale In Dinoland | — | PocketGamer P78 |
+| G1028 | Jelly Love | — | PocketGamer P78 |
+| G1029 | Pathpix Joy | — | PocketGamer P78 |
+| G1030 | Antithesis | — | PocketGamer P78 |
+| G1031 | Mega Bloks Builder | — | PocketGamer P78 |
+| G1032 | Traffic Wonder Hd | — | PocketGamer P78 |
+| G1033 | Speedthru Potzols Puzzle | — | PocketGamer P78 |
+| G1034 | Demons Land | — | PocketGamer P78 |
+| G1035 | Dude Perfect | — | PocketGamer P78 |
+| G1036 | Gnu Revenge | — | PocketGamer P78 |
+| G1037 | Ski Champion | — | PocketGamer P78 |
+| G1038 | Floating Cloud God Saves The Pilgrims | — | PocketGamer P78 |
+| G1039 | Snoozles | — | PocketGamer P78 |
+| G1040 | Inazuma Eleven 2 Firestorm Blizzard | — | PocketGamer P78 |
+| G1041 | Rune Raiders | — | PocketGamer P79 |
+| G1042 | Samurai Vs Zombies Defense | — | PocketGamer P79 |
+| G1043 | Harry The Fairy | — | PocketGamer P79 |
+| G1044 | Sir Benfros Brilliant Balloon | — | PocketGamer P79 |
+| G1045 | Twinspin | — | PocketGamer P79 |
+| G1046 | Cheezia Gears Of Fur | — | PocketGamer P79 |
+| G1047 | Node Hack | — | PocketGamer P79 |
+| G1048 | 8Bit Ninja | — | PocketGamer P79 |
+| G1049 | Kid Icarus Of Myths And Monsters | — | PocketGamer P79 |
+| G1050 | Madcoaster | — | PocketGamer P79 |
+| G1051 | Pebble Universe | — | PocketGamer P79 |
+| G1052 | Picnic Wars | — | PocketGamer P79 |
+| G1053 | Jewel Master Cradle Of Persia | — | PocketGamer P79 |
+| G1054 | Twingo | — | PocketGamer P79 |
+| G1055 | Tower Bloxx Revolution | — | PocketGamer P79 |
+| G1056 | Fireball Special Edition | — | PocketGamer P79 |
+| G1057 | Azkend 2 The World Beneath | — | PocketGamer P79 |
+| G1058 | Canabalt | — | PocketGamer P79 |
+| G1059 | Flick Nations Rugby | — | PocketGamer P79 |
+| G1060 | Quell Reflect | — | PocketGamer P79 |
+| G1061 | Lego Hero Factory | — | PocketGamer P79 |
+| G1062 | Wave Crasher | — | PocketGamer P79 |
+| G1063 | Robber Rabbits | — | PocketGamer P79 |
+| G1064 | Sticky Sheep | — | PocketGamer P79 |
+| G1065 | Brain Challenge 4 Breaking Limits | — | PocketGamer P79 |
 
 ## Games Archived（已归档）
 ||| ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| ID | 游戏名 | 文档文件 | 归档时间 |
+|---|---|---|---|
+| G991 | Oddworld: Abe's Oddysee | docs/OddworldAbesOddysee_20260815_0508.md | 2026-08-15 05:08 |
+| G992 | Saving Private Sheep 2 | docs/SavingPrivateSheep2_20260815_0508.md | 2026-08-15 05:08 |
+| G993 | Arc the Lad II | docs/ArctheLadII_20260815_0508.md | 2026-08-15 05:08 |
+| G994 | Twist Pilot | docs/TwistPilot_20260815_0508.md | 2026-08-15 05:08 |
+| G995 | Farty Pants | docs/FartyPants_20260815_0508.md | 2026-08-15 05:08 |
+| G996 | Wrath of the Titans | docs/WrathoftheTitans_20260815_0508.md | 2026-08-15 05:08 |
+| G997 | Busted! | docs/Busted_20260815_0508.md | 2026-08-15 05:08 |
+| G998 | Lock 'n' Load | docs/LocknLoad_20260815_0508.md | 2026-08-15 05:08 |
+| G999 | Hambo | docs/Hambo_20260815_0508.md | 2026-08-15 05:08 |
+| G1000 | Burger Cat | docs/BurgerCat_20260815_0508.md | 2026-08-15 05:08 |
 | G717 | Asura Cross | docs/AsuraCross_20260814_2359.md | 2026-08-14 23:59 |
 | G718 | Johnny HotShot | docs/JohnnyHotShot_20260814_2359.md | 2026-08-14 23:59 |
 | G719 | BreakQuest Extra Evolution | docs/BreakQuestExtraEvolution_20260814_2359.md | 2026-08-14 23:59 |
