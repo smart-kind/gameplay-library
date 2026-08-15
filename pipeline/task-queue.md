@@ -968,6 +968,7 @@
 | S122 | Rock Paper Shotgun Best Puzzle Games | https://www.rockpapershotgun.com/best-puzzle-games | 23 | 2026-08-13 03:00 |
 
 ## Execution Log
+| R059 | 2026-08-15 19:31 | DDG被CAPTCHA阻止，手动发现3来源(S256-S258 P92-P94)，14款游戏文档(G1021,G1022,G1024,G1028,G1034,G1037,G1041,G1042,G1054,G1059,G037,G049,G054,G059) |
 | R046 | 2026-08-14 15:14 | 处理3来源(S189-S191)，提取48款游戏名，产出13款文档(G651-G663，Ronin已存在)，22款新游戏加入Pending(G665-G686) |
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
