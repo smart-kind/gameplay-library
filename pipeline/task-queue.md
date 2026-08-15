@@ -4,23 +4,11 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S213 | PocketGamer Game Finder Page 86 | https://www.pocketgamer.com/game-finder/page/86/0_all_0_1_1/ | 2026-08-15 10:00 |
-| S214 | PocketGamer Game Finder Page 87 | https://www.pocketgamer.com/game-finder/page/87/0_all_0_1_1/ | 2026-08-15 10:00 |
-| S215 | PocketGamer Game Finder Page 88 | https://www.pocketgamer.com/game-finder/page/88/0_all_0_1_1/ | 2026-08-15 10:00 |
 
 ## Sources Processing（处理中）
 
 | ID | 类型 | 标题 | URL | 开始时间 |
 |---|---|---|---|---|
-| S204 | PocketGamer Game Finder Page 77 | https://www.pocketgamer.com/game-finder/page/77/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
-| S205 | PocketGamer Game Finder Page 78 | https://www.pocketgamer.com/game-finder/page/78/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
-| S206 | PocketGamer Game Finder Page 79 | https://www.pocketgamer.com/game-finder/page/79/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
-| S198 | PocketGamer Game Finder Page 71 | https://www.pocketgamer.com/game-finder/page/71/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
-| S199 | PocketGamer Game Finder Page 72 | https://www.pocketgamer.com/game-finder/page/72/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
-| S200 | PocketGamer Game Finder Page 73 | https://www.pocketgamer.com/game-finder/page/73/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
-| S201 | PocketGamer Game Finder Page 74 | https://www.pocketgamer.com/game-finder/page/74/0_all_0_1_1/ | 25 | 2026-08-15 03:00 |
-| S202 | PocketGamer Game Finder Page 75 | https://www.pocketgamer.com/game-finder/page/75/0_all_0_1_1/ | 25 | 2026-08-15 03:00 |
-| S203 | PocketGamer Game Finder Page 76 | https://www.pocketgamer.com/game-finder/page/76/0_all_0_1_1/ | 25 | 2026-08-15 03:00 |
 
 ## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
@@ -41,6 +29,21 @@
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S216 | PocketGamer Game Finder Page 89 | https://www.pocketgamer.com/game-finder/page/89/0_all_0_1_1/ | 12 | 2026-08-15 14:27 |
+| S217 | PocketGamer Game Finder Page 90 | https://www.pocketgamer.com/game-finder/page/90/0_all_0_1_1/ | 12 | 2026-08-15 14:27 |
+| S218 | PocketGamer Game Finder Page 91 | https://www.pocketgamer.com/game-finder/page/91/0_all_0_1_1/ | 12 | 2026-08-15 14:27 |
+| S198 | PocketGamer Game Finder Page 71 | https://www.pocketgamer.com/game-finder/page/71/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S199 | PocketGamer Game Finder Page 72 | https://www.pocketgamer.com/game-finder/page/72/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S200 | PocketGamer Game Finder Page 73 | https://www.pocketgamer.com/game-finder/page/73/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S201 | PocketGamer Game Finder Page 74 | https://www.pocketgamer.com/game-finder/page/74/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S202 | PocketGamer Game Finder Page 75 | https://www.pocketgamer.com/game-finder/page/75/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S203 | PocketGamer Game Finder Page 76 | https://www.pocketgamer.com/game-finder/page/76/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S204 | PocketGamer Game Finder Page 77 | https://www.pocketgamer.com/game-finder/page/77/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S205 | PocketGamer Game Finder Page 78 | https://www.pocketgamer.com/game-finder/page/78/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S206 | PocketGamer Game Finder Page 79 | https://www.pocketgamer.com/game-finder/page/79/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S213 | PocketGamer Game Finder Page 86 | https://www.pocketgamer.com/game-finder/page/86/0_all_0_1_1/ | 10 | 2026-08-15 13:00 |
+| S214 | PocketGamer Game Finder Page 87 | https://www.pocketgamer.com/game-finder/page/87/0_all_0_1_1/ | 10 | 2026-08-15 13:00 |
+| S215 | PocketGamer Game Finder Page 88 | https://www.pocketgamer.com/game-finder/page/88/0_all_0_1_1/ | 10 | 2026-08-15 13:00 |
 | S210 | PocketGamer Game Finder Page 83 | https://www.pocketgamer.com/game-finder/page/83/0_all_0_1_1/ | 25 | 2026-08-15 10:00 |
 | S211 | PocketGamer Game Finder Page 84 | https://www.pocketgamer.com/game-finder/page/84/0_all_0_1_1/ | 25 | 2026-08-15 10:00 |
 | S212 | PocketGamer Game Finder Page 85 | https://www.pocketgamer.com/game-finder/page/85/0_all_0_1_1/ | 25 | 2026-08-15 10:00 |
@@ -286,10 +289,30 @@
 | G1065 | Brain Challenge 4 Breaking Limits | — | PocketGamer P79 |
 
 ## Games Archived（已归档）
-||| ID | 游戏名 | 文档文件 | 归档时间 |
-|---|---|---|---|
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G1066 | Tetris (3DS版) | docs/Tetris3DS_20260815_1300.md | 2026-08-15 13:00 |
+| G1067 | SpellTower | docs/SpellTower_20260815_1300.md | 2026-08-15 13:00 |
+| G1068 | Shantae: Risky's Revenge | docs/ShantaeRiskysRevenge_20260815_1300.md | 2026-08-15 13:00 |
+| G1069 | Wind-up Knight | docs/WindUpKnight_20260815_1300.md | 2026-08-15 13:00 |
+| G1070 | Elder Sign: Omens | docs/ElderSignOmens_20260815_1300.md | 2026-08-15 13:00 |
+| G1071 | Drag Racing | docs/DragRacing_20260815_1300.md | 2026-08-15 13:00 |
+| G1072 | NBA 2K12 | docs/NBA2K12_20260815_1300.md | 2026-08-15 13:00 |
+| G1073 | Wizardry: Labyrinth of Lost Souls | docs/WizardryLabyrinthOfLostSouls_20260815_1300.md | 2026-08-15 13:00 |
+| G1074 | 1000 Tiny Claws | docs/1000TinyClaws_20260815_1300.md | 2026-08-15 13:00 |
+| G1075 | Starbase Orion | docs/StarbaseOrion_20260815_1300.md | 2026-08-15 13:00 |
+| G1076 | Super Monkey Ball | docs/SuperMonkeyBall_20260815_1427.md | 2026-08-15 14:27 |
+| G1077 | Frogger | docs/Frogger_20260815_1427.md | 2026-08-15 14:27 |
+| G1078 | Espgaluda | docs/Espgaluda_20260815_1427.md | 2026-08-15 14:27 |
+| G1079 | Gargoyle's Quest | docs/GargoylesQuest_20260815_1427.md | 2026-08-15 14:27 |
+| G1080 | Farm Frenzy | docs/FarmFrenzy_20260815_1427.md | 2026-08-15 14:27 |
+| G1081 | Monsters Ate My Condo | docs/MonstersAteMyCondo_20260815_1427.md | 2026-08-15 14:27 |
+| G1082 | Civilization Revolution | docs/CivilizationRevolution_20260815_1427.md | 2026-08-15 14:27 |
+| G1083 | Pocket God | docs/PocketGod_20260815_1427.md | 2026-08-15 14:27 |
+| G1084 | Airport Mania | docs/AirportMania_20260815_1427.md | 2026-08-15 14:27 |
+| G1085 | Urban Champion | docs/UrbanChampion_20260815_1427.md | 2026-08-15 14:27 |
+| G1086 | Warspear Online | docs/WarspearOnline_20260815_1427.md | 2026-08-15 14:27 |
+| G1087 | Jelly Defense | docs/JellyDefense_20260815_1427.md | 2026-08-15 14:27 |
 | G991 | Oddworld: Abe's Oddysee | docs/OddworldAbesOddysee_20260815_0508.md | 2026-08-15 05:08 |
 | G992 | Saving Private Sheep 2 | docs/SavingPrivateSheep2_20260815_0508.md | 2026-08-15 05:08 |
 | G993 | Arc the Lad II | docs/ArctheLadII_20260815_0508.md | 2026-08-15 05:08 |
@@ -977,3 +1000,4 @@
 | 2026-08-14 18:41 | (R048: 手动发现S192-S194, 提取75款游戏, 产出10款文档G687-G696) | 3 (S192-S194) | 0 | 75 | 10 (G687-G696) | 0 |
 | 2026-08-14 21:30 | (R049: 处理S192-S194, 提取75款游戏, 产出10款文档G697-G706, 59款Pending) | 0 | 3 (S192-S194) | 75 | 10 (G697-G706) | 0 |
 | 2026-08-14 23:59 | (R051: 发现3来源S198-S200, 提取75款游戏G841-G915, 处理30款Pending游戏G717-G746产出文档) | 3 (S198-S200) | 3 (S198-S200) | 75 | 30 (G717-G746) | 0 |
+| 2026-08-15 14:27 | (R057: 处理3新来源S216-S218+9 stale来源S198-S206, 提取300款游戏名, 产出12款文档G1076-G1087) | 0 | 12 (S216-S218+S198-S206) | 300 | 12 (G1076-G1087) | 0 |
