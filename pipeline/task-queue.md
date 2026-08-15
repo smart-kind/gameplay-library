@@ -270,16 +270,16 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G991 | Oddworld Abes Oddysee | — | PocketGamer P77 |
-| G992 | Saving Private Sheep 2 | — | PocketGamer P77 |
-| G993 | Arc The Lad Ii | — | PocketGamer P77 |
-| G994 | Twist Pilot | — | PocketGamer P77 |
-| G995 | Farty Pants | — | PocketGamer P77 |
-| G996 | Wrath Of The Titans | — | PocketGamer P77 |
-| G997 | Busted | — | PocketGamer P77 |
-| G998 | Tekken | — | PocketGamer P77 |
-| G999 | Lock N Load | — | PocketGamer P77 |
-| G1000 | Hambo | — | PocketGamer P77 |
+|| G991 | Oddworld Abes Oddysee | docs/OddworldAbesOddysee_20260815_2301.md | PocketGamer P77 |
+|| G992 | Saving Private Sheep 2 | docs/SavingPrivateSheep2_20260815_2301.md | PocketGamer P77 |
+|| G993 | Arc The Lad Ii | docs/ArctheLadII_20260815_2301.md | PocketGamer P77 |
+|| G994 | Twist Pilot | docs/TwistPilot_20260815_2301.md | PocketGamer P77 |
+|| G995 | Farty Pants | docs/FartyPants_20260815_2301.md | PocketGamer P77 |
+|| G996 | Wrath Of The Titans | docs/WrathoftheTitans_20260815_2301.md | PocketGamer P77 |
+|| G997 | Busted | docs/Busted_20260815_2301.md | PocketGamer P77 |
+|| G998 | Tekken | docs/Tekken_20260815_2301.md | PocketGamer P77 |
+|| G999 | Lock N Load | docs/LocknLoad_20260815_2301.md | PocketGamer P77 |
+|| G1000 | Hambo | docs/Hambo_20260815_2301.md | PocketGamer P77 |
 || G1001 | Burger Cat | docs/BurgerCat_20260815_0843.md | PocketGamer P77 |
 || G1002 | Defenders Of The Mystic Garden | docs/DefendersOfTheMysticGarden_20260815_0843.md | PocketGamer P77 |
 || G1003 | Cats Dogs Pets At Play | docs/CatsDogsPetsAtPlay_20260815_0843.md | PocketGamer P77 |
@@ -337,17 +337,27 @@
 | G1065 | Brain Challenge 4 Breaking Limits | — | PocketGamer P79 |
 
 ## Games Archived（本轮新增）
-| ID | 游戏名 | 文档文件 | 归档时间 |
-|---|---|---|---|| G1098 | jukebeat | docs/jukebeat_20260815_2120.md | 2026-08-15 21:20 |
-|| G1099 | Pickpawcket | docs/Pickpawcket_20260815_2120.md | 2026-08-15 21:20 |
-|| G1100 | Spacelings | docs/Spacelings_20260815_2120.md | 2026-08-15 21:20 |
-|| G1101 | Hardwood Spades | docs/HardwoodSpades_20260815_2120.md | 2026-08-15 21:20 |
-|| G1102 | Greedy Pigs | docs/GreedyPigs_20260815_2120.md | 2026-08-15 21:20 |
-|| G1103 | Rogue Sky | docs/RogueSky_20260815_2120.md | 2026-08-15 21:20 |
-|| G1104 | Wooords | docs/Wooords_20260815_2120.md | 2026-08-15 21:20 |
-|| G1105 | Rally-X Rumble | docs/RallyXRumble_20260815_2120.md | 2026-08-15 21:20 |
-|| G1106 | Everybody's Golf | docs/EverybodysGolf_20260815_2120.md | 2026-08-15 21:20 |
-|| G1107 | Hustle Kings | docs/HustleKings_20260815_2120.md | 2026-08-15 21:20 |
+|| ID | 游戏名 | 文档文件 | 归档时间 |
+||---|---|---|---|| G1098 | jukebeat | docs/jukebeat_20260815_2120.md | 2026-08-15 21:20 |
+||| G1099 | Pickpawcket | docs/Pickpawcket_20260815_2120.md | 2026-08-15 21:20 |
+||| G1100 | Spacelings | docs/Spacelings_20260815_2120.md | 2026-08-15 21:20 |
+||| G1101 | Hardwood Spades | docs/HardwoodSpades_20260815_2120.md | 2026-08-15 21:20 |
+||| G1102 | Greedy Pigs | docs/GreedyPigs_20260815_2120.md | 2026-08-15 21:20 |
+||| G1103 | Rogue Sky | docs/RogueSky_20260815_2120.md | 2026-08-15 21:20 |
+||| G1104 | Wooords | docs/Wooords_20260815_2120.md | 2026-08-15 21:20 |
+||| G1105 | Rally-X Rumble | docs/RallyXRumble_20260815_2120.md | 2026-08-15 21:20 |
+||| G1106 | Everybody's Golf | docs/EverybodysGolf_20260815_2120.md | 2026-08-15 21:20 |
+||| G1107 | Hustle Kings | docs/HustleKings_20260815_2120.md | 2026-08-15 21:20 |
+|| G991 | Oddworld: Abe's Oddysee | docs/OddworldAbesOddysee_20260815_2301.md | 2026-08-15 23:04 |
+|| G992 | Saving Private Sheep 2 | docs/SavingPrivateSheep2_20260815_2301.md | 2026-08-15 23:04 |
+|| G993 | Arc the Lad II | docs/ArctheLadII_20260815_2301.md | 2026-08-15 23:04 |
+|| G994 | Twist Pilot | docs/TwistPilot_20260815_2301.md | 2026-08-15 23:04 |
+|| G995 | Farty Pants | docs/FartyPants_20260815_2301.md | 2026-08-15 23:04 |
+|| G996 | Wrath of the Titans | docs/WrathoftheTitans_20260815_2301.md | 2026-08-15 23:04 |
+|| G997 | Busted! | docs/Busted_20260815_2301.md | 2026-08-15 23:04 |
+|| G998 | Tekken | docs/Tekken_20260815_2301.md | 2026-08-15 23:04 |
+|| G999 | Lock 'n' Load | docs/LocknLoad_20260815_2301.md | 2026-08-15 23:04 |
+|| G1000 | Hambo | docs/Hambo_20260815_2301.md | 2026-08-15 23:04 |
 || G1088 | Kuja | docs/Kuja_20260815_1747.md | 2026-08-15 17:47 |
 | G1089 | Crush The Castle 2 | docs/CrushTheCastle2_20260815_1747.md | 2026-08-15 17:47 |
 | G1090 | The Journey Home | docs/TheJourneyHome_20260815_1747.md | 2026-08-15 17:47 |
@@ -981,7 +991,8 @@
 | S122 | Rock Paper Shotgun Best Puzzle Games | https://www.rockpapershotgun.com/best-puzzle-games | 23 | 2026-08-13 03:00 |
 
 ## Execution Log
-| R059 | 2026-08-15 19:31 | DDG被CAPTCHA阻止，手动发现3来源(S256-S258 P92-P94)，14款游戏文档(G1021,G1022,G1024,G1028,G1034,G1037,G1041,G1042,G1054,G1059,G037,G049,G054,G059) |
+|| R061 | 2026-08-15 23:04 | DDG被CAPTCHA阻止，PocketGamer P95+页面JS渲染无法提取，无新来源。处理10款Games Pending(G991-G1000)，产出10份文档(均≥50行)，来源: PocketGamer P77 + Wikipedia |
+|| R059 | 2026-08-15 19:31 | DDG被CAPTCHA阻止，手动发现3来源(S256-S258 P92-P94)，14款游戏文档(G1021,G1022,G1024,G1028,G1034,G1037,G1041,G1042,G1054,G1059,G037,G049,G054,G059) |
 | R046 | 2026-08-14 15:14 | 处理3来源(S189-S191)，提取48款游戏名，产出13款文档(G651-G663，Ronin已存在)，22款新游戏加入Pending(G665-G686) |
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
