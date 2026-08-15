@@ -5,7 +5,19 @@
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
 
+## Sources Processing（处理中）
+
+| ID | 类型 | 标题 | URL | 开始时间 |
+|---|---|---|---|---|
+
 ## Sources Archived（本轮新增）
+| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|---|---|---|---|---|
+| S198 | PocketGamer Game Finder Page 71 | https://www.pocketgamer.com/game-finder/page/71/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
+| S199 | PocketGamer Game Finder Page 72 | https://www.pocketgamer.com/game-finder/page/72/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
+| S200 | PocketGamer Game Finder Page 73 | https://www.pocketgamer.com/game-finder/page/73/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
+
+## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
 | S195 | PocketGamer Game Finder Page 68 | https://www.pocketgamer.com/game-finder/page/68/0_all_0_1_1/ | 25 | 2026-08-14 22:13 |
@@ -199,6 +211,81 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
+| G841 | One Tap Hero | — | PocketGamer P71 |
+| G842 | Fish Hooks | — | PocketGamer P71 |
+| G843 | Word on Word | — | PocketGamer P71 |
+| G844 | Puzzle Craft | — | PocketGamer P71 |
+| G845 | Greedy Grub | — | PocketGamer P71 |
+| G846 | Mikey Shorts | — | PocketGamer P71 |
+| G847 | Airport City HD | — | PocketGamer P71 |
+| G848 | The Sword of Hope II | — | PocketGamer P71 |
+| G849 | Greedy Spiders 2: Toby's Deception | — | PocketGamer P71 |
+| G850 | Choose a company 3 in 1 Bubble Beat | — | PocketGamer P71 |
+| G851 | Johnny Kung Fu | — | PocketGamer P71 |
+| G852 | Happy Squirrels | — | PocketGamer P71 |
+| G853 | Galaxy Life: Pocket Adventures | — | PocketGamer P71 |
+| G854 | Kingdoms & Lords | — | PocketGamer P71 |
+| G855 | Rope 'n' Fly - From Dusk Till Dawn | — | PocketGamer P71 |
+| G856 | Gasketball | — | PocketGamer P71 |
+| G857 | Kid Vector | — | PocketGamer P71 |
+| G858 | Flight! | — | PocketGamer P71 |
+| G859 | Chicken Raid | — | PocketGamer P71 |
+| G860 | Oddworld: Stranger's Wrath HD | — | PocketGamer P71 |
+| G861 | Monster Life | — | PocketGamer P71 |
+| G862 | Absolute Summer Sports 2012 | — | PocketGamer P71 |
+| G863 | Clumsy Pirates | — | PocketGamer P71 |
+| G864 | Orc: Vengeance | — | PocketGamer P71 |
+| G865 | Sci-Fi Heroes | — | PocketGamer P71 |
+| G866 | MLB 12: The Show | — | PocketGamer P72 |
+| G867 | SongPop | — | PocketGamer P72 |
+| G868 | Manos: The Hands of Fate | — | PocketGamer P72 |
+| G869 | 10000000 | — | PocketGamer P72 |
+| G870 | Harvest Moon: The Tale of Two Towns | — | PocketGamer P72 |
+| G871 | Blazing Star | — | PocketGamer P72 |
+| G872 | Gyro | — | PocketGamer P72 |
+| G873 | Flick Champions World Edition | — | PocketGamer P72 |
+| G874 | Finger Bowling 2 | — | PocketGamer P72 |
+| G875 | Zombie Defense | — | PocketGamer P72 |
+| G876 | Recurse | — | PocketGamer P72 |
+| G877 | Splash !!! | — | PocketGamer P72 |
+| G878 | Jar on a Bar | — | PocketGamer P72 |
+| G879 | Freakyforms Deluxe: Your Creations, Alive! | — | PocketGamer P72 |
+| G880 | Empire Defense II | — | PocketGamer P72 |
+| G881 | Mad Cows | — | PocketGamer P72 |
+| G882 | Bubble Island | — | PocketGamer P72 |
+| G883 | Championship Racing 2012 | — | PocketGamer P72 |
+| G884 | Ice Age 4: Continental Drift – Arctic Games | — | PocketGamer P72 |
+| G885 | Ambulance Express | — | PocketGamer P72 |
+| G886 | Ballooned! | — | PocketGamer P72 |
+| G887 | Tap Tap Revenge Tour | — | PocketGamer P72 |
+| G888 | Super Ox Wars | — | PocketGamer P72 |
+| G889 | Alien Chaos 3D | — | PocketGamer P72 |
+| G890 | Crash Birds Islands | — | PocketGamer P72 |
+| G891 | Zombie Slayer Diox | — | PocketGamer P73 |
+| G892 | KiKORiKi | — | PocketGamer P73 |
+| G893 | Follow the Rabbit | — | PocketGamer P73 |
+| G894 | BulletAsylum | — | PocketGamer P73 |
+| G895 | Heroes in Time | — | PocketGamer P73 |
+| G896 | CR7 Football 2012 | — | PocketGamer P73 |
+| G897 | Arc the Lad III | — | PocketGamer P73 |
+| G898 | Lumicon | — | PocketGamer P73 |
+| G899 | The To-Fu Collection | — | PocketGamer P73 |
+| G900 | Tomba! | — | PocketGamer P73 |
+| G901 | Hay Day | — | PocketGamer P73 |
+| G902 | Chimpact | — | PocketGamer P73 |
+| G903 | Giga Jump | — | PocketGamer P73 |
+| G904 | Light Byte | — | PocketGamer P73 |
+| G905 | Striker Soccer Euro 2012 Pro | — | PocketGamer P73 |
+| G906 | WipEout Complete Game Pack DLC | — | PocketGamer P73 |
+| G907 | Ninja Tower Defence | — | PocketGamer P73 |
+| G908 | WarGames: WOPR | — | PocketGamer P73 |
+| G909 | Astronot | — | PocketGamer P73 |
+| G910 | Traffic Panic London | — | PocketGamer P73 |
+| G911 | Self Aware | — | PocketGamer P73 |
+| G912 | Top Trumps NBA All Stars | — | PocketGamer P73 |
+| G913 | Epidemic | — | PocketGamer P73 |
+| G914 | Frisbee Forever 2 | — | PocketGamer P73 |
+| G915 | Pizza Ninja | — | PocketGamer P73 |
 | G717 | Asura Cross | — | PocketGamer P65 |
 | G718 | Johnny HotShot | — | PocketGamer P65 |
 | G719 | BreakQuest Extra Evolution | — | PocketGamer P65 |
@@ -325,9 +412,39 @@
 | G840 | Lost Cities | — | PocketGamer P70 |
 
 ## Games Archived（已归档）
-|| ID | 游戏名 | 文档文件 | 归档时间 |
+||| ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
-| G707 | Real Heroes: Firefighter 3D | docs/RealHeroesFirefighter3D_20260814_2207.md | 2026-08-14 22:13 |
+| G717 | Asura Cross | docs/AsuraCross_20260814_2359.md | 2026-08-14 23:59 |
+| G718 | Johnny HotShot | docs/JohnnyHotShot_20260814_2359.md | 2026-08-14 23:59 |
+| G719 | BreakQuest Extra Evolution | docs/BreakQuestExtraEvolution_20260814_2359.md | 2026-08-14 23:59 |
+| G720 | Outlaw | docs/Outlaw_20260814_2359.md | 2026-08-14 23:59 |
+| G721 | Beatdown! | docs/Beatdown_20260814_2359.md | 2026-08-14 23:59 |
+| G722 | Merlin: A Servant of Two Masters | docs/MerlinAServantofTwoMasters_20260814_2359.md | 2026-08-14 23:59 |
+| G723 | Matchstick Wars | docs/MatchstickWars_20260814_2359.md | 2026-08-14 23:59 |
+| G724 | Gear Jack | docs/GearJack_20260814_2359.md | 2026-08-14 23:59 |
+| G725 | Finger Tied | docs/FingerTied_20260814_2359.md | 2026-08-14 23:59 |
+| G726 | Build-a-lot 3: Passport to Europe | docs/Buildalot3PassporttoEurope_20260814_2359.md | 2026-08-14 23:59 |
+| G727 | Storm the Train | docs/StormtheTrain_20260814_2359.md | 2026-08-14 23:59 |
+| G728 | Ayakashi: Ghost Guild | docs/AyakashiGhostGuild_20260814_2359.md | 2026-08-14 23:59 |
+| G729 | Pump it Up! Aerobics | docs/PumpitUpAerobics_20260814_2359.md | 2026-08-14 23:59 |
+| G730 | Super Tiny Leap | docs/SuperTinyLeap_20260814_2359.md | 2026-08-14 23:59 |
+| G731 | Slice the Ice | docs/SlicetheIce_20260814_2359.md | 2026-08-14 23:59 |
+| G732 | Chip Chain | docs/ChipChain_20260814_2359.md | 2026-08-14 23:59 |
+| G733 | SpinCraft | docs/SpinCraft_20260814_2359.md | 2026-08-14 23:59 |
+| G734 | Meganoid 2 | docs/Meganoid2_20260814_2359.md | 2026-08-14 23:59 |
+| G735 | The Hobbit: Kingdoms of Middle-Earth | docs/TheHobbitKingdomsofMiddleEarth_20260814_2359.md | 2026-08-14 23:59 |
+| G736 | Janksy | docs/Janksy_20260814_2359.md | 2026-08-14 23:59 |
+| G737 | Heads Up! Hot Dogs | docs/HeadsUpHotDogs_20260814_2359.md | 2026-08-14 23:59 |
+| G738 | Sk8 Krazy | docs/Sk8Krazy_20260814_2359.md | 2026-08-14 23:59 |
+| G739 | League of Heroes | docs/LeagueofHeroes_20260814_2359.md | 2026-08-14 23:59 |
+| G740 | Wizardlings | docs/Wizardlings_20260814_2359.md | 2026-08-14 23:59 |
+| G741 | Panic! | docs/Panic_20260814_2359.md | 2026-08-14 23:59 |
+| G742 | Need for Speed Most Wanted (2005 edition) | docs/NeedforSpeedMostWanted2005edition_20260814_2359.md | 2026-08-14 23:59 |
+| G743 | About Love, Hate and the other ones | docs/AboutLoveHateandtheotherones_20260814_2359.md | 2026-08-14 23:59 |
+| G744 | Crazy Chicken Pirates 3D | docs/CrazyChickenPirates3D_20260814_2359.md | 2026-08-14 23:59 |
+| G745 | Hairy Tales | docs/HairyTales_20260814_2359.md | 2026-08-14 23:59 |
+| G746 | Square Planet | docs/SquarePlanet_20260814_2359.md | 2026-08-14 23:59 |
+||| G707 | Real Heroes: Firefighter 3D | docs/RealHeroesFirefighter3D_20260814_2207.md | 2026-08-14 22:13 |
 | G708 | Motley Blocks | docs/MotleyBlocks_20260814_2207.md | 2026-08-14 22:13 |
 | G709 | Desert Stormfront (RTS) | docs/DesertStormfrontRTS_20260814_2207.md | 2026-08-14 22:13 |
 | G710 | AC/DC Pinball Rocks HD | docs/ACDCPinballRocksHD_20260814_2207.md | 2026-08-14 22:13 |
