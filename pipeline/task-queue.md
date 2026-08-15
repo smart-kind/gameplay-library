@@ -29,6 +29,10 @@
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S220 | Kongregate 游戏库 - 动作类 | https://www.kongregate.com/action-games | 10 | 2026-08-15 17:47 |
+| S221 | Kongregate 游戏库 - 益智类 | https://www.kongregate.com/puzzle-games | 50 | 2026-08-15 17:47 |
+| S223 | Kongregate 游戏库 - 策略类 | https://www.kongregate.com/strategy-games | 50 | 2026-08-15 17:47 |
+
 | S216 | PocketGamer Game Finder Page 89 | https://www.pocketgamer.com/game-finder/page/89/0_all_0_1_1/ | 12 | 2026-08-15 14:27 |
 | S217 | PocketGamer Game Finder Page 90 | https://www.pocketgamer.com/game-finder/page/90/0_all_0_1_1/ | 12 | 2026-08-15 14:27 |
 | S218 | PocketGamer Game Finder Page 91 | https://www.pocketgamer.com/game-finder/page/91/0_all_0_1_1/ | 12 | 2026-08-15 14:27 |
@@ -76,7 +80,45 @@
 | ID | 类型 | 标题 | URL | 开始时间 |
 |---|---|---|---|---|
 
-## Sources Failed（失败）
+## Sources Failed（本轮新增）
+| ID | 标题 | URL | 失败原因 | 失败时间 |
+|---|---|---|---|---|
+| S219 | Kongregate 游戏库 - 策略塔防 | https://www.kongregate.com/tower-defense | 404 Not Found | 2026-08-15 17:47 |
+| S222 | Kongregate 游戏库 - 射击类 | https://www.kongregate.com/shooting-games | JSON-LD无游戏数据(0款) | 2026-08-15 17:47 |
+| S224 | Kongregate Top Rated 全部 | https://www.kongregate.com/games/top_rated | 无JSON-LD游戏数据 | 2026-08-15 17:47 |
+| S225 | Kongregate Most Played 全部 | https://www.kongregate.com/games/most_played | 404 Not Found | 2026-08-15 17:47 |
+| S226 | Armor Games - 策略类 | https://armorgames.com/category/strategy-games | 无结构化数据，无法提取游戏列表 | 2026-08-15 17:47 |
+| S227 | Armor Games - 塔防类 | https://armorgames.com/category/tower-defense-games | 无结构化数据，无法提取游戏列表 | 2026-08-15 17:47 |
+| S228 | Armor Games - 动作类 | https://armorgames.com/category/action-games | 无结构化数据，无法提取游戏列表 | 2026-08-15 17:47 |
+| S229 | Armor Games - 冒险类 | https://armorgames.com/category/adventure-games | 无结构化数据，无法提取游戏列表 | 2026-08-15 17:47 |
+| S230 | Armor Games - 益智类 | https://armorgames.com/category/puzzle-games | 无结构化数据，无法提取游戏列表 | 2026-08-15 17:47 |
+| S231 | Armor Games - 最佳评分 | https://armorgames.com/games/all/best | 404 Not Found | 2026-08-15 17:47 |
+| S232 | Armor Games - 最受欢迎 | https://armorgames.com/games/all/popular | 404 Not Found | 2026-08-15 17:47 |
+| S233 | Newgrounds Games - 动作类 | https://www.newgrounds.com/games/filter/action | 403 Forbidden | 2026-08-15 17:47 |
+| S234 | Newgrounds Games - 益智类 | https://www.newgrounds.com/games/filter/puzzle | 403 Forbidden | 2026-08-15 17:47 |
+| S235 | Newgrounds Games - 策略类 | https://www.newgrounds.com/games/filter/strategy | 403 Forbidden | 2026-08-15 17:47 |
+| S236 | Newgrounds Games - 冒险类 | https://www.newgrounds.com/games/filter/adventure | 403 Forbidden | 2026-08-15 17:47 |
+| S237 | Newgrounds 最佳评分 | https://www.newgrounds.com/games/filter/all/sort/score | 403 Forbidden | 2026-08-15 17:47 |
+| S238 | Newgrounds 最多播放 | https://www.newgrounds.com/games/filter/all/sort/views | 403 Forbidden | 2026-08-15 17:47 |
+| S239 | Y8.com 全部游戏 | https://www.y8.com/games | 301重定向/内容不可提取 | 2026-08-15 17:47 |
+| S240 | Y8.com 热门游戏 | https://www.y8.com/games/popular | 404 Not Found | 2026-08-15 17:47 |
+| S241 | Y8.com 经典 Flash 游戏 | https://www.y8.com/tags/flash | 编码异常(garbled)/无法提取 | 2026-08-15 17:47 |
+| S242 | CrazyGames 动作类 | https://www.crazygames.com/t/action | 404 Not Found | 2026-08-15 17:47 |
+| S243 | CrazyGames 益智类 | https://www.crazygames.com/t/puzzle | 404 Not Found | 2026-08-15 17:47 |
+| S244 | CrazyGames 策略类 | https://www.crazygames.com/t/strategy | Next.js JS渲染，无法静态提取 | 2026-08-15 17:47 |
+| S245 | CrazyGames 最佳游戏 | https://www.crazygames.com/best | Next.js JS渲染，无法静态提取 | 2026-08-15 17:47 |
+| S246 | Miniclip 游戏库 | https://www.miniclip.com/games | 页面结构复杂/无静态游戏数据 | 2026-08-15 17:47 |
+| S247 | Miniclip 热门游戏 | https://www.miniclip.com/popular-games | 页面结构复杂/无静态游戏数据 | 2026-08-15 17:47 |
+| S248 | Coolmath Games 全部 | https://www.coolmathgames.com/games | 404 Not Found | 2026-08-15 17:47 |
+| S249 | Coolmath Games 最受欢迎 | https://www.coolmathgames.com/most-played | 404 Not Found | 2026-08-15 17:47 |
+| S250 | Game Jolt 休闲/街机 | https://gamejolt.com/games/genre/arcade | 页面内容过少(15KB)/需JS渲染 | 2026-08-15 17:47 |
+| S251 | Game Jolt 益智类 | https://gamejolt.com/games/genre/puzzle | 页面内容过少(15KB)/需JS渲染 | 2026-08-15 17:47 |
+| S252 | Game Jolt 策略类 | https://gamejolt.com/games/genre/strategy | 页面内容过少(15KB)/需JS渲染 | 2026-08-15 17:47 |
+| S253 | 4399 小游戏 - 动作类 | https://www.4399.com/flash/ | 编码异常(GB2312 garbled)/无法提取 | 2026-08-15 17:47 |
+| S254 | 4399 小游戏 - 策略类 | https://www.4399.com/flash/1_2.htm | 404 Not Found | 2026-08-15 17:47 |
+| S255 | 4399 小游戏 - 益智类 | https://www.4399.com/flash/1_3.htm | 404 Not Found | 2026-08-15 17:47 |
+
+## Sources Failed（历史失败）
 | ID | 标题 | URL | 失败原因 | 失败时间 |
 |---|---|---|---|---|
 | S151 | MiniReview Best Puzzle Games on Mobile | https://minireview.io/top-mobile-games/best-puzzle-games-on-mobile | JS渲染/无法提取游戏列表 | 2026-08-13 13:23 |
@@ -256,13 +298,13 @@
 | G1032 | Traffic Wonder Hd | — | PocketGamer P78 |
 | G1033 | Speedthru Potzols Puzzle | — | PocketGamer P78 |
 | G1034 | Demons Land | — | PocketGamer P78 |
-| G1035 | Dude Perfect | — | PocketGamer P78 |
-| G1036 | Gnu Revenge | — | PocketGamer P78 |
-| G1037 | Ski Champion | — | PocketGamer P78 |
-| G1038 | Floating Cloud God Saves The Pilgrims | — | PocketGamer P78 |
-| G1039 | Snoozles | — | PocketGamer P78 |
-| G1040 | Inazuma Eleven 2 Firestorm Blizzard | — | PocketGamer P78 |
-| G1041 | Rune Raiders | — | PocketGamer P79 |
+|| G1035 | Dude Perfect | — | PocketGamer P78 |
+|| G1036 | Gnu Revenge | docs/GnusRevenge_20260815_1700.md | PocketGamer P78 |
+|| G1037 | Ski Champion | — | PocketGamer P78 |
+|| G1038 | Floating Cloud God Saves The Pilgrims | docs/FloatingCloudGodSavesThePilgrims_20260815_1700.md | PocketGamer P78 |
+|| G1039 | Snoozles | docs/Snoozles_20260815_1700.md | PocketGamer P78 |
+|| G1040 | Inazuma Eleven 2 Firestorm Blizzard | docs/InazumaEleven2_20260815_1700.md | PocketGamer P78 |
+|| G1041 | Rune Raiders | — | PocketGamer P79 |
 | G1042 | Samurai Vs Zombies Defense | — | PocketGamer P79 |
 | G1043 | Harry The Fairy | — | PocketGamer P79 |
 | G1044 | Sir Benfros Brilliant Balloon | — | PocketGamer P79 |
@@ -270,16 +312,16 @@
 | G1046 | Cheezia Gears Of Fur | — | PocketGamer P79 |
 | G1047 | Node Hack | — | PocketGamer P79 |
 | G1048 | 8Bit Ninja | — | PocketGamer P79 |
-| G1049 | Kid Icarus Of Myths And Monsters | — | PocketGamer P79 |
+|| G1049 | Kid Icarus Of Myths And Monsters | docs/KidIcarusMythsAndMonsters_20260815_1700.md | PocketGamer P79 |
 | G1050 | Madcoaster | — | PocketGamer P79 |
 | G1051 | Pebble Universe | — | PocketGamer P79 |
-| G1052 | Picnic Wars | — | PocketGamer P79 |
-| G1053 | Jewel Master Cradle Of Persia | — | PocketGamer P79 |
-| G1054 | Twingo | — | PocketGamer P79 |
-| G1055 | Tower Bloxx Revolution | — | PocketGamer P79 |
-| G1056 | Fireball Special Edition | — | PocketGamer P79 |
-| G1057 | Azkend 2 The World Beneath | — | PocketGamer P79 |
-| G1058 | Canabalt | — | PocketGamer P79 |
+|| G1052 | Picnic Wars | docs/PicnicWars_20260815_1700.md | PocketGamer P79 |
+|| G1053 | Jewel Master Cradle Of Persia | docs/JewelMasterCradleOfPersia_20260815_1700.md | PocketGamer P79 |
+|| G1054 | Twingo | — | PocketGamer P79 |
+|| G1055 | Tower Bloxx Revolution | docs/TowerBloxx_20260815_1700.md | PocketGamer P79 |
+|| G1056 | Fireball Special Edition | — | PocketGamer P79 |
+|| G1057 | Azkend 2 The World Beneath | docs/Azkend2TheWorldBeneath_20260815_1700.md | PocketGamer P79 |
+|| G1058 | Canabalt | docs/Canabalt_20260815_1700.md | PocketGamer P79 |
 | G1059 | Flick Nations Rugby | — | PocketGamer P79 |
 | G1060 | Quell Reflect | — | PocketGamer P79 |
 | G1061 | Lego Hero Factory | — | PocketGamer P79 |
@@ -288,7 +330,20 @@
 | G1064 | Sticky Sheep | — | PocketGamer P79 |
 | G1065 | Brain Challenge 4 Breaking Limits | — | PocketGamer P79 |
 
-## Games Archived（已归档）
+## Games Archived（本轮新增）
+| ID | 游戏名 | 文档文件 | 归档时间 |
+|---|---|---|---|| G1088 | Kuja | docs/Kuja_20260815_1747.md | 2026-08-15 17:47 |
+| G1089 | Crush The Castle 2 | docs/CrushTheCastle2_20260815_1747.md | 2026-08-15 17:47 |
+| G1090 | The Journey Home | docs/TheJourneyHome_20260815_1747.md | 2026-08-15 17:47 |
+| G1091 | Multitask | docs/Multitask_20260815_1747.md | 2026-08-15 17:47 |
+| G1092 | Accelerator | docs/Accelerator_20260815_1747.md | 2026-08-15 17:47 |
+| G1093 | Burrito Bison: Launcha Libre | docs/BurritoBisonLaunchaLibre_20260815_1747.md | 2026-08-15 17:47 |
+| G1094 | Hat Wizard 2 | docs/HatWizard2_20260815_1747.md | 2026-08-15 17:47 |
+| G1095 | Zombie Derby 2 | docs/ZombieDerby2_20260815_1747.md | 2026-08-15 17:47 |
+| G1096 | Cat God vs Sun King | docs/CatGodvsSunKing_20260815_1747.md | 2026-08-15 17:47 |
+| G1097 | Scooby Doo Creepy Run | docs/ScoobyDooCreepyRun_20260815_1747.md | 2026-08-15 17:47 |
+
+## Games Archived（历史归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
 | G1066 | Tetris (3DS版) | docs/Tetris3DS_20260815_1300.md | 2026-08-15 13:00 |
