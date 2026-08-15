@@ -16,6 +16,9 @@
 | S198 | PocketGamer Game Finder Page 71 | https://www.pocketgamer.com/game-finder/page/71/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
 | S199 | PocketGamer Game Finder Page 72 | https://www.pocketgamer.com/game-finder/page/72/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
 | S200 | PocketGamer Game Finder Page 73 | https://www.pocketgamer.com/game-finder/page/73/0_all_0_1_1/ | 25 | 2026-08-14 23:46 |
+| S201 | PocketGamer Game Finder Page 74 | https://www.pocketgamer.com/game-finder/page/74/0_all_0_1_1/ | 25 | 2026-08-15 03:00 |
+| S202 | PocketGamer Game Finder Page 75 | https://www.pocketgamer.com/game-finder/page/75/0_all_0_1_1/ | 25 | 2026-08-15 03:00 |
+| S203 | PocketGamer Game Finder Page 76 | https://www.pocketgamer.com/game-finder/page/76/0_all_0_1_1/ | 25 | 2026-08-15 03:00 |
 
 ## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
@@ -286,6 +289,81 @@
 | G913 | Epidemic | — | PocketGamer P73 |
 | G914 | Frisbee Forever 2 | — | PocketGamer P73 |
 | G915 | Pizza Ninja | — | PocketGamer P73 |
+| G916 | Call of Snakes | — | PocketGamer P74 |
+| G917 | Disco Kitten | — | PocketGamer P74 |
+| G918 | Yesterday | — | PocketGamer P74 |
+| G919 | Mad Acorn | — | PocketGamer P74 |
+| G920 | Sonic Blast | — | PocketGamer P74 |
+| G921 | Monster Shooter Lost Levels | — | PocketGamer P74 |
+| G922 | Spiral Episode 1 | — | PocketGamer P74 |
+| G923 | Absolute RC Plane Simulator | — | PocketGamer P74 |
+| G924 | Soulcalibur Mobile | — | PocketGamer P74 |
+| G925 | Blazing Souls Accelate | — | PocketGamer P74 |
+| G926 | Duckers | — | PocketGamer P74 |
+| G927 | Catapult King | — | PocketGamer P74 |
+| G928 | Project 83113 | — | PocketGamer P74 |
+| G929 | Ruzzle | — | PocketGamer P74 |
+| G930 | 3D Solitaire | — | PocketGamer P74 |
+| G931 | Ferrari GT 3 World Track | — | PocketGamer P74 |
+| G932 | Formula Micro GP 1 | — | PocketGamer P74 |
+| G933 | Xelorians Space Shooter | — | PocketGamer P74 |
+| G934 | Bridge Constructor | — | PocketGamer P74 |
+| G935 | No Red T Shirts | — | PocketGamer P74 |
+| G936 | Big Win Soccer | — | PocketGamer P74 |
+| G937 | Sweet Memories Blackjack | — | PocketGamer P74 |
+| G938 | Knight Fortix 2 | — | PocketGamer P74 |
+| G939 | Pathpix | — | PocketGamer P74 |
+| G940 | Ring Fling | — | PocketGamer P74 |
+| G941 | Bee Leader | — | PocketGamer P75 |
+| G942 | Scotland Yard | — | PocketGamer P75 |
+| G943 | Neoshifters Aeronauts | — | PocketGamer P75 |
+| G944 | Extreme Skater | — | PocketGamer P75 |
+| G945 | Sakura Slash | — | PocketGamer P75 |
+| G946 | Ghost Recon Future Soldier | — | PocketGamer P75 |
+| G947 | Cheese Please | — | PocketGamer P75 |
+| G948 | Bucketz | — | PocketGamer P75 |
+| G949 | Danger Racer | — | PocketGamer P75 |
+| G950 | Tigers Of The Pacific 2 | — | PocketGamer P75 |
+| G951 | Exponential Invasion | — | PocketGamer P75 |
+| G952 | Aby Escape | — | PocketGamer P75 |
+| G953 | Reiner Knizia's Skyline | — | PocketGamer P75 |
+| G954 | Arcade Hits Outlaws Of The Lost Dynasty | — | PocketGamer P75 |
+| G955 | Tiny Plane | — | PocketGamer P75 |
+| G956 | Little 3 Kingdoms | — | PocketGamer P75 |
+| G957 | Ace Combat Northern Wings | — | PocketGamer P75 |
+| G958 | Zombie Quest | — | PocketGamer P75 |
+| G959 | Pastry Panic | — | PocketGamer P75 |
+| G960 | Fate Extra | — | PocketGamer P75 |
+| G961 | Dr Rocket Pro | — | PocketGamer P75 |
+| G962 | Conquest Medieval Realms | — | PocketGamer P75 |
+| G963 | Neuroshima Hex | — | PocketGamer P75 |
+| G964 | Reiner Knizia's City Of Secrets Pipes | — | PocketGamer P75 |
+| G965 | Bird Mania 3d | — | PocketGamer P75 |
+| G966 | Slime Vs Mushroom 2 | — | PocketGamer P76 |
+| G967 | Soccer Run | — | PocketGamer P76 |
+| G968 | The Avengers The Mobile Game | — | PocketGamer P76 |
+| G969 | Battleship 3ds | — | PocketGamer P76 |
+| G970 | Star Sloth | — | PocketGamer P76 |
+| G971 | Pinch Peeps | — | PocketGamer P76 |
+| G972 | This Could Hurt | — | PocketGamer P76 |
+| G973 | Defender Chronicles Ii | — | PocketGamer P76 |
+| G974 | Cubis Creatures | — | PocketGamer P76 |
+| G975 | Dummy Defense | — | PocketGamer P76 |
+| G976 | Super Mario Bros | — | PocketGamer P76 |
+| G977 | Table Hockey Hd | — | PocketGamer P76 |
+| G978 | Cannon Cat | — | PocketGamer P76 |
+| G979 | Warhammer 40 000 Dawn Of War Ii Chaos Rising | — | PocketGamer P76 |
+| G980 | Block Factory | — | PocketGamer P76 |
+| G981 | Ridge Racer Type 4 | — | PocketGamer P76 |
+| G982 | Ski Safari | — | PocketGamer P76 |
+| G983 | Polymer | — | PocketGamer P76 |
+| G984 | Jewel Master Cradle Of Rome 2 | — | PocketGamer P76 |
+| G985 | Golf Mania | — | PocketGamer P76 |
+| G986 | Rocket Fox | — | PocketGamer P76 |
+| G987 | Frenzy Pop | — | PocketGamer P76 |
+| G988 | Action Driver | — | PocketGamer P76 |
+| G989 | Clear Vision | — | PocketGamer P76 |
+| G990 | Illusia 2 | — | PocketGamer P76 |
 | G717 | Asura Cross | — | PocketGamer P65 |
 | G718 | Johnny HotShot | — | PocketGamer P65 |
 | G719 | BreakQuest Extra Evolution | — | PocketGamer P65 |
