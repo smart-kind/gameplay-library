@@ -4,9 +4,6 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S207 | manual | PocketGamer Game Finder Page 80 | https://www.pocketgamer.com/game-finder/page/80/0_all_0_1_1/ | 2026-08-15 05:08 |
-| S208 | manual | PocketGamer Game Finder Page 81 | https://www.pocketgamer.com/game-finder/page/81/0_all_0_1_1/ | 2026-08-15 05:08 |
-| S209 | manual | PocketGamer Game Finder Page 82 | https://www.pocketgamer.com/game-finder/page/82/0_all_0_1_1/ | 2026-08-15 05:08 |
 
 ## Sources Processing（处理中）
 
@@ -16,6 +13,9 @@
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S207 | PocketGamer Game Finder Page 80 | https://www.pocketgamer.com/game-finder/page/80/0_all_0_1_1/ | 25 | 2026-08-15 07:00 |
+| S208 | PocketGamer Game Finder Page 81 | https://www.pocketgamer.com/game-finder/page/81/0_all_0_1_1/ | 25 | 2026-08-15 07:00 |
+| S209 | PocketGamer Game Finder Page 82 | https://www.pocketgamer.com/game-finder/page/82/0_all_0_1_1/ | 25 | 2026-08-15 07:00 |
 | S204 | PocketGamer Game Finder Page 77 | https://www.pocketgamer.com/game-finder/page/77/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
 | S205 | PocketGamer Game Finder Page 78 | https://www.pocketgamer.com/game-finder/page/78/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
 | S206 | PocketGamer Game Finder Page 79 | https://www.pocketgamer.com/game-finder/page/79/0_all_0_1_1/ | 25 | 2026-08-15 05:08 |
