@@ -407,3 +407,9 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 ## 2026-08-14
 
 |[2026-08-14 23:46] [R051] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=197+, Games Pending=124(G717-G840), Games Archived=706
+|[2026-08-14 23:46] [R051] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S198-S200 PocketGamer P71/P72/P73)，提取75款游戏名
+|[2026-08-14 23:59] [R051] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S198-S200)，提取75款游戏名(G841-G915)，0个失败
+|[2026-08-14 23:59] [R051] [Phase 4: Process Games] ✅ 完成 — 处理30款游戏(G717-G746)，产出30份文档(均≥50行)，来源: PocketGamer+iTunes API
+|[2026-08-15 00:00] [R051] [Phase 5: Graphify] ✅ 完成 — 9193 nodes, 8316 edges, 897 communities
+|[2026-08-15 00:00] [R051] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-15 00:04] [R051] [Phase 7: Git Push] ✅ 完成 — commit成功(152 files, +204750 lines)，push成功
