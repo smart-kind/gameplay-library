@@ -4,9 +4,7 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S256 | PocketGamer Game Finder Page 92 | https://www.pocketgamer.com/game-finder/page/92/0_all_0_1_1/ | 2026-08-15 19:31 |
-| S257 | PocketGamer Game Finder Page 93 | https://www.pocketgamer.com/game-finder/page/93/0_all_0_1_1/ | 2026-08-15 19:31 |
-| S258 | PocketGamer Game Finder Page 94 | https://www.pocketgamer.com/game-finder/page/94/0_all_0_1_1/ | 2026-08-15 19:31 |
+
 
 ## Sources Processing（处理中）
 
@@ -32,6 +30,11 @@
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S256 | PocketGamer Game Finder Page 92 | https://www.pocketgamer.com/game-finder/page/92/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
+| S257 | PocketGamer Game Finder Page 93 | https://www.pocketgamer.com/game-finder/page/93/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
+| S258 | PocketGamer Game Finder Page 94 | https://www.pocketgamer.com/game-finder/page/94/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
+
+
 | S220 | Kongregate 游戏库 - 动作类 | https://www.kongregate.com/action-games | 10 | 2026-08-15 17:47 |
 | S221 | Kongregate 游戏库 - 益智类 | https://www.kongregate.com/puzzle-games | 50 | 2026-08-15 17:47 |
 | S223 | Kongregate 游戏库 - 策略类 | https://www.kongregate.com/strategy-games | 50 | 2026-08-15 17:47 |
@@ -335,7 +338,17 @@
 
 ## Games Archived（本轮新增）
 | ID | 游戏名 | 文档文件 | 归档时间 |
-|---|---|---|---|| G1088 | Kuja | docs/Kuja_20260815_1747.md | 2026-08-15 17:47 |
+|---|---|---|---|| G1098 | jukebeat | docs/jukebeat_20260815_2120.md | 2026-08-15 21:20 |
+|| G1099 | Pickpawcket | docs/Pickpawcket_20260815_2120.md | 2026-08-15 21:20 |
+|| G1100 | Spacelings | docs/Spacelings_20260815_2120.md | 2026-08-15 21:20 |
+|| G1101 | Hardwood Spades | docs/HardwoodSpades_20260815_2120.md | 2026-08-15 21:20 |
+|| G1102 | Greedy Pigs | docs/GreedyPigs_20260815_2120.md | 2026-08-15 21:20 |
+|| G1103 | Rogue Sky | docs/RogueSky_20260815_2120.md | 2026-08-15 21:20 |
+|| G1104 | Wooords | docs/Wooords_20260815_2120.md | 2026-08-15 21:20 |
+|| G1105 | Rally-X Rumble | docs/RallyXRumble_20260815_2120.md | 2026-08-15 21:20 |
+|| G1106 | Everybody's Golf | docs/EverybodysGolf_20260815_2120.md | 2026-08-15 21:20 |
+|| G1107 | Hustle Kings | docs/HustleKings_20260815_2120.md | 2026-08-15 21:20 |
+|| G1088 | Kuja | docs/Kuja_20260815_1747.md | 2026-08-15 17:47 |
 | G1089 | Crush The Castle 2 | docs/CrushTheCastle2_20260815_1747.md | 2026-08-15 17:47 |
 | G1090 | The Journey Home | docs/TheJourneyHome_20260815_1747.md | 2026-08-15 17:47 |
 | G1091 | Multitask | docs/Multitask_20260815_1747.md | 2026-08-15 17:47 |
