@@ -4,6 +4,9 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S256 | PocketGamer Game Finder Page 92 | https://www.pocketgamer.com/game-finder/page/92/0_all_0_1_1/ | 2026-08-15 19:31 |
+| S257 | PocketGamer Game Finder Page 93 | https://www.pocketgamer.com/game-finder/page/93/0_all_0_1_1/ | 2026-08-15 19:31 |
+| S258 | PocketGamer Game Finder Page 94 | https://www.pocketgamer.com/game-finder/page/94/0_all_0_1_1/ | 2026-08-15 19:31 |
 
 ## Sources Processing（处理中）
 
@@ -284,23 +287,23 @@
 || G1008 | On The Wind | docs/OnTheWind_20260815_0843.md | PocketGamer P77 |
 || G1009 | Tap The Frog 2 | docs/TapTheFrog2_20260815_0843.md | PocketGamer P77 |
 || G1010 | Blast Ball | docs/BlastBall_20260815_0843.md | PocketGamer P77 |
-| G1021 | Trial Xtreme 2 Winter Edition | — | PocketGamer P78 |
-| G1022 | Violet Storm | — | PocketGamer P78 |
-| G1023 | Iootp Baseball 2012 Edition | — | PocketGamer P78 |
-| G1024 | Kung Fu Rabbit | — | PocketGamer P78 |
-| G1025 | My Little City | — | PocketGamer P78 |
-| G1026 | Fmx Iv Pro | — | PocketGamer P78 |
-| G1027 | Kale In Dinoland | — | PocketGamer P78 |
-| G1028 | Jelly Love | — | PocketGamer P78 |
-| G1029 | Pathpix Joy | — | PocketGamer P78 |
-| G1030 | Antithesis | — | PocketGamer P78 |
-| G1031 | Mega Bloks Builder | — | PocketGamer P78 |
-| G1032 | Traffic Wonder Hd | — | PocketGamer P78 |
-| G1033 | Speedthru Potzols Puzzle | — | PocketGamer P78 |
-| G1034 | Demons Land | — | PocketGamer P78 |
-|| G1035 | Dude Perfect | — | PocketGamer P78 |
-|| G1036 | Gnu Revenge | docs/GnusRevenge_20260815_1700.md | PocketGamer P78 |
-|| G1037 | Ski Champion | — | PocketGamer P78 |
+|| G1021 | Trial Xtreme 2 Winter Edition | docs/TrialXtreme2WinterEdition_20260815_1931.md | PocketGamer P78 |
+|| G1022 | Violet Storm | docs/VioletStorm_20260815_1931.md | PocketGamer P78 |
+|| G1023 | Iootp Baseball 2012 Edition | — | PocketGamer P78 |
+|| G1024 | Kung Fu Rabbit | docs/KungFuRabbit_20260815_1931.md | PocketGamer P78 |
+|| G1025 | My Little City | — | PocketGamer P78 |
+|| G1026 | Fmx Iv Pro | — | PocketGamer P78 |
+|| G1027 | Kale In Dinoland | — | PocketGamer P78 |
+|| G1028 | Jelly Love | docs/JellyLove_20260815_1931.md | PocketGamer P78 |
+|| G1029 | Pathpix Joy | — | PocketGamer P78 |
+|| G1030 | Antithesis | — | PocketGamer P78 |
+|| G1031 | Mega Bloks Builder | — | PocketGamer P78 |
+|| G1032 | Traffic Wonder Hd | — | PocketGamer P78 |
+|| G1033 | Speedthru Potzols Puzzle | — | PocketGamer P78 |
+|| G1034 | Demons Land | docs/DemonsLand_20260815_1931.md | PocketGamer P78 |
+||| G1035 | Dude Perfect | — | PocketGamer P78 |
+||| G1036 | Gnu Revenge | docs/GnusRevenge_20260815_1700.md | PocketGamer P78 |
+||| G1037 | Ski Champion | docs/SkiChampion_20260815_1931.md | PocketGamer P78 |
 || G1038 | Floating Cloud God Saves The Pilgrims | docs/FloatingCloudGodSavesThePilgrims_20260815_1700.md | PocketGamer P78 |
 || G1039 | Snoozles | docs/Snoozles_20260815_1700.md | PocketGamer P78 |
 || G1040 | Inazuma Eleven 2 Firestorm Blizzard | docs/InazumaEleven2_20260815_1700.md | PocketGamer P78 |
