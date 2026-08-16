@@ -403,19 +403,29 @@
 ## Games Archived（本轮新增）
 || ID | 游戏名 | 文档文件 | 归档时间 |
 ||---|---|---|---|
-|| G1108 | Paper Racer | docs/PaperRacer_20260816_0040.md | 2026-08-16 00:40 |
-|| G1109 | Kirby's Dream Land | docs/KirbysDreamLand_20260816_0040.md | 2026-08-16 00:40 |
-|| G1110 | Cars 2 | docs/Cars2_20260816_0040.md | 2026-08-16 00:40 |
-|| G1111 | Donkey Kong (1981) | docs/DonkeyKong_20260816_0040.md | 2026-08-16 00:40 |
-|| G1112 | Tiny Tower | docs/TinyTower_20260816_0040.md | 2026-08-16 00:40 |
-|| G1113 | Wordfeud | docs/Wordfeud_20260816_0040.md | 2026-08-16 00:40 |
-|| G1114 | Galaga | docs/Galaga_20260816_0040.md | 2026-08-16 00:40 |
-|| G1115 | Avadon: The Black Fortress | docs/AvadonTheBlackFortress_20260816_0040.md | 2026-08-16 00:40 |
-|| G1116 | Naruto Shippuden 3D: The New Era | docs/NarutoShippuden3DTheNewEra_20260816_0040.md | 2026-08-16 00:40 |
-|| G1117 | Monster Soup | docs/MonsterSoup_20260816_0040.md | 2026-08-16 00:40 |
-|| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
-|| G1119 | Samantha Swift: Hidden Roses of Athena | docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md | 2026-08-16 00:40 |
-|| G1120 | Tower Raiders 2 | docs/TowerRaiders2_20260816_0040.md | 2026-08-16 00:40 |
+||| G1108 | Paper Racer | docs/PaperRacer_20260816_0040.md | 2026-08-16 00:40 |
+||| G1109 | Kirby's Dream Land | docs/KirbysDreamLand_20260816_0040.md | 2026-08-16 00:40 |
+||| G1110 | Cars 2 | docs/Cars2_20260816_0040.md | 2026-08-16 00:40 |
+||| G1111 | Donkey Kong (1981) | docs/DonkeyKong_20260816_0040.md | 2026-08-16 00:40 |
+||| G1112 | Tiny Tower | docs/TinyTower_20260816_0040.md | 2026-08-16 00:40 |
+||| G1113 | Wordfeud | docs/Wordfeud_20260816_0040.md | 2026-08-16 00:40 |
+||| G1114 | Galaga | docs/Galaga_20260816_0040.md | 2026-08-16 00:40 |
+||| G1115 | Avadon: The Black Fortress | docs/AvadonTheBlackFortress_20260816_0040.md | 2026-08-16 00:40 |
+||| G1116 | Naruto Shippuden 3D: The New Era | docs/NarutoShippuden3DTheNewEra_20260816_0040.md | 2026-08-16 00:40 |
+||| G1117 | Monster Soup | docs/MonsterSoup_20260816_0040.md | 2026-08-16 00:40 |
+||| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
+||| G1119 | Samantha Swift: Hidden Roses of Athena | docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md | 2026-08-16 00:40 |
+||| G1120 | Tower Raiders 2 | docs/TowerRaiders2_20260816_0040.md | 2026-08-16 00:40 |
+||| G1169 | Frontier Tower Defense | docs/FrontierTowerDefense_20260816_0300.md | 2026-08-16 03:00 |
+||| G1170 | Brickzors | docs/Brickzors_20260816_0300.md | 2026-08-16 03:00 |
+||| G1171 | Apparatus | docs/Apparatus_20260816_0300.md | 2026-08-16 03:00 |
+||| G1172 | Wiz Kid Jr. | docs/WizKidJr_20260816_0300.md | 2026-08-16 03:00 |
+||| G1173 | Dragon Fire | docs/DragonFire_20260816_0300.md | 2026-08-16 03:00 |
+||| G1174 | Sprint Escape | docs/SprintEscape_20260816_0300.md | 2026-08-16 03:00 |
+||| G1175 | Hertz Smasher | docs/HertzSmasher_20260816_0300.md | 2026-08-16 03:00 |
+||| G1176 | Orbital Defender | docs/OrbitalDefender_20260816_0300.md | 2026-08-16 03:00 |
+||| G1177 | The Great Jitters: Pudding Panic | docs/TheGreatJittersPuddingPanic_20260816_0300.md | 2026-08-16 03:00 |
+||| G1178 | Ionocraft Racing | docs/IonocraftRacing_20260816_0300.md | 2026-08-16 03:00 |
 ||| G1098 | jukebeat | docs/jukebeat_20260815_2120.md | 2026-08-15 21:20 |
 ||| G1099 | Pickpawcket | docs/Pickpawcket_20260815_2120.md | 2026-08-15 21:20 |
 ||| G1100 | Spacelings | docs/Spacelings_20260815_2120.md | 2026-08-15 21:20 |
