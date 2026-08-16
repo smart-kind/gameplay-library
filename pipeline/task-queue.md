@@ -4,6 +4,9 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S265 | PocketGamer Game Finder Page 101 | https://www.pocketgamer.com/game-finder/page/101/0_all_0_1_1/ | 2026-08-16 20:00 |
+| S266 | PocketGamer Game Finder Page 102 | https://www.pocketgamer.com/game-finder/page/102/0_all_0_1_1/ | 2026-08-16 20:00 |
+| S267 | PocketGamer Game Finder Page 103 | https://www.pocketgamer.com/game-finder/page/103/0_all_0_1_1/ | 2026-08-16 20:00 |
 
 
 ## Sources Processing（处理中）
@@ -1237,3 +1240,4 @@
 || 2026-08-15 14:27 | (R057: 处理3新来源S216-S218+9 stale来源S198-S206, 提取300款游戏名, 产出12款文档G1076-G1087) | 0 | 12 (S216-S218+S198-S206) | 300 | 12 (G1076-G1087) | 0 |
 | 2026-08-16 06:08 | (R065: 处理10个Sources Pending G1118-G1127, 产出10款游戏文档G1179-G1188, 剩余41个Sources Pending) | 0 | 10 (G1118-G1127) | 10 | 10 (G1179-G1188) | 0 |
 | 2026-08-16 07:50 | (R066: 处理10个Sources Pending G1128-G1137, 产出9款游戏文档, 1个失败G1134-404, 剩余41个Sources Pending) | 0 | 10 (G1128-G1137) | 9 | 9 (G1128-G1137) | 1 (G1134-404) |
+| 2026-08-16 20:00 | (R071: 手动发现3来源S265-S267 P101-P103共75款游戏, 为10款生成详细文档G1230-G1239, 均≥50行) | 3 (S265-S267) | 3 (S265-S267) | 75 | 10 (G1230-G1239) | 0 |
