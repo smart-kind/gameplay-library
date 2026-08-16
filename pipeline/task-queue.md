@@ -4,16 +4,6 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| G1128 | pocketgamer | Orbital Defender | pocketgamer.com/orbital-defender/ | 2026-08-16 00:40 |
-| G1129 | pocketgamer | The Great Jitters Pudding Panic | pocketgamer.com/the-great-jitters-pudding-panic/ | 2026-08-16 00:40 |
-| G1130 | pocketgamer | Ionocraft Racing | pocketgamer.com/ionocraft-racing/ | 2026-08-16 00:40 |
-| G1131 | pocketgamer | Monkey Island Tales 5 HD | pocketgamer.com/monkey-island-tales-5-hd/ | 2026-08-16 00:40 |
-| G1132 | pocketgamer | Monkey Island Tales 4 HD | pocketgamer.com/monkey-island-tales-4-hd/ | 2026-08-16 00:40 |
-| G1133 | pocketgamer | Draw Slasher | pocketgamer.com/draw-slasher/ | 2026-08-16 00:40 |
-| G1134 | pocketgamer | WWII Hills of Glory | pocketgamer.com/wwii-hills-of-glory/ | 2026-08-16 00:40 |
-| G1135 | pocketgamer | Marvel Kapow | pocketgamer.com/marvel-kapow/ | 2026-08-16 00:40 |
-| G1136 | pocketgamer | Cell Bound | pocketgamer.com/cell-bound/ | 2026-08-16 00:40 |
-| G1137 | pocketgamer | Rotating Octopus Character | pocketgamer.com/the-2d-adventures-of-rotating-octopus-character/ | 2026-08-16 00:40 |
 | G1138 | pocketgamer | Scoundrel's Cross | pocketgamer.com/scoundrels-cross/ | 2026-08-16 00:40 |
 | G1139 | pocketgamer | Infernus Verse 2 | pocketgamer.com/infernus-verse-2/ | 2026-08-16 00:40 |
 | G1140 | pocketgamer | Battle Boats 3D | pocketgamer.com/battle-boats-3d/ | 2026-08-16 00:40 |
@@ -94,6 +84,15 @@
 | G1125 | Dragon Fire | https://www.pocketgamer.com/dragon-fire/ | 1 | 2026-08-16 06:08 |
 | G1126 | Sprint Escape | https://www.pocketgamer.com/sprint-escape/ | 1 | 2026-08-16 06:08 |
 | G1127 | Hertz Smasher | https://www.pocketgamer.com/hertz-smasher/ | 1 | 2026-08-16 06:08 |
+| G1128 | Orbital Defender | https://www.pocketgamer.com/orbital-defender/ | 1 | 2026-08-16 07:50 |
+| G1129 | The Great Jitters: Pudding Panic | https://www.pocketgamer.com/the-great-jitters-pudding-panic/ | 1 | 2026-08-16 07:50 |
+| G1130 | Ionocraft Racing | https://www.pocketgamer.com/ionocraft-racing/ | 1 | 2026-08-16 07:50 |
+| G1131 | Monkey Island Tales 5 HD | https://www.pocketgamer.com/monkey-island-tales-5-hd/ | 1 | 2026-08-16 07:50 |
+| G1132 | Monkey Island Tales 4 HD | https://www.pocketgamer.com/monkey-island-tales-4-hd/ | 1 | 2026-08-16 07:50 |
+| G1133 | Draw Slasher | https://www.pocketgamer.com/draw-slasher/ | 1 | 2026-08-16 07:50 |
+| G1135 | Marvel Kapow | https://www.pocketgamer.com/marvel-kapow/ | 1 | 2026-08-16 07:50 |
+| G1136 | Cell Bound | https://www.pocketgamer.com/cell-bound/ | 1 | 2026-08-16 07:50 |
+| G1137 | The 2D Adventures of Rotating Octopus Character | https://www.pocketgamer.com/the-2d-adventures-of-rotating-octopus-character/ | 1 | 2026-08-16 07:50 |
 
 | S256 | PocketGamer Game Finder Page 92 | https://www.pocketgamer.com/game-finder/page/92/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
 | S257 | PocketGamer Game Finder Page 93 | https://www.pocketgamer.com/game-finder/page/93/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
@@ -147,6 +146,7 @@
 |---|---|---|---|---|
 | S139 | Top 10 Casual Games of 2025 Road Ahead | https://www.gamigion.com/top-10-casual-games-of-2025-road-ahead-to-2028/ | 趋势分析文章，无可提取游戏列表 | 2026-08-13 10:30 |
 | S140 | Top 10 Best Casual Games To Play In 2025 | https://www.hotbot.com/articles/best-casual-games-2025/ | 模板文章(Game Title One等占位符)，无真实游戏内容 | 2026-08-13 10:30 |
+| G1134 | WWII Hills of Glory | https://www.pocketgamer.com/wwii-hills-of-glory/ | 404 Not Found | 2026-08-16 07:50 |
 
 | ID | 类型 | 标题 | URL | 开始时间 |
 |---|---|---|---|---|
@@ -365,20 +365,20 @@
 || G1008 | On The Wind | docs/OnTheWind_20260815_0843.md | PocketGamer P77 |
 || G1009 | Tap The Frog 2 | docs/TapTheFrog2_20260815_0843.md | PocketGamer P77 |
 || G1010 | Blast Ball | docs/BlastBall_20260815_0843.md | PocketGamer P77 |
-|| G1021 | Trial Xtreme 2 Winter Edition | docs/TrialXtreme2WinterEdition_20260815_1931.md | PocketGamer P78 |
-|| G1022 | Violet Storm | docs/VioletStorm_20260815_1931.md | PocketGamer P78 |
-|| G1023 | Iootp Baseball 2012 Edition | — | PocketGamer P78 |
-|| G1024 | Kung Fu Rabbit | docs/KungFuRabbit_20260815_1931.md | PocketGamer P78 |
-|| G1025 | My Little City | — | PocketGamer P78 |
-|| G1026 | Fmx Iv Pro | — | PocketGamer P78 |
-|| G1027 | Kale In Dinoland | — | PocketGamer P78 |
-|| G1028 | Jelly Love | docs/JellyLove_20260815_1931.md | PocketGamer P78 |
-|| G1029 | Pathpix Joy | — | PocketGamer P78 |
-|| G1030 | Antithesis | — | PocketGamer P78 |
-|| G1031 | Mega Bloks Builder | — | PocketGamer P78 |
-|| G1032 | Traffic Wonder Hd | — | PocketGamer P78 |
-|| G1033 | Speedthru Potzols Puzzle | — | PocketGamer P78 |
-|| G1034 | Demons Land | docs/DemonsLand_20260815_1931.md | PocketGamer P78 |
+||| G1021 | Trial Xtreme 2 Winter Edition | docs/TrialXtreme2WinterEdition_20260815_1931.md | PocketGamer P78 |
+||| G1022 | Violet Storm | docs/VioletStorm_20260815_1931.md | PocketGamer P78 |
+||| G1023 | Iootp Baseball 2012 Edition | — | PocketGamer P78 |
+||| G1024 | Kung Fu Rabbit | docs/KungFuRabbit_20260815_1931.md | PocketGamer P78 |
+||| G1025 | My Little City | — | PocketGamer P78 |
+||| G1026 | Fmx Iv Pro | — | PocketGamer P78 |
+||| G1027 | Kale In Dinoland | — | PocketGamer P78 |
+||| G1028 | Jelly Love | docs/JellyLove_20260815_1931.md | PocketGamer P78 |
+||| G1029 | Pathpix Joy | docs/PathPixJoy_20260816_0755.md | PocketGamer P78 |
+||| G1030 | Antithesis | — | PocketGamer P78 |
+||| G1031 | Mega Bloks Builder | — | PocketGamer P78 |
+||| G1032 | Traffic Wonder Hd | — | PocketGamer P78 |
+||| G1033 | Speedthru Potzols Puzzle | — | PocketGamer P78 |
+||| G1034 | Demons Land | docs/DemonsLand_20260815_1931.md | PocketGamer P78 |
 ||| G1035 | Dude Perfect | — | PocketGamer P78 |
 ||| G1036 | Gnu Revenge | docs/GnusRevenge_20260815_1700.md | PocketGamer P78 |
 ||| G1037 | Ski Champion | docs/SkiChampion_20260815_1931.md | PocketGamer P78 |
@@ -1186,3 +1186,4 @@
 | 2026-08-14 23:59 | (R051: 发现3来源S198-S200, 提取75款游戏G841-G915, 处理30款Pending游戏G717-G746产出文档) | 3 (S198-S200) | 3 (S198-S200) | 75 | 30 (G717-G746) | 0 |
 || 2026-08-15 14:27 | (R057: 处理3新来源S216-S218+9 stale来源S198-S206, 提取300款游戏名, 产出12款文档G1076-G1087) | 0 | 12 (S216-S218+S198-S206) | 300 | 12 (G1076-G1087) | 0 |
 | 2026-08-16 06:08 | (R065: 处理10个Sources Pending G1118-G1127, 产出10款游戏文档G1179-G1188, 剩余41个Sources Pending) | 0 | 10 (G1118-G1127) | 10 | 10 (G1179-G1188) | 0 |
+| 2026-08-16 07:50 | (R066: 处理10个Sources Pending G1128-G1137, 产出9款游戏文档, 1个失败G1134-404, 剩余41个Sources Pending) | 0 | 10 (G1128-G1137) | 9 | 9 (G1128-G1137) | 1 (G1134-404) |
