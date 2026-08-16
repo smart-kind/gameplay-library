@@ -4,16 +4,6 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| G1148 | pocketgamer | Roll in the Hole | pocketgamer.com/roll-in-the-hole/ | 2026-08-16 00:40 |
-| G1149 | pocketgamer | Crazy Penguin Assault | pocketgamer.com/crazy-penguin-assault/ | 2026-08-16 00:40 |
-| G1150 | pocketgamer | Alien Space Retro | pocketgamer.com/alien-space-retro/ | 2026-08-16 00:40 |
-| G1151 | pocketgamer | Ducati Challenge | pocketgamer.com/ducati-challenge/ | 2026-08-16 00:40 |
-| G1152 | pocketgamer | Space Squadron | pocketgamer.com/space-squadron/ | 2026-08-16 00:40 |
-| G1153 | pocketgamer | Aftermath XHD | pocketgamer.com/aftermath-xhd/ | 2026-08-16 00:40 |
-| G1154 | pocketgamer | Incredible Express | pocketgamer.com/incredible-express/ | 2026-08-16 00:40 |
-| G1155 | pocketgamer | Symphony of Eternity | pocketgamer.com/symphony-of-eternity/ | 2026-08-16 00:40 |
-| G1156 | pocketgamer | House of Mice | pocketgamer.com/house-of-mice/ | 2026-08-16 00:40 |
-| G1157 | pocketgamer | Stem Stumper | pocketgamer.com/stem-stumper/ | 2026-08-16 00:40 |
 | G1158 | pocketgamer | Walkabout | pocketgamer.com/walkabout/ | 2026-08-16 00:40 |
 | G1159 | pocketgamer | Rip Off | pocketgamer.com/rip-off/ | 2026-08-16 00:40 |
 | G1160 | pocketgamer | My Paper Plane 2 3D | pocketgamer.com/my-paper-plane-2/ | 2026-08-16 00:40 |
@@ -92,7 +82,17 @@
 | G1133 | Draw Slasher | https://www.pocketgamer.com/draw-slasher/ | 1 | 2026-08-16 07:50 |
 | G1135 | Marvel Kapow | https://www.pocketgamer.com/marvel-kapow/ | 1 | 2026-08-16 07:50 |
 | G1136 | Cell Bound | https://www.pocketgamer.com/cell-bound/ | 1 | 2026-08-16 07:50 |
-| G1137 | The 2D Adventures of Rotating Octopus Character | https://www.pocketgamer.com/the-2d-adventures-of-rotating-octopus-character/ | 1 | 2026-08-16 07:50 |
+|| G1137 | The 2D Adventures of Rotating Octopus Character | https://www.pocketgamer.com/the-2d-adventures-of-rotating-octopus-character/ | 1 | 2026-08-16 07:50 |
+| G1148 | Roll in the Hole | https://www.pocketgamer.com/roll-in-the-hole/ | 1 | 2026-08-16 12:42 |
+| G1149 | Crazy Penguin Assault | https://www.pocketgamer.com/crazy-penguin-assault/ | 1 | 2026-08-16 12:42 |
+| G1150 | Alien Space Retro | https://www.pocketgamer.com/alien-space-retro/ | 1 | 2026-08-16 12:42 |
+| G1151 | Ducati Challenge | https://www.pocketgamer.com/ducati-challenge/ | 1 | 2026-08-16 12:42 |
+| G1152 | Space Squadron | https://www.pocketgamer.com/space-squadron/ | 1 | 2026-08-16 12:42 |
+| G1153 | Aftermath XHD | https://www.pocketgamer.com/aftermath-xhd/ | 1 | 2026-08-16 12:42 |
+| G1154 | Incredible Express | https://www.pocketgamer.com/incredible-express/ | 1 | 2026-08-16 12:42 |
+| G1155 | Symphony of Eternity | https://www.pocketgamer.com/symphony-of-eternity/ | 1 | 2026-08-16 12:42 |
+| G1156 | House of Mice | https://www.pocketgamer.com/house-of-mice/ | 1 | 2026-08-16 12:42 |
+| G1157 | Stem Stumper | https://www.pocketgamer.com/stem-stumper/ | 1 | 2026-08-16 12:42 |
 
 | S256 | PocketGamer Game Finder Page 92 | https://www.pocketgamer.com/game-finder/page/92/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
 | S257 | PocketGamer Game Finder Page 93 | https://www.pocketgamer.com/game-finder/page/93/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
@@ -434,7 +434,17 @@
 | G1195 | Iron Wars | docs/IronWars_20260816_1000.md | 2026-08-16 10:00 |
 | G1196 | Pool Break Pro | docs/PoolBreakPro_20260816_1000.md | 2026-08-16 10:00 |
 | G1197 | City of Wonder | docs/CityOfWonder_20260816_1000.md | 2026-08-16 10:00 |
-| G1198 | Galaxy Bowl | docs/GalaxyBowl_20260816_1000.md | 2026-08-16 10:00 |
+|| G1198 | Galaxy Bowl | docs/GalaxyBowl_20260816_1000.md | 2026-08-16 10:00 |
+|| G1199 | Roll in the Hole | docs/RollInTheHole_20260816_1242.md | 2026-08-16 12:42 |
+|| G1200 | Crazy Penguin Assault | docs/CrazyPenguinAssault_20260816_1242.md | 2026-08-16 12:42 |
+|| G1201 | Alien Space Retro | docs/AlienSpaceRetro_20260816_1242.md | 2026-08-16 12:42 |
+|| G1202 | Ducati Challenge | docs/DucatiChallenge_20260816_1242.md | 2026-08-16 12:42 |
+|| G1203 | Space Squadron | docs/SpaceSquadron_20260816_1242.md | 2026-08-16 12:42 |
+|| G1204 | Aftermath XHD | docs/AftermathXHD_20260816_1242.md | 2026-08-16 12:42 |
+|| G1205 | Incredible Express | docs/IncredibleExpress_20260816_1242.md | 2026-08-16 12:42 |
+|| G1206 | Symphony of Eternity | docs/SymphonyOfEternity_20260816_1242.md | 2026-08-16 12:42 |
+|| G1207 | House of Mice | docs/HouseOfMice_20260816_1242.md | 2026-08-16 12:42 |
+|| G1208 | Stem Stumper | docs/StemStumper_20260816_1242.md | 2026-08-16 12:42 |
 ||||||||||||||||||||||| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1119 | Samantha Swift: Hidden Roses of Athena | docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1120 | Tower Raiders 2 | docs/TowerRaiders2_20260816_0040.md | 2026-08-16 00:40 |
