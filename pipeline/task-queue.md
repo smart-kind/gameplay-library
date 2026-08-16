@@ -4,16 +4,6 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| G1118 | pocketgamer | Pro Tennis Volley | pocketgamer.com/pro-tennis-volley/ | 2026-08-16 00:40 |
-| G1119 | pocketgamer | Gladiator Begins | pocketgamer.com/gladiator-begins/ | 2026-08-16 00:40 |
-| G1120 | pocketgamer | White Knight Chronicles Origins | pocketgamer.com/white-knight-chronicles-origins/ | 2026-08-16 00:40 |
-| G1121 | pocketgamer | Frontier Tower Defense | pocketgamer.com/frontier-tower-defense/ | 2026-08-16 00:40 |
-| G1122 | pocketgamer | Brickzors | pocketgamer.com/brickzors/ | 2026-08-16 00:40 |
-| G1123 | pocketgamer | Apparatus | pocketgamer.com/apparatus/ | 2026-08-16 00:40 |
-| G1124 | pocketgamer | Wiz Kid Jr. | pocketgamer.com/wiz-kid-jr/ | 2026-08-16 00:40 |
-| G1125 | pocketgamer | Dragon Fire | pocketgamer.com/dragon-fire/ | 2026-08-16 00:40 |
-| G1126 | pocketgamer | Sprint Escape | pocketgamer.com/sprint-escape/ | 2026-08-16 00:40 |
-| G1127 | pocketgamer | Hertz Smasher | pocketgamer.com/hertz-smasher/ | 2026-08-16 00:40 |
 | G1128 | pocketgamer | Orbital Defender | pocketgamer.com/orbital-defender/ | 2026-08-16 00:40 |
 | G1129 | pocketgamer | The Great Jitters Pudding Panic | pocketgamer.com/the-great-jitters-pudding-panic/ | 2026-08-16 00:40 |
 | G1130 | pocketgamer | Ionocraft Racing | pocketgamer.com/ionocraft-racing/ | 2026-08-16 00:40 |
@@ -94,6 +84,17 @@
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| G1118 | Pro Tennis Volley | https://www.pocketgamer.com/pro-tennis-volley/ | 1 | 2026-08-16 06:08 |
+| G1119 | Gladiator Begins | https://www.pocketgamer.com/gladiator-begins/ | 1 | 2026-08-16 06:08 |
+| G1120 | White Knight Chronicles Origins | https://www.pocketgamer.com/white-knight-chronicles-origins/ | 1 | 2026-08-16 06:08 |
+| G1121 | Frontier Tower Defense | https://www.pocketgamer.com/frontier-tower-defense/ | 1 | 2026-08-16 06:08 |
+| G1122 | Brickzors | https://www.pocketgamer.com/brickzors/ | 1 | 2026-08-16 06:08 |
+| G1123 | Apparatus | https://www.pocketgamer.com/apparatus/ | 1 | 2026-08-16 06:08 |
+| G1124 | Wiz Kid Jr. | https://www.pocketgamer.com/wiz-kid-jr/ | 1 | 2026-08-16 06:08 |
+| G1125 | Dragon Fire | https://www.pocketgamer.com/dragon-fire/ | 1 | 2026-08-16 06:08 |
+| G1126 | Sprint Escape | https://www.pocketgamer.com/sprint-escape/ | 1 | 2026-08-16 06:08 |
+| G1127 | Hertz Smasher | https://www.pocketgamer.com/hertz-smasher/ | 1 | 2026-08-16 06:08 |
+
 | S256 | PocketGamer Game Finder Page 92 | https://www.pocketgamer.com/game-finder/page/92/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
 | S257 | PocketGamer Game Finder Page 93 | https://www.pocketgamer.com/game-finder/page/93/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
 | S258 | PocketGamer Game Finder Page 94 | https://www.pocketgamer.com/game-finder/page/94/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
@@ -411,8 +412,19 @@
 | G1065 | Brain Challenge 4 Breaking Limits | — | PocketGamer P79 |
 
 ## Games Archived（本轮新增）
-|| ID | 游戏名 | 文档文件 | 归档时间 |
-||---|---|---|---|
+||| ID | 游戏名 | 文档文件 | 归档时间 |
+|||---|---|---|---|
+| G1179 | Pro Tennis Volley | docs/ProTennisVolley_20260816_0607.md | 2026-08-16 06:08 |
+| G1180 | Gladiator Begins | docs/GladiatorBegins_20260816_0607.md | 2026-08-16 06:08 |
+| G1181 | White Knight Chronicles Origins | docs/WhiteKnightChroniclesOrigins_20260816_0607.md | 2026-08-16 06:08 |
+| G1182 | Frontier Tower Defense | docs/FrontierTowerDefense_20260816_0607.md | 2026-08-16 06:08 |
+| G1183 | Brickzors | docs/Brickzors_20260816_0607.md | 2026-08-16 06:08 |
+| G1184 | Apparatus | docs/Apparatus_20260816_0607.md | 2026-08-16 06:08 |
+| G1185 | Wiz Kid Jr. | docs/WizKidJr_20260816_0607.md | 2026-08-16 06:08 |
+| G1186 | Dragon Fire | docs/DragonFire_20260816_0607.md | 2026-08-16 06:08 |
+| G1187 | Sprint Escape | docs/SprintEscape_20260816_0607.md | 2026-08-16 06:08 |
+| G1188 | Hertz Smasher | docs/HertzSmasher_20260816_0607.md | 2026-08-16 06:08 |
+
 ||||||||||||||||||||||| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1119 | Samantha Swift: Hidden Roses of Athena | docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1120 | Tower Raiders 2 | docs/TowerRaiders2_20260816_0040.md | 2026-08-16 00:40 |
@@ -1172,4 +1184,5 @@
 | 2026-08-14 18:41 | (R048: 手动发现S192-S194, 提取75款游戏, 产出10款文档G687-G696) | 3 (S192-S194) | 0 | 75 | 10 (G687-G696) | 0 |
 | 2026-08-14 21:30 | (R049: 处理S192-S194, 提取75款游戏, 产出10款文档G697-G706, 59款Pending) | 0 | 3 (S192-S194) | 75 | 10 (G697-G706) | 0 |
 | 2026-08-14 23:59 | (R051: 发现3来源S198-S200, 提取75款游戏G841-G915, 处理30款Pending游戏G717-G746产出文档) | 3 (S198-S200) | 3 (S198-S200) | 75 | 30 (G717-G746) | 0 |
-| 2026-08-15 14:27 | (R057: 处理3新来源S216-S218+9 stale来源S198-S206, 提取300款游戏名, 产出12款文档G1076-G1087) | 0 | 12 (S216-S218+S198-S206) | 300 | 12 (G1076-G1087) | 0 |
+|| 2026-08-15 14:27 | (R057: 处理3新来源S216-S218+9 stale来源S198-S206, 提取300款游戏名, 产出12款文档G1076-G1087) | 0 | 12 (S216-S218+S198-S206) | 300 | 12 (G1076-G1087) | 0 |
+| 2026-08-16 06:08 | (R065: 处理10个Sources Pending G1118-G1127, 产出10款游戏文档G1179-G1188, 剩余41个Sources Pending) | 0 | 10 (G1118-G1127) | 10 | 10 (G1179-G1188) | 0 |
