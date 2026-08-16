@@ -4,17 +4,6 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| G1158 | pocketgamer | Walkabout | pocketgamer.com/walkabout/ | 2026-08-16 00:40 |
-| G1159 | pocketgamer | Rip Off | pocketgamer.com/rip-off/ | 2026-08-16 00:40 |
-| G1160 | pocketgamer | My Paper Plane 2 3D | pocketgamer.com/my-paper-plane-2/ | 2026-08-16 00:40 |
-| G1161 | pocketgamer | Hot Cross Bunnies | pocketgamer.com/hot-cross-bunnies/ | 2026-08-16 00:40 |
-| G1162 | pocketgamer | Murder in Venice | pocketgamer.com/murder-in-venice/ | 2026-08-16 00:40 |
-| G1163 | pocketgamer | Current | pocketgamer.com/current/ | 2026-08-16 00:40 |
-| G1164 | pocketgamer | Rooftop Escape | pocketgamer.com/rooftop-escape/ | 2026-08-16 00:40 |
-| G1165 | pocketgamer | A Knights Dawn | pocketgamer.com/a-knights-dawn/ | 2026-08-16 00:40 |
-| G1166 | pocketgamer | Dragon Chaser | pocketgamer.com/dragon-chaser/ | 2026-08-16 00:40 |
-| G1167 | pocketgamer | DeckMake Fantasy | pocketgamer.com/deckmake-fantasy/ | 2026-08-16 00:40 |
-| G1168 | pocketgamer | GRave Defense HD | pocketgamer.com/grave-defense-hd/ | 2026-08-16 00:40 |
 
 
 ## Sources Processing（处理中）
@@ -93,6 +82,19 @@
 | G1155 | Symphony of Eternity | https://www.pocketgamer.com/symphony-of-eternity/ | 1 | 2026-08-16 12:42 |
 | G1156 | House of Mice | https://www.pocketgamer.com/house-of-mice/ | 1 | 2026-08-16 12:42 |
 | G1157 | Stem Stumper | https://www.pocketgamer.com/stem-stumper/ | 1 | 2026-08-16 12:42 |
+
+| G1158 | Walkabout | https://www.pocketgamer.com/walkabout/ | 1 | 2026-08-16 16:08 |
+| G1159 | Rip Off | https://www.pocketgamer.com/rip-off/ | 1 | 2026-08-16 16:08 |
+| G1160 | My Paper Plane 2 3D | https://www.pocketgamer.com/my-paper-plane-2-3d/ | 1 | 2026-08-16 16:08 |
+| G1161 | Hot Cross Bunnies | https://www.pocketgamer.com/hot-cross-bunnies/ | 1 | 2026-08-16 16:08 |
+| G1162 | Murder in Venice | https://www.pocketgamer.com/murder-in-venice/ | 1 | 2026-08-16 16:08 |
+| G1163 | Current | https://www.pocketgamer.com/current/ | 1 | 2026-08-16 16:08 |
+| G1164 | Rooftop Escape | https://www.pocketgamer.com/rooftop-escape/ | 1 | 2026-08-16 16:08 |
+| G1165 | A Knights Dawn | https://www.pocketgamer.com/a-knights-dawn/ | 1 | 2026-08-16 16:08 |
+| G1166 | Dragon Chaser | https://www.pocketgamer.com/dragon-chaser/ | 1 | 2026-08-16 16:08 |
+| G1167 | DeckMake Fantasy | https://www.pocketgamer.com/deckmake-fantasy/ | 1 | 2026-08-16 16:08 |
+| G1168 | GRave Defense HD | https://www.pocketgamer.com/grave-defense-hd/ | 1 | 2026-08-16 16:08 |
+
 
 | S256 | PocketGamer Game Finder Page 92 | https://www.pocketgamer.com/game-finder/page/92/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
 | S257 | PocketGamer Game Finder Page 93 | https://www.pocketgamer.com/game-finder/page/93/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
@@ -445,6 +447,19 @@
 || G1206 | Symphony of Eternity | docs/SymphonyOfEternity_20260816_1242.md | 2026-08-16 12:42 |
 || G1207 | House of Mice | docs/HouseOfMice_20260816_1242.md | 2026-08-16 12:42 |
 || G1208 | Stem Stumper | docs/StemStumper_20260816_1242.md | 2026-08-16 12:42 |
+
+| G1209 | Walkabout | docs/Walkabout_20260816_1608.md | 2026-08-16 16:08 |
+| G1210 | Rip Off | docs/RipOff_20260816_1608.md | 2026-08-16 16:08 |
+| G1211 | My Paper Plane 2 3D | docs/MyPaperPlane23D_20260816_1608.md | 2026-08-16 16:08 |
+| G1212 | Hot Cross Bunnies | docs/HotCrossBunnies_20260816_1608.md | 2026-08-16 16:08 |
+| G1213 | Murder in Venice | docs/MurderinVenice_20260816_1608.md | 2026-08-16 16:08 |
+| G1214 | Current | docs/Current_20260816_1608.md | 2026-08-16 16:08 |
+| G1215 | Rooftop Escape | docs/RooftopEscape_20260816_1608.md | 2026-08-16 16:08 |
+| G1216 | A Knights Dawn | docs/AKnightsDawn_20260816_1608.md | 2026-08-16 16:08 |
+| G1217 | Dragon Chaser | docs/DragonChaser_20260816_1608.md | 2026-08-16 16:08 |
+| G1218 | DeckMake Fantasy | docs/DeckMakeFantasy_20260816_1608.md | 2026-08-16 16:08 |
+| G1219 | GRave Defense HD | docs/GRaveDefenseHD_20260816_1608.md | 2026-08-16 16:08 |
+
 ||||||||||||||||||||||| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1119 | Samantha Swift: Hidden Roses of Athena | docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1120 | Tower Raiders 2 | docs/TowerRaiders2_20260816_0040.md | 2026-08-16 00:40 |

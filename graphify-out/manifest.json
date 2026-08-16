@@ -65,8 +65,8 @@
     "semantic_hash": ""
   },
   "pipeline/task-queue.md": {
-    "mtime": 1786854001.0860276,
-    "ast_hash": "0d87005ddfa21e9f72680dfab9b3d58e",
+    "mtime": 1786897005.0817516,
+    "ast_hash": "018dfe29287eb398797ef9d231ea6e9d",
     "semantic_hash": ""
   },
   "docs/WordConnect_20260810_2047.md": {
@@ -550,8 +550,8 @@
     "semantic_hash": ""
   },
   "pipeline/run.log.md": {
-    "mtime": 1786847671.4783413,
-    "ast_hash": "d747903a0839969977c4351c9959ecd1",
+    "mtime": 1786896594.4604874,
+    "ast_hash": "8e4225304b4da5e4fc8a251d253983a2",
     "semantic_hash": ""
   },
   "pipeline/tmp/extract_s053.py": {
@@ -5569,11 +5569,6 @@
     "ast_hash": "7c8df558cad56dea02cbd59153b7db58",
     "semantic_hash": ""
   },
-  "docs/Error404_20260816_0600.md": {
-    "mtime": 1786853409.8161461,
-    "ast_hash": "ed7928c04064e3ed1d780023bbecdcd5",
-    "semantic_hash": ""
-  },
   "docs/HarryPotterandtheDeathlyHallowsPart2_20260816_0600.md": {
     "mtime": 1786853850.36845,
     "ast_hash": "22b2c8aa1fa1a28d1fe49983d3bf672f",
@@ -5604,9 +5599,309 @@
     "ast_hash": "466abbb37e825b685ab6003cd5fb2dd3",
     "semantic_hash": ""
   },
-  "docs/eBoo_20260816_0600.md": {
-    "mtime": 1786853420.8485544,
-    "ast_hash": "d983cf4de9bc286ce04ac04402d4e473",
+  "pipeline/process_pending.py": {
+    "mtime": 1786890957.577509,
+    "ast_hash": "35c7f7afc395e74e56eb42555be2cf4f",
+    "semantic_hash": ""
+  },
+  "docs/AKnightsDawn_20260816_1436.md": {
+    "mtime": 1786890995.9708464,
+    "ast_hash": "785c9dd81f415a98a892ce2b913c3b79",
+    "semantic_hash": ""
+  },
+  "docs/AKnightsDawn_20260816_1608.md": {
+    "mtime": 1786896817.2379127,
+    "ast_hash": "6dcafd770a4308ae2afd28bea4f596ab",
+    "semantic_hash": ""
+  },
+  "docs/AftermathXHD_20260816_1242.md": {
+    "mtime": 1786885097.9141324,
+    "ast_hash": "50cf6f5718b07f6b2d2397f9dbe10f5e",
+    "semantic_hash": ""
+  },
+  "docs/AlienSpaceRetro_20260816_1242.md": {
+    "mtime": 1786885097.9141324,
+    "ast_hash": "de696119a63cf88c56ad4090365d7be2",
+    "semantic_hash": ""
+  },
+  "docs/Apparatus_20260816_0607.md": {
+    "mtime": 1786860503.4822392,
+    "ast_hash": "8d800aaec7e958c9a93da591faafdb07",
+    "semantic_hash": ""
+  },
+  "docs/BattleBoats3D_20260816_1000.md": {
+    "mtime": 1786872985.9687734,
+    "ast_hash": "d19f3edd124b55836701e000bb575a99",
+    "semantic_hash": ""
+  },
+  "docs/Brickzors_20260816_0607.md": {
+    "mtime": 1786860503.4822392,
+    "ast_hash": "a99aada5980228ae053de701709e81bd",
+    "semantic_hash": ""
+  },
+  "docs/CellBound_20260816_0750.md": {
+    "mtime": 1786866621.378747,
+    "ast_hash": "bb4d986b39d54c9faaef85cfd780811a",
+    "semantic_hash": ""
+  },
+  "docs/CityOfWonder_20260816_1000.md": {
+    "mtime": 1786872985.9687734,
+    "ast_hash": "2815dcb01ea0fa18cd30d5a6f8d83fb5",
+    "semantic_hash": ""
+  },
+  "docs/CrazyPenguinAssault_20260816_1242.md": {
+    "mtime": 1786885097.9141324,
+    "ast_hash": "fba9ed64eb01a1dda5f5adbc3a730a59",
+    "semantic_hash": ""
+  },
+  "docs/CrazyQuestExpress_20260816_1000.md": {
+    "mtime": 1786872985.9687734,
+    "ast_hash": "04d2661657eb9f2cb3d878dce964d047",
+    "semantic_hash": ""
+  },
+  "docs/Current_20260816_1436.md": {
+    "mtime": 1786890988.8145967,
+    "ast_hash": "81b657f5c0ff7dfb1f55f9a6870dee6e",
+    "semantic_hash": ""
+  },
+  "docs/Current_20260816_1608.md": {
+    "mtime": 1786896817.2379127,
+    "ast_hash": "2b8982a6dabe58e411bdec0daee2b658",
+    "semantic_hash": ""
+  },
+  "docs/DeckMakeFantasy_20260816_1436.md": {
+    "mtime": 1786891003.0710945,
+    "ast_hash": "da9796a798925043ae7a1a6b43680835",
+    "semantic_hash": ""
+  },
+  "docs/DeckMakeFantasy_20260816_1608.md": {
+    "mtime": 1786896817.2379127,
+    "ast_hash": "648e1e80547e5616df96f1c7953c15f6",
+    "semantic_hash": ""
+  },
+  "docs/DragonChaser_20260816_1436.md": {
+    "mtime": 1786890999.534971,
+    "ast_hash": "188f977e25c5ad66e772f72d458454b0",
+    "semantic_hash": ""
+  },
+  "docs/DragonChaser_20260816_1608.md": {
+    "mtime": 1786896817.2379127,
+    "ast_hash": "21d00e9c4031cc393b883b5da7db80d2",
+    "semantic_hash": ""
+  },
+  "docs/DragonFire_20260816_0607.md": {
+    "mtime": 1786860503.4822392,
+    "ast_hash": "5acb2568ad592f94868cea6d9a7fcb07",
+    "semantic_hash": ""
+  },
+  "docs/DrawSlasher_20260816_0750.md": {
+    "mtime": 1786866621.378747,
+    "ast_hash": "2e957786d9589f1e652efd6360c1fdcb",
+    "semantic_hash": ""
+  },
+  "docs/DucatiChallenge_20260816_1242.md": {
+    "mtime": 1786885097.9141324,
+    "ast_hash": "9423b44fe02a055eac78a0e0489ecb1a",
+    "semantic_hash": ""
+  },
+  "docs/FrontierTowerDefense_20260816_0607.md": {
+    "mtime": 1786860503.4822392,
+    "ast_hash": "31a14e31014056ecdd506b9f55b698f7",
+    "semantic_hash": ""
+  },
+  "docs/GRaveDefenseHD_20260816_1608.md": {
+    "mtime": 1786896817.2419128,
+    "ast_hash": "de435befb71a8c76fb5ca731bd657bb3",
+    "semantic_hash": ""
+  },
+  "docs/GalaxyBowl_20260816_1000.md": {
+    "mtime": 1786872985.9687734,
+    "ast_hash": "6877ae2d10d50c983a8c495b760c3a9a",
+    "semantic_hash": ""
+  },
+  "docs/GladiatorBegins_20260816_0607.md": {
+    "mtime": 1786860503.4822392,
+    "ast_hash": "6b26ef293d8323b22b8deaaa6396fe1d",
+    "semantic_hash": ""
+  },
+  "docs/HertzSmasher_20260816_0607.md": {
+    "mtime": 1786860503.4822392,
+    "ast_hash": "ae3f55cb2f58dd5567690b4b82f14baa",
+    "semantic_hash": ""
+  },
+  "docs/HotCrossBunnies_20260816_1436.md": {
+    "mtime": 1786890981.6463468,
+    "ast_hash": "8e51b50ee177f5cfef5db1d481d52e4b",
+    "semantic_hash": ""
+  },
+  "docs/HotCrossBunnies_20260816_1608.md": {
+    "mtime": 1786896817.2379127,
+    "ast_hash": "714d745f00c846c379eff184b2776fed",
+    "semantic_hash": ""
+  },
+  "docs/HouseOfMice_20260816_1242.md": {
+    "mtime": 1786885097.9141324,
+    "ast_hash": "803632e52e54b83311057f049651cd33",
+    "semantic_hash": ""
+  },
+  "docs/IncredibleExpress_20260816_1242.md": {
+    "mtime": 1786885097.9141324,
+    "ast_hash": "d3fef2b1f5dbd63fad86f3632f501c92",
+    "semantic_hash": ""
+  },
+  "docs/InfernusVerse2_20260816_1000.md": {
+    "mtime": 1786872985.9687734,
+    "ast_hash": "595bc881b975eba436bf917d172ad656",
+    "semantic_hash": ""
+  },
+  "docs/IonocraftRacing_20260816_0750.md": {
+    "mtime": 1786866621.378747,
+    "ast_hash": "9755b7f208b3f5aefb9e19457bcee4c7",
+    "semantic_hash": ""
+  },
+  "docs/IronWars_20260816_1000.md": {
+    "mtime": 1786872985.9687734,
+    "ast_hash": "f0f6376dd942584be7e7bccf06124cc8",
+    "semantic_hash": ""
+  },
+  "docs/JewelsOfTheAges_20260816_1000.md": {
+    "mtime": 1786872985.9687734,
+    "ast_hash": "8b967dfaf6f2f071adcc730ad631b669",
+    "semantic_hash": ""
+  },
+  "docs/MarvelKapow_20260816_0750.md": {
+    "mtime": 1786866621.378747,
+    "ast_hash": "66b0e1ccb116651d4a73e33fcb46a9a7",
+    "semantic_hash": ""
+  },
+  "docs/MonkeyIslandTales4HD_20260816_0750.md": {
+    "mtime": 1786866621.378747,
+    "ast_hash": "e5de6ae288f25d482c2b08e28579e04f",
+    "semantic_hash": ""
+  },
+  "docs/MonkeyIslandTales5HD_20260816_0750.md": {
+    "mtime": 1786866621.378747,
+    "ast_hash": "ed0f6335d88d4b76ec6e6d503415bf62",
+    "semantic_hash": ""
+  },
+  "docs/MurderinVenice_20260816_1436.md": {
+    "mtime": 1786890985.3144746,
+    "ast_hash": "cad9fb621e9cbc0e9d9e110b9e9249a0",
+    "semantic_hash": ""
+  },
+  "docs/MurderinVenice_20260816_1608.md": {
+    "mtime": 1786896817.2379127,
+    "ast_hash": "72d27137ae8624507e5c8a0aa104f2e7",
+    "semantic_hash": ""
+  },
+  "docs/MyPaperPlane23D_20260816_1608.md": {
+    "mtime": 1786896876.3644176,
+    "ast_hash": "f5fc3865192378104985d2d8a9b35652",
+    "semantic_hash": ""
+  },
+  "docs/OrbitalDefender_20260816_0750.md": {
+    "mtime": 1786866621.378747,
+    "ast_hash": "a6f650ea74a8173c982dfcc5856c53dd",
+    "semantic_hash": ""
+  },
+  "docs/PathPixJoy_20260816_0755.md": {
+    "mtime": 1786866942.2261527,
+    "ast_hash": "b16418b9ad82c46ec49baf60249528a9",
+    "semantic_hash": ""
+  },
+  "docs/PoolBreakPro_20260816_1000.md": {
+    "mtime": 1786872985.9687734,
+    "ast_hash": "c6594a9cc9bcf234eea06353002e2c41",
+    "semantic_hash": ""
+  },
+  "docs/ProTennisVolley_20260816_0607.md": {
+    "mtime": 1786860464.5368369,
+    "ast_hash": "94c1864574de84784bac9d465d641ac6",
+    "semantic_hash": ""
+  },
+  "docs/RipOff_20260816_1436.md": {
+    "mtime": 1786890971.7700026,
+    "ast_hash": "8ba2c6629e1dab035354f7cfb511b23d",
+    "semantic_hash": ""
+  },
+  "docs/RipOff_20260816_1608.md": {
+    "mtime": 1786896817.2379127,
+    "ast_hash": "7b40a4280ec4956b29502b460b2ec7fe",
+    "semantic_hash": ""
+  },
+  "docs/RollInTheHole_20260816_1242.md": {
+    "mtime": 1786885097.9141324,
+    "ast_hash": "38fcb746dfef08456d7332ef23976053",
+    "semantic_hash": ""
+  },
+  "docs/RooftopEscape_20260816_1436.md": {
+    "mtime": 1786890992.438723,
+    "ast_hash": "826d6fd81702d726208c85f4752894d8",
+    "semantic_hash": ""
+  },
+  "docs/RooftopEscape_20260816_1608.md": {
+    "mtime": 1786896817.2379127,
+    "ast_hash": "62ab40c4725123d64255fe276d696a27",
+    "semantic_hash": ""
+  },
+  "docs/RotatingOctopusCharacter_20260816_0750.md": {
+    "mtime": 1786866621.378747,
+    "ast_hash": "48e37e0d1b6d7d7ca0c56b3797bd93f0",
+    "semantic_hash": ""
+  },
+  "docs/ScoundrelsCross_20260816_1000.md": {
+    "mtime": 1786872985.9687734,
+    "ast_hash": "39dd008cff72a0ed6a56eeec9b60c127",
+    "semantic_hash": ""
+  },
+  "docs/SpaceSquadron_20260816_1242.md": {
+    "mtime": 1786885097.9141324,
+    "ast_hash": "a43b4510c76f0c121ff7825aa2cf3db5",
+    "semantic_hash": ""
+  },
+  "docs/SprintEscape_20260816_0607.md": {
+    "mtime": 1786860503.4822392,
+    "ast_hash": "ec6ee645942468a3ea90301201bbc169",
+    "semantic_hash": ""
+  },
+  "docs/StemStumper_20260816_1242.md": {
+    "mtime": 1786885097.9141324,
+    "ast_hash": "7e3e9551360764f78460c36242ce34a3",
+    "semantic_hash": ""
+  },
+  "docs/SymphonyOfEternity_20260816_1242.md": {
+    "mtime": 1786885097.9141324,
+    "ast_hash": "d859a30a88b0b0ede5abcb2ee8ee84cf",
+    "semantic_hash": ""
+  },
+  "docs/TheGreatJittersPuddingPanic_20260816_0750.md": {
+    "mtime": 1786866621.378747,
+    "ast_hash": "5d1694411ec79ff43b8deb1919a56664",
+    "semantic_hash": ""
+  },
+  "docs/UltimateBrickBreaker2_20260816_1000.md": {
+    "mtime": 1786872985.9687734,
+    "ast_hash": "317f0b6e6e30cfed9bf590be3bc0102b",
+    "semantic_hash": ""
+  },
+  "docs/Walkabout_20260816_1436.md": {
+    "mtime": 1786890968.2138789,
+    "ast_hash": "5b699463391c41bbb71cc60106bf4d2d",
+    "semantic_hash": ""
+  },
+  "docs/Walkabout_20260816_1608.md": {
+    "mtime": 1786896817.2379127,
+    "ast_hash": "4f918f83033536687a45bf453734352f",
+    "semantic_hash": ""
+  },
+  "docs/WhiteKnightChroniclesOrigins_20260816_0607.md": {
+    "mtime": 1786860503.4822392,
+    "ast_hash": "f1c0a98759709820ae7eeba6f337137a",
+    "semantic_hash": ""
+  },
+  "docs/WizKidJr_20260816_0607.md": {
+    "mtime": 1786860503.4822392,
+    "ast_hash": "e63938047bdfb67176b383fe471ca1b0",
     "semantic_hash": ""
   }
 }

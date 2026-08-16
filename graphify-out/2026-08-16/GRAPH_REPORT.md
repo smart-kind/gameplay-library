@@ -1,16 +1,16 @@
 # Graph Report - gameplay-library  (2026-08-16)
 
 ## Corpus Check
-- 1083 files · ~495,809 words
+- 1095 files · ~498,135 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 10751 nodes · 9718 edges · 1053 communities
+- 10871 nodes · 9826 edges · 1065 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `49024c1a`
+- Built from commit: `c7901f2b`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -1066,6 +1066,18 @@
 - Tekken（铁拳移动版 / Tekken Mobile）
 - Twist Pilot（Twist Pilot）
 - Wrath of the Titans（Wrath of the Titans）
+- Basketball Dunkadelic
+- Carp Story
+- Color Bandits
+- eBoo
+- eBoo Space Adventures
+- Equilibrium
+- Error 404
+- Harry Potter and the Deathly Hallows Part 2
+- Paper Racer
+- Squirmee Redux
+- Super Ninja Skydiving Plus Zombies
+- TileStorm HD
 
 ## God Nodes (most connected - your core abstractions)
 1. `Pipeline Run Log` - 29 edges
@@ -1085,7 +1097,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (1053 total, 0 thin omitted)
+## Communities (1065 total, 0 thin omitted)
 
 ### Community 0 - "Gameplay Discovery Pipeline - Task Queue"
 Cohesion: 0.12
@@ -5291,15 +5303,63 @@ Nodes (8): Meta 系统, Twist Pilot（Twist Pilot）, 为什么好玩, 来源, �
 Cohesion: 0.22
 Nodes (8): Meta 系统, Wrath of the Titans（Wrath of the Titans）, 为什么好玩, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源
 
+### Community 1053 - "Basketball Dunkadelic"
+Cohesion: 0.20
+Nodes (9): Basketball Dunkadelic, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1054 - "Carp Story"
+Cohesion: 0.20
+Nodes (9): Carp Story, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1055 - "Color Bandits"
+Cohesion: 0.20
+Nodes (9): Color Bandits, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1056 - "eBoo"
+Cohesion: 0.20
+Nodes (9): eBoo, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1057 - "eBoo Space Adventures"
+Cohesion: 0.20
+Nodes (9): eBoo Space Adventures, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1058 - "Equilibrium"
+Cohesion: 0.20
+Nodes (9): Equilibrium, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1059 - "Error 404"
+Cohesion: 0.20
+Nodes (9): Error 404, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1060 - "Harry Potter and the Deathly Hallows Part 2"
+Cohesion: 0.20
+Nodes (9): Harry Potter and the Deathly Hallows Part 2, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1061 - "Paper Racer"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Paper Racer, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1062 - "Squirmee Redux"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Squirmee Redux, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1063 - "Super Ninja Skydiving Plus Zombies"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Super Ninja Skydiving Plus Zombies, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1064 - "TileStorm HD"
+Cohesion: 0.20
+Nodes (9): Meta 系统, TileStorm HD, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
 ## Knowledge Gaps
-- **8578 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+8573 more)
+- **8674 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+8669 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `玩法规则`, `核心循环`, `核心机制` to the rest of the system?**
-  _8578 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _8674 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Gameplay Discovery Pipeline - Task Queue` be split into smaller, more focused modules?**
   _Cohesion score 0.125 - nodes in this community are weakly interconnected._
 - **Should `Pipeline Run Log` be split into smaller, more focused modules?**
