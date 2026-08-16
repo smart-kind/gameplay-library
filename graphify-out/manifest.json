@@ -65,8 +65,8 @@
     "semantic_hash": ""
   },
   "pipeline/task-queue.md": {
-    "mtime": 1786841564.3569524,
-    "ast_hash": "f4d02dad66596c25a506f2b01317fc7d",
+    "mtime": 1786854001.0860276,
+    "ast_hash": "0d87005ddfa21e9f72680dfab9b3d58e",
     "semantic_hash": ""
   },
   "docs/WordConnect_20260810_2047.md": {
@@ -550,8 +550,8 @@
     "semantic_hash": ""
   },
   "pipeline/run.log.md": {
-    "mtime": 1786847093.8448954,
-    "ast_hash": "604d4969c15b00854223e9851971585c",
+    "mtime": 1786847671.4783413,
+    "ast_hash": "d747903a0839969977c4351c9959ecd1",
     "semantic_hash": ""
   },
   "pipeline/tmp/extract_s053.py": {
@@ -5547,6 +5547,66 @@
   "docs/WrathoftheTitans_20260815_2301.md": {
     "mtime": 1786835060.2243965,
     "ast_hash": "73b2f15490da4035b8c7085e5f52bd74",
+    "semantic_hash": ""
+  },
+  "docs/BasketballDunkadelic_20260816_0600.md": {
+    "mtime": 1786853891.5659745,
+    "ast_hash": "7aba6b48ee34058967e07f73a6956538",
+    "semantic_hash": ""
+  },
+  "docs/CarpStory_20260816_0600.md": {
+    "mtime": 1786853859.0807724,
+    "ast_hash": "842ecf7ee3dbbcf0bcbbfab30c66fcfa",
+    "semantic_hash": ""
+  },
+  "docs/ColorBandits_20260816_0600.md": {
+    "mtime": 1786853899.7582777,
+    "ast_hash": "59a714627204bb35e555adbe5af3a73b",
+    "semantic_hash": ""
+  },
+  "docs/Equilibrium_20260816_0600.md": {
+    "mtime": 1786853883.4416738,
+    "ast_hash": "7c8df558cad56dea02cbd59153b7db58",
+    "semantic_hash": ""
+  },
+  "docs/Error404_20260816_0600.md": {
+    "mtime": 1786853409.8161461,
+    "ast_hash": "ed7928c04064e3ed1d780023bbecdcd5",
+    "semantic_hash": ""
+  },
+  "docs/HarryPotterandtheDeathlyHallowsPart2_20260816_0600.md": {
+    "mtime": 1786853850.36845,
+    "ast_hash": "22b2c8aa1fa1a28d1fe49983d3bf672f",
+    "semantic_hash": ""
+  },
+  "docs/PaperRacer_20260816_0600.md": {
+    "mtime": 1786853841.8201334,
+    "ast_hash": "34106bee380ae99a6819fe46a7d76e26",
+    "semantic_hash": ""
+  },
+  "docs/SquirmeeRedux_20260816_0600.md": {
+    "mtime": 1786853867.017066,
+    "ast_hash": "b1ad66426a87cf5f8d86aea33640a1a4",
+    "semantic_hash": ""
+  },
+  "docs/SuperNinjaSkydivingPlusZombies_20260816_0600.md": {
+    "mtime": 1786853916.542899,
+    "ast_hash": "1914a7d32723fdff58a307ed444b3f83",
+    "semantic_hash": ""
+  },
+  "docs/TileStormHD_20260816_0600.md": {
+    "mtime": 1786853875.1333663,
+    "ast_hash": "f1034dc7ede96435df0c2b833c7fea73",
+    "semantic_hash": ""
+  },
+  "docs/eBooSpaceAdventures_20260816_0600.md": {
+    "mtime": 1786853908.1505883,
+    "ast_hash": "466abbb37e825b685ab6003cd5fb2dd3",
+    "semantic_hash": ""
+  },
+  "docs/eBoo_20260816_0600.md": {
+    "mtime": 1786853420.8485544,
+    "ast_hash": "d983cf4de9bc286ce04ac04402d4e473",
     "semantic_hash": ""
   }
 }

@@ -4,16 +4,6 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| G1108 | pocketgamer | Paper Racer | pocketgamer.com/paper-racer/ | 2026-08-16 00:40 |
-| G1109 | pocketgamer | Harry Potter and the Deathly Hallows Part 2 | pocketgamer.com/harry-potter-and-the-deathly-hallows-part-2/ | 2026-08-16 00:40 |
-| G1110 | pocketgamer | Carp Story | pocketgamer.com/carp-story/ | 2026-08-16 00:40 |
-| G1111 | pocketgamer | Squirmee Redux | pocketgamer.com/squirmee-redux/ | 2026-08-16 00:40 |
-| G1112 | pocketgamer | TileStorm HD | pocketgamer.com/tilestorm-hd/ | 2026-08-16 00:40 |
-| G1113 | pocketgamer | Equilibrium | pocketgamer.com/equilibrium/ | 2026-08-16 00:40 |
-| G1114 | pocketgamer | Basketball Dunkadelic | pocketgamer.com/basketball-dunkadelic/ | 2026-08-16 00:40 |
-| G1115 | pocketgamer | Color Bandits | pocketgamer.com/color-bandits/ | 2026-08-16 00:40 |
-| G1116 | pocketgamer | eBoo Space Adventures | pocketgamer.com/eboo-space-adventures/ | 2026-08-16 00:40 |
-| G1117 | pocketgamer | Super Ninja Skydiving Plus Zombies | pocketgamer.com/super-ninja-skydiving-plus-zombies/ | 2026-08-16 00:40 |
 | G1118 | pocketgamer | Pro Tennis Volley | pocketgamer.com/pro-tennis-volley/ | 2026-08-16 00:40 |
 | G1119 | pocketgamer | Gladiator Begins | pocketgamer.com/gladiator-begins/ | 2026-08-16 00:40 |
 | G1120 | pocketgamer | White Knight Chronicles Origins | pocketgamer.com/white-knight-chronicles-origins/ | 2026-08-16 00:40 |
@@ -75,6 +65,16 @@
 ## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| G1108 | Paper Racer | https://www.pocketgamer.com/paper-racer/ | 1 | 2026-08-16 06:00 |
+| G1109 | Harry Potter and the Deathly Hallows Part 2 | https://www.pocketgamer.com/harry-potter-and-the-deathly-hallows-part-2/ | 1 | 2026-08-16 06:00 |
+| G1110 | Carp Story | https://www.pocketgamer.com/carp-story/ | 1 | 2026-08-16 06:00 |
+| G1111 | Squirmee Redux | https://www.pocketgamer.com/squirmee-redux/ | 1 | 2026-08-16 06:00 |
+| G1112 | TileStorm HD | https://www.pocketgamer.com/tilestorm-hd/ | 1 | 2026-08-16 06:00 |
+| G1113 | Equilibrium | https://www.pocketgamer.com/equilibrium/ | 1 | 2026-08-16 06:00 |
+| G1114 | Basketball Dunkadelic | https://www.pocketgamer.com/basketball-dunkadelic/ | 1 | 2026-08-16 06:00 |
+| G1115 | Color Bandits | https://www.pocketgamer.com/color-bandits/ | 1 | 2026-08-16 06:00 |
+| G1116 | eBoo Space Adventures | https://www.pocketgamer.com/eboo-space-adventures/ | 1 | 2026-08-16 06:00 |
+| G1117 | Super Ninja Skydiving Plus Zombies | https://www.pocketgamer.com/super-ninja-skydiving-plus-zombies/ | 1 | 2026-08-16 06:00 |
 | S259 | PocketGamer Game Finder Page 95 | https://www.pocketgamer.com/game-finder/page/95/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
 | S260 | PocketGamer Game Finder Page 96 | https://www.pocketgamer.com/game-finder/page/96/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
 | S261 | PocketGamer Game Finder Page 97 | https://www.pocketgamer.com/game-finder/page/97/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
@@ -209,6 +209,16 @@
 ## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| G1108 | Paper Racer | https://www.pocketgamer.com/paper-racer/ | 1 | 2026-08-16 06:00 |
+| G1109 | Harry Potter and the Deathly Hallows Part 2 | https://www.pocketgamer.com/harry-potter-and-the-deathly-hallows-part-2/ | 1 | 2026-08-16 06:00 |
+| G1110 | Carp Story | https://www.pocketgamer.com/carp-story/ | 1 | 2026-08-16 06:00 |
+| G1111 | Squirmee Redux | https://www.pocketgamer.com/squirmee-redux/ | 1 | 2026-08-16 06:00 |
+| G1112 | TileStorm HD | https://www.pocketgamer.com/tilestorm-hd/ | 1 | 2026-08-16 06:00 |
+| G1113 | Equilibrium | https://www.pocketgamer.com/equilibrium/ | 1 | 2026-08-16 06:00 |
+| G1114 | Basketball Dunkadelic | https://www.pocketgamer.com/basketball-dunkadelic/ | 1 | 2026-08-16 06:00 |
+| G1115 | Color Bandits | https://www.pocketgamer.com/color-bandits/ | 1 | 2026-08-16 06:00 |
+| G1116 | eBoo Space Adventures | https://www.pocketgamer.com/eboo-space-adventures/ | 1 | 2026-08-16 06:00 |
+| G1117 | Super Ninja Skydiving Plus Zombies | https://www.pocketgamer.com/super-ninja-skydiving-plus-zombies/ | 1 | 2026-08-16 06:00 |
 | S114 | PocketGamer Game Finder Page 11 | https://www.pocketgamer.com/game-finder/page/11/0_all_0_1_1/ | 9 | 2026-08-12 23:26 |
 | S115 | PocketGamer Game Finder Page 12 | https://www.pocketgamer.com/game-finder/page/12/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
 | S116 | PocketGamer Game Finder Page 13 | https://www.pocketgamer.com/game-finder/page/13/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
@@ -403,17 +413,7 @@
 ## Games Archived（本轮新增）
 || ID | 游戏名 | 文档文件 | 归档时间 |
 ||---|---|---|---|
-||| G1108 | Paper Racer | docs/PaperRacer_20260816_0040.md | 2026-08-16 00:40 |
-||| G1109 | Kirby's Dream Land | docs/KirbysDreamLand_20260816_0040.md | 2026-08-16 00:40 |
-||| G1110 | Cars 2 | docs/Cars2_20260816_0040.md | 2026-08-16 00:40 |
-||| G1111 | Donkey Kong (1981) | docs/DonkeyKong_20260816_0040.md | 2026-08-16 00:40 |
-||| G1112 | Tiny Tower | docs/TinyTower_20260816_0040.md | 2026-08-16 00:40 |
-||| G1113 | Wordfeud | docs/Wordfeud_20260816_0040.md | 2026-08-16 00:40 |
-||| G1114 | Galaga | docs/Galaga_20260816_0040.md | 2026-08-16 00:40 |
-||| G1115 | Avadon: The Black Fortress | docs/AvadonTheBlackFortress_20260816_0040.md | 2026-08-16 00:40 |
-||| G1116 | Naruto Shippuden 3D: The New Era | docs/NarutoShippuden3DTheNewEra_20260816_0040.md | 2026-08-16 00:40 |
-||| G1117 | Monster Soup | docs/MonsterSoup_20260816_0040.md | 2026-08-16 00:40 |
-||| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
+||||||||||||||||||||||| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1119 | Samantha Swift: Hidden Roses of Athena | docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1120 | Tower Raiders 2 | docs/TowerRaiders2_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1169 | Frontier Tower Defense | docs/FrontierTowerDefense_20260816_0300.md | 2026-08-16 03:00 |

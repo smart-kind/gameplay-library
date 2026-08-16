@@ -65,8 +65,8 @@
     "semantic_hash": ""
   },
   "pipeline/task-queue.md": {
-    "mtime": 1786828807.6233797,
-    "ast_hash": "e73f998217f71ec9c602321d81991551",
+    "mtime": 1786841564.3569524,
+    "ast_hash": "f4d02dad66596c25a506f2b01317fc7d",
     "semantic_hash": ""
   },
   "docs/WordConnect_20260810_2047.md": {
@@ -550,8 +550,8 @@
     "semantic_hash": ""
   },
   "pipeline/run.log.md": {
-    "mtime": 1786828807.6233797,
-    "ast_hash": "a78db2bafba1cf6b59cd5e6c187d939b",
+    "mtime": 1786847093.8448954,
+    "ast_hash": "604d4969c15b00854223e9851971585c",
     "semantic_hash": ""
   },
   "pipeline/tmp/extract_s053.py": {
@@ -5382,6 +5382,171 @@
   "new-idea/snake-bomberman-fusion.md": {
     "mtime": 1786806882.6253958,
     "ast_hash": "c8242900c17d831b0e05149c452ec49b",
+    "semantic_hash": ""
+  },
+  "docs/Apparatus_20260816_0300.md": {
+    "mtime": 1786847531.7494295,
+    "ast_hash": "b1baa06ff9181d318bc0cbe492519870",
+    "semantic_hash": ""
+  },
+  "docs/ArctheLadII_20260815_2301.md": {
+    "mtime": 1786835060.2243965,
+    "ast_hash": "584d2419cea5fdc7c7947a28b488e658",
+    "semantic_hash": ""
+  },
+  "docs/AvadonTheBlackFortress_20260816_0040.md": {
+    "mtime": 1786841218.6278136,
+    "ast_hash": "be059388a8d91f0a01cc03d7a7345aa7",
+    "semantic_hash": ""
+  },
+  "docs/Brickzors_20260816_0300.md": {
+    "mtime": 1786847531.7494295,
+    "ast_hash": "cec53e8e1b660d140a10cba65219726d",
+    "semantic_hash": ""
+  },
+  "docs/Busted_20260815_2301.md": {
+    "mtime": 1786835060.2243965,
+    "ast_hash": "f5522a0d68333b97b0cdaa2e82c8e4d8",
+    "semantic_hash": ""
+  },
+  "docs/Cars2_20260816_0040.md": {
+    "mtime": 1786841078.2624788,
+    "ast_hash": "38e80a1f1e610ac976bbbc207b53f9ac",
+    "semantic_hash": ""
+  },
+  "docs/DanmakuUnlimited_20260816_0040.md": {
+    "mtime": 1786841305.9711308,
+    "ast_hash": "ddc17e8b4c6dafb3c7ec1ce29acf479f",
+    "semantic_hash": ""
+  },
+  "docs/DonkeyKong_20260816_0040.md": {
+    "mtime": 1786841162.4816804,
+    "ast_hash": "c91b088281438cb317b0f5071ed41091",
+    "semantic_hash": ""
+  },
+  "docs/DragonFire_20260816_0300.md": {
+    "mtime": 1786847531.7494295,
+    "ast_hash": "a60e9c0364e89365726275e08ad4e973",
+    "semantic_hash": ""
+  },
+  "docs/FartyPants_20260815_2301.md": {
+    "mtime": 1786835060.2243965,
+    "ast_hash": "21f0099c92c711e00d893115e53f0eba",
+    "semantic_hash": ""
+  },
+  "docs/FrontierTowerDefense_20260816_0300.md": {
+    "mtime": 1786847531.7494295,
+    "ast_hash": "ce7486165811af5424c63b626f06d6b2",
+    "semantic_hash": ""
+  },
+  "docs/Galaga_20260816_0040.md": {
+    "mtime": 1786841200.4631236,
+    "ast_hash": "6d919400a32cd78710f1a3863c1101ae",
+    "semantic_hash": ""
+  },
+  "docs/Hambo_20260815_2301.md": {
+    "mtime": 1786835060.2283967,
+    "ast_hash": "c853d9962cbf3844b0b1b9b42a927400",
+    "semantic_hash": ""
+  },
+  "docs/HertzSmasher_20260816_0300.md": {
+    "mtime": 1786847531.7494295,
+    "ast_hash": "5983def338bb44e353956d08e4959acf",
+    "semantic_hash": ""
+  },
+  "docs/IonocraftRacing_20260816_0300.md": {
+    "mtime": 1786847531.7494295,
+    "ast_hash": "c06482c4ee2448885fea535a604bc476",
+    "semantic_hash": ""
+  },
+  "docs/KirbysDreamLand_20260816_0040.md": {
+    "mtime": 1786841060.1337895,
+    "ast_hash": "6c48e71e9b17146a0622171c157aa31f",
+    "semantic_hash": ""
+  },
+  "docs/LocknLoad_20260815_2301.md": {
+    "mtime": 1786835060.2283967,
+    "ast_hash": "7dcb977904a126763d00f38af1cba5a2",
+    "semantic_hash": ""
+  },
+  "docs/MonsterSoup_20260816_0040.md": {
+    "mtime": 1786841288.4584658,
+    "ast_hash": "e8bfcf6b4fec2d0d07a64e2dcaab896d",
+    "semantic_hash": ""
+  },
+  "docs/NarutoShippuden3DTheNewEra_20260816_0040.md": {
+    "mtime": 1786841237.0205123,
+    "ast_hash": "d1fa3704a3463f6d187707a03d552972",
+    "semantic_hash": ""
+  },
+  "docs/OddworldAbesOddysee_20260815_2301.md": {
+    "mtime": 1786835060.2243965,
+    "ast_hash": "8f718d1e3688775cbac3b38edbc45c6e",
+    "semantic_hash": ""
+  },
+  "docs/OrbitalDefender_20260816_0300.md": {
+    "mtime": 1786847531.7494295,
+    "ast_hash": "ac24b386ea643cc17b1679107c574957",
+    "semantic_hash": ""
+  },
+  "docs/PaperRacer_20260816_0040.md": {
+    "mtime": 1786841272.585863,
+    "ast_hash": "d31ea1e68a2ddb00ca5e30b5a13acf09",
+    "semantic_hash": ""
+  },
+  "docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md": {
+    "mtime": 1786841322.8197706,
+    "ast_hash": "9eaec2215aad6b4bbbc62980d9475585",
+    "semantic_hash": ""
+  },
+  "docs/SavingPrivateSheep2_20260815_2301.md": {
+    "mtime": 1786835060.2243965,
+    "ast_hash": "b2fa8c9bbe2096e2ff677356606b2d85",
+    "semantic_hash": ""
+  },
+  "docs/SprintEscape_20260816_0300.md": {
+    "mtime": 1786847531.7494295,
+    "ast_hash": "17cf93939b0649f9cd99f369f903b765",
+    "semantic_hash": ""
+  },
+  "docs/Tekken_20260815_2301.md": {
+    "mtime": 1786835060.2243965,
+    "ast_hash": "0e6236131ceb0c5c53eb1b2a598fc370",
+    "semantic_hash": ""
+  },
+  "docs/TheGreatJittersPuddingPanic_20260816_0300.md": {
+    "mtime": 1786847531.7494295,
+    "ast_hash": "b5c90a799eb1f25edbce8d130c6c4b33",
+    "semantic_hash": ""
+  },
+  "docs/TinyTower_20260816_0040.md": {
+    "mtime": 1786841180.4263623,
+    "ast_hash": "5323f4397683176ff992fac8ec3816a4",
+    "semantic_hash": ""
+  },
+  "docs/TowerRaiders2_20260816_0040.md": {
+    "mtime": 1786841340.6324472,
+    "ast_hash": "022670e6ef5b44471872db54b98a0025",
+    "semantic_hash": ""
+  },
+  "docs/TwistPilot_20260815_2301.md": {
+    "mtime": 1786835060.2243965,
+    "ast_hash": "94756f7a666a836f486c5652f45bd526",
+    "semantic_hash": ""
+  },
+  "docs/WizKidJr_20260816_0300.md": {
+    "mtime": 1786847531.7494295,
+    "ast_hash": "330e31a23fcf31a133b72e1f9a397158",
+    "semantic_hash": ""
+  },
+  "docs/Wordfeud_20260816_0040.md": {
+    "mtime": 1786841255.8812287,
+    "ast_hash": "fbce1cb658c8265dade5916b6aa19064",
+    "semantic_hash": ""
+  },
+  "docs/WrathoftheTitans_20260815_2301.md": {
+    "mtime": 1786835060.2243965,
+    "ast_hash": "73b2f15490da4035b8c7085e5f52bd74",
     "semantic_hash": ""
   }
 }

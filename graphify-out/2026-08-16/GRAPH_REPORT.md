@@ -1,16 +1,16 @@
-# Graph Report - gameplay-library  (2026-08-15)
+# Graph Report - gameplay-library  (2026-08-16)
 
 ## Corpus Check
-- 1050 files · ~491,658 words
+- 1083 files · ~495,809 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 10431 nodes · 9431 edges · 1020 communities
+- 10751 nodes · 9718 edges · 1053 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `620ec240`
+- Built from commit: `49024c1a`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -1033,6 +1033,39 @@
 - Wizardry: Labyrinth of Lost Souls
 - Wooords
 - 僵尸赛车2（Zombie Derby 2）
+- Apparatus
+- 阿瓦顿：黑色堡垒（Avadon: The Black Fortress）
+- Brickzors
+- 赛车总动员2（Cars 2: The Video Game）
+- 弹幕无限（Danmaku Unlimited）
+- 大金刚（Donkey Kong, 1981）
+- Dragon Fire
+- Frontier Tower Defense
+- 大蜜蜂（Galaga）
+- Hertz Smasher
+- Ionocraft Racing
+- 星之卡比：梦之泉（Kirby's Dream Land）
+- Monster Soup
+- 火影忍者疾风传3D：新时代（Naruto Shippūden 3D: The New Era）
+- Orbital Defender
+- Paper Racer
+- 古墓奇兵：雅典娜的隐藏玫瑰（Samantha Swift and The Hidden Roses of Athena）
+- Sprint Escape
+- The Great Jitters Pudding Panic
+- 小小塔楼（Tiny Tower）
+- 塔楼袭击者2（Tower Raiders 2）
+- Wiz Kid Jr.
+- Wordfeud
+- Arc the Lad II（Arc the Lad II）
+- Busted!（Busted!）
+- Farty Pants（Farty Pants）
+- Hambo（Hambo）
+- Lock 'n' Load（Lock 'n' Load）
+- Oddworld: Abe's Oddysee（Oddworld: Abe's Oddysee）
+- Saving Private Sheep 2（Saving Private Sheep 2）
+- Tekken（铁拳移动版 / Tekken Mobile）
+- Twist Pilot（Twist Pilot）
+- Wrath of the Titans（Wrath of the Titans）
 
 ## God Nodes (most connected - your core abstractions)
 1. `Pipeline Run Log` - 29 edges
@@ -1052,7 +1085,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (1020 total, 0 thin omitted)
+## Communities (1053 total, 0 thin omitted)
 
 ### Community 0 - "Gameplay Discovery Pipeline - Task Queue"
 Cohesion: 0.12
@@ -5126,15 +5159,147 @@ Nodes (9): Meta 系统, Wooords, 为什么好玩, 实现难度, 来源, 核心�
 Cohesion: 0.20
 Nodes (9): Meta 系统, 为什么好玩, 僵尸赛车2（Zombie Derby 2）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
 
+### Community 1020 - "Apparatus"
+Cohesion: 0.20
+Nodes (9): Apparatus, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1021 - "阿瓦顿：黑色堡垒（Avadon: The Black Fortress）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 1022 - "Brickzors"
+Cohesion: 0.20
+Nodes (9): Brickzors, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1023 - "赛车总动员2（Cars 2: The Video Game）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+1 more)
+
+### Community 1024 - "弹幕无限（Danmaku Unlimited）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 弹幕无限（Danmaku Unlimited）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1025 - "大金刚（Donkey Kong, 1981）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 大金刚（Donkey Kong, 1981）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1026 - "Dragon Fire"
+Cohesion: 0.20
+Nodes (9): Dragon Fire, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1027 - "Frontier Tower Defense"
+Cohesion: 0.20
+Nodes (9): Frontier Tower Defense, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1028 - "大蜜蜂（Galaga）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 大蜜蜂（Galaga）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1029 - "Hertz Smasher"
+Cohesion: 0.20
+Nodes (9): Hertz Smasher, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1030 - "Ionocraft Racing"
+Cohesion: 0.20
+Nodes (9): Ionocraft Racing, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1031 - "星之卡比：梦之泉（Kirby's Dream Land）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 星之卡比：梦之泉（Kirby's Dream Land）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1032 - "Monster Soup"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Monster Soup, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1033 - "火影忍者疾风传3D：新时代（Naruto Shippūden 3D: The New Era）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 火影忍者疾风传3D：新时代（Naruto Shippūden 3D: The New Era）, 玩法规则 (+1 more)
+
+### Community 1034 - "Orbital Defender"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Orbital Defender, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1035 - "Paper Racer"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Paper Racer, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1036 - "古墓奇兵：雅典娜的隐藏玫瑰（Samantha Swift and The Hidden Roses of Athena）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 古墓奇兵：雅典娜的隐藏玫瑰（Samantha Swift and The Hidden Roses of Athena）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1037 - "Sprint Escape"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Sprint Escape, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1038 - "The Great Jitters Pudding Panic"
+Cohesion: 0.20
+Nodes (9): Meta 系统, The Great Jitters Pudding Panic, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1039 - "小小塔楼（Tiny Tower）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 实现难度, 小小塔楼（Tiny Tower）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1040 - "塔楼袭击者2（Tower Raiders 2）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, 为什么好玩, 塔楼袭击者2（Tower Raiders 2）, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1041 - "Wiz Kid Jr."
+Cohesion: 0.20
+Nodes (9): Meta 系统, Wiz Kid Jr., 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1042 - "Wordfeud"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Wordfeud, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1043 - "Arc the Lad II（Arc the Lad II）"
+Cohesion: 0.22
+Nodes (8): Arc the Lad II（Arc the Lad II）, Meta 系统, 为什么好玩, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源
+
+### Community 1044 - "Busted!（Busted!）"
+Cohesion: 0.22
+Nodes (8): Busted!（Busted!）, Meta 系统, 为什么好玩, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源
+
+### Community 1045 - "Farty Pants（Farty Pants）"
+Cohesion: 0.22
+Nodes (8): Farty Pants（Farty Pants）, Meta 系统, 为什么好玩, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源
+
+### Community 1046 - "Hambo（Hambo）"
+Cohesion: 0.22
+Nodes (8): Hambo（Hambo）, Meta 系统, 为什么好玩, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源
+
+### Community 1047 - "Lock 'n' Load（Lock 'n' Load）"
+Cohesion: 0.22
+Nodes (8): Lock 'n' Load（Lock 'n' Load）, Meta 系统, 为什么好玩, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源
+
+### Community 1048 - "Oddworld: Abe's Oddysee（Oddworld: Abe's Oddysee）"
+Cohesion: 0.22
+Nodes (8): Meta 系统, Oddworld: Abe's Oddysee（Oddworld: Abe's Oddysee）, 为什么好玩, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源
+
+### Community 1049 - "Saving Private Sheep 2（Saving Private Sheep 2）"
+Cohesion: 0.22
+Nodes (8): Meta 系统, Saving Private Sheep 2（Saving Private Sheep 2）, 为什么好玩, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源
+
+### Community 1050 - "Tekken（铁拳移动版 / Tekken Mobile）"
+Cohesion: 0.22
+Nodes (8): Meta 系统, Tekken（铁拳移动版 / Tekken Mobile）, 为什么好玩, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源
+
+### Community 1051 - "Twist Pilot（Twist Pilot）"
+Cohesion: 0.22
+Nodes (8): Meta 系统, Twist Pilot（Twist Pilot）, 为什么好玩, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源
+
+### Community 1052 - "Wrath of the Titans（Wrath of the Titans）"
+Cohesion: 0.22
+Nodes (8): Meta 系统, Wrath of the Titans（Wrath of the Titans）, 为什么好玩, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源
+
 ## Knowledge Gaps
-- **8324 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+8319 more)
+- **8578 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+8573 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `玩法规则`, `核心循环`, `核心机制` to the rest of the system?**
-  _8324 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _8578 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Gameplay Discovery Pipeline - Task Queue` be split into smaller, more focused modules?**
   _Cohesion score 0.125 - nodes in this community are weakly interconnected._
 - **Should `Pipeline Run Log` be split into smaller, more focused modules?**
