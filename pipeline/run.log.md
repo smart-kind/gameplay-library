@@ -477,4 +477,9 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 |[2026-08-15 23:04] [R061] [Phase 3: Process Sources] ⏭️ 跳过 — Pending Sources 为空
 |[2026-08-15 23:04] [R061] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(G991-G1000)，产出10份文档(均≥50行)，来源: PocketGamer P77 + Wikipedia
 |[2026-08-15 23:04] [R061] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
-|[2026-08-15 23:04] [R061] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(10款游戏G991-G1000移入Archived) 
+|[2026-08-15 23:04] [R061] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(10款游戏G991-G1000移入Archived)
+|[2026-08-16 00:40] [R062] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S259-S261 PocketGamer P95/P96/P97)，共75款游戏，DDG被CAPTCHA阻止
+|[2026-08-16 00:40] [R062] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S259-S261)，提取75款游戏名(G1108-G1168)，为13款生成文档(PaperRacer/KirbysDreamLand/Cars2/DonkeyKong/TinyTower/Wordfeud/Galaga/Avadon/Naruto/MonsterSoup/DanmakuUnlimited/SamanthaSwift/TowerRaiders2)，全部≥50行，62款加入Games Pending
+|[2026-08-16 00:40] [R062] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending(G1023-G1065无文档+新游戏G1108-G1168)留待下轮处理；本轮13款文档已由Phase 3直接生成
+|[2026-08-16 00:40] [R062] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-16 00:40] [R062] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S259-S261，13款新文档G1108-G1120，62款新游戏Pending)

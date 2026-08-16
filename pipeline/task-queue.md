@@ -4,6 +4,67 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| G1108 | pocketgamer | Paper Racer | pocketgamer.com/paper-racer/ | 2026-08-16 00:40 |
+| G1109 | pocketgamer | Harry Potter and the Deathly Hallows Part 2 | pocketgamer.com/harry-potter-and-the-deathly-hallows-part-2/ | 2026-08-16 00:40 |
+| G1110 | pocketgamer | Carp Story | pocketgamer.com/carp-story/ | 2026-08-16 00:40 |
+| G1111 | pocketgamer | Squirmee Redux | pocketgamer.com/squirmee-redux/ | 2026-08-16 00:40 |
+| G1112 | pocketgamer | TileStorm HD | pocketgamer.com/tilestorm-hd/ | 2026-08-16 00:40 |
+| G1113 | pocketgamer | Equilibrium | pocketgamer.com/equilibrium/ | 2026-08-16 00:40 |
+| G1114 | pocketgamer | Basketball Dunkadelic | pocketgamer.com/basketball-dunkadelic/ | 2026-08-16 00:40 |
+| G1115 | pocketgamer | Color Bandits | pocketgamer.com/color-bandits/ | 2026-08-16 00:40 |
+| G1116 | pocketgamer | eBoo Space Adventures | pocketgamer.com/eboo-space-adventures/ | 2026-08-16 00:40 |
+| G1117 | pocketgamer | Super Ninja Skydiving Plus Zombies | pocketgamer.com/super-ninja-skydiving-plus-zombies/ | 2026-08-16 00:40 |
+| G1118 | pocketgamer | Pro Tennis Volley | pocketgamer.com/pro-tennis-volley/ | 2026-08-16 00:40 |
+| G1119 | pocketgamer | Gladiator Begins | pocketgamer.com/gladiator-begins/ | 2026-08-16 00:40 |
+| G1120 | pocketgamer | White Knight Chronicles Origins | pocketgamer.com/white-knight-chronicles-origins/ | 2026-08-16 00:40 |
+| G1121 | pocketgamer | Frontier Tower Defense | pocketgamer.com/frontier-tower-defense/ | 2026-08-16 00:40 |
+| G1122 | pocketgamer | Brickzors | pocketgamer.com/brickzors/ | 2026-08-16 00:40 |
+| G1123 | pocketgamer | Apparatus | pocketgamer.com/apparatus/ | 2026-08-16 00:40 |
+| G1124 | pocketgamer | Wiz Kid Jr. | pocketgamer.com/wiz-kid-jr/ | 2026-08-16 00:40 |
+| G1125 | pocketgamer | Dragon Fire | pocketgamer.com/dragon-fire/ | 2026-08-16 00:40 |
+| G1126 | pocketgamer | Sprint Escape | pocketgamer.com/sprint-escape/ | 2026-08-16 00:40 |
+| G1127 | pocketgamer | Hertz Smasher | pocketgamer.com/hertz-smasher/ | 2026-08-16 00:40 |
+| G1128 | pocketgamer | Orbital Defender | pocketgamer.com/orbital-defender/ | 2026-08-16 00:40 |
+| G1129 | pocketgamer | The Great Jitters Pudding Panic | pocketgamer.com/the-great-jitters-pudding-panic/ | 2026-08-16 00:40 |
+| G1130 | pocketgamer | Ionocraft Racing | pocketgamer.com/ionocraft-racing/ | 2026-08-16 00:40 |
+| G1131 | pocketgamer | Monkey Island Tales 5 HD | pocketgamer.com/monkey-island-tales-5-hd/ | 2026-08-16 00:40 |
+| G1132 | pocketgamer | Monkey Island Tales 4 HD | pocketgamer.com/monkey-island-tales-4-hd/ | 2026-08-16 00:40 |
+| G1133 | pocketgamer | Draw Slasher | pocketgamer.com/draw-slasher/ | 2026-08-16 00:40 |
+| G1134 | pocketgamer | WWII Hills of Glory | pocketgamer.com/wwii-hills-of-glory/ | 2026-08-16 00:40 |
+| G1135 | pocketgamer | Marvel Kapow | pocketgamer.com/marvel-kapow/ | 2026-08-16 00:40 |
+| G1136 | pocketgamer | Cell Bound | pocketgamer.com/cell-bound/ | 2026-08-16 00:40 |
+| G1137 | pocketgamer | Rotating Octopus Character | pocketgamer.com/the-2d-adventures-of-rotating-octopus-character/ | 2026-08-16 00:40 |
+| G1138 | pocketgamer | Scoundrel's Cross | pocketgamer.com/scoundrels-cross/ | 2026-08-16 00:40 |
+| G1139 | pocketgamer | Infernus Verse 2 | pocketgamer.com/infernus-verse-2/ | 2026-08-16 00:40 |
+| G1140 | pocketgamer | Battle Boats 3D | pocketgamer.com/battle-boats-3d/ | 2026-08-16 00:40 |
+| G1141 | pocketgamer | Crazy Quest Express | pocketgamer.com/crazy-quest-express/ | 2026-08-16 00:40 |
+| G1142 | pocketgamer | Ultimate Brick Breaker 2 | pocketgamer.com/ultimate-brick-breaker-2/ | 2026-08-16 00:40 |
+| G1143 | pocketgamer | Jewels of the Ages | pocketgamer.com/jewels-of-the-ages/ | 2026-08-16 00:40 |
+| G1144 | pocketgamer | Iron Wars | pocketgamer.com/iron-wars/ | 2026-08-16 00:40 |
+| G1145 | pocketgamer | Pool Break Pro | pocketgamer.com/pool-break-pro/ | 2026-08-16 00:40 |
+| G1146 | pocketgamer | City of Wonder | pocketgamer.com/city-of-wonder/ | 2026-08-16 00:40 |
+| G1147 | pocketgamer | Galaxy Bowl | pocketgamer.com/galaxy-bowl/ | 2026-08-16 00:40 |
+| G1148 | pocketgamer | Roll in the Hole | pocketgamer.com/roll-in-the-hole/ | 2026-08-16 00:40 |
+| G1149 | pocketgamer | Crazy Penguin Assault | pocketgamer.com/crazy-penguin-assault/ | 2026-08-16 00:40 |
+| G1150 | pocketgamer | Alien Space Retro | pocketgamer.com/alien-space-retro/ | 2026-08-16 00:40 |
+| G1151 | pocketgamer | Ducati Challenge | pocketgamer.com/ducati-challenge/ | 2026-08-16 00:40 |
+| G1152 | pocketgamer | Space Squadron | pocketgamer.com/space-squadron/ | 2026-08-16 00:40 |
+| G1153 | pocketgamer | Aftermath XHD | pocketgamer.com/aftermath-xhd/ | 2026-08-16 00:40 |
+| G1154 | pocketgamer | Incredible Express | pocketgamer.com/incredible-express/ | 2026-08-16 00:40 |
+| G1155 | pocketgamer | Symphony of Eternity | pocketgamer.com/symphony-of-eternity/ | 2026-08-16 00:40 |
+| G1156 | pocketgamer | House of Mice | pocketgamer.com/house-of-mice/ | 2026-08-16 00:40 |
+| G1157 | pocketgamer | Stem Stumper | pocketgamer.com/stem-stumper/ | 2026-08-16 00:40 |
+| G1158 | pocketgamer | Walkabout | pocketgamer.com/walkabout/ | 2026-08-16 00:40 |
+| G1159 | pocketgamer | Rip Off | pocketgamer.com/rip-off/ | 2026-08-16 00:40 |
+| G1160 | pocketgamer | My Paper Plane 2 3D | pocketgamer.com/my-paper-plane-2/ | 2026-08-16 00:40 |
+| G1161 | pocketgamer | Hot Cross Bunnies | pocketgamer.com/hot-cross-bunnies/ | 2026-08-16 00:40 |
+| G1162 | pocketgamer | Murder in Venice | pocketgamer.com/murder-in-venice/ | 2026-08-16 00:40 |
+| G1163 | pocketgamer | Current | pocketgamer.com/current/ | 2026-08-16 00:40 |
+| G1164 | pocketgamer | Rooftop Escape | pocketgamer.com/rooftop-escape/ | 2026-08-16 00:40 |
+| G1165 | pocketgamer | A Knights Dawn | pocketgamer.com/a-knights-dawn/ | 2026-08-16 00:40 |
+| G1166 | pocketgamer | Dragon Chaser | pocketgamer.com/dragon-chaser/ | 2026-08-16 00:40 |
+| G1167 | pocketgamer | DeckMake Fantasy | pocketgamer.com/deckmake-fantasy/ | 2026-08-16 00:40 |
+| G1168 | pocketgamer | GRave Defense HD | pocketgamer.com/grave-defense-hd/ | 2026-08-16 00:40 |
 
 
 ## Sources Processing（处理中）
@@ -14,6 +75,9 @@
 ## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S259 | PocketGamer Game Finder Page 95 | https://www.pocketgamer.com/game-finder/page/95/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
+| S260 | PocketGamer Game Finder Page 96 | https://www.pocketgamer.com/game-finder/page/96/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
+| S261 | PocketGamer Game Finder Page 97 | https://www.pocketgamer.com/game-finder/page/97/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
 | S195 | PocketGamer Game Finder Page 68 | https://www.pocketgamer.com/game-finder/page/68/0_all_0_1_1/ | 25 | 2026-08-14 22:13 |
 | S196 | PocketGamer Game Finder Page 69 | https://www.pocketgamer.com/game-finder/page/69/0_all_0_1_1/ | 25 | 2026-08-14 22:13 |
 | S197 | PocketGamer Game Finder Page 70 | https://www.pocketgamer.com/game-finder/page/70/0_all_0_1_1/ | 25 | 2026-08-14 22:13 |
@@ -338,7 +402,21 @@
 
 ## Games Archived（本轮新增）
 || ID | 游戏名 | 文档文件 | 归档时间 |
-||---|---|---|---|| G1098 | jukebeat | docs/jukebeat_20260815_2120.md | 2026-08-15 21:20 |
+||---|---|---|---|
+|| G1108 | Paper Racer | docs/PaperRacer_20260816_0040.md | 2026-08-16 00:40 |
+|| G1109 | Kirby's Dream Land | docs/KirbysDreamLand_20260816_0040.md | 2026-08-16 00:40 |
+|| G1110 | Cars 2 | docs/Cars2_20260816_0040.md | 2026-08-16 00:40 |
+|| G1111 | Donkey Kong (1981) | docs/DonkeyKong_20260816_0040.md | 2026-08-16 00:40 |
+|| G1112 | Tiny Tower | docs/TinyTower_20260816_0040.md | 2026-08-16 00:40 |
+|| G1113 | Wordfeud | docs/Wordfeud_20260816_0040.md | 2026-08-16 00:40 |
+|| G1114 | Galaga | docs/Galaga_20260816_0040.md | 2026-08-16 00:40 |
+|| G1115 | Avadon: The Black Fortress | docs/AvadonTheBlackFortress_20260816_0040.md | 2026-08-16 00:40 |
+|| G1116 | Naruto Shippuden 3D: The New Era | docs/NarutoShippuden3DTheNewEra_20260816_0040.md | 2026-08-16 00:40 |
+|| G1117 | Monster Soup | docs/MonsterSoup_20260816_0040.md | 2026-08-16 00:40 |
+|| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
+|| G1119 | Samantha Swift: Hidden Roses of Athena | docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md | 2026-08-16 00:40 |
+|| G1120 | Tower Raiders 2 | docs/TowerRaiders2_20260816_0040.md | 2026-08-16 00:40 |
+||| G1098 | jukebeat | docs/jukebeat_20260815_2120.md | 2026-08-15 21:20 |
 ||| G1099 | Pickpawcket | docs/Pickpawcket_20260815_2120.md | 2026-08-15 21:20 |
 ||| G1100 | Spacelings | docs/Spacelings_20260815_2120.md | 2026-08-15 21:20 |
 ||| G1101 | Hardwood Spades | docs/HardwoodSpades_20260815_2120.md | 2026-08-15 21:20 |
