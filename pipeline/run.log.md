@@ -514,3 +514,10 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 |[2026-08-16 07:55] [R066] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
 |[2026-08-16 07:55] [R066] [Phase 7: Git Push] ✅ 完成 — commit成功(12 files, +505/-25 lines)，push成功
 
+|[2026-08-16 10:00] [R067] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=31, Processing=0, Archived=261+, Games Pending~25无文档, Games Archived=1127
+|[2026-08-16 10:00] [R067] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (31个)，DDG被CAPTCHA阻止
+|[2026-08-16 10:00] [R067] [Phase 3: Process Sources] ✅ 完成 — 处理10个来源(G1138-G1147)，通过PocketGamer review页面抓取内容，产出10款游戏文档(均≥64行)，0个失败
+|[2026-08-16 10:00] [R067] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-16 10:00] [R067] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-16 10:00] [R067] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(10来源G1138-G1147移入Archived，10款新文档G1189-G1198)
+|[2026-08-16 10:00] [R067] [Phase 7: Git Push]

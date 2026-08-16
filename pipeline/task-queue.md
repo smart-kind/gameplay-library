@@ -4,16 +4,6 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| G1138 | pocketgamer | Scoundrel's Cross | pocketgamer.com/scoundrels-cross/ | 2026-08-16 00:40 |
-| G1139 | pocketgamer | Infernus Verse 2 | pocketgamer.com/infernus-verse-2/ | 2026-08-16 00:40 |
-| G1140 | pocketgamer | Battle Boats 3D | pocketgamer.com/battle-boats-3d/ | 2026-08-16 00:40 |
-| G1141 | pocketgamer | Crazy Quest Express | pocketgamer.com/crazy-quest-express/ | 2026-08-16 00:40 |
-| G1142 | pocketgamer | Ultimate Brick Breaker 2 | pocketgamer.com/ultimate-brick-breaker-2/ | 2026-08-16 00:40 |
-| G1143 | pocketgamer | Jewels of the Ages | pocketgamer.com/jewels-of-the-ages/ | 2026-08-16 00:40 |
-| G1144 | pocketgamer | Iron Wars | pocketgamer.com/iron-wars/ | 2026-08-16 00:40 |
-| G1145 | pocketgamer | Pool Break Pro | pocketgamer.com/pool-break-pro/ | 2026-08-16 00:40 |
-| G1146 | pocketgamer | City of Wonder | pocketgamer.com/city-of-wonder/ | 2026-08-16 00:40 |
-| G1147 | pocketgamer | Galaxy Bowl | pocketgamer.com/galaxy-bowl/ | 2026-08-16 00:40 |
 | G1148 | pocketgamer | Roll in the Hole | pocketgamer.com/roll-in-the-hole/ | 2026-08-16 00:40 |
 | G1149 | pocketgamer | Crazy Penguin Assault | pocketgamer.com/crazy-penguin-assault/ | 2026-08-16 00:40 |
 | G1150 | pocketgamer | Alien Space Retro | pocketgamer.com/alien-space-retro/ | 2026-08-16 00:40 |
@@ -55,6 +45,16 @@
 | G1115 | Color Bandits | https://www.pocketgamer.com/color-bandits/ | 1 | 2026-08-16 06:00 |
 | G1116 | eBoo Space Adventures | https://www.pocketgamer.com/eboo-space-adventures/ | 1 | 2026-08-16 06:00 |
 | G1117 | Super Ninja Skydiving Plus Zombies | https://www.pocketgamer.com/super-ninja-skydiving-plus-zombies/ | 1 | 2026-08-16 06:00 |
+| G1138 | Scoundrel's Cross | https://www.pocketgamer.com/scoundrels-cross/ | 1 | 2026-08-16 10:00 |
+| G1139 | Infernus: Verse 2 | https://www.pocketgamer.com/infernus-verse-2/ | 1 | 2026-08-16 10:00 |
+| G1140 | Battle Boats 3D | https://www.pocketgamer.com/battle-boats-3d/ | 1 | 2026-08-16 10:00 |
+| G1141 | Crazy Quest Express | https://www.pocketgamer.com/crazy-quest-express/ | 1 | 2026-08-16 10:00 |
+| G1142 | Ultimate Brick Breaker 2 | https://www.pocketgamer.com/ultimate-brick-breaker-2/ | 1 | 2026-08-16 10:00 |
+| G1143 | Jewels of the Ages | https://www.pocketgamer.com/jewels-of-the-ages/ | 1 | 2026-08-16 10:00 |
+| G1144 | Iron Wars | https://www.pocketgamer.com/iron-wars/ | 1 | 2026-08-16 10:00 |
+| G1145 | Pool Break Pro | https://www.pocketgamer.com/pool-break-pro/ | 1 | 2026-08-16 10:00 |
+| G1146 | City of Wonder | https://www.pocketgamer.com/city-of-wonder/ | 1 | 2026-08-16 10:00 |
+| G1147 | Galaxy Bowl | https://www.pocketgamer.com/galaxy-bowl/ | 1 | 2026-08-16 10:00 |
 | S259 | PocketGamer Game Finder Page 95 | https://www.pocketgamer.com/game-finder/page/95/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
 | S260 | PocketGamer Game Finder Page 96 | https://www.pocketgamer.com/game-finder/page/96/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
 | S261 | PocketGamer Game Finder Page 97 | https://www.pocketgamer.com/game-finder/page/97/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
@@ -425,6 +425,16 @@
 | G1187 | Sprint Escape | docs/SprintEscape_20260816_0607.md | 2026-08-16 06:08 |
 | G1188 | Hertz Smasher | docs/HertzSmasher_20260816_0607.md | 2026-08-16 06:08 |
 
+| G1189 | Scoundrel's Cross | docs/ScoundrelsCross_20260816_1000.md | 2026-08-16 10:00 |
+| G1190 | Infernus: Verse 2 | docs/InfernusVerse2_20260816_1000.md | 2026-08-16 10:00 |
+| G1191 | Battle Boats 3D | docs/BattleBoats3D_20260816_1000.md | 2026-08-16 10:00 |
+| G1192 | Crazy Quest Express | docs/CrazyQuestExpress_20260816_1000.md | 2026-08-16 10:00 |
+| G1193 | Ultimate Brick Breaker 2 | docs/UltimateBrickBreaker2_20260816_1000.md | 2026-08-16 10:00 |
+| G1194 | Jewels of the Ages | docs/JewelsOfTheAges_20260816_1000.md | 2026-08-16 10:00 |
+| G1195 | Iron Wars | docs/IronWars_20260816_1000.md | 2026-08-16 10:00 |
+| G1196 | Pool Break Pro | docs/PoolBreakPro_20260816_1000.md | 2026-08-16 10:00 |
+| G1197 | City of Wonder | docs/CityOfWonder_20260816_1000.md | 2026-08-16 10:00 |
+| G1198 | Galaxy Bowl | docs/GalaxyBowl_20260816_1000.md | 2026-08-16 10:00 |
 ||||||||||||||||||||||| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1119 | Samantha Swift: Hidden Roses of Athena | docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1120 | Tower Raiders 2 | docs/TowerRaiders2_20260816_0040.md | 2026-08-16 00:40 |
