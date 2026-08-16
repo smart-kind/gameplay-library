@@ -1079,7 +1079,8 @@
 | S122 | Rock Paper Shotgun Best Puzzle Games | https://www.rockpapershotgun.com/best-puzzle-games | 23 | 2026-08-13 03:00 |
 
 ## Execution Log
-|| R061 | 2026-08-15 23:04 | DDG被CAPTCHA阻止，PocketGamer P95+页面JS渲染无法提取，无新来源。处理10款Games Pending(G991-G1000)，产出10份文档(均≥50行)，来源: PocketGamer P77 + Wikipedia |
+||| R061 | 2026-08-15 23:04 | DDG被CAPTCHA阻止，PocketGamer P95+页面JS渲染无法提取，无新来源。处理10款Games Pending(G991-G1000)，产出10份文档(均≥50行)，来源: PocketGamer P77 + Wikipedia
+||| R064 | 2026-08-16 06:00 | DDG被CAPTCHA阻止，处理10个来源(G1108-G1117)，通过iTunes API+Wikipedia搜索获取游戏信息，产出10款游戏文档(PaperRacer/HarryPotterDH2/CarpStory/SquirmeeRedux/TileStormHD/Equilibrium/BasketballDunkadelic/ColorBandits/eBooSpaceAdventures/SuperNinjaSkydivingPlusZombies)，全部≥50行，graphify更新(10871 nodes, 9826 edges, 1065 communities)
 || R059 | 2026-08-15 19:31 | DDG被CAPTCHA阻止，手动发现3来源(S256-S258 P92-P94)，14款游戏文档(G1021,G1022,G1024,G1028,G1034,G1037,G1041,G1042,G1054,G1059,G037,G049,G054,G059) |
 | R046 | 2026-08-14 15:14 | 处理3来源(S189-S191)，提取48款游戏名，产出13款文档(G651-G663，Ronin已存在)，22款新游戏加入Pending(G665-G686) |
 
