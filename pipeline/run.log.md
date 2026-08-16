@@ -506,3 +506,11 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 |[2026-08-16 06:08] [R065] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(10来源G1118-G1127移入Archived，10款新文档G1179-G1188)
 |[2026-08-16 06:08] [R065] [Phase 7: Git Push] ✅ 完成 — commit成功(13 files, +1072/-13 lines)，push成功
 
+|[2026-08-16 07:50] [R066] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=51, Processing=0, Archived=261+, Games Pending~41无文档, Games Archived=1127
+|[2026-08-16 07:50] [R066] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (41个)，DDG被CAPTCHA阻止
+|[2026-08-16 07:50] [R066] [Phase 3: Process Sources] ✅ 完成 — 处理10个来源(G1128-G1137)，通过PocketGamer页面+iTunes API获取游戏信息，产出9款游戏文档(均≥47行)，1个失败(G1134-404)
+|[2026-08-16 07:55] [R066] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(G1023-G1035)，产出1款游戏文档(PathPixJoy，基于iTunes数据)，9个失败(老游戏无可用数据源)
+|[2026-08-16 07:55] [R066] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-16 07:55] [R066] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-16 07:55] [R066] [Phase 7: Git Push] ✅ 完成 — commit成功(12 files, +505/-25 lines)，push成功
+
