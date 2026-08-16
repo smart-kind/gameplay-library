@@ -1,16 +1,16 @@
 # Graph Report - gameplay-library  (2026-08-16)
 
 ## Corpus Check
-- 1154 files · ~511,255 words
+- 1194 files · ~517,006 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 11528 nodes · 10425 edges · 1124 communities
+- 11952 nodes · 10809 edges · 1164 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `ca74ce4e`
+- Built from commit: `e1db6c20`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -1137,10 +1137,50 @@
 - Walkabout
 - 白骑士物语：起源（White Knight Chronicles: Origins）
 - 小巫师（Wiz Kid Jr.）
+- 9小时9人9门（9 Hours, 9 Persons, 9 Doors）
+- 细胞HD（Cell HD）
+- 巧克力大亨（Chocolate Tycoon）
+- 巨人战斗：恐龙3D（Combat of Giants: Dinosaurs 3D）
+- 神探鼠标（Danger Mouse）
+- Disc Drivin'（飞盘赛车）
+- 涂鸦列车（Doodle Train）
+- 放下那只鸡（Drop the Chicken）
+- 微光（Hyperlight）
+- 热带失落岛屿之宝石（Jewels of the Tropical Lost Island）
+- 新泡泡龙（New Puzzle Bobble）
+- PDC世界飞镖锦标赛2011（PDC World Darts Championship 2011）
+- 平台城堡大冒险（Platformance: Castle Pain）
+- 普利尼2：内裤大作战（Prinny 2: Dawn of Operation Panties, Dood!）
+- 生吃还是烤熟（Raw or Roasted）
+- Shift 2（重力翻转2）
+- 简易物理（SimplePhysics）
+- 监控者（Surveillant）
+- 战术士兵：不死崛起（Tactical Soldier: Undead Rising）
+- 世界征服者1945（World Conqueror 1945）
+- 9 Colonies（九大殖民地）
+- Alien Overkill（异形杀戮）
+- Angry Hipsters（愤怒的嬉皮士）
+- Cell HD
+- Chronicles of Mystery: The Secret Tree of Life（神秘编年史：生命之树之谜）
+- Combat of Giants: Dinosaurs 3D
+- Danger Mouse
+- Doodle Train
+- Drop the Chicken
+- EA Cricket 11（EA 板球 11）
+- Enzo's Pinball（恩佐弹珠台）
+- Hyperlight
+- Midnight Mysteries: The Edgar Allen Poe Conspiracy（午夜谜案：埃德加·爱伦·坡阴谋）
+- Monopoly（大富翁 2015版）
+- Quell（水滴谜境）
+- Raw or Roasted
+- SimplePhysics
+- Tactical Soldier: Undead Rising
+- Ticket to Ride（车票之旅 2011版）
+- World Conqueror 1945
 
 ## God Nodes (most connected - your core abstractions)
-1. `Pipeline Run Log` - 30 edges
-2. `Gameplay Discovery Pipeline - Task Queue` - 15 edges
+1. `Pipeline Run Log` - 31 edges
+2. `Gameplay Discovery Pipeline - Task Queue` - 18 edges
 3. `台球模拟游戏，支持在线对战（8 Ball Pool）` - 11 edges
 4. `放置类商业帝国经营游戏（AdVenture Capitalist）` - 11 edges
 5. `风景优美的无尽滑板跑酷游戏（Alto's Odyssey）` - 11 edges
@@ -1156,11 +1196,11 @@
 ## Import Cycles
 - None detected.
 
-## Communities (1124 total, 0 thin omitted)
+## Communities (1164 total, 0 thin omitted)
 
 ### Community 0 - "Gameplay Discovery Pipeline - Task Queue"
-Cohesion: 0.12
-Nodes (15): Execution Log, Execution Log, Gameplay Discovery Pipeline - Task Queue, Games Archived（历史归档）, Games Archived（本轮新增）, Games Pending（待撰写文档）, Sources Archived（已处理）, Sources Archived（已处理） (+7 more)
+Cohesion: 0.11
+Nodes (18): Execution Log, Execution Log, Gameplay Discovery Pipeline - Task Queue, Games Archived（历史归档）, Games Archived（历史归档）, Games Archived（本轮新增）, Games Archived（本轮新增）, Games Pending（待撰写文档） (+10 more)
 
 ### Community 1 - "游戏资料输出格式约束"
 Cohesion: 0.50
@@ -1600,7 +1640,7 @@ Nodes (9): Meta 系统, Xenowerk, 为什么好玩, 实现难度, 来源, 核心�
 
 ### Community 110 - "Pipeline Run Log"
 Cohesion: 0.06
-Nodes (30): 2026-08-10, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11 (+22 more)
+Nodes (31): 2026-08-10, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11, 2026-08-11 (+23 more)
 
 ### Community 111 - "process_games_v2.py"
 Cohesion: 0.14
@@ -5646,19 +5686,179 @@ Nodes (9): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核
 Cohesion: 0.20
 Nodes (9): Meta 系统, 为什么好玩, 实现难度, 小巫师（Wiz Kid Jr.）, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
 
+### Community 1124 - "9小时9人9门（9 Hours, 9 Persons, 9 Doors）"
+Cohesion: 0.18
+Nodes (10): 9小时9人9门（9 Hours, 9 Persons, 9 Doors）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1125 - "细胞HD（Cell HD）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 粘性来源 (+2 more)
+
+### Community 1126 - "巧克力大亨（Chocolate Tycoon）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 巧克力大亨（Chocolate Tycoon）, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1127 - "巨人战斗：恐龙3D（Combat of Giants: Dinosaurs 3D）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 巨人战斗：恐龙3D（Combat of Giants: Dinosaurs 3D）, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1128 - "神探鼠标（Danger Mouse）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 神探鼠标（Danger Mouse） (+2 more)
+
+### Community 1129 - "Disc Drivin'（飞盘赛车）"
+Cohesion: 0.18
+Nodes (10): Disc Drivin'（飞盘赛车）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1130 - "涂鸦列车（Doodle Train）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 涂鸦列车（Doodle Train）, 玩法规则 (+2 more)
+
+### Community 1131 - "放下那只鸡（Drop the Chicken）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 放下那只鸡（Drop the Chicken）, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1132 - "微光（Hyperlight）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 微光（Hyperlight）, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1133 - "热带失落岛屿之宝石（Jewels of the Tropical Lost Island）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 热带失落岛屿之宝石（Jewels of the Tropical Lost Island）, 玩法规则 (+2 more)
+
+### Community 1134 - "新泡泡龙（New Puzzle Bobble）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 新泡泡龙（New Puzzle Bobble）, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1135 - "PDC世界飞镖锦标赛2011（PDC World Darts Championship 2011）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, PDC世界飞镖锦标赛2011（PDC World Darts Championship 2011）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1136 - "平台城堡大冒险（Platformance: Castle Pain）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 平台城堡大冒险（Platformance: Castle Pain）, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1137 - "普利尼2：内裤大作战（Prinny 2: Dawn of Operation Panties, Dood!）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 普利尼2：内裤大作战（Prinny 2: Dawn of Operation Panties, Dood!）, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1138 - "生吃还是烤熟（Raw or Roasted）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 生吃还是烤熟（Raw or Roasted） (+2 more)
+
+### Community 1139 - "Shift 2（重力翻转2）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, Shift 2（重力翻转2）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1140 - "简易物理（SimplePhysics）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 简易物理（SimplePhysics） (+2 more)
+
+### Community 1141 - "监控者（Surveillant）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则, 监控者（Surveillant） (+2 more)
+
+### Community 1142 - "战术士兵：不死崛起（Tactical Soldier: Undead Rising）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 为什么好玩, 实现难度, 战术士兵：不死崛起（Tactical Soldier: Undead Rising）, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1143 - "世界征服者1945（World Conqueror 1945）"
+Cohesion: 0.18
+Nodes (10): Meta 系统, 世界征服者1945（World Conqueror 1945）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+2 more)
+
+### Community 1144 - "9 Colonies（九大殖民地）"
+Cohesion: 0.20
+Nodes (9): 9 Colonies（九大殖民地）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1145 - "Alien Overkill（异形杀戮）"
+Cohesion: 0.20
+Nodes (9): Alien Overkill（异形杀戮）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1146 - "Angry Hipsters（愤怒的嬉皮士）"
+Cohesion: 0.20
+Nodes (9): Angry Hipsters（愤怒的嬉皮士）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1147 - "Cell HD"
+Cohesion: 0.20
+Nodes (9): Cell HD, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1148 - "Chronicles of Mystery: The Secret Tree of Life（神秘编年史：生命之树之谜）"
+Cohesion: 0.20
+Nodes (9): Chronicles of Mystery: The Secret Tree of Life（神秘编年史：生命之树之谜）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1149 - "Combat of Giants: Dinosaurs 3D"
+Cohesion: 0.20
+Nodes (9): Combat of Giants: Dinosaurs 3D, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1150 - "Danger Mouse"
+Cohesion: 0.20
+Nodes (9): Danger Mouse, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1151 - "Doodle Train"
+Cohesion: 0.20
+Nodes (9): Doodle Train, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1152 - "Drop the Chicken"
+Cohesion: 0.20
+Nodes (9): Drop the Chicken, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1153 - "EA Cricket 11（EA 板球 11）"
+Cohesion: 0.20
+Nodes (9): EA Cricket 11（EA 板球 11）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1154 - "Enzo's Pinball（恩佐弹珠台）"
+Cohesion: 0.20
+Nodes (9): Enzo's Pinball（恩佐弹珠台）, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1155 - "Hyperlight"
+Cohesion: 0.20
+Nodes (9): Hyperlight, Meta 系统, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1156 - "Midnight Mysteries: The Edgar Allen Poe Conspiracy（午夜谜案：埃德加·爱伦·坡阴谋）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Midnight Mysteries: The Edgar Allen Poe Conspiracy（午夜谜案：埃德加·爱伦·坡阴谋）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1157 - "Monopoly（大富翁 2015版）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Monopoly（大富翁 2015版）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1158 - "Quell（水滴谜境）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Quell（水滴谜境）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1159 - "Raw or Roasted"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Raw or Roasted, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1160 - "SimplePhysics"
+Cohesion: 0.20
+Nodes (9): Meta 系统, SimplePhysics, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1161 - "Tactical Soldier: Undead Rising"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Tactical Soldier: Undead Rising, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1162 - "Ticket to Ride（车票之旅 2011版）"
+Cohesion: 0.20
+Nodes (9): Meta 系统, Ticket to Ride（车票之旅 2011版）, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
+### Community 1163 - "World Conqueror 1945"
+Cohesion: 0.20
+Nodes (9): Meta 系统, World Conqueror 1945, 为什么好玩, 实现难度, 来源, 核心循环, 核心机制, 玩法规则 (+1 more)
+
 ## Knowledge Gaps
-- **9189 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+9184 more)
+- **9533 isolated node(s):** `玩法规则`, `核心循环`, `核心机制`, `为什么好玩`, `粘性来源` (+9528 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `玩法规则`, `核心循环`, `核心机制` to the rest of the system?**
-  _9189 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _9533 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Gameplay Discovery Pipeline - Task Queue` be split into smaller, more focused modules?**
-  _Cohesion score 0.125 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
 - **Should `Pipeline Run Log` be split into smaller, more focused modules?**
-  _Cohesion score 0.06451612903225806 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.0625 - nodes in this community are weakly interconnected._
 - **Should `process_games_v2.py` be split into smaller, more focused modules?**
   _Cohesion score 0.1368421052631579 - nodes in this community are weakly interconnected._
 - **Should `Bloxd.io` be split into smaller, more focused modules?**

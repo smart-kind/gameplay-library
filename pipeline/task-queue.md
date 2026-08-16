@@ -4,15 +4,59 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S265 | PocketGamer Game Finder Page 101 | https://www.pocketgamer.com/game-finder/page/101/0_all_0_1_1/ | 25 | 2026-08-16 21:11 |
-| S266 | PocketGamer Game Finder Page 102 | https://www.pocketgamer.com/game-finder/page/102/0_all_0_1_1/ | 25 | 2026-08-16 21:11 |
-| S267 | PocketGamer Game Finder Page 103 | https://www.pocketgamer.com/game-finder/page/103/0_all_0_1_1/ | 25 | 2026-08-16 21:11 |
+| S270 | PocketGamer Game Finder Page 106 | https://www.pocketgamer.com/game-finder/page/106/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
 
 
 ## Sources Processing（处理中）
 
 | ID | 类型 | 标题 | URL | 开始时间 |
 |---|---|---|---|---|
+
+## Sources Archived（本轮新增）
+| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|---|---|---|---|---|
+
+| S268 | PocketGamer Game Finder Page 104 | https://www.pocketgamer.com/game-finder/page/104/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
+| S269 | PocketGamer Game Finder Page 105 | https://www.pocketgamer.com/game-finder/page/105/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
+| S270 | PocketGamer Game Finder Page 106 | https://www.pocketgamer.com/game-finder/page/106/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
+
+
+| G1250 | 9 Hours, 9 Persons, 9 Doors | docs/9Hours9Persons9Doors_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1251 | Disc Drivin' | docs/DiscDrivin_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1252 | Jewels of the Tropical Lost Island | docs/JewelsOfTheTropicalLostIsland_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1253 | Shift 2 | docs/Shift2_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1254 | Chocolate Tycoon | docs/ChocolateTycoon_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1255 | Platformance: Castle Pain | docs/PlatformanceCastlePain_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1256 | New Puzzle Bobble | docs/NewPuzzleBobble_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1257 | Surveillant | docs/Surveillant_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1258 | PDC World Darts Championship 2011 | docs/PDCWorldDartsChampionship2011_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1259 | Prinny 2: Dawn of Operation Panties, Dood! | docs/Prinny2DawnOfOperationPantiesDood_20260816_2250.md | 1 | 2026-08-16 22:50 |
+
+## Games Archived（本轮新增）
+
+| ID | 游戏名 | 文档文件 | 归档时间 |
+|---|---|---|---|
+| G1250 | 9 Hours, 9 Persons, 9 Doors | docs/9Hours9Persons9Doors_20260816_2250.md | 2026-08-16 22:50 |
+| G1251 | Disc Drivin' | docs/DiscDrivin_20260816_2250.md | 2026-08-16 22:50 |
+| G1252 | Jewels of the Tropical Lost Island | docs/JewelsOfTheTropicalLostIsland_20260816_2250.md | 2026-08-16 22:50 |
+| G1253 | Shift 2 | docs/Shift2_20260816_2250.md | 2026-08-16 22:50 |
+| G1254 | Chocolate Tycoon | docs/ChocolateTycoon_20260816_2250.md | 2026-08-16 22:50 |
+| G1255 | Platformance: Castle Pain | docs/PlatformanceCastlePain_20260816_2250.md | 2026-08-16 22:50 |
+| G1256 | New Puzzle Bobble | docs/NewPuzzleBobble_20260816_2250.md | 2026-08-16 22:50 |
+| G1257 | Surveillant | docs/Surveillant_20260816_2250.md | 2026-08-16 22:50 |
+| G1258 | PDC World Darts Championship 2011 | docs/PDCWorldDartsChampionship2011_20260816_2250.md | 2026-08-16 22:50 |
+| G1259 | Prinny 2: Dawn of Operation Panties, Dood! | docs/Prinny2DawnOfOperationPantiesDood_20260816_2250.md | 2026-08-16 22:50 |
+
+
+|| G1249 | Tactical Soldier: Undead Rising | docs/TacticalSoldierUndeadRising_20260816_2111.md | 2026-08-16 21:11 |
+
+
+| G1240 | Combat of Giants: Dinosaurs 3D | docs/CombatofGiantsDinosaurs3D_20260816_2111.md | 2026-08-16 21:11 |
+
+## Games Archived（历史归档）
+
+| ID | 游戏名 | 文档文件 | 归档时间 |
+|---|---|---|---|
 
 ## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |

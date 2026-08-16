@@ -567,3 +567,11 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 +[2026-08-16 21:11] [R072] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 +[2026-08-16 21:11] [R072] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
 +[2026-08-16 21:11] [R072] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3来源S265-S267移入Archived各25款，10款新文档G1240-G1249)
++[2026-08-16 22:50] [R073] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=284+, Games Pending≈75+50 older, Games Archived=1249
++[2026-08-16 22:50] [R073] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S268-S270 PocketGamer P104/P105/P106)，共75款游戏，DDG被CAPTCHA阻止
++[2026-08-16 22:50] [R073] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S268-S270 P104-P106)，提取75款游戏名，为10款生成文档(G1250-G1259: 9Hours9Persons9Doors/DiscDrivin/JewelsOfTheTropicalLostIsland/Shift2/ChocolateTycoon/PlatformanceCastlePain/NewPuzzleBobble/Surveillant/PDCWorldDartsChampionship2011/Prinny2DawnOfOperationPantiesDood)，全部≥50行，0个失败
++[2026-08-16 22:50] [R073] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
++[2026-08-16 22:50] [R073] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
++[2026-08-16 22:50] [R073] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S268-S270，10款新文档G1250-G1259)
++[2026-08-16 22:50] [R073] [Phase 7: Git Push] 执行中
+[2026-08-16 22:50] [R073] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3(S265-S267), Processing=0, Archived=284+, Games Pending≈25无文档, Games Archived=1249
