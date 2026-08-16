@@ -534,3 +534,21 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 
 |[2026-08-16 15:42] [R069] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=11, Processing=0, Archived=271+, Games Pending~25无文档, Games Archived=1208
 |[2026-08-16 16:08] [R065] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=11(G1158-G1168), Processing=0, Archived=281+, Games Pending=~50无文档, Games Archived=1208
+|[2026-08-16 16:08] [R065] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (11个)，DDG被CAPTCHA阻止
+|[2026-08-16 16:08] [R065] [Phase 3: Process Sources] ✅ 完成 — 处理11个来源(G1158-G1168)，通过PocketGamer review页面JSON-LD+元数据获取游戏信息，产出11款游戏文档(均≥50行)，0个失败(My Paper Plane 2 3D从my-paper-plane-2-3d/review/成功获取)
+|[2026-08-16 16:08] [R065] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-16 16:08] [R065] [Phase 5: Graphify] ✅ 完成 — 11528 nodes, 10425 edges, 1124 communities
+|[2026-08-16 16:08] [R065] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(11来源G1158-G1168移入Archived，11款新文档G1209-G1219)
+|[2026-08-16 17:52] [R070] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=281+, Games Archived=1219
+
+|[2026-08-16 17:52] [R070] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources 为空，手动发现3个来源(S262-S264 PocketGamer P98/P99/P100)，共75款游戏，DDG被CAPTCHA阻止
+
+|[2026-08-16 17:52] [R070] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S262-S264 P98-P100)，提取75款游戏名，为10款生成文档(Alien Overkill/Chronicles of Mystery/Angry Hipsters/9 Colonies/EA Cricket 11/Enzos Pinball/Ticket to Ride 2011/Quell/Monopoly 2015/Midnight Mysteries)，全部≥50行，0个失败
+
+|[2026-08-16 17:52] [R070] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+
+|[2026-08-16 17:52] [R070] [Phase 5: Graphify] ✅ 完成 — graphify 执行完成
+
+|[2026-08-16 17:52] [R070] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S262-S264，10款新文档G1220-G1229，75款新游戏加入Pending)
+
+|[2026-08-16 17:52] [R070] [Phase 7: Git Push]

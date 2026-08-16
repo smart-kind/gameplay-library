@@ -460,6 +460,21 @@
 | G1218 | DeckMake Fantasy | docs/DeckMakeFantasy_20260816_1608.md | 2026-08-16 16:08 |
 | G1219 | GRave Defense HD | docs/GRaveDefenseHD_20260816_1608.md | 2026-08-16 16:08 |
 
+| S262 | PocketGamer Game Finder Page 98 | https://www.pocketgamer.com/game-finder/page/98/0_all_0_1_1/ | 25 | 2026-08-16 17:52 |
+| S263 | PocketGamer Game Finder Page 99 | https://www.pocketgamer.com/game-finder/page/99/0_all_0_1_1/ | 25 | 2026-08-16 17:52 |
+| S264 | PocketGamer Game Finder Page 100 | https://www.pocketgamer.com/game-finder/page/100/0_all_0_1_1/ | 25 | 2026-08-16 17:52 |
+
+| G1220 | Alien Overkill | docs/alienoverkill_20260816_1752.md | 2026-08-16 17:52 |
+| G1221 | Chronicles of Mystery: The Secret Tree of Life | docs/chroniclesofmysterythesecrettreeoflife_20260816_1752.md | 2026-08-16 17:52 |
+| G1222 | Angry Hipsters | docs/angryhipsters_20260816_1752.md | 2026-08-16 17:52 |
+| G1223 | 9 Colonies | docs/9colonies_20260816_1752.md | 2026-08-16 17:52 |
+| G1224 | EA Cricket 11 | docs/eacricket11_20260816_1752.md | 2026-08-16 17:52 |
+| G1225 | Enzo's Pinball | docs/enzospinball_20260816_1752.md | 2026-08-16 17:52 |
+| G1226 | Ticket to Ride (2011) | docs/tickettoride2011_20260816_1752.md | 2026-08-16 17:52 |
+| G1227 | Quell | docs/quell_20260816_1752.md | 2026-08-16 17:52 |
+| G1228 | Monopoly (2015) | docs/monopoly2015_20260816_1752.md | 2026-08-16 17:52 |
+| G1229 | Midnight Mysteries: The Edgar Allen Poe Conspiracy | docs/midnightmysteriestheedgarallenpoeconspiracy_20260816_1752.md | 2026-08-16 17:52 |
+
 ||||||||||||||||||||||| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1119 | Samantha Swift: Hidden Roses of Athena | docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1120 | Tower Raiders 2 | docs/TowerRaiders2_20260816_0040.md | 2026-08-16 00:40 |
