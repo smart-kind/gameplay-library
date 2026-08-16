@@ -4,9 +4,9 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S265 | PocketGamer Game Finder Page 101 | https://www.pocketgamer.com/game-finder/page/101/0_all_0_1_1/ | 2026-08-16 20:00 |
-| S266 | PocketGamer Game Finder Page 102 | https://www.pocketgamer.com/game-finder/page/102/0_all_0_1_1/ | 2026-08-16 20:00 |
-| S267 | PocketGamer Game Finder Page 103 | https://www.pocketgamer.com/game-finder/page/103/0_all_0_1_1/ | 2026-08-16 20:00 |
+| S265 | PocketGamer Game Finder Page 101 | https://www.pocketgamer.com/game-finder/page/101/0_all_0_1_1/ | 25 | 2026-08-16 21:11 |
+| S266 | PocketGamer Game Finder Page 102 | https://www.pocketgamer.com/game-finder/page/102/0_all_0_1_1/ | 25 | 2026-08-16 21:11 |
+| S267 | PocketGamer Game Finder Page 103 | https://www.pocketgamer.com/game-finder/page/103/0_all_0_1_1/ | 25 | 2026-08-16 21:11 |
 
 
 ## Sources Processing（处理中）
@@ -478,7 +478,18 @@
 | G1228 | Monopoly (2015) | docs/monopoly2015_20260816_1752.md | 2026-08-16 17:52 |
 | G1229 | Midnight Mysteries: The Edgar Allen Poe Conspiracy | docs/midnightmysteriestheedgarallenpoeconspiracy_20260816_1752.md | 2026-08-16 17:52 |
 
-||||||||||||||||||||||| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
+| G1240 | Combat of Giants: Dinosaurs 3D | docs/CombatofGiantsDinosaurs3D_20260816_2111.md | 2026-08-16 21:11 |
+| G1241 | Hyperlight | docs/Hyperlight_20260816_2111.md | 2026-08-16 21:11 |
+| G1242 | Cell HD | docs/CellHD_20260816_2111.md | 2026-08-16 21:11 |
+| G1243 | Danger Mouse | docs/DangerMouse_20260816_2111.md | 2026-08-16 21:11 |
+| G1244 | SimplePhysics | docs/SimplePhysics_20260816_2111.md | 2026-08-16 21:11 |
+| G1245 | World Conqueror 1945 | docs/WorldConqueror1945_20260816_2111.md | 2026-08-16 21:11 |
+| G1246 | Drop the Chicken | docs/DroptheChicken_20260816_2111.md | 2026-08-16 21:11 |
+| G1247 | Raw or Roasted | docs/RaworRoasted_20260816_2111.md | 2026-08-16 21:11 |
+| G1248 | Doodle Train | docs/DoodleTrain_20260816_2111.md | 2026-08-16 21:11 |
+| G1249 | Tactical Soldier: Undead Rising | docs/TacticalSoldierUndeadRising_20260816_2111.md | 2026-08-16 21:11 |
+
+||||||||||||||||||||||||| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1119 | Samantha Swift: Hidden Roses of Athena | docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1120 | Tower Raiders 2 | docs/TowerRaiders2_20260816_0040.md | 2026-08-16 00:40 |
 ||| G1169 | Frontier Tower Defense | docs/FrontierTowerDefense_20260816_0300.md | 2026-08-16 03:00 |
