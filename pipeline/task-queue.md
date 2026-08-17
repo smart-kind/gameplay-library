@@ -4,9 +4,9 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S283 | pocketgamer | PocketGamer Game Finder Page 119 | https://www.pocketgamer.com/game-finder/page/119/0_all_0_1_1/ | 2026-08-17 22:32 |
-| S284 | pocketgamer | PocketGamer Game Finder Page 120 | https://www.pocketgamer.com/game-finder/page/120/0_all_0_1_1/ | 2026-08-17 22:32 |
-| S285 | pocketgamer | PocketGamer Game Finder Page 121 | https://www.pocketgamer.com/game-finder/page/121/0_all_0_1_1/ | 2026-08-17 22:32 |
+| S289 | pocketgamer | PocketGamer Game Finder Page 125 | https://www.pocketgamer.com/game-finder/page/125/0_all_0_1_1/ | 2026-08-17 23:20 |
+| S290 | pocketgamer | PocketGamer Game Finder Page 126 | https://www.pocketgamer.com/game-finder/page/126/0_all_0_1_1/ | 2026-08-17 23:20 |
+| S291 | pocketgamer | PocketGamer Game Finder Page 127 | https://www.pocketgamer.com/game-finder/page/127/0_all_0_1_1/ | 2026-08-17 23:20 |
 
 ## Sources Processing（处理中）
 
@@ -29,9 +29,53 @@
 | G1357 | Parachute Panic HD | docs/ParachutePanicHD_20260817_2232.md | 2026-08-17 22:32 |
 | G1358 | Doodle Kart | docs/DoodleKart_20260817_2232.md | 2026-08-17 22:32 |
 | G1359 | Cocoto Magic Circus | docs/CocotoMagicCircus_20260817_2232.md | 2026-08-17 22:32 |
+| G1360 | 2012 | docs/2012_20260817_2320.md | 2026-08-17 23:20 |
+| G1361 | Ageof Tribes | docs/AgeofTribes_20260817_2320.md | 2026-08-17 23:20 |
+| G1362 | Ai Race | docs/AiRace_20260817_2320.md | 2026-08-17 23:20 |
+| G1363 | Bleach The3rd Phantom | docs/BleachThe3rdPhantom_20260817_2320.md | 2026-08-17 23:20 |
+| G1364 | Boulder Dash Rocks | docs/BoulderDashRocks_20260817_2320.md | 2026-08-17 23:20 |
+| G1365 | Bubble Town2 | docs/BubbleTown2_20260817_2320.md | 2026-08-17 23:20 |
+| G1366 | Crash Test Dummies | docs/CrashTestDummies_20260817_2320.md | 2026-08-17 23:20 |
+| G1367 | Crazy Penguin Catapult2 | docs/CrazyPenguinCatapult2_20260817_2320.md | 2026-08-17 23:20 |
+| G1368 | Crazy Penguin Party | docs/CrazyPenguinParty_20260817_2320.md | 2026-08-17 23:20 |
+| G1369 | Crazy Taxi | docs/CrazyTaxi_20260817_2320.md | 2026-08-17 23:20 |
+| G1370 | Dealor No Deal Aroundthe World | docs/DealorNoDealAroundtheWorld_20260817_2320.md | 2026-08-17 23:20 |
+| G1371 | Diner Dash Floonthe Go | docs/DinerDashFloontheGo_20260817_2320.md | 2026-08-17 23:20 |
+| G1372 | Diner Dash | docs/DinerDash_20260817_2320.md | 2026-08-17 23:20 |
+| G1373 | Ducati Moto | docs/DucatiMoto_20260817_2320.md | 2026-08-17 23:20 |
+| G1374 | F I F A Manager10 | docs/FIFAManager10_20260817_2320.md | 2026-08-17 23:20 |
+| G1375 | Final Fantasy I I | docs/FinalFantasyII_20260817_2320.md | 2026-08-17 23:20 |
+| G1376 | Hellemental | docs/Hellemental_20260817_2320.md | 2026-08-17 23:20 |
+| G1377 | I Dig It Expeditions | docs/IDigItExpeditions_20260817_2320.md | 2026-08-17 23:20 |
+| G1378 | Light Up Puzzles | docs/LightUpPuzzles_20260817_2320.md | 2026-08-17 23:20 |
+| G1379 | Metal Wars | docs/MetalWars_20260817_2320.md | 2026-08-17 23:20 |
+| G1380 | Mind O Mania | docs/MindOMania_20260817_2320.md | 2026-08-17 23:20 |
+| G1381 | P D C World Championship Darts2010 | docs/PDCWorldChampionshipDarts2010_20260817_2320.md | 2026-08-17 23:20 |
+| G1382 | Parachute Ninja | docs/ParachuteNinja_20260817_2320.md | 2026-08-17 23:20 |
+| G1383 | Romanceofthe Three Kingdoms Touch | docs/RomanceoftheThreeKingdomsTouch_20260817_2320.md | 2026-08-17 23:20 |
+| G1384 | Scrabble Remix | docs/ScrabbleRemix_20260817_2320.md | 2026-08-17 23:20 |
+| G1385 | Sonic Sega All Stars Racing | docs/SonicSegaAllStarsRacing_20260817_2320.md | 2026-08-17 23:20 |
+| G1386 | Sonicand Sega All Stars Racing | docs/SonicandSegaAllStarsRacing_20260817_2320.md | 2026-08-17 23:20 |
+| G1387 | Spheremare | docs/Spheremare_20260817_2320.md | 2026-08-17 23:20 |
+| G1388 | Supreme Airfighter | docs/SupremeAirfighter_20260817_2320.md | 2026-08-17 23:20 |
+| G1389 | Tetris Revolution | docs/TetrisRevolution_20260817_2320.md | 2026-08-17 23:20 |
+| G1390 | The Sims3 World Adventures | docs/TheSims3WorldAdventures_20260817_2320.md | 2026-08-17 23:20 |
+| G1391 | Time Crisis Elite | docs/TimeCrisisElite_20260817_2320.md | 2026-08-17 23:20 |
+| G1392 | Tony Hawk V E R T | docs/TonyHawkVERT_20260817_2320.md | 2026-08-17 23:20 |
+| G1393 | Vancouver2010 | docs/Vancouver2010_20260817_2320.md | 2026-08-17 23:20 |
+| G1394 | Virtual Villagers3 The Secret City | docs/VirtualVillagers3TheSecretCity_20260817_2320.md | 2026-08-17 23:20 |
+| G1395 | W W E Smackdownvs Raw2010 | docs/WWESmackdownvsRaw2010_20260817_2320.md | 2026-08-17 23:20 |
+| G1396 | Words With Friends | docs/WordsWithFriends_20260817_2320.md | 2026-08-17 23:20 |
+| G1397 | Worms2010 | docs/Worms2010_20260817_2320.md | 2026-08-17 23:20 |
 | S283 | PocketGamer Game Finder Page 119 | https://www.pocketgamer.com/game-finder/page/119/0_all_0_1_1/ | 10 | 2026-08-17 22:32 |
 | S284 | PocketGamer Game Finder Page 120 | https://www.pocketgamer.com/game-finder/page/120/0_all_0_1_1/ | 10 | 2026-08-17 22:32 |
 | S285 | PocketGamer Game Finder Page 121 | https://www.pocketgamer.com/game-finder/page/121/0_all_0_1_1/ | 10 | 2026-08-17 22:32 |
+| S286 | PocketGamer Game Finder Page 122 | https://www.pocketgamer.com/game-finder/page/122/0_all_0_1_1/ | 25 | 2026-08-17 23:20 |
+| S287 | PocketGamer Game Finder Page 123 | https://www.pocketgamer.com/game-finder/page/123/0_all_0_1_1/ | 25 | 2026-08-17 23:20 |
+| S288 | PocketGamer Game Finder Page 124 | https://www.pocketgamer.com/game-finder/page/124/0_all_0_1_1/ | 25 | 2026-08-17 23:20 |
+| S289 | PocketGamer Game Finder Page 125 | https://www.pocketgamer.com/game-finder/page/125/0_all_0_1_1/ | 25 | 2026-08-17 23:20 |
+| S290 | PocketGamer Game Finder Page 126 | https://www.pocketgamer.com/game-finder/page/126/0_all_0_1_1/ | 25 | 2026-08-17 23:20 |
+| S291 | PocketGamer Game Finder Page 127 | https://www.pocketgamer.com/game-finder/page/127/0_all_0_1_1/ | 25 | 2026-08-17 23:20 |
 |---|---|---|---|---|
 
 | S268 | PocketGamer Game Finder Page 104 | https://www.pocketgamer.com/game-finder/page/104/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
