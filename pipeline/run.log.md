@@ -574,4 +574,12 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 +[2026-08-16 22:50] [R073] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
 +[2026-08-16 22:50] [R073] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S268-S270，10款新文档G1250-G1259)
 +[2026-08-16 22:50] [R073] [Phase 7: Git Push] ✅ 完成 — commit成功(65 files, +25714/-1284 lines)，push成功
-[2026-08-16 22:50] [R073] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3(S265-S267), Processing=0, Archived=284+, Games Pending≈25无文档, Games Archived=1249
+
+[2026-08-17 01:50] [R074] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=1(S270), Processing=0, Archived=287+, Games Pending≈150, Games Archived=1259
+[2026-08-17 03:00] [R075] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=1(S270 stale), Processing=0, Archived=290+, Games Pending≈140, Games Archived=1259
+[2026-08-17 03:00] [R075] [Phase 2: Discover] ⏭️ 跳过 — DDG被CAPTCHA阻止，优先处理Games Pending积压
+[2026-08-17 03:00] [R075] [Phase 3: Process Sources] ⏭️ 跳过 — 无新待处理来源
+[2026-08-17 03:00] [R075] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(G1042-G1048,G1050,G1051,G1059)，产出10份文档(均≥50行)，来源: PocketGamer Review，0个失败
+[2026-08-17 03:00] [R075] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+[2026-08-17 03:00] [R075] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+[2026-08-17 03:00] [R075] [Phase 7: Git Push] ✅ 完成 — commit成功(12 files, +540 lines)

@@ -435,16 +435,16 @@
 || G1039 | Snoozles | docs/Snoozles_20260815_1700.md | PocketGamer P78 |
 || G1040 | Inazuma Eleven 2 Firestorm Blizzard | docs/InazumaEleven2_20260815_1700.md | PocketGamer P78 |
 || G1041 | Rune Raiders | — | PocketGamer P79 |
-| G1042 | Samurai Vs Zombies Defense | — | PocketGamer P79 |
-| G1043 | Harry The Fairy | — | PocketGamer P79 |
-| G1044 | Sir Benfros Brilliant Balloon | — | PocketGamer P79 |
-| G1045 | Twinspin | — | PocketGamer P79 |
-| G1046 | Cheezia Gears Of Fur | — | PocketGamer P79 |
-| G1047 | Node Hack | — | PocketGamer P79 |
-| G1048 | 8Bit Ninja | — | PocketGamer P79 |
+| G1042 | Samurai Vs Zombies Defense | docs/samuraivszombiesdefense_20260817_0300.md | PocketGamer P79 |
+| G1043 | Harry The Fairy | docs/harrythefairy_20260817_0300.md | PocketGamer P79 |
+| G1044 | Sir Benfros Brilliant Balloon | docs/sirbenfrosbrilliantballoon_20260817_0300.md | PocketGamer P79 |
+| G1045 | Twinspin | docs/twinspin_20260817_0300.md | PocketGamer P79 |
+| G1046 | Cheezia Gears Of Fur | docs/cheeziagearsoffur_20260817_0300.md | PocketGamer P79 |
+| G1047 | Node Hack | docs/nodehack_20260817_0300.md | PocketGamer P79 |
+| G1048 | 8Bit Ninja | docs/8bitninja_20260817_0300.md | PocketGamer P79 |
 || G1049 | Kid Icarus Of Myths And Monsters | docs/KidIcarusMythsAndMonsters_20260815_1700.md | PocketGamer P79 |
-| G1050 | Madcoaster | — | PocketGamer P79 |
-| G1051 | Pebble Universe | — | PocketGamer P79 |
+| G1050 | Madcoaster | docs/madcoaster_20260817_0300.md | PocketGamer P79 |
+| G1051 | Pebble Universe | docs/pebbleuniverse_20260817_0300.md | PocketGamer P79 |
 || G1052 | Picnic Wars | docs/PicnicWars_20260815_1700.md | PocketGamer P79 |
 || G1053 | Jewel Master Cradle Of Persia | docs/JewelMasterCradleOfPersia_20260815_1700.md | PocketGamer P79 |
 || G1054 | Twingo | — | PocketGamer P79 |
@@ -452,7 +452,7 @@
 || G1056 | Fireball Special Edition | — | PocketGamer P79 |
 || G1057 | Azkend 2 The World Beneath | docs/Azkend2TheWorldBeneath_20260815_1700.md | PocketGamer P79 |
 || G1058 | Canabalt | docs/Canabalt_20260815_1700.md | PocketGamer P79 |
-| G1059 | Flick Nations Rugby | — | PocketGamer P79 |
+| G1059 | Flick Nations Rugby | docs/flicknationsrugby_20260817_0300.md | PocketGamer P79 |
 | G1060 | Quell Reflect | — | PocketGamer P79 |
 | G1061 | Lego Hero Factory | — | PocketGamer P79 |
 | G1062 | Wave Crasher | — | PocketGamer P79 |
