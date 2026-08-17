@@ -12,6 +12,10 @@
 
 ## Sources Archived（本轮新增）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
+
+| S280 | PocketGamer Game Finder Page 116 | https://www.pocketgamer.com/game-finder/page/116/0_all_0_1_1/ | 25 | 2026-08-17 20:00 |
+| S281 | PocketGamer Game Finder Page 117 | https://www.pocketgamer.com/game-finder/page/117/0_all_0_1_1/ | 25 | 2026-08-17 20:00 |
+| S282 | PocketGamer Game Finder Page 118 | https://www.pocketgamer.com/game-finder/page/118/0_all_0_1_1/ | 25 | 2026-08-17 20:00 |
 |---|---|---|---|---|
 
 | S268 | PocketGamer Game Finder Page 104 | https://www.pocketgamer.com/game-finder/page/104/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
@@ -93,6 +97,37 @@
 | G1317 | Zombie Invasion 2 HD | docs/ZombieInvasion2HD_20260817_1616.md | 2026-08-17 16:16 |
 | G1318 | Demon Killer | docs/DemonKiller_20260817_1616.md | 2026-08-17 16:16 |
 | G1319 | Hamster Homie | docs/HamsterHomie_20260817_1616.md | 2026-08-17 16:16 |
+
+| G1320 | A C E Air Combat Elite | docs/ACEAirCombatElite_20260817_2000.md | 2026-08-17 20:00 |
+| G1321 | Battle Bears 1 | docs/BattleBears1_20260817_2000.md | 2026-08-17 20:00 |
+| G1322 | Doodle God | docs/DoodleGod_20260817_2000.md | 2026-08-17 20:00 |
+| G1323 | Doodle Sky Pro | docs/DoodleSkyPro_20260817_2000.md | 2026-08-17 20:00 |
+| G1324 | Everlands | docs/Everlands_20260817_2000.md | 2026-08-17 20:00 |
+| G1325 | Gravity Block | docs/GravityBlock_20260817_2000.md | 2026-08-17 20:00 |
+| G1326 | I Play Bowling HD | docs/IPlayBowlingHD_20260817_2000.md | 2026-08-17 20:00 |
+| G1327 | Icarly Mobile | docs/IcarlyMobile_20260817_2000.md | 2026-08-17 20:00 |
+| G1328 | Kartmania 3D | docs/Kartmania3D_20260817_2000.md | 2026-08-17 20:00 |
+| G1329 | Modern Conflict HD | docs/ModernConflictHD_20260817_2000.md | 2026-08-17 20:00 |
+| G1330 | Oddy Smogs Misadventure | docs/OddySmogsMisadventure_20260817_2000.md | 2026-08-17 20:00 |
+| G1331 | Osmos | docs/Osmos_20260817_2000.md | 2026-08-17 20:00 |
+| G1332 | Piyo Blocks 2 | docs/PiyoBlocks2_20260817_2000.md | 2026-08-17 20:00 |
+| G1333 | Prism 3D | docs/Prism3D_20260817_2000.md | 2026-08-17 20:00 |
+| G1334 | Rafter HD | docs/RafterHD_20260817_2000.md | 2026-08-17 20:00 |
+| G1335 | Retro Games 5 in 1 | docs/RetroGames5in1_20260817_2000.md | 2026-08-17 20:00 |
+| G1336 | Sensible Soccer Skills | docs/SensibleSoccerSkills_20260817_2000.md | 2026-08-17 20:00 |
+| G1337 | Snake Reloaded | docs/SnakeReloaded_20260817_2000.md | 2026-08-17 20:00 |
+| G1338 | The Package | docs/ThePackage_20260817_2000.md | 2026-08-17 20:00 |
+| G1339 | Totemheadz | docs/Totemheadz_20260817_2000.md | 2026-08-17 20:00 |
+| G1340 | Twilight Saga Memory Quest | docs/TwilightSagaMemoryQuest_20260817_2000.md | 2026-08-17 20:00 |
+| G1341 | Virtual Pool HD | docs/VirtualPoolHD_20260817_2000.md | 2026-08-17 20:00 |
+| G1342 | Voodoo Dice | docs/VoodooDice_20260817_2000.md | 2026-08-17 20:00 |
+| G1343 | Wizzley Presto and The Vampires Tomb | docs/WizzleyPrestoandTheVampiresTomb_20260817_2000.md | 2026-08-17 20:00 |
+| G1344 | World Soccer Champs 2010 | docs/WorldSoccerChamps2010_20260817_2000.md | 2026-08-17 20:00 |
+| G1345 | Aqueduct | docs/Aqueduct_20260817_2000.md | 2026-08-17 20:00 |
+| G1346 | Art of War 2 Global Confederation | docs/ArtofWar2GlobalConfederation_20260817_2000.md | 2026-08-17 20:00 |
+| G1347 | Blastblox | docs/Blastblox_20260817_2000.md | 2026-08-17 20:00 |
+| G1348 | Bublex Mania | docs/BublexMania_20260817_2000.md | 2026-08-17 20:00 |
+| G1349 | Bug Quest | docs/BugQuest_20260817_2000.md | 2026-08-17 20:00 |
 | G1270 | Iootp Baseball 2012 Edition | docs/IootpBaseball2012Edition_20260817_0736.md | 2026-08-17 07:36 |
 | G1271 | My Little City | docs/MyLittleCity_20260817_0736.md | 2026-08-17 07:36 |
 | G1272 | Fmx Iv Pro | docs/FmxIvPro_20260817_0736.md | 2026-08-17 07:36 |
@@ -106,6 +141,7 @@
 | G1280 | Game Dev Story | docs/GameDevStory_20260817_1429.md | 2026-08-17 14:29 |
 | G1281 | Starfall HD | docs/StarfallHD_20260817_1429.md | 2026-08-17 14:29 |
 | G1282 | Meteor Cafe | docs/MeteorCafe_20260817_1429.md | 2026-08-17 14:29 |
+| R084 | 2026-08-17 20:00 | 3 (S280-S282) | 3 (S280-S282) | 30 | 0 | PocketGamer P116-P118, iTunes API辅助 |
 | G1283 | Paradise Island | docs/ParadiseIsland_20260817_1429.md | 2026-08-17 14:29 |
 | G1284 | Last Window: The Secret of Cape West | docs/LastWindowTheSecretofCapeWest_20260817_1429.md | 2026-08-17 14:29 |
 | G1285 | Crazy John | docs/CrazyJohn_20260817_1429.md | 2026-08-17 14:29 |
