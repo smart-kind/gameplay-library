@@ -664,3 +664,8 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-17 22:32] [R085] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S283-S285, 10款新文档G1350-G1359)
 
 [2026-08-17 23:04] [R086] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3, Processing=0, Archived=299+, Games Pending=0, Games Archived=1359
+[2026-08-17 23:04] [R086] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S289-S291 PocketGamer P125/P126/P127)，共75款游戏，DDG被CAPTCHA阻止
+[2026-08-17 23:04] [R086] [Phase 3: Process Sources] ✅ 完成 — 处理6个来源(S286-S291 P122-P127)，提取150款游戏名，为38款生成文档(G1360-G1397)，全部≥50行，0个失败
+[2026-08-17 23:04] [R086] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-17 23:04] [R086] [Phase 5: Git Push] ✅ 完成 — commit成功(40 files, +1970 lines)，push成功
+[2026-08-17 23:04] [R086] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(6来源S286-S291移入Archived, 3新来源S289-S291加入Pending, 38款新文档G1360-G1397)
