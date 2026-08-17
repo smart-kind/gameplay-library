@@ -4,9 +4,6 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S274 | pocketgamer | PocketGamer Game Finder Page 110 | https://www.pocketgamer.com/game-finder/page/110/0_all_0_1_1/ | 2026-08-17 14:10 |
-| S275 | pocketgamer | PocketGamer Game Finder Page 111 | https://www.pocketgamer.com/game-finder/page/111/0_all_0_1_1/ | 2026-08-17 14:10 |
-| S276 | pocketgamer | PocketGamer Game Finder Page 112 | https://www.pocketgamer.com/game-finder/page/112/0_all_0_1_1/ | 2026-08-17 14:10 |
 
 ## Sources Processing（处理中）
 
@@ -26,6 +23,9 @@
 | S274 | PocketGamer Game Finder Page 110 | https://www.pocketgamer.com/game-finder/page/110/0_all_0_1_1/ | 25 | 2026-08-17 14:29 |
 | S275 | PocketGamer Game Finder Page 111 | https://www.pocketgamer.com/game-finder/page/111/0_all_0_1_1/ | 25 | 2026-08-17 14:29 |
 | S276 | PocketGamer Game Finder Page 112 | https://www.pocketgamer.com/game-finder/page/112/0_all_0_1_1/ | 25 | 2026-08-17 14:29 |
+| S277 | PocketGamer Game Finder Page 113 | https://www.pocketgamer.com/game-finder/page/113/0_all_0_1_1/ | 25 | 2026-08-17 16:16 |
+| S278 | PocketGamer Game Finder Page 114 | https://www.pocketgamer.com/game-finder/page/114/0_all_0_1_1/ | 25 | 2026-08-17 16:16 |
+| S279 | PocketGamer Game Finder Page 115 | https://www.pocketgamer.com/game-finder/page/115/0_all_0_1_1/ | 25 | 2026-08-17 16:16 |
 
 
 | G1250 | 9 Hours, 9 Persons, 9 Doors | docs/9Hours9Persons9Doors_20260816_2250.md | 1 | 2026-08-16 22:50 |
@@ -63,6 +63,36 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G1290 | No Human | docs/NoHuman_20260817_1616.md | 2026-08-17 16:16 |
+| G1291 | Ponk | docs/Ponk_20260817_1616.md | 2026-08-17 16:16 |
+| G1292 | Real Madrid Football 2010 | docs/RealMadridFootball2010_20260817_1616.md | 2026-08-17 16:16 |
+| G1293 | Swing Mania | docs/SwingMania_20260817_1616.md | 2026-08-17 16:16 |
+| G1294 | Crisisonmars | docs/Crisisonmars_20260817_1616.md | 2026-08-17 16:16 |
+| G1295 | R U S H Ex | docs/RUSHEx_20260817_1616.md | 2026-08-17 16:16 |
+| G1296 | Le Tour De France 2010 | docs/LeTourDeFrance2010_20260817_1616.md | 2026-08-17 16:16 |
+| G1297 | Phoenix HD | docs/PhoenixHD_20260817_1616.md | 2026-08-17 16:16 |
+| G1298 | Gremlins Spellforce | docs/GremlinsSpellforce_20260817_1616.md | 2026-08-17 16:16 |
+| G1299 | The Crimsons | docs/TheCrimsons_20260817_1616.md | 2026-08-17 16:16 |
+| G1300 | Lost Planet 2 | docs/LostPlanet2_20260817_1616.md | 2026-08-17 16:16 |
+| G1301 | Nobunaga's Ambition | docs/NobunagasAmbition_20260817_1616.md | 2026-08-17 16:16 |
+| G1302 | Pokermillion Dead Money | docs/PokermillionDeadMoney_20260817_1616.md | 2026-08-17 16:16 |
+| G1303 | 3D Minigolf World Tour | docs/3DMinigolfWorldTour_20260817_1616.md | 2026-08-17 16:16 |
+| G1304 | Conquist | docs/Conquist_20260817_1616.md | 2026-08-17 16:16 |
+| G1305 | Hot Rod Hell | docs/HotRodHell_20260817_1616.md | 2026-08-17 16:16 |
+| G1306 | Jurassic Park 2010 | docs/JurassicPark2010_20260817_1616.md | 2026-08-17 16:16 |
+| G1307 | Ghost Stories | docs/GhostStories_20260817_1616.md | 2026-08-17 16:16 |
+| G1308 | Sinister Planet | docs/SinisterPlanet_20260817_1616.md | 2026-08-17 16:16 |
+| G1309 | Splode | docs/Splode_20260817_1616.md | 2026-08-17 16:16 |
+| G1310 | Smiley Pops | docs/SmileyPops_20260817_1616.md | 2026-08-17 16:16 |
+| G1311 | Voodomino | docs/Voodomino_20260817_1616.md | 2026-08-17 16:16 |
+| G1312 | Aqua Moto Racing 2 | docs/AquaMotoRacing2_20260817_1616.md | 2026-08-17 16:16 |
+| G1313 | Word Collapse | docs/WordCollapse_20260817_1616.md | 2026-08-17 16:16 |
+| G1314 | Top Hits Blackjack | docs/TopHitsBlackjack_20260817_1616.md | 2026-08-17 16:16 |
+| G1315 | Hollywood Hospital 2 | docs/HollywoodHospital2_20260817_1616.md | 2026-08-17 16:16 |
+| G1316 | Highborn HD | docs/HighbornHD_20260817_1616.md | 2026-08-17 16:16 |
+| G1317 | Zombie Invasion 2 HD | docs/ZombieInvasion2HD_20260817_1616.md | 2026-08-17 16:16 |
+| G1318 | Demon Killer | docs/DemonKiller_20260817_1616.md | 2026-08-17 16:16 |
+| G1319 | Hamster Homie | docs/HamsterHomie_20260817_1616.md | 2026-08-17 16:16 |
 | G1270 | Iootp Baseball 2012 Edition | docs/IootpBaseball2012Edition_20260817_0736.md | 2026-08-17 07:36 |
 | G1271 | My Little City | docs/MyLittleCity_20260817_0736.md | 2026-08-17 07:36 |
 | G1272 | Fmx Iv Pro | docs/FmxIvPro_20260817_0736.md | 2026-08-17 07:36 |
@@ -109,6 +139,12 @@
 
 
 | G1240 | Combat of Giants: Dinosaurs 3D | docs/CombatofGiantsDinosaurs3D_20260816_2111.md | 2026-08-16 21:11 |
+
+## Execution Log
+
+| Run ID | 时间 | 发现来源 | 处理来源 | 产出游戏 | 失败 | 备注 |
+|---|---|---|---|---|---|---|
+| R083 | 2026-08-17 16:16 | 3 (S277-S279) | 3 (S274-S276) | 30 | 0 | PocketGamer P110-P115, iTunes API辅助 |
 
 ## Games Archived（历史归档）
 
@@ -456,6 +492,36 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G1290 | No Human | docs/NoHuman_20260817_1616.md | 2026-08-17 16:16 |
+| G1291 | Ponk | docs/Ponk_20260817_1616.md | 2026-08-17 16:16 |
+| G1292 | Real Madrid Football 2010 | docs/RealMadridFootball2010_20260817_1616.md | 2026-08-17 16:16 |
+| G1293 | Swing Mania | docs/SwingMania_20260817_1616.md | 2026-08-17 16:16 |
+| G1294 | Crisisonmars | docs/Crisisonmars_20260817_1616.md | 2026-08-17 16:16 |
+| G1295 | R U S H Ex | docs/RUSHEx_20260817_1616.md | 2026-08-17 16:16 |
+| G1296 | Le Tour De France 2010 | docs/LeTourDeFrance2010_20260817_1616.md | 2026-08-17 16:16 |
+| G1297 | Phoenix HD | docs/PhoenixHD_20260817_1616.md | 2026-08-17 16:16 |
+| G1298 | Gremlins Spellforce | docs/GremlinsSpellforce_20260817_1616.md | 2026-08-17 16:16 |
+| G1299 | The Crimsons | docs/TheCrimsons_20260817_1616.md | 2026-08-17 16:16 |
+| G1300 | Lost Planet 2 | docs/LostPlanet2_20260817_1616.md | 2026-08-17 16:16 |
+| G1301 | Nobunaga's Ambition | docs/NobunagasAmbition_20260817_1616.md | 2026-08-17 16:16 |
+| G1302 | Pokermillion Dead Money | docs/PokermillionDeadMoney_20260817_1616.md | 2026-08-17 16:16 |
+| G1303 | 3D Minigolf World Tour | docs/3DMinigolfWorldTour_20260817_1616.md | 2026-08-17 16:16 |
+| G1304 | Conquist | docs/Conquist_20260817_1616.md | 2026-08-17 16:16 |
+| G1305 | Hot Rod Hell | docs/HotRodHell_20260817_1616.md | 2026-08-17 16:16 |
+| G1306 | Jurassic Park 2010 | docs/JurassicPark2010_20260817_1616.md | 2026-08-17 16:16 |
+| G1307 | Ghost Stories | docs/GhostStories_20260817_1616.md | 2026-08-17 16:16 |
+| G1308 | Sinister Planet | docs/SinisterPlanet_20260817_1616.md | 2026-08-17 16:16 |
+| G1309 | Splode | docs/Splode_20260817_1616.md | 2026-08-17 16:16 |
+| G1310 | Smiley Pops | docs/SmileyPops_20260817_1616.md | 2026-08-17 16:16 |
+| G1311 | Voodomino | docs/Voodomino_20260817_1616.md | 2026-08-17 16:16 |
+| G1312 | Aqua Moto Racing 2 | docs/AquaMotoRacing2_20260817_1616.md | 2026-08-17 16:16 |
+| G1313 | Word Collapse | docs/WordCollapse_20260817_1616.md | 2026-08-17 16:16 |
+| G1314 | Top Hits Blackjack | docs/TopHitsBlackjack_20260817_1616.md | 2026-08-17 16:16 |
+| G1315 | Hollywood Hospital 2 | docs/HollywoodHospital2_20260817_1616.md | 2026-08-17 16:16 |
+| G1316 | Highborn HD | docs/HighbornHD_20260817_1616.md | 2026-08-17 16:16 |
+| G1317 | Zombie Invasion 2 HD | docs/ZombieInvasion2HD_20260817_1616.md | 2026-08-17 16:16 |
+| G1318 | Demon Killer | docs/DemonKiller_20260817_1616.md | 2026-08-17 16:16 |
+| G1319 | Hamster Homie | docs/HamsterHomie_20260817_1616.md | 2026-08-17 16:16 |
 
 ||| G1027 | Kale In Dinoland | docs/KaleInDinoland_20260817_0736.md | PocketGamer P78 |
 ||| G1028 | Jelly Love | docs/JellyLove_20260815_1931.md | PocketGamer P78 |
@@ -613,6 +679,12 @@
 | G1095 | Zombie Derby 2 | docs/ZombieDerby2_20260815_1747.md | 2026-08-15 17:47 |
 | G1096 | Cat God vs Sun King | docs/CatGodvsSunKing_20260815_1747.md | 2026-08-15 17:47 |
 | G1097 | Scooby Doo Creepy Run | docs/ScoobyDooCreepyRun_20260815_1747.md | 2026-08-15 17:47 |
+
+## Execution Log
+
+| Run ID | 时间 | 发现来源 | 处理来源 | 产出游戏 | 失败 | 备注 |
+|---|---|---|---|---|---|---|
+| R083 | 2026-08-17 16:16 | 3 (S277-S279) | 3 (S274-S276) | 30 | 0 | PocketGamer P110-P115, iTunes API辅助 |
 
 ## Games Archived（历史归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
