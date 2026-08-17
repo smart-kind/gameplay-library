@@ -157,7 +157,8 @@
 | G1280 | Game Dev Story | docs/GameDevStory_20260817_1429.md | 2026-08-17 14:29 |
 | G1281 | Starfall HD | docs/StarfallHD_20260817_1429.md | 2026-08-17 14:29 |
 | G1282 | Meteor Cafe | docs/MeteorCafe_20260817_1429.md | 2026-08-17 14:29 |
-| R084 | 2026-08-17 20:00 | 3 (S280-S282) | 3 (S280-S282) | 30 | 0 | PocketGamer P116-P118, iTunes API辅助 |
+| R084 |
+| R085 | 2026-08-17 22:32 | 3 (S283-S285) | 3 (S283-S285) | 10 | 0 | PocketGamer P119-P121, iTunes API+Wikipedia辅助 | 2026-08-17 20:00 | 3 (S280-S282) | 3 (S280-S282) | 30 | 0 | PocketGamer P116-P118, iTunes API辅助 |
 | G1283 | Paradise Island | docs/ParadiseIsland_20260817_1429.md | 2026-08-17 14:29 |
 | G1284 | Last Window: The Secret of Cape West | docs/LastWindowTheSecretofCapeWest_20260817_1429.md | 2026-08-17 14:29 |
 | G1285 | Crazy John | docs/CrazyJohn_20260817_1429.md | 2026-08-17 14:29 |
