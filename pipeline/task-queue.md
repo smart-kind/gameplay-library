@@ -4,6 +4,9 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S283 | pocketgamer | PocketGamer Game Finder Page 119 | https://www.pocketgamer.com/game-finder/page/119/0_all_0_1_1/ | 2026-08-17 22:32 |
+| S284 | pocketgamer | PocketGamer Game Finder Page 120 | https://www.pocketgamer.com/game-finder/page/120/0_all_0_1_1/ | 2026-08-17 22:32 |
+| S285 | pocketgamer | PocketGamer Game Finder Page 121 | https://www.pocketgamer.com/game-finder/page/121/0_all_0_1_1/ | 2026-08-17 22:32 |
 
 ## Sources Processing（处理中）
 
@@ -16,6 +19,19 @@
 | S280 | PocketGamer Game Finder Page 116 | https://www.pocketgamer.com/game-finder/page/116/0_all_0_1_1/ | 25 | 2026-08-17 20:00 |
 | S281 | PocketGamer Game Finder Page 117 | https://www.pocketgamer.com/game-finder/page/117/0_all_0_1_1/ | 25 | 2026-08-17 20:00 |
 | S282 | PocketGamer Game Finder Page 118 | https://www.pocketgamer.com/game-finder/page/118/0_all_0_1_1/ | 25 | 2026-08-17 20:00 |
+| G1350 | MetalWars 2 | docs/MetalWars2_20260817_2232.md | 2026-08-17 22:32 |
+| G1351 | Putt Putt Golf 3D | docs/PuttPuttGolf3D_20260817_2232.md | 2026-08-17 22:32 |
+| G1352 | Ozone | docs/Ozone_20260817_2232.md | 2026-08-17 22:32 |
+| G1353 | Hungry Shark | docs/HungryShark_20260817_2232.md | 2026-08-17 22:32 |
+| G1354 | Coconut Dodge | docs/CoconutDodge_20260817_2232.md | 2026-08-17 22:32 |
+| G1355 | Uno HD | docs/UnoHD_20260817_2232.md | 2026-08-17 22:32 |
+| G1356 | Plants vs Zombies HD | docs/PlantsvsZombiesHD_20260817_2232.md | 2026-08-17 22:32 |
+| G1357 | Parachute Panic HD | docs/ParachutePanicHD_20260817_2232.md | 2026-08-17 22:32 |
+| G1358 | Doodle Kart | docs/DoodleKart_20260817_2232.md | 2026-08-17 22:32 |
+| G1359 | Cocoto Magic Circus | docs/CocotoMagicCircus_20260817_2232.md | 2026-08-17 22:32 |
+| S283 | PocketGamer Game Finder Page 119 | https://www.pocketgamer.com/game-finder/page/119/0_all_0_1_1/ | 10 | 2026-08-17 22:32 |
+| S284 | PocketGamer Game Finder Page 120 | https://www.pocketgamer.com/game-finder/page/120/0_all_0_1_1/ | 10 | 2026-08-17 22:32 |
+| S285 | PocketGamer Game Finder Page 121 | https://www.pocketgamer.com/game-finder/page/121/0_all_0_1_1/ | 10 | 2026-08-17 22:32 |
 |---|---|---|---|---|
 
 | S268 | PocketGamer Game Finder Page 104 | https://www.pocketgamer.com/game-finder/page/104/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
