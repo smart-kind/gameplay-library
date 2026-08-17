@@ -4,8 +4,11 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S270 | PocketGamer Game Finder Page 106 | https://www.pocketgamer.com/game-finder/page/106/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
+| S271 | PocketGamer Game Finder Page 107 | https://www.pocketgamer.com/game-finder/page/107/0_all_0_1_1/ | 25 | 2026-08-17 05:53 |
+| S272 | PocketGamer Game Finder Page 108 | https://www.pocketgamer.com/game-finder/page/108/0_all_0_1_1/ | 25 | 2026-08-17 05:53 |
+| S273 | PocketGamer Game Finder Page 109 | https://www.pocketgamer.com/game-finder/page/109/0_all_0_1_1/ | 25 | 2026-08-17 05:53 |
 
+| S270 | PocketGamer Game Finder Page 106 | https://www.pocketgamer.com/game-finder/page/106/0_all_0_1_1/ | 25 | 2026-08-17 05:53 |
 
 ## Sources Processing（处理中）
 
@@ -19,6 +22,9 @@
 | S268 | PocketGamer Game Finder Page 104 | https://www.pocketgamer.com/game-finder/page/104/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
 | S269 | PocketGamer Game Finder Page 105 | https://www.pocketgamer.com/game-finder/page/105/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
 | S270 | PocketGamer Game Finder Page 106 | https://www.pocketgamer.com/game-finder/page/106/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
+| S271 | PocketGamer Game Finder Page 107 | https://www.pocketgamer.com/game-finder/page/107/0_all_0_1_1/ | 10 | 2026-08-17 05:53 |
+| S272 | PocketGamer Game Finder Page 108 | https://www.pocketgamer.com/game-finder/page/108/0_all_0_1_1/ | 0 | 2026-08-17 05:53 |
+| S273 | PocketGamer Game Finder Page 109 | https://www.pocketgamer.com/game-finder/page/109/0_all_0_1_1/ | 0 | 2026-08-17 05:53 |
 
 
 | G1250 | 9 Hours, 9 Persons, 9 Doors | docs/9Hours9Persons9Doors_20260816_2250.md | 1 | 2026-08-16 22:50 |
@@ -31,6 +37,16 @@
 | G1257 | Surveillant | docs/Surveillant_20260816_2250.md | 1 | 2026-08-16 22:50 |
 | G1258 | PDC World Darts Championship 2011 | docs/PDCWorldDartsChampionship2011_20260816_2250.md | 1 | 2026-08-16 22:50 |
 | G1259 | Prinny 2: Dawn of Operation Panties, Dood! | docs/Prinny2DawnOfOperationPantiesDood_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1260 | Manage Your Football Club 2011 | docs/ManageYourFootballClub2011_20260817_0553.md | 1 | 2026-08-17 05:53 |
+| G1261 | Space Hedgehogs vs. Space Cacti | docs/SpaceHedgehogsvsSpaceCacti_20260817_0553.md | 1 | 2026-08-17 05:53 |
+| G1262 | Super Stickman Golf | docs/SuperStickmanGolf_20260817_0553.md | 1 | 2026-08-17 05:53 |
+| G1263 | NOM: Billion Year Timequest | docs/NOMBillionYearTimequest_20260817_0553.md | 1 | 2026-08-17 05:53 |
+| G1264 | Block Breaker 3 Unlimited | docs/BlockBreaker3Unlimited_20260817_0553.md | 1 | 2026-08-17 05:53 |
+| G1265 | Game Chest: Solitaire | docs/GameChestSolitaire_20260817_0553.md | 1 | 2026-08-17 05:53 |
+| G1266 | Gish Reloaded | docs/GishReloaded_20260817_0553.md | 1 | 2026-08-17 05:53 |
+| G1267 | Bingo Blaster | docs/BingoBlaster_20260817_0553.md | 1 | 2026-08-17 05:53 |
+| G1268 | Glow Artisan | docs/GlowArtisan_20260817_0553.md | 1 | 2026-08-17 05:53 |
+| G1269 | Butterfly | docs/Butterfly_20260817_0553.md | 1 | 2026-08-17 05:53 |
 
 ## Games Archived（本轮新增）
 
@@ -46,6 +62,16 @@
 | G1257 | Surveillant | docs/Surveillant_20260816_2250.md | 2026-08-16 22:50 |
 | G1258 | PDC World Darts Championship 2011 | docs/PDCWorldDartsChampionship2011_20260816_2250.md | 2026-08-16 22:50 |
 | G1259 | Prinny 2: Dawn of Operation Panties, Dood! | docs/Prinny2DawnOfOperationPantiesDood_20260816_2250.md | 2026-08-16 22:50 |
+| G1260 | Manage Your Football Club 2011 | docs/ManageYourFootballClub2011_20260817_0553.md | 2026-08-17 05:53 |
+| G1261 | Space Hedgehogs vs. Space Cacti | docs/SpaceHedgehogsvsSpaceCacti_20260817_0553.md | 2026-08-17 05:53 |
+| G1262 | Super Stickman Golf | docs/SuperStickmanGolf_20260817_0553.md | 2026-08-17 05:53 |
+| G1263 | NOM: Billion Year Timequest | docs/NOMBillionYearTimequest_20260817_0553.md | 2026-08-17 05:53 |
+| G1264 | Block Breaker 3 Unlimited | docs/BlockBreaker3Unlimited_20260817_0553.md | 2026-08-17 05:53 |
+| G1265 | Game Chest: Solitaire | docs/GameChestSolitaire_20260817_0553.md | 2026-08-17 05:53 |
+| G1266 | Gish Reloaded | docs/GishReloaded_20260817_0553.md | 2026-08-17 05:53 |
+| G1267 | Bingo Blaster | docs/BingoBlaster_20260817_0553.md | 2026-08-17 05:53 |
+| G1268 | Glow Artisan | docs/GlowArtisan_20260817_0553.md | 2026-08-17 05:53 |
+| G1269 | Butterfly | docs/Butterfly_20260817_0553.md | 2026-08-17 05:53 |
 
 
 || G1249 | Tactical Soldier: Undead Rising | docs/TacticalSoldierUndeadRising_20260816_2111.md | 2026-08-16 21:11 |
@@ -1200,6 +1226,7 @@
 
 ## Execution Log
 | R073 | 2026-08-16 22:50 | 手动发现3来源S268-S270(P104-P106)共75款游戏名，为10款生成文档G1250-G1259(均≥50行)，graphify 11952nodes/10809edges |
+| R077 | 2026-08-17 05:53 | 手动发现3来源S271-S273(P107-P109)共75款游戏名，为10款生成文档G1260-G1269(均53行)，来源: PocketGamer P107，S270标记为已处理 |
 || R061 | 2026-08-15 23:04 | DDG被CAPTCHA阻止，PocketGamer P95+页面JS渲染无法提取，无新来源。处理10款Games Pending(G991-G1000)，产出10份文档(均≥50行)，来源: PocketGamer P77 + Wikipedia
 ||| R064 | 2026-08-16 06:00 | DDG被CAPTCHA阻止，处理10个来源(G1108-G1117)
 || R059 | 2026-08-15 19:31 | DDG被CAPTCHA阻止，手动发现3来源(S256-S258 P92-P94)，14款游戏文档(G1021,G1022,G1024,G1028,G1034,G1037,G1041,G1042,G1054,G1059,G037,G049,G054,G059) |
