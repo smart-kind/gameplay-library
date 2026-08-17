@@ -1309,4 +1309,5 @@
 | 2026-08-16 06:08 | (R065: 处理10个Sources Pending G1118-G1127, 产出10款游戏文档G1179-G1188, 剩余41个Sources Pending) | 0 | 10 (G1118-G1127) | 10 | 10 (G1179-G1188) | 0 |
 | 2026-08-16 07:50 | (R066: 处理10个Sources Pending G1128-G1137, 产出9款游戏文档, 1个失败G1134-404, 剩余41个Sources Pending) | 0 | 10 (G1128-G1137) | 9 | 9 (G1128-G1137) | 1 (G1134-404) |
 || 2026-08-16 20:00 | (R071: 手动发现3来源S265-S267 P101-P103共75款游戏, 为10款生成详细文档G1230-G1239, 均≥50行) | 3 (S265-S267) | 3 (S265-S267) | 75 | 10 (G1230-G1239) | 0 |
-|| 2026-08-17 11:00 | (R079: 无新来源(DDG CAPTCHA/PG Cloudflare), 处理3款Pending游戏产出文档, 4款无足够资料跳过) | 0 | 0 | 0 | 3 (TwinGo/QuellReflect/BrainChallenge4) | 4 (资料不足跳过) |
+||| 2026-08-17 11:00 | (R079: 无新来源(DDG CAPTCHA/PG Cloudflare), 处理3款Pending游戏产出文档, 4款无足够资料跳过) | 0 | 0 | 0 | 3 (TwinGo/QuellReflect/BrainChallenge4) | 4 (资料不足跳过) |
+||| 2026-08-17 12:40 | (R081: 无新来源(DDG CAPTCHA/PG Cloudflare), 清理stale条目, 验证Games Pending全部已有文档) | 0 | 0 | 0 | 0 | 0 |
