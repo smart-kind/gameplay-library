@@ -199,4 +199,387 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-13 03:00] [R029] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S120-S122)，产出76款游戏名，选择30款生成文档
 [2026-08-13 03:00] [R029] [Phase 4: Process Games] ✅ 完成 — 处理30款游戏(G324-G353)，产出30份文档(iTunes+Wikipedia)，0个失败
 [2026-08-13 03:00] [R029] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
-[2026-08-13 03:00] [R029] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
+[2026-08-13 07:00] [R030] [Phase 2: Discover] ✅ 完成 — 手动发现4个新来源(S123-S126)，PocketGamer Game Finder 17-20
+
+## 2026-08-13
+
+[2026-08-13 04:37] [R031] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=4, Processing=0, Archived=107+
+[2026-08-13 04:47] [R031] [Phase 2: Discover] ✅ 完成 — 搜索3组关键词(DDG)，发现11个候选URL，去重后加入6个新来源(S127-S132)
+[2026-08-13 04:47] [R031] [Phase 3: Process Sources] ✅ 完成 — 处理8个来源(S123-S130)，提取194款游戏名(7页PocketGamer各25款+ENEBА19款)，产出10款文档(G354-G363)，2来源失败(S131/S132 Reddit JS渲染)
+[2026-08-13 04:47] [R031] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空（游戏文档已由Phase 3直接生成）
+[2026-08-13 04:47] [R031] [Phase 5: Graphify] ⏭️ 跳过 — graphify 工具不可用
+[2026-08-13 04:47] [R031] [Phase 6: Update Log] ✅ 完成 — task-queue.md 已更新
+[2026-08-13 04:47] [R031] [Phase 7: Git Push] ⏭️ 跳过 — 待确认
+[2026-08-13 06:26] [R032] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=135+
+[2026-08-13 06:26] [R032] [Phase 2: Discover] ⚠️ 部分完成 — DDG被CAPTCHA阻止，改用PocketGamer Game Finder直接发现3来源S133-S135(75款游戏)
+[2026-08-13 06:26] [R032] [Phase 3: Process Sources] ✅ 完成 — 处理3来源S133-S135，提取75款游戏名(iTunes API匹配29/30)，为16款生成文档(G364-G379)
+[2026-08-13 06:26] [R032] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-13 06:26] [R032] [Phase 5: Graphify] ⏭️ 跳过 — graphify可用但文档生成耗时较长，留待下次执行
+[2026-08-13 06:26] [R032] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+[2026-08-13 06:26] [R032] [Phase 7: Git Push] ✅ 完成 — commit成功
+
+## 2026-08-13
+
+|[2026-08-13 09:56] [R033] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=2, Processing=0, Archived=140+
+|[2026-08-13 09:56] [R033] [Phase 2: Discover] ✅ 完成 — 手动发现2个来源(S143/S144 PocketGamer P28/P29)
+|[2026-08-13 09:56] [R033] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S141成功9款,S142失败模板文章,S143/S144归档25款游戏名)
+|[2026-08-13 09:56] [R033] [Phase 4: Process Games] ✅ 完成 — 处理34款游戏(G380-G413)，全部≥50行，0个失败(iTunes API匹配32/34)
+|[2026-08-13 09:56] [R033] [Phase 5: Graphify] ✅ 完成 — 5964 nodes, 5408 edges, 576 communities
+|[2026-08-13 09:56] [R033] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-13 09:56] [R033] [Phase 7: Git Push] ✅ 完成 — commit成功(194 files, +134618 lines)，push成功
+
+|[2026-08-13 13:00] [R034] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=2, Processing=0, Archived=142
+
+|[2026-08-13 13:00] [R034] [Phase 2: Discover] ✅ 完成 — DuckDuckGo CAPTCHA阻止搜索，改用PocketGamer Game Finder手动发现2个来源(S145/S146 P30/P31)
+
+|[2026-08-13 13:00] [R034] [Phase 3: Process Sources] ✅ 完成 — 处理2个来源(S145/S146)，提取50款游戏名，为10款生成文档(G414-G423)
+
+|[2026-08-13 13:00] [R034] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+
+|[2026-08-13 13:00] [R034] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+
+|[2026-08-13 13:00] [R034] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+
+|[2026-08-13 13:00] [R034] [Phase 7: Git Push] ✅ 完成 — commit成功
+
+## 2026-08-13
+|[2026-08-13 13:15] [R035] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=2, Processing=0, Archived=142+
+
+|[2026-08-13 13:23] [R035] [Phase 2: Discover] ✅ 完成 — 搜索3组关键词(DuckDuckGo)，发现7个新来源(S147-S153)
+
+|[2026-08-13 13:23] [R035] [Phase 3: Process Sources] ✅ 完成 — 处理7个来源(S147-S153)，提取70+款游戏名，为10款生成文档(G380-G389)，1个失败(S151 JS渲染)
+
+|[2026-08-13 13:23] [R035] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+
+|[2026-08-13 13:23] [R035] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+
+|[2026-08-13 13:23] [R035] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+
+|[2026-08-13 13:23] [R035] [Phase 7: Git Push] ✅ 完成 — commit成功(12 files, +559 lines)，push成功
+
+## 2026-08-13
+
+|[2026-08-13 15:12] [R036] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0(清理 stale 条目), Processing=0, Archived=145+
+|[2026-08-13 15:12] [R036] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S154-S156 PocketGamer P32/P33/P34)
+|[2026-08-13 15:12] [R036] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S154-S156)，提取75款游戏名，为10款生成文档(G424-G433)，全部≥50行
+|[2026-08-13 15:12] [R036] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-13 15:12] [R036] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-13 15:12] [R036] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-13 15:12] [R036] [Phase 7: Git Push] ✅ 完成 — commit成功
+
+|[2026-08-13 16:44] [R037] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0(清理5个stale条目), Processing=0, Archived=148+
+|[2026-08-13 16:44] [R037] [Phase 2: Discover] ✅ 完成 — DDG被CAPTCHA阻止，手动发现3个来源(S157-S159 PocketGamer P35/P36/P37)
+|[2026-08-13 16:44] [R037] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S157-S159)，提取75款游戏名(iTunes API匹配9款)，为9款生成文档(G434-G442)，全部≥50行
+|[2026-08-13 16:44] [R037] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-13 16:44] [R037] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-13 16:44] [R037] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(清理5个stale Pending条目，新增3个来源S157-S159，9款游戏G434-G442)
+|[2026-08-13 16:52] [R037] [Phase 7: Git Push] ✅ 完成 — commit成功(11 files, +519 lines)，push成功
+
+|[2026-08-13 20:00] [R038] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=148+
+
+|[2026-08-13 20:00] [R038] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S160-S162 PocketGamer P38/P39/P40)
+
+|[2026-08-13 20:00] [R038] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S160-S162)，提取75款游戏名，为30款生成文档(G443-G472)，全部≥50行
+
+|[2026-08-13 20:00] [R038] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+
+|[2026-08-13 20:00] [R038] [Phase 5: Graphify] ✅ 完成 — 6669 nodes, 6044 edges, 645 communities
+
+|[2026-08-13 20:00] [R038] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(新增3个来源S160-S162，30款游戏G443-G472)
+
+|[2026-08-13 20:00] [R038] [Phase 7: Git Push]
+
+|[2026-08-13 20:00] [R038] [Phase 7: Git Push] ✅ 完成 — commit成功(38 files, +17230 lines)，push成功
+
+|[2026-08-13 23:00] [R039] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=151+, Games Archived=472
+
+|[2026-08-13 23:00] [R039] [Phase 2: Discover] ✅ 完成 — 搜索3组关键词(DuckDuckGo)，发现5个新来源(S163-S167)
+
+|[2026-08-13 23:00] [R039] [Phase 3: Process Sources] ✅ 完成 — 处理5个来源(S163-S167)，1个失败(S163 GameSpot JS渲染)，产出12款游戏文档(G473-G484)，全部≥50行
+
+|[2026-08-13 23:00] [R039] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+
+|[2026-08-13 23:00] [R039] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+
+|[2026-08-13 23:00] [R039] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(新增5来源S163-S167，12款游戏G473-G484)
+
+|[2026-08-13 23:00] [R039] [Phase 7: Git Push] ✅ 完成 — commit成功(124 files, +46094/-81 lines)，push成功
+
+## 2026-08-14
+| [2026-08-14 02:59] [R040] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=176+
+| [2026-08-14 02:59] [R040] [Phase 2: Discover] ✅ 完成 — 静态发现3个来源(S174-S176)，共75款游戏
+| [2026-08-14 02:59] [R040] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S174-S176)，提取75款游戏，30款进入Phase 4处理，45款留Pending
+| [2026-08-14 02:59] [R040] [Phase 4: Process Games] ✅ 完成 — 处理30款游戏(G495-G569)，0个失败
+| [2026-08-14 02:59] [R040] [Phase 5: Graphify] ✅ 完成 — Re-extracting code files in . (no LLM needed)...
+|[2026-08-14 04:34] [R041] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=179, Games=569
+|[2026-08-14 04:34] [R041] [Phase 2: Discover] ⚠️ DDG被CAPTCHA阻止，手动发现3个来源(S177-S179 PocketGamer P50/P51/P52)
+|[2026-08-14 04:34] [R041] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S177-S179)，提取75款游戏名，为11款生成文档(G570-G580)，全部≥50行
+|[2026-08-14 04:34] [R041] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-14 04:34] [R041] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-14 04:34] [R041] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-14 04:34] [R041] [Phase 7: Git Push] ✅ 完成 — commit成功(13 files, +515 lines)，push成功
+## 2026-08-14
+
+|[2026-08-14 06:19] [R042] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=179, Games=580
+|[2026-08-14 06:19] [R042] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S180-S182 PocketGamer P53/P54/P55)
+|[2026-08-14 06:19] [R042] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S180-S182)，提取75款游戏名，为30款生成文档(G581-G610)，全部≥50行
+|[2026-08-14 06:19] [R042] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-14 06:19] [R042] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-14 06:19] [R042] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-14 06:19] [R042] [Phase 7: Git Push] ✅ 完成 — commit成功
+
+## 2026-08-14
+
+|[2026-08-14 09:51] [R043] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3, Processing=0, Archived=179, Games=610
+|[2026-08-14 09:51] [R043] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources=3(将处理)但Pending<5本应搜索，DuckDuckGo CAPTCHA阻止，优先处理Pending来源
+|[2026-08-14 09:51] [R043] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S183-S185 PocketGamer P56-P58)，提取75款游戏名，为10款生成文档(G611-G620)，全部≥50行
+|[2026-08-14 09:51] [R043] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-14 09:51] [R043] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-14 09:51] [R043] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(新增3来源S183-S185，10款游戏G611-G620)
+|[2026-08-14 09:51] [R043] [Phase 7: Git Push] ✅ 完成 — commit成功
+
+## 2026-08-14
+
+|[2026-08-14 12:58] [R044] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=185+, Games=620
+|[2026-08-14 12:58] [R044] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S186-S188)，共81款游戏(PocketGamer P59/P60/P61)
+|[2026-08-14 12:58] [R044] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S186-S188)，提取81款游戏名，为30款生成文档(G621-G650)，全部≥50行
+|[2026-08-14 12:58] [R044] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-14 12:58] [R044] [Phase 5: Graphify] ✅ 完成 — 8115 nodes, 7342 edges, 793 communities
+|[2026-08-14 12:58] [R044] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(新增3来源S186-S188，30款游戏G621-G650)
+|[2026-08-14 12:58] [R044] [Phase 7: Git Push] ✅ 完成 — commit成功(130 files, +33877/-78 lines)，push成功
+
+## 2026-08-14
+
+|[2026-08-14 17:00] [R045] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=188+, Games=650
+|[2026-08-14 17:00] [R045] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S189-S191)，共24款游戏(PocketGamer P62/P63/P64)
+|[2026-08-14 17:00] [R045] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S189-S191)，提取24款游戏名，为10款生成文档(G651-G660)，全部≥50行
+|[2026-08-14 17:00] [R045] [Phase 4: Process Games] ⏭️ 跳过 — G621-G650(前轮Pending)已全部有文档，已移入Archived；14款新游戏(G661-G674)留待下轮处理
+|[2026-08-14 17:00] [R045] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-14 17:00] [R045] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(新增3来源S189-S191，30款G621-G650移入Archived，14款G651-G664加入Pending，10款新文档)
+|[2026-08-14 17:00] [R045] [Phase 7: Git Push] ✅ 完成 — commit成功
+
+## 2026-08-14
+
+|[2026-08-14 15:14] [R046] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3(S189-S191), Processing=0, Archived=191+, Games=664
+|[2026-08-14 15:14] [R046] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources=3(处理中)
+|[2026-08-14 15:14] [R046] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S189-S191)，提取48款游戏名(26+26+22)，为13款生成文档(G651-G663，G663/Ronin已存在文档)，22款新游戏加入Pending(G665-G686)
+|[2026-08-14 15:14] [R046] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-14 15:14] [R046] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-14 15:14] [R046] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-14 15:14] [R046] [Phase 7: Git Push] ✅ 完成 — commit成功(15 files, +797/-43 lines)，push成功
+
+## 2026-08-14
+
+|[2026-08-14 20:00] [R047] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3(S189-S191已处理), Processing=0, Archived=191+, Games=664
+|[2026-08-14 20:00] [R047] [Phase 2: Discover] ⏭️ 跳过 — MCP wigolo_search不可用，Pending Sources已在上轮处理
+|[2026-08-14 20:00] [R047] [Phase 3: Process Sources] ⏭️ 跳过 — Pending Sources已处理
+|[2026-08-14 20:00] [R047] [Phase 4: Process Games] ✅ 完成 — 处理22款游戏(G665-G686)，产出22份文档(均≥50行)，来源: PocketGamer+Wikipedia+iTunes API
+|[2026-08-14 20:00] [R047] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-14 20:00] [R047] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(22款游戏G665-G686移入Archived)
+||[2026-08-14 20:00] [R047] [Phase 7: Git Push] ✅ 完成 — commit成功(24 files, +1547 lines)，push成功
+
+## 2026-08-14
+
+|[2026-08-14 18:41] [R048] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=191+, Games=686
+|[2026-08-14 18:41] [R048] [Phase 2: Discover] ⚠️ 部分完成 — DDG被CAPTCHA阻止，手动发现3个来源(S192-S194 PocketGamer P65/P66/P67)
+|[2026-08-14 18:41] [R048] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S192-S194)，提取75款游戏名(每页25款)，为10款生成文档(G687-G696 RPGAlphadia2/ToxicCow2/Spaceteam/PuzzleAndDragons/Monotaur/ContractKiller2/BuildALot3/KnightsOfPenPaper/FlowFreeBridges/GearJack)，全部≥50行
+|[2026-08-14 18:41] [R048] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-14 18:41] [R048] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-14 18:41] [R048] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(新增3来源S192-S194，10款游戏G687-G696)
+|[2026-08-14 21:30] [R049] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3(S192-S194), Processing=0, Archived=191+, Games=686
+|[2026-08-14 21:30] [R049] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources=3(<5 但已存在)，MCP wigolo_search 不可用
+|[2026-08-14 21:30] [R049] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S192-S194)，提取75款游戏名(25+25+25)，为10款生成文档(G687-G696)，65款新游戏加入Pending(G697-G761)
+|[2026-08-14 21:30] [R049] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-14 21:30] [R049] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-14 21:30] [R049] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-14 21:30] [R049] [Phase 7: Git Push] ✅ 完成 — commit成功(12 files, +572 lines)，push成功
+
+## 2026-08-14
+
+|[2026-08-14 22:13] [R050] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=194+, Games=706
+|[2026-08-14 22:13] [R050] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S195-S197 PocketGamer P68/P69/P70)
+|[2026-08-14 22:13] [R050] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S195-S197)，提取75款游戏名，为10款生成文档(G707-G716)，全部≥50行
+|[2026-08-14 22:13] [R050] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-14 22:13] [R050] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-14 22:13] [R050] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(新增3来源S195-S197，10款游戏G707-G716，75款新游戏G766-G840加入Pending)
+|[2026-08-14 22:13] [R050] [Phase 7: Git Push] ✅ 完成 — commit成功
+
+## 2026-08-14
+
+|[2026-08-14 23:46] [R051] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=197+, Games Pending=124(G717-G840), Games Archived=706
+|[2026-08-14 23:46] [R051] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S198-S200 PocketGamer P71/P72/P73)，提取75款游戏名
+|[2026-08-14 23:59] [R051] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S198-S200)，提取75款游戏名(G841-G915)，0个失败
+|[2026-08-14 23:59] [R051] [Phase 4: Process Games] ✅ 完成 — 处理30款游戏(G717-G746)，产出30份文档(均≥50行)，来源: PocketGamer+iTunes API
+|[2026-08-15 00:00] [R051] [Phase 5: Graphify] ✅ 完成 — 9193 nodes, 8316 edges, 897 communities
+|[2026-08-15 00:00] [R051] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-15 00:04] [R051] [Phase 7: Git Push] ✅ 完成 — commit成功(152 files, +204750 lines)，push成功
+
+|[2026-08-15 05:08] [R052] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3(S204-S206), Processing=0, Archived=197+, Games Pending=150(G717-G990), Games Archived=840
+|[2026-08-15 05:08] [R052] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S207-S209 PocketGamer P80/P81/P82)
+|[2026-08-15 05:25] [R052] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S204-S206/P77-P79)，提取75款游戏名，为10款生成文档(G991-G1000)，全部≥50行，0个失败
+|[2026-08-15 05:25] [R052] [Phase 4: Process Games] ⏭️ 跳过 — 75款新游戏(G991-G1065)加入Pending留待下轮处理；G841-G990留待后续处理
+|[2026-08-15 05:25] [R052] [Phase 5: Graphify] ✅ 完成 — 9397 nodes, 8500 edges, 917 communities
+|[2026-08-15 05:25] [R052] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-15 05:25] [R052] [Phase 7: Git Push] ✅ 完成 — commit成功(44 files, +28998/-407 lines)
+
+|[2026-08-15 07:00] [R053] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3(S207-S209), Processing=0, Archived=200+, Games Pending=75(G991-G1065), Games Archived=1000
+|[2026-08-15 07:00] [R053] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources=3(<5 但存在)，MCP wigolo_search 不可用，优先处理Pending来源
+|[2026-08-15 07:00] [R053] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S207-S209/P80-P82)，提取75款游戏名，为10款生成文档(Zombiewood/SuperLemonadeFactory/PlantsWar/Lightopus/TrainCrisisHD/WingsofFury/CocoLoco/FunMinigolfTouch/StormStrikers/WormsReloaded)，全部≥50行，0个失败
+|[2026-08-15 07:00] [R053] [Phase 4: Process Games] ⏭️ 跳过 — 75款新游戏(G991-G1065)中G991-G1000已归档，剩余G1001-G1065留待下轮处理；本轮10款文档已由Phase 3直接生成
+|[2026-08-15 07:00] [R053] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-15 07:00] [R053] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-15 08:43] [R054] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=203+, Games Pending=65(G1001-G1065), Games Archived=1000
+|[2026-08-15 08:43] [R054] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S210-S212 PocketGamer P83/P84/P85)
+|[2026-08-15 08:43] [R054] [Phase 3: Process Sources] ⏭️ 跳过 — Pending Sources 为空（新来源S210-S212留待下轮处理）
+|[2026-08-15 08:43] [R054] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(G1001-G1010)，产出10份文档(均≥50行)，来源: PocketGamer+iTunes API
+|[2026-08-15 08:43] [R054] [Phase 5: Graphify] ✅ 完成 — 9597 nodes, 8680 edges, 937 communities
+|[2026-08-15 08:43] [R054] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(10款游戏G1001-G1010移入Archived，3新来源S210-S212加入Pending)
+|[2026-08-15 08:43] [R054] [Phase 7: Git Push] ✅ 完成 — commit成功(45 files, +9546/-119 lines), push成功
+
+|[2026-08-15 10:00] [R055] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3, Processing=0, Archived=203+, Games Pending=55, Games Archived=1010
+|[2026-08-15 10:00] [R055] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S213-S215 PocketGamer P86/P87/P88)，MCP wigolo_search不可用
+|[2026-08-15 10:00] [R055] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S210-S212 P83-P85)，归档75款游戏名(iTunes API不可用，Wikipedia匹配2/10)，0个失败
+|[2026-08-15 10:00] [R055] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(G1011-G1020)，产出10份文档(全部≥47行)，来源: PocketGamer+Wikipedia
+|[2026-08-15 10:00] [R055] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-15 10:00] [R055] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-15 10:00] [R055] [Phase 7: Git Push] ✅ 完成 — commit成功(12 files, +515/-22 lines)，push成功
+[2026-08-15 13:00] [R056] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3, Processing=9(stale), Archived=203+, GamesPending=75, GamesArchived=1020
+[2026-08-15 14:27] [R057] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3, Processing=9(stale), Archived=203+, GamesPending=45, GamesArchived=1075
+[2026-08-15 14:27] [R057] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 3 已存在，优先处理Pending
+[2026-08-15 14:27] [R057] [Phase 3: Process Sources] ✅ 完成 — 处理12个来源(S216-S218新+S198-S206 stale)，提取75+225=300款游戏名，产出12款游戏文档(G1076-G1087: SuperMonkeyBall/Frogger/Espgaluda/GargoylesQuest/FarmFrenzy/MonstersAteMyCondo/CivilizationRevolution/PocketGod/AirportMania/UrbanChampion/WarspearOnline/JellyDefense)，全部≥50行，0个失败
+[2026-08-15 14:27] [R057] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending(G1021-G1065共45款)留待下轮处理；本轮12款文档已由Phase 3直接生成
+[2026-08-15 14:27] [R057] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+[2026-08-15 14:27] [R057] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(12来源S216-S218+S198-S206移入Archived，12款游戏G1076-G1087移入Archived)
+[2026-08-15 17:47] [R058] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=37, Processing=0, Archived=203+
+[2026-08-15 17:47] [R058] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (37个)
+[2026-08-15 17:47] [R058] [Phase 3: Process Sources] ✅ 完成 — 处理37个来源，3个成功(S220/S221/S223 Kongregate Action/Puzzle/Strategy各50款游戏)，产出10款游戏文档(G1088-G1097)，34个失败(404/403/JS渲染/编码异常)
+[2026-08-15 17:47] [R058] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending文档已由Phase 3直接生成
+[2026-08-15 17:47] [R058] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+[2026-08-15 17:47] [R058] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3来源归档, 34来源失败, 10款游戏G1088-G1097)
+[2026-08-15 17:47] [R058] [Phase 7: Git Push] ✅ 完成 — commit成功(24 files, +1181 lines), push成功
+[2026-08-15 19:31] [R059] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=206+, Games Pending=~55(G991-G1000,G1021-G1065无文档)
+[2026-08-15 19:31] [R059] [Phase 2: Discover] ✅ 完成 — DDG被CAPTCHA阻止，手动发现3个来源(S256-S258 PocketGamer P92/P93/P94)，各25款游戏
+[2026-08-15 19:31] [R059] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S256-S258 P92-P94)，提取75款游戏名，产出14款游戏文档(G1021/G1022/G1024/G1028/G1034/G1037/G1041/G1042/G1054/G1059+G037/G049/G054/G059)，全部≥50行，0个失败
+[2026-08-15 19:31] [R059] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-15 19:31] [R059] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+[2026-08-15 19:40] [R059] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S256-S258，14款游戏文档)
+[2026-08-15 19:40] [R059] [Phase 7: Git Push] ✅ 完成 — commit成功(16 files, +832/-18 lines)，push成功
+|[2026-08-15 21:20] [R060] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3(S256-S258), Processing=0, Archived=209+, Games Pending=~55, Games Archived=1097
+|[2026-08-15 21:20] [R060] [Phase 2: Discover] ⏭️ 跳过 — DDG被CAPTCHA阻止，优先处理Pending来源
+|[2026-08-15 21:20] [R060] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S256-S258 P92-P94)，提取75款游戏名，为10款生成文档(jukebeat,Pickpawcket,Spacelings)，全部≥50行，0个失败
+|[2026-08-15 21:20] [R060] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-15 21:20] [R060] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-15 21:20] [R060] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S256-S258移入Archived，10款新文档)
+|[2026-08-15 21:21] [R060] [Phase 7: Git Push] ✅ 完成 — commit成功(108 files, +23501/-118 lines)，push成功 
+
+|[2026-08-15 23:04] [R061] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=209+, Games Pending=29, Games Archived=1107
+|[2026-08-15 23:04] [R061] [Phase 2: Discover] ⏭️ 跳过 — DDG被CAPTCHA阻止，PocketGamer P95+页面JS渲染无法静态提取，无新来源
+|[2026-08-15 23:04] [R061] [Phase 3: Process Sources] ⏭️ 跳过 — Pending Sources 为空
+|[2026-08-15 23:04] [R061] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(G991-G1000)，产出10份文档(均≥50行)，来源: PocketGamer P77 + Wikipedia
+|[2026-08-15 23:04] [R061] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-15 23:04] [R061] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(10款游戏G991-G1000移入Archived)
+|[2026-08-16 00:40] [R062] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S259-S261 PocketGamer P95/P96/P97)，共75款游戏，DDG被CAPTCHA阻止
+|[2026-08-16 00:40] [R062] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S259-S261)，提取75款游戏名(G1108-G1168)，为13款生成文档(PaperRacer/KirbysDreamLand/Cars2/DonkeyKong/TinyTower/Wordfeud/Galaga/Avadon/Naruto/MonsterSoup/DanmakuUnlimited/SamanthaSwift/TowerRaiders2)，全部≥50行，62款加入Games Pending
+|[2026-08-16 00:40] [R062] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending(G1023-G1065无文档+新游戏G1108-G1168)留待下轮处理；本轮13款文档已由Phase 3直接生成
+|[2026-08-16 00:40] [R062] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-16 00:40] [R062] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S259-S261，13款新文档G1108-G1120，62款新游戏Pending)
+
+|[2026-08-16 03:00] [R063] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=61(G1108-G1168), Processing=0, Archived=261+, Games Pending~30无文档
+|[2026-08-16 03:00] [R063] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (61个)
+|[2026-08-16 03:00] [R063] [Phase 3: Process Sources] ⏭️ 跳过 — Pending Sources 已处理(为游戏列表页)
+|[2026-08-16 03:00] [R063] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(FrontierTowerDefense/Brickzors/Apparatus/WizKidJr/DragonFire/SprintEscape/HertzSmasher/OrbitalDefender/TheGreatJittersPuddingPanic/IonocraftRacing)，产出10份文档(均≥47行)，来源: PocketGamer Review
+|[2026-08-16 03:00] [R063] [Phase 5: Graphify] ✅ 完成 — 10751 nodes, 9718 edges, 1053 communities
+|[2026-08-16 03:00] [R063] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(10款新游戏G1169-G1178移入Archived)
+|[2026-08-16 06:00] [R064] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=61, Processing=0, Archived=261+, Games Pending~48无文档
+|[2026-08-16 06:00] [R064] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (61个)
+|[2026-08-16 06:00] [R064] [Phase 3: Process Sources] ✅ 完成 — 处理10个来源(G1108-G1117)，通过iTunes API+Wikipedia搜索获取游戏信息，产出10款游戏文档，全部≥50行
+|[2026-08-16 06:00] [R064] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-16 06:00] [R064] [Phase 5: Graphify] ✅ 完成 — 10871 nodes, 9826 edges, 1065 communities
+|[2026-08-16 06:00] [R064] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(10来源G1108-G1117移入Archived，10款新文档)
+|[2026-08-16 06:00] [R064] [Phase 7: Git Push] ✅ 完成 — commit成功(36 files, +10398 lines)，push成功
+
+|[2026-08-16 06:08] [R065] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=51, Processing=0, Archived=261+, Games Pending~40无文档, Games Archived=1117
+|[2026-08-16 06:08] [R065] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (51个)，DDG被CAPTCHA阻止
+|[2026-08-16 06:08] [R065] [Phase 3: Process Sources] ✅ 完成 — 处理10个来源(G1118-G1127)，产出10款游戏文档(均≥50行)，来源: PocketGamer+iTunes API
+|[2026-08-16 06:08] [R065] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-16 06:08] [R065] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-16 06:08] [R065] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(10来源G1118-G1127移入Archived，10款新文档G1179-G1188)
+|[2026-08-16 06:08] [R065] [Phase 7: Git Push] ✅ 完成 — commit成功(13 files, +1072/-13 lines)，push成功
+
+|[2026-08-16 07:50] [R066] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=51, Processing=0, Archived=261+, Games Pending~41无文档, Games Archived=1127
+|[2026-08-16 07:50] [R066] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (41个)，DDG被CAPTCHA阻止
+|[2026-08-16 07:50] [R066] [Phase 3: Process Sources] ✅ 完成 — 处理10个来源(G1128-G1137)，通过PocketGamer页面+iTunes API获取游戏信息，产出9款游戏文档(均≥47行)，1个失败(G1134-404)
+|[2026-08-16 07:55] [R066] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(G1023-G1035)，产出1款游戏文档(PathPixJoy，基于iTunes数据)，9个失败(老游戏无可用数据源)
+|[2026-08-16 07:55] [R066] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-16 07:55] [R066] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-16 07:55] [R066] [Phase 7: Git Push] ✅ 完成 — commit成功(12 files, +505/-25 lines)，push成功
+
+|[2026-08-16 10:00] [R067] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=31, Processing=0, Archived=261+, Games Pending~25无文档, Games Archived=1127
+|[2026-08-16 10:00] [R067] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (31个)，DDG被CAPTCHA阻止
+|[2026-08-16 10:00] [R067] [Phase 3: Process Sources] ✅ 完成 — 处理10个来源(G1138-G1147)，通过PocketGamer review页面抓取内容，产出10款游戏文档(均≥64行)，0个失败
+|[2026-08-16 10:00] [R067] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-16 10:00] [R067] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-16 10:00] [R067] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(10来源G1138-G1147移入Archived，10款新文档G1189-G1198)
+|[2026-08-16 10:00] [R067] [Phase 7: Git Push] ✅ 完成 — commit成功(12 files, +682 lines)，push成功
+
+|[2026-08-16 12:42] [R068] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=11, Processing=0, Archived=271+, Games Pending~25无文档, Games Archived=1198
+|[2026-08-16 12:42] [R068] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (11个)，DDG被CAPTCHA阻止
+|[2026-08-16 12:42] [R068] [Phase 3: Process Sources] ✅ 完成 — 处理10个来源(G1148-G1157)，通过PocketGamer review页面元数据+JSON-LD获取游戏信息，产出10款游戏文档(均≥50行)，0个失败
+|[2026-08-16 12:42] [R068] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-16 12:42] [R068] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-16 12:42] [R068] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(10来源G1148-G1157移入Archived，10款新文档G1199-G1208)
+|[2026-08-16 12:42] [R068] [Phase 7: Git Push] ✅ 完成 — commit成功(12 files, +533 lines)，push成功
+
+## 2026-08-16
+
+|[2026-08-16 15:42] [R069] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=11, Processing=0, Archived=271+, Games Pending~25无文档, Games Archived=1208
+|[2026-08-16 16:08] [R065] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=11(G1158-G1168), Processing=0, Archived=281+, Games Pending=~50无文档, Games Archived=1208
+|[2026-08-16 16:08] [R065] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (11个)，DDG被CAPTCHA阻止
+|[2026-08-16 16:08] [R065] [Phase 3: Process Sources] ✅ 完成 — 处理11个来源(G1158-G1168)，通过PocketGamer review页面JSON-LD+元数据获取游戏信息，产出11款游戏文档(均≥50行)，0个失败(My Paper Plane 2 3D从my-paper-plane-2-3d/review/成功获取)
+|[2026-08-16 16:08] [R065] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-16 16:08] [R065] [Phase 5: Graphify] ✅ 完成 — 11528 nodes, 10425 edges, 1124 communities
+|[2026-08-16 16:08] [R065] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(11来源G1158-G1168移入Archived，11款新文档G1209-G1219)
+|[2026-08-16 17:52] [R070] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=281+, Games Archived=1219
+
+|[2026-08-16 17:52] [R070] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources 为空，手动发现3个来源(S262-S264 PocketGamer P98/P99/P100)，共75款游戏，DDG被CAPTCHA阻止
+
+|[2026-08-16 17:52] [R070] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S262-S264 P98-P100)，提取75款游戏名，为10款生成文档(Alien Overkill/Chronicles of Mystery/Angry Hipsters/9 Colonies/EA Cricket 11/Enzos Pinball/Ticket to Ride 2011/Quell/Monopoly 2015/Midnight Mysteries)，全部≥50行，0个失败
+
+|[2026-08-16 17:52] [R070] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+
+|[2026-08-16 17:52] [R070] [Phase 5: Graphify] ✅ 完成 — graphify 执行完成
+
+|[2026-08-16 17:52] [R070] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S262-S264，10款新文档G1220-G1229，75款新游戏加入Pending)
+
+|[2026-08-16 17:52] [R070] [Phase 7: Git Push] ✅ 完成 — commit成功(12 files, +547 lines)，push成功
+
+## 2026-08-16
+|[2026-08-16 20:00] [R071] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=281+, Games Pending≈75+~50 older, Games Archived=1229
+|[2026-08-16 20:00] [R071] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S265-S267 PocketGamer P101/P102/P103)，共75款游戏，DDG被CAPTCHA阻止
+|[2026-08-16 20:00] [R071] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S265-S267 P101-P103)，提取75款游戏名，为10款生成文档，全部≥50行，0个失败
+|[2026-08-16 20:00] [R071] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-16 20:00] [R071] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+|[2026-08-16 20:00] [R071] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S265-S267，10款新文档G1230-G1239，75款新游戏加入Pending)
+|[2026-08-16 20:00] [R071] [Phase 7: Git Push] ✅ 完成 — commit成功，push成功
+[2026-08-16 21:11] [R072] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3, Processing=0, Archived=284+, Games Pending≈150, Games Archived=1239
+[2026-08-16 21:11] [R072] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources=3(<5 但存在)，DDG被CAPTCHA阻止，优先处理Pending
++[2026-08-16 21:11] [R072] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S265-S267 P101-P103)，提取75款游戏名，为10款生成文档(G1240-G1249)，全部≥50行，0个失败
++[2026-08-16 21:11] [R072] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
++[2026-08-16 21:11] [R072] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
++[2026-08-16 21:11] [R072] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3来源S265-S267移入Archived各25款，10款新文档G1240-G1249)
++[2026-08-16 22:50] [R073] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=284+, Games Pending≈75+50 older, Games Archived=1249
++[2026-08-16 22:50] [R073] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S268-S270 PocketGamer P104/P105/P106)，共75款游戏，DDG被CAPTCHA阻止
++[2026-08-16 22:50] [R073] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S268-S270 P104-P106)，提取75款游戏名，为10款生成文档(G1250-G1259: 9Hours9Persons9Doors/DiscDrivin/JewelsOfTheTropicalLostIsland/Shift2/ChocolateTycoon/PlatformanceCastlePain/NewPuzzleBobble/Surveillant/PDCWorldDartsChampionship2011/Prinny2DawnOfOperationPantiesDood)，全部≥50行，0个失败
++[2026-08-16 22:50] [R073] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
++[2026-08-16 22:50] [R073] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
++[2026-08-16 22:50] [R073] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S268-S270，10款新文档G1250-G1259)
++[2026-08-16 22:50] [R073] [Phase 7: Git Push] ✅ 完成 — commit成功(65 files, +25714/-1284 lines)，push成功
+
+[2026-08-17 01:50] [R074] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=1(S270), Processing=0, Archived=287+, Games Pending≈150, Games Archived=1259
+[2026-08-17 03:00] [R075] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=1(S270 stale), Processing=0, Archived=290+, Games Pending≈140, Games Archived=1259
+[2026-08-17 03:00] [R075] [Phase 2: Discover] ⏭️ 跳过 — DDG被CAPTCHA阻止，优先处理Games Pending积压
+[2026-08-17 03:00] [R075] [Phase 3: Process Sources] ⏭️ 跳过 — 无新待处理来源
+[2026-08-17 03:00] [R075] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(G1042-G1048,G1050,G1051,G1059)，产出10份文档(均≥50行)，来源: PocketGamer Review，0个失败
+[2026-08-17 03:00] [R075] [Phase 5: Graphify] ⏭️ 跳过 — graphify工具不可用
+[2026-08-17 03:00] [R075] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+[2026-08-17 03:00] [R075] [Phase 7: Git Push] ✅ 完成 — commit成功(12 files, +540 lines)

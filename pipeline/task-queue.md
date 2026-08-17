@@ -4,10 +4,244 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S270 | PocketGamer Game Finder Page 106 | https://www.pocketgamer.com/game-finder/page/106/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
 
-## Sources Failed（失败）
+
+## Sources Processing（处理中）
+
+| ID | 类型 | 标题 | URL | 开始时间 |
+|---|---|---|---|---|
+
+## Sources Archived（本轮新增）
+| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|---|---|---|---|---|
+
+| S268 | PocketGamer Game Finder Page 104 | https://www.pocketgamer.com/game-finder/page/104/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
+| S269 | PocketGamer Game Finder Page 105 | https://www.pocketgamer.com/game-finder/page/105/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
+| S270 | PocketGamer Game Finder Page 106 | https://www.pocketgamer.com/game-finder/page/106/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
+
+
+| G1250 | 9 Hours, 9 Persons, 9 Doors | docs/9Hours9Persons9Doors_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1251 | Disc Drivin' | docs/DiscDrivin_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1252 | Jewels of the Tropical Lost Island | docs/JewelsOfTheTropicalLostIsland_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1253 | Shift 2 | docs/Shift2_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1254 | Chocolate Tycoon | docs/ChocolateTycoon_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1255 | Platformance: Castle Pain | docs/PlatformanceCastlePain_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1256 | New Puzzle Bobble | docs/NewPuzzleBobble_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1257 | Surveillant | docs/Surveillant_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1258 | PDC World Darts Championship 2011 | docs/PDCWorldDartsChampionship2011_20260816_2250.md | 1 | 2026-08-16 22:50 |
+| G1259 | Prinny 2: Dawn of Operation Panties, Dood! | docs/Prinny2DawnOfOperationPantiesDood_20260816_2250.md | 1 | 2026-08-16 22:50 |
+
+## Games Archived（本轮新增）
+
+| ID | 游戏名 | 文档文件 | 归档时间 |
+|---|---|---|---|
+| G1250 | 9 Hours, 9 Persons, 9 Doors | docs/9Hours9Persons9Doors_20260816_2250.md | 2026-08-16 22:50 |
+| G1251 | Disc Drivin' | docs/DiscDrivin_20260816_2250.md | 2026-08-16 22:50 |
+| G1252 | Jewels of the Tropical Lost Island | docs/JewelsOfTheTropicalLostIsland_20260816_2250.md | 2026-08-16 22:50 |
+| G1253 | Shift 2 | docs/Shift2_20260816_2250.md | 2026-08-16 22:50 |
+| G1254 | Chocolate Tycoon | docs/ChocolateTycoon_20260816_2250.md | 2026-08-16 22:50 |
+| G1255 | Platformance: Castle Pain | docs/PlatformanceCastlePain_20260816_2250.md | 2026-08-16 22:50 |
+| G1256 | New Puzzle Bobble | docs/NewPuzzleBobble_20260816_2250.md | 2026-08-16 22:50 |
+| G1257 | Surveillant | docs/Surveillant_20260816_2250.md | 2026-08-16 22:50 |
+| G1258 | PDC World Darts Championship 2011 | docs/PDCWorldDartsChampionship2011_20260816_2250.md | 2026-08-16 22:50 |
+| G1259 | Prinny 2: Dawn of Operation Panties, Dood! | docs/Prinny2DawnOfOperationPantiesDood_20260816_2250.md | 2026-08-16 22:50 |
+
+
+|| G1249 | Tactical Soldier: Undead Rising | docs/TacticalSoldierUndeadRising_20260816_2111.md | 2026-08-16 21:11 |
+
+
+| G1240 | Combat of Giants: Dinosaurs 3D | docs/CombatofGiantsDinosaurs3D_20260816_2111.md | 2026-08-16 21:11 |
+
+## Games Archived（历史归档）
+
+| ID | 游戏名 | 文档文件 | 归档时间 |
+|---|---|---|---|
+
+## Sources Archived（已处理）
+| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|---|---|---|---|---|
+| G1108 | Paper Racer | https://www.pocketgamer.com/paper-racer/ | 1 | 2026-08-16 06:00 |
+| G1109 | Harry Potter and the Deathly Hallows Part 2 | https://www.pocketgamer.com/harry-potter-and-the-deathly-hallows-part-2/ | 1 | 2026-08-16 06:00 |
+| G1110 | Carp Story | https://www.pocketgamer.com/carp-story/ | 1 | 2026-08-16 06:00 |
+| G1111 | Squirmee Redux | https://www.pocketgamer.com/squirmee-redux/ | 1 | 2026-08-16 06:00 |
+| G1112 | TileStorm HD | https://www.pocketgamer.com/tilestorm-hd/ | 1 | 2026-08-16 06:00 |
+| G1113 | Equilibrium | https://www.pocketgamer.com/equilibrium/ | 1 | 2026-08-16 06:00 |
+| G1114 | Basketball Dunkadelic | https://www.pocketgamer.com/basketball-dunkadelic/ | 1 | 2026-08-16 06:00 |
+| G1115 | Color Bandits | https://www.pocketgamer.com/color-bandits/ | 1 | 2026-08-16 06:00 |
+| G1116 | eBoo Space Adventures | https://www.pocketgamer.com/eboo-space-adventures/ | 1 | 2026-08-16 06:00 |
+| G1117 | Super Ninja Skydiving Plus Zombies | https://www.pocketgamer.com/super-ninja-skydiving-plus-zombies/ | 1 | 2026-08-16 06:00 |
+| G1138 | Scoundrel's Cross | https://www.pocketgamer.com/scoundrels-cross/ | 1 | 2026-08-16 10:00 |
+| G1139 | Infernus: Verse 2 | https://www.pocketgamer.com/infernus-verse-2/ | 1 | 2026-08-16 10:00 |
+| G1140 | Battle Boats 3D | https://www.pocketgamer.com/battle-boats-3d/ | 1 | 2026-08-16 10:00 |
+| G1141 | Crazy Quest Express | https://www.pocketgamer.com/crazy-quest-express/ | 1 | 2026-08-16 10:00 |
+| G1142 | Ultimate Brick Breaker 2 | https://www.pocketgamer.com/ultimate-brick-breaker-2/ | 1 | 2026-08-16 10:00 |
+| G1143 | Jewels of the Ages | https://www.pocketgamer.com/jewels-of-the-ages/ | 1 | 2026-08-16 10:00 |
+| G1144 | Iron Wars | https://www.pocketgamer.com/iron-wars/ | 1 | 2026-08-16 10:00 |
+| G1145 | Pool Break Pro | https://www.pocketgamer.com/pool-break-pro/ | 1 | 2026-08-16 10:00 |
+| G1146 | City of Wonder | https://www.pocketgamer.com/city-of-wonder/ | 1 | 2026-08-16 10:00 |
+| G1147 | Galaxy Bowl | https://www.pocketgamer.com/galaxy-bowl/ | 1 | 2026-08-16 10:00 |
+| S259 | PocketGamer Game Finder Page 95 | https://www.pocketgamer.com/game-finder/page/95/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
+| S260 | PocketGamer Game Finder Page 96 | https://www.pocketgamer.com/game-finder/page/96/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
+| S261 | PocketGamer Game Finder Page 97 | https://www.pocketgamer.com/game-finder/page/97/0_all_0_1_1/ | 25 | 2026-08-16 00:40 |
+| S195 | PocketGamer Game Finder Page 68 | https://www.pocketgamer.com/game-finder/page/68/0_all_0_1_1/ | 25 | 2026-08-14 22:13 |
+| S196 | PocketGamer Game Finder Page 69 | https://www.pocketgamer.com/game-finder/page/69/0_all_0_1_1/ | 25 | 2026-08-14 22:13 |
+| S197 | PocketGamer Game Finder Page 70 | https://www.pocketgamer.com/game-finder/page/70/0_all_0_1_1/ | 25 | 2026-08-14 22:13 |
+| S192 | PocketGamer Game Finder Page 65 | https://www.pocketgamer.com/game-finder/page/65/0_all_0_1_1/ | 25 | 2026-08-14 21:30 |
+| S193 | PocketGamer Game Finder Page 66 | https://www.pocketgamer.com/game-finder/page/66/0_all_0_1_1/ | 25 | 2026-08-14 21:30 |
+| S194 | PocketGamer Game Finder Page 67 | https://www.pocketgamer.com/game-finder/page/67/0_all_0_1_1/ | 25 | 2026-08-14 21:30 |
+| S189 | PocketGamer Game Finder Page 62 | https://www.pocketgamer.com/game-finder/page/62/0_all_0_1_1/ | 10 | 2026-08-14 15:14 |
+| S190 | PocketGamer Game Finder Page 63 | https://www.pocketgamer.com/game-finder/page/63/0_all_0_1_1/ | 12 | 2026-08-14 15:14 |
+| S191 | PocketGamer Game Finder Page 64 | https://www.pocketgamer.com/game-finder/page/64/0_all_0_1_1/ | 22 | 2026-08-14 15:14 |
+| S186 | PocketGamer Game Finder Page 59 | https://www.pocketgamer.com/game-finder/page/59/0_all_0_1_1/ | 10 | 2026-08-14 12:58 |
+| S187 | PocketGamer Game Finder Page 60 | https://www.pocketgamer.com/game-finder/page/60/0_all_0_1_1/ | 10 | 2026-08-14 12:58 |
+| S188 | PocketGamer Game Finder Page 61 | https://www.pocketgamer.com/game-finder/page/61/0_all_0_1_1/ | 10 | 2026-08-14 12:58 |
+
+## Sources Archived（本轮新增）
+| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|---|---|---|---|---|
+| G1118 | Pro Tennis Volley | https://www.pocketgamer.com/pro-tennis-volley/ | 1 | 2026-08-16 06:08 |
+| G1119 | Gladiator Begins | https://www.pocketgamer.com/gladiator-begins/ | 1 | 2026-08-16 06:08 |
+| G1120 | White Knight Chronicles Origins | https://www.pocketgamer.com/white-knight-chronicles-origins/ | 1 | 2026-08-16 06:08 |
+| G1121 | Frontier Tower Defense | https://www.pocketgamer.com/frontier-tower-defense/ | 1 | 2026-08-16 06:08 |
+| G1122 | Brickzors | https://www.pocketgamer.com/brickzors/ | 1 | 2026-08-16 06:08 |
+| G1123 | Apparatus | https://www.pocketgamer.com/apparatus/ | 1 | 2026-08-16 06:08 |
+| G1124 | Wiz Kid Jr. | https://www.pocketgamer.com/wiz-kid-jr/ | 1 | 2026-08-16 06:08 |
+| G1125 | Dragon Fire | https://www.pocketgamer.com/dragon-fire/ | 1 | 2026-08-16 06:08 |
+| G1126 | Sprint Escape | https://www.pocketgamer.com/sprint-escape/ | 1 | 2026-08-16 06:08 |
+| G1127 | Hertz Smasher | https://www.pocketgamer.com/hertz-smasher/ | 1 | 2026-08-16 06:08 |
+| G1128 | Orbital Defender | https://www.pocketgamer.com/orbital-defender/ | 1 | 2026-08-16 07:50 |
+| G1129 | The Great Jitters: Pudding Panic | https://www.pocketgamer.com/the-great-jitters-pudding-panic/ | 1 | 2026-08-16 07:50 |
+| G1130 | Ionocraft Racing | https://www.pocketgamer.com/ionocraft-racing/ | 1 | 2026-08-16 07:50 |
+| G1131 | Monkey Island Tales 5 HD | https://www.pocketgamer.com/monkey-island-tales-5-hd/ | 1 | 2026-08-16 07:50 |
+| G1132 | Monkey Island Tales 4 HD | https://www.pocketgamer.com/monkey-island-tales-4-hd/ | 1 | 2026-08-16 07:50 |
+| G1133 | Draw Slasher | https://www.pocketgamer.com/draw-slasher/ | 1 | 2026-08-16 07:50 |
+| G1135 | Marvel Kapow | https://www.pocketgamer.com/marvel-kapow/ | 1 | 2026-08-16 07:50 |
+| G1136 | Cell Bound | https://www.pocketgamer.com/cell-bound/ | 1 | 2026-08-16 07:50 |
+|| G1137 | The 2D Adventures of Rotating Octopus Character | https://www.pocketgamer.com/the-2d-adventures-of-rotating-octopus-character/ | 1 | 2026-08-16 07:50 |
+| G1148 | Roll in the Hole | https://www.pocketgamer.com/roll-in-the-hole/ | 1 | 2026-08-16 12:42 |
+| G1149 | Crazy Penguin Assault | https://www.pocketgamer.com/crazy-penguin-assault/ | 1 | 2026-08-16 12:42 |
+| G1150 | Alien Space Retro | https://www.pocketgamer.com/alien-space-retro/ | 1 | 2026-08-16 12:42 |
+| G1151 | Ducati Challenge | https://www.pocketgamer.com/ducati-challenge/ | 1 | 2026-08-16 12:42 |
+| G1152 | Space Squadron | https://www.pocketgamer.com/space-squadron/ | 1 | 2026-08-16 12:42 |
+| G1153 | Aftermath XHD | https://www.pocketgamer.com/aftermath-xhd/ | 1 | 2026-08-16 12:42 |
+| G1154 | Incredible Express | https://www.pocketgamer.com/incredible-express/ | 1 | 2026-08-16 12:42 |
+| G1155 | Symphony of Eternity | https://www.pocketgamer.com/symphony-of-eternity/ | 1 | 2026-08-16 12:42 |
+| G1156 | House of Mice | https://www.pocketgamer.com/house-of-mice/ | 1 | 2026-08-16 12:42 |
+| G1157 | Stem Stumper | https://www.pocketgamer.com/stem-stumper/ | 1 | 2026-08-16 12:42 |
+
+| G1158 | Walkabout | https://www.pocketgamer.com/walkabout/ | 1 | 2026-08-16 16:08 |
+| G1159 | Rip Off | https://www.pocketgamer.com/rip-off/ | 1 | 2026-08-16 16:08 |
+| G1160 | My Paper Plane 2 3D | https://www.pocketgamer.com/my-paper-plane-2-3d/ | 1 | 2026-08-16 16:08 |
+| G1161 | Hot Cross Bunnies | https://www.pocketgamer.com/hot-cross-bunnies/ | 1 | 2026-08-16 16:08 |
+| G1162 | Murder in Venice | https://www.pocketgamer.com/murder-in-venice/ | 1 | 2026-08-16 16:08 |
+| G1163 | Current | https://www.pocketgamer.com/current/ | 1 | 2026-08-16 16:08 |
+| G1164 | Rooftop Escape | https://www.pocketgamer.com/rooftop-escape/ | 1 | 2026-08-16 16:08 |
+| G1165 | A Knights Dawn | https://www.pocketgamer.com/a-knights-dawn/ | 1 | 2026-08-16 16:08 |
+| G1166 | Dragon Chaser | https://www.pocketgamer.com/dragon-chaser/ | 1 | 2026-08-16 16:08 |
+| G1167 | DeckMake Fantasy | https://www.pocketgamer.com/deckmake-fantasy/ | 1 | 2026-08-16 16:08 |
+| G1168 | GRave Defense HD | https://www.pocketgamer.com/grave-defense-hd/ | 1 | 2026-08-16 16:08 |
+
+
+| S256 | PocketGamer Game Finder Page 92 | https://www.pocketgamer.com/game-finder/page/92/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
+| S257 | PocketGamer Game Finder Page 93 | https://www.pocketgamer.com/game-finder/page/93/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
+| S258 | PocketGamer Game Finder Page 94 | https://www.pocketgamer.com/game-finder/page/94/0_all_0_1_1/ | 25 | 2026-08-15 21:20 |
+
+
+| S220 | Kongregate 游戏库 - 动作类 | https://www.kongregate.com/action-games | 10 | 2026-08-15 17:47 |
+| S221 | Kongregate 游戏库 - 益智类 | https://www.kongregate.com/puzzle-games | 50 | 2026-08-15 17:47 |
+| S223 | Kongregate 游戏库 - 策略类 | https://www.kongregate.com/strategy-games | 50 | 2026-08-15 17:47 |
+
+| S216 | PocketGamer Game Finder Page 89 | https://www.pocketgamer.com/game-finder/page/89/0_all_0_1_1/ | 12 | 2026-08-15 14:27 |
+| S217 | PocketGamer Game Finder Page 90 | https://www.pocketgamer.com/game-finder/page/90/0_all_0_1_1/ | 12 | 2026-08-15 14:27 |
+| S218 | PocketGamer Game Finder Page 91 | https://www.pocketgamer.com/game-finder/page/91/0_all_0_1_1/ | 12 | 2026-08-15 14:27 |
+| S198 | PocketGamer Game Finder Page 71 | https://www.pocketgamer.com/game-finder/page/71/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S199 | PocketGamer Game Finder Page 72 | https://www.pocketgamer.com/game-finder/page/72/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S200 | PocketGamer Game Finder Page 73 | https://www.pocketgamer.com/game-finder/page/73/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S201 | PocketGamer Game Finder Page 74 | https://www.pocketgamer.com/game-finder/page/74/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S202 | PocketGamer Game Finder Page 75 | https://www.pocketgamer.com/game-finder/page/75/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S203 | PocketGamer Game Finder Page 76 | https://www.pocketgamer.com/game-finder/page/76/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S204 | PocketGamer Game Finder Page 77 | https://www.pocketgamer.com/game-finder/page/77/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S205 | PocketGamer Game Finder Page 78 | https://www.pocketgamer.com/game-finder/page/78/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S206 | PocketGamer Game Finder Page 79 | https://www.pocketgamer.com/game-finder/page/79/0_all_0_1_1/ | 25 | 2026-08-15 14:27 |
+| S213 | PocketGamer Game Finder Page 86 | https://www.pocketgamer.com/game-finder/page/86/0_all_0_1_1/ | 10 | 2026-08-15 13:00 |
+| S214 | PocketGamer Game Finder Page 87 | https://www.pocketgamer.com/game-finder/page/87/0_all_0_1_1/ | 10 | 2026-08-15 13:00 |
+| S215 | PocketGamer Game Finder Page 88 | https://www.pocketgamer.com/game-finder/page/88/0_all_0_1_1/ | 10 | 2026-08-15 13:00 |
+| S210 | PocketGamer Game Finder Page 83 | https://www.pocketgamer.com/game-finder/page/83/0_all_0_1_1/ | 25 | 2026-08-15 10:00 |
+| S211 | PocketGamer Game Finder Page 84 | https://www.pocketgamer.com/game-finder/page/84/0_all_0_1_1/ | 25 | 2026-08-15 10:00 |
+| S212 | PocketGamer Game Finder Page 85 | https://www.pocketgamer.com/game-finder/page/85/0_all_0_1_1/ | 25 | 2026-08-15 10:00 |
+| S157 | PocketGamer Game Finder Page 35 | https://www.pocketgamer.com/game-finder/page/35/0_all_0_1_1/ | 25 | 2026-08-13 16:52 |
+| S158 | PocketGamer Game Finder Page 36 | https://www.pocketgamer.com/game-finder/page/36/0_all_0_1_1/ | 25 | 2026-08-13 16:52 |
+| S159 | PocketGamer Game Finder Page 37 | https://www.pocketgamer.com/game-finder/page/37/0_all_0_1_1/ | 25 | 2026-08-13 16:52 |
+| S147 | PocketGamer Best Mobile Games of 2025 | https://www.pocketgamer.com/best-games/mobile-games-of-2025/ | 3 | 2026-08-13 13:23 |
+| S148 | PocketGamer Most Addictive Mobile Games | https://www.pocketgamer.com/best-games/most-addictive-mobile-games/ | 15 | 2026-08-13 13:23 |
+| S149 | PocketGamer Best Free Mobile Games | https://www.pocketgamer.com/best-games/free-mobile-games/ | 24 | 2026-08-13 13:23 |
+| S150 | PocketGamer Best Indie Mobile Games | https://www.pocketgamer.com/best-games/indie-mobile-games/ | 19 | 2026-08-13 13:23 |
+| S152 | GamerCatZ Purrfect Puzzles 2025 | https://gamercatz.com/purrfect-puzzles-best-mobile-puzzle-games-for-2025/ | 5 | 2026-08-13 13:23 |
+| S153 | FoxData 10 Best Puzzle Mobile Games 2025 | https://foxdata.com/en/blogs/10-best-puzzle-mobile-games-to-play-in-2025/ | 10 | 2026-08-13 13:23 |
+| S136 | Top 5 Best Hyper Casual Games of 2025 | https://gamercatz.com/top-5-best-hyper-casual-games-of-2025-purrfect-picks/ | 3 | 2026-08-13 10:30 |
+| S137 | 2025 Top 5 Hyper-Casual Games | https://playhve.com/article/2025-top-5-hyper-casual-games-instant-fun-in-your-pocket | 0 | 2026-08-13 10:30 |
+| S138 | Top Hypercasual Games with Over 250 Million Downloads | https://nextbiggames.com/2025/11/14/top-hypercasual-games-with-over-250-million-downloads/ | 5 | 2026-08-13 10:30 |
+
+
+| S143 | PocketGamer Game Finder Page 28 | https://www.pocketgamer.com/game-finder/page/28/0_all_0_1_1/ | 15 | 2026-08-13 09:57 |
+| S144 | PocketGamer Game Finder Page 29 | https://www.pocketgamer.com/game-finder/page/29/0_all_0_1_1/ | 10 | 2026-08-13 09:57 |
+| S154 | PocketGamer Game Finder Page 32 | https://www.pocketgamer.com/game-finder/page/32/0_all_0_1_1/ | 25 | 2026-08-13 15:12 |
+| S155 | PocketGamer Game Finder Page 33 | https://www.pocketgamer.com/game-finder/page/33/0_all_0_1_1/ | 25 | 2026-08-13 15:12 |
+| S156 | PocketGamer Game Finder Page 34 | https://www.pocketgamer.com/game-finder/page/34/0_all_0_1_1/ | 25 | 2026-08-13 15:12 |
+
+## Sources Failed（本轮新增）
 | ID | 标题 | URL | 失败原因 | 失败时间 |
 |---|---|---|---|---|
+| S139 | Top 10 Casual Games of 2025 Road Ahead | https://www.gamigion.com/top-10-casual-games-of-2025-road-ahead-to-2028/ | 趋势分析文章，无可提取游戏列表 | 2026-08-13 10:30 |
+| S140 | Top 10 Best Casual Games To Play In 2025 | https://www.hotbot.com/articles/best-casual-games-2025/ | 模板文章(Game Title One等占位符)，无真实游戏内容 | 2026-08-13 10:30 |
+| G1134 | WWII Hills of Glory | https://www.pocketgamer.com/wwii-hills-of-glory/ | 404 Not Found | 2026-08-16 07:50 |
+
+| ID | 类型 | 标题 | URL | 开始时间 |
+|---|---|---|---|---|
+
+## Sources Failed（本轮新增）
+| ID | 标题 | URL | 失败原因 | 失败时间 |
+|---|---|---|---|---|
+| S219 | Kongregate 游戏库 - 策略塔防 | https://www.kongregate.com/tower-defense | 404 Not Found | 2026-08-15 17:47 |
+| S222 | Kongregate 游戏库 - 射击类 | https://www.kongregate.com/shooting-games | JSON-LD无游戏数据(0款) | 2026-08-15 17:47 |
+| S224 | Kongregate Top Rated 全部 | https://www.kongregate.com/games/top_rated | 无JSON-LD游戏数据 | 2026-08-15 17:47 |
+| S225 | Kongregate Most Played 全部 | https://www.kongregate.com/games/most_played | 404 Not Found | 2026-08-15 17:47 |
+| S226 | Armor Games - 策略类 | https://armorgames.com/category/strategy-games | 无结构化数据，无法提取游戏列表 | 2026-08-15 17:47 |
+| S227 | Armor Games - 塔防类 | https://armorgames.com/category/tower-defense-games | 无结构化数据，无法提取游戏列表 | 2026-08-15 17:47 |
+| S228 | Armor Games - 动作类 | https://armorgames.com/category/action-games | 无结构化数据，无法提取游戏列表 | 2026-08-15 17:47 |
+| S229 | Armor Games - 冒险类 | https://armorgames.com/category/adventure-games | 无结构化数据，无法提取游戏列表 | 2026-08-15 17:47 |
+| S230 | Armor Games - 益智类 | https://armorgames.com/category/puzzle-games | 无结构化数据，无法提取游戏列表 | 2026-08-15 17:47 |
+| S231 | Armor Games - 最佳评分 | https://armorgames.com/games/all/best | 404 Not Found | 2026-08-15 17:47 |
+| S232 | Armor Games - 最受欢迎 | https://armorgames.com/games/all/popular | 404 Not Found | 2026-08-15 17:47 |
+| S233 | Newgrounds Games - 动作类 | https://www.newgrounds.com/games/filter/action | 403 Forbidden | 2026-08-15 17:47 |
+| S234 | Newgrounds Games - 益智类 | https://www.newgrounds.com/games/filter/puzzle | 403 Forbidden | 2026-08-15 17:47 |
+| S235 | Newgrounds Games - 策略类 | https://www.newgrounds.com/games/filter/strategy | 403 Forbidden | 2026-08-15 17:47 |
+| S236 | Newgrounds Games - 冒险类 | https://www.newgrounds.com/games/filter/adventure | 403 Forbidden | 2026-08-15 17:47 |
+| S237 | Newgrounds 最佳评分 | https://www.newgrounds.com/games/filter/all/sort/score | 403 Forbidden | 2026-08-15 17:47 |
+| S238 | Newgrounds 最多播放 | https://www.newgrounds.com/games/filter/all/sort/views | 403 Forbidden | 2026-08-15 17:47 |
+| S239 | Y8.com 全部游戏 | https://www.y8.com/games | 301重定向/内容不可提取 | 2026-08-15 17:47 |
+| S240 | Y8.com 热门游戏 | https://www.y8.com/games/popular | 404 Not Found | 2026-08-15 17:47 |
+| S241 | Y8.com 经典 Flash 游戏 | https://www.y8.com/tags/flash | 编码异常(garbled)/无法提取 | 2026-08-15 17:47 |
+| S242 | CrazyGames 动作类 | https://www.crazygames.com/t/action | 404 Not Found | 2026-08-15 17:47 |
+| S243 | CrazyGames 益智类 | https://www.crazygames.com/t/puzzle | 404 Not Found | 2026-08-15 17:47 |
+| S244 | CrazyGames 策略类 | https://www.crazygames.com/t/strategy | Next.js JS渲染，无法静态提取 | 2026-08-15 17:47 |
+| S245 | CrazyGames 最佳游戏 | https://www.crazygames.com/best | Next.js JS渲染，无法静态提取 | 2026-08-15 17:47 |
+| S246 | Miniclip 游戏库 | https://www.miniclip.com/games | 页面结构复杂/无静态游戏数据 | 2026-08-15 17:47 |
+| S247 | Miniclip 热门游戏 | https://www.miniclip.com/popular-games | 页面结构复杂/无静态游戏数据 | 2026-08-15 17:47 |
+| S248 | Coolmath Games 全部 | https://www.coolmathgames.com/games | 404 Not Found | 2026-08-15 17:47 |
+| S249 | Coolmath Games 最受欢迎 | https://www.coolmathgames.com/most-played | 404 Not Found | 2026-08-15 17:47 |
+| S250 | Game Jolt 休闲/街机 | https://gamejolt.com/games/genre/arcade | 页面内容过少(15KB)/需JS渲染 | 2026-08-15 17:47 |
+| S251 | Game Jolt 益智类 | https://gamejolt.com/games/genre/puzzle | 页面内容过少(15KB)/需JS渲染 | 2026-08-15 17:47 |
+| S252 | Game Jolt 策略类 | https://gamejolt.com/games/genre/strategy | 页面内容过少(15KB)/需JS渲染 | 2026-08-15 17:47 |
+| S253 | 4399 小游戏 - 动作类 | https://www.4399.com/flash/ | 编码异常(GB2312 garbled)/无法提取 | 2026-08-15 17:47 |
+| S254 | 4399 小游戏 - 策略类 | https://www.4399.com/flash/1_2.htm | 404 Not Found | 2026-08-15 17:47 |
+| S255 | 4399 小游戏 - 益智类 | https://www.4399.com/flash/1_3.htm | 404 Not Found | 2026-08-15 17:47 |
+
+## Sources Failed（历史失败）
+| ID | 标题 | URL | 失败原因 | 失败时间 |
+|---|---|---|---|---|
+| S151 | MiniReview Best Puzzle Games on Mobile | https://minireview.io/top-mobile-games/best-puzzle-games-on-mobile | JS渲染/无法提取游戏列表 | 2026-08-13 13:23 |
 | S105 | 10 Mobile Games You'll Actually Want to Play in 2025 | https://fictionhorizon.com/mobile-games-youll-actually-want-to-play-in-2025/ | 反爬虫 (Human verification) | 2026-08-12 19:48 |
 | S106 | Top rated Puzzle games tagged loop - itch.io | https://itch.io/games/top-rated/genre-puzzle/tag-loop | JS渲染，内容过少(5616 bytes) | 2026-08-12 19:48 |
 | S107 | Top Hyper Casual Game Trends to Watch in 2026 | https://www.coherentlab.com/blog/top-hyper-casual-game-trends | 趋势分析文章，无可提取游戏列表 | 2026-08-12 19:48 |
@@ -16,16 +250,43 @@
 | S110 | Time Loop Games That Bend Your Brain | https://fictionhorizon.com/time-loop-games-that-bend-your-brain/ | Cloudflare 反爬虫 (Human verification) | 2026-08-12 21:32 |
 | S111 | itch.io Games tagged loop | https://itch.io/games/tag-loop | 36款小游戏均为独立开发者作品，非目标游戏库类型 | 2026-08-12 21:32 |
 | S113 | GameSpot Best Indie Games | https://www.gamespot.com/gallery/best-indie-games/2900-5964/ | 内容过少(5KB)，JS渲染 | 2026-08-12 21:32 |
+| S131 | Games with the most engaging gameplay loops : r/gamedesign | https://www.reddit.com/r/gamedesign/comments/11kdfl0/games_with_the_most_engaging_gameplay_loops/ | JS渲染/无法提取游戏列表 | 2026-08-13 04:37 |
+| S132 | Simple yet unique indie puzzle games : r/gamingsuggestions | https://www.reddit.com/r/gamingsuggestions/comments/16dlhsc/what_are_some_simple_yet_unique_indie_puzzle/ | JS渲染/无法提取游戏列表 | 2026-08-13 04:37 |
+
+| S145 | PocketGamer Game Finder Page 30 | https://www.pocketgamer.com/game-finder/page/30/0_all_0_1_1/ | 25 | 2026-08-13 13:00 |
+| S146 | PocketGamer Game Finder Page 31 | https://www.pocketgamer.com/game-finder/page/31/0_all_0_1_1/ | 25 | 2026-08-13 13:00 |
 
 ## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| G1108 | Paper Racer | https://www.pocketgamer.com/paper-racer/ | 1 | 2026-08-16 06:00 |
+| G1109 | Harry Potter and the Deathly Hallows Part 2 | https://www.pocketgamer.com/harry-potter-and-the-deathly-hallows-part-2/ | 1 | 2026-08-16 06:00 |
+| G1110 | Carp Story | https://www.pocketgamer.com/carp-story/ | 1 | 2026-08-16 06:00 |
+| G1111 | Squirmee Redux | https://www.pocketgamer.com/squirmee-redux/ | 1 | 2026-08-16 06:00 |
+| G1112 | TileStorm HD | https://www.pocketgamer.com/tilestorm-hd/ | 1 | 2026-08-16 06:00 |
+| G1113 | Equilibrium | https://www.pocketgamer.com/equilibrium/ | 1 | 2026-08-16 06:00 |
+| G1114 | Basketball Dunkadelic | https://www.pocketgamer.com/basketball-dunkadelic/ | 1 | 2026-08-16 06:00 |
+| G1115 | Color Bandits | https://www.pocketgamer.com/color-bandits/ | 1 | 2026-08-16 06:00 |
+| G1116 | eBoo Space Adventures | https://www.pocketgamer.com/eboo-space-adventures/ | 1 | 2026-08-16 06:00 |
+| G1117 | Super Ninja Skydiving Plus Zombies | https://www.pocketgamer.com/super-ninja-skydiving-plus-zombies/ | 1 | 2026-08-16 06:00 |
 | S114 | PocketGamer Game Finder Page 11 | https://www.pocketgamer.com/game-finder/page/11/0_all_0_1_1/ | 9 | 2026-08-12 23:26 |
 | S115 | PocketGamer Game Finder Page 12 | https://www.pocketgamer.com/game-finder/page/12/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
 | S116 | PocketGamer Game Finder Page 13 | https://www.pocketgamer.com/game-finder/page/13/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
 | S117 | PocketGamer Game Finder Page 14 | https://www.pocketgamer.com/game-finder/page/14/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
 | S118 | PocketGamer Game Finder Page 15 | https://www.pocketgamer.com/game-finder/page/15/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
 | S119 | PocketGamer Game Finder Page 16 | https://www.pocketgamer.com/game-finder/page/16/0_all_0_1_1/ | 0 | 2026-08-12 23:26 |
+
+| S123 | PocketGamer Game Finder Page 17 | https://www.pocketgamer.com/game-finder/page/17/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S124 | PocketGamer Game Finder Page 18 | https://www.pocketgamer.com/game-finder/page/18/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S125 | PocketGamer Game Finder Page 19 | https://www.pocketgamer.com/game-finder/page/19/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S126 | PocketGamer Game Finder Page 20 | https://www.pocketgamer.com/game-finder/page/20/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S127 | 19 Best Indie Games to Play in 2026 Expert Picks by Genre | https://www.eneba.com/hub/games/best-indie-games/ | 19 | 2026-08-13 04:37 |
+| S128 | PocketGamer Game Finder Page 21 | https://www.pocketgamer.com/game-finder/page/21/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S129 | PocketGamer Game Finder Page 22 | https://www.pocketgamer.com/game-finder/page/22/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S130 | PocketGamer Game Finder Page 23 | https://www.pocketgamer.com/game-finder/page/23/0_all_0_1_1/ | 25 | 2026-08-13 04:37 |
+| S133 | PocketGamer Game Finder Page 24 | https://www.pocketgamer.com/game-finder/page/24/0_all_0_1_1/ | 25 | 2026-08-13 06:26 |
+| S134 | PocketGamer Game Finder Page 25 | https://www.pocketgamer.com/game-finder/page/25/0_all_0_1_1/ | 25 | 2026-08-13 06:26 |
+| S135 | PocketGamer Game Finder Page 26 | https://www.pocketgamer.com/game-finder/page/26/0_all_0_1_1/ | 25 | 2026-08-13 06:26 |
 
 | S104 | Best Mobile Games 2025: Top iOS & Android Games | https://gameszoom.com/blog/best-mobile-games-2025.html | 12 | 2026-08-12 19:48 |
 
@@ -133,9 +394,434 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
+|| G991 | Oddworld Abes Oddysee | docs/OddworldAbesOddysee_20260815_2301.md | PocketGamer P77 |
+|| G992 | Saving Private Sheep 2 | docs/SavingPrivateSheep2_20260815_2301.md | PocketGamer P77 |
+|| G993 | Arc The Lad Ii | docs/ArctheLadII_20260815_2301.md | PocketGamer P77 |
+|| G994 | Twist Pilot | docs/TwistPilot_20260815_2301.md | PocketGamer P77 |
+|| G995 | Farty Pants | docs/FartyPants_20260815_2301.md | PocketGamer P77 |
+|| G996 | Wrath Of The Titans | docs/WrathoftheTitans_20260815_2301.md | PocketGamer P77 |
+|| G997 | Busted | docs/Busted_20260815_2301.md | PocketGamer P77 |
+|| G998 | Tekken | docs/Tekken_20260815_2301.md | PocketGamer P77 |
+|| G999 | Lock N Load | docs/LocknLoad_20260815_2301.md | PocketGamer P77 |
+|| G1000 | Hambo | docs/Hambo_20260815_2301.md | PocketGamer P77 |
+|| G1001 | Burger Cat | docs/BurgerCat_20260815_0843.md | PocketGamer P77 |
+|| G1002 | Defenders Of The Mystic Garden | docs/DefendersOfTheMysticGarden_20260815_0843.md | PocketGamer P77 |
+|| G1003 | Cats Dogs Pets At Play | docs/CatsDogsPetsAtPlay_20260815_0843.md | PocketGamer P77 |
+|| G1004 | Devildark The Fallen Kingdom | docs/DevildarkTheFallenKingdom_20260815_0843.md | PocketGamer P77 |
+|| G1005 | Chickens Cant Fly | docs/ChickensCantFly_20260815_0843.md | PocketGamer P77 |
+|| G1006 | Boonce | docs/Boonce_20260815_0843.md | PocketGamer P77 |
+|| G1007 | Endless War | docs/EndlessWar_20260815_0843.md | PocketGamer P77 |
+|| G1008 | On The Wind | docs/OnTheWind_20260815_0843.md | PocketGamer P77 |
+|| G1009 | Tap The Frog 2 | docs/TapTheFrog2_20260815_0843.md | PocketGamer P77 |
+|| G1010 | Blast Ball | docs/BlastBall_20260815_0843.md | PocketGamer P77 |
+||| G1021 | Trial Xtreme 2 Winter Edition | docs/TrialXtreme2WinterEdition_20260815_1931.md | PocketGamer P78 |
+||| G1022 | Violet Storm | docs/VioletStorm_20260815_1931.md | PocketGamer P78 |
+||| G1023 | Iootp Baseball 2012 Edition | — | PocketGamer P78 |
+||| G1024 | Kung Fu Rabbit | docs/KungFuRabbit_20260815_1931.md | PocketGamer P78 |
+||| G1025 | My Little City | — | PocketGamer P78 |
+||| G1026 | Fmx Iv Pro | — | PocketGamer P78 |
+||| G1027 | Kale In Dinoland | — | PocketGamer P78 |
+||| G1028 | Jelly Love | docs/JellyLove_20260815_1931.md | PocketGamer P78 |
+||| G1029 | Pathpix Joy | docs/PathPixJoy_20260816_0755.md | PocketGamer P78 |
+||| G1030 | Antithesis | — | PocketGamer P78 |
+||| G1031 | Mega Bloks Builder | — | PocketGamer P78 |
+||| G1032 | Traffic Wonder Hd | — | PocketGamer P78 |
+||| G1033 | Speedthru Potzols Puzzle | — | PocketGamer P78 |
+||| G1034 | Demons Land | docs/DemonsLand_20260815_1931.md | PocketGamer P78 |
+||| G1035 | Dude Perfect | — | PocketGamer P78 |
+||| G1036 | Gnu Revenge | docs/GnusRevenge_20260815_1700.md | PocketGamer P78 |
+||| G1037 | Ski Champion | docs/SkiChampion_20260815_1931.md | PocketGamer P78 |
+|| G1038 | Floating Cloud God Saves The Pilgrims | docs/FloatingCloudGodSavesThePilgrims_20260815_1700.md | PocketGamer P78 |
+|| G1039 | Snoozles | docs/Snoozles_20260815_1700.md | PocketGamer P78 |
+|| G1040 | Inazuma Eleven 2 Firestorm Blizzard | docs/InazumaEleven2_20260815_1700.md | PocketGamer P78 |
+|| G1041 | Rune Raiders | — | PocketGamer P79 |
+| G1042 | Samurai Vs Zombies Defense | docs/samuraivszombiesdefense_20260817_0300.md | PocketGamer P79 |
+| G1043 | Harry The Fairy | docs/harrythefairy_20260817_0300.md | PocketGamer P79 |
+| G1044 | Sir Benfros Brilliant Balloon | docs/sirbenfrosbrilliantballoon_20260817_0300.md | PocketGamer P79 |
+| G1045 | Twinspin | docs/twinspin_20260817_0300.md | PocketGamer P79 |
+| G1046 | Cheezia Gears Of Fur | docs/cheeziagearsoffur_20260817_0300.md | PocketGamer P79 |
+| G1047 | Node Hack | docs/nodehack_20260817_0300.md | PocketGamer P79 |
+| G1048 | 8Bit Ninja | docs/8bitninja_20260817_0300.md | PocketGamer P79 |
+|| G1049 | Kid Icarus Of Myths And Monsters | docs/KidIcarusMythsAndMonsters_20260815_1700.md | PocketGamer P79 |
+| G1050 | Madcoaster | docs/madcoaster_20260817_0300.md | PocketGamer P79 |
+| G1051 | Pebble Universe | docs/pebbleuniverse_20260817_0300.md | PocketGamer P79 |
+|| G1052 | Picnic Wars | docs/PicnicWars_20260815_1700.md | PocketGamer P79 |
+|| G1053 | Jewel Master Cradle Of Persia | docs/JewelMasterCradleOfPersia_20260815_1700.md | PocketGamer P79 |
+|| G1054 | Twingo | — | PocketGamer P79 |
+|| G1055 | Tower Bloxx Revolution | docs/TowerBloxx_20260815_1700.md | PocketGamer P79 |
+|| G1056 | Fireball Special Edition | — | PocketGamer P79 |
+|| G1057 | Azkend 2 The World Beneath | docs/Azkend2TheWorldBeneath_20260815_1700.md | PocketGamer P79 |
+|| G1058 | Canabalt | docs/Canabalt_20260815_1700.md | PocketGamer P79 |
+| G1059 | Flick Nations Rugby | docs/flicknationsrugby_20260817_0300.md | PocketGamer P79 |
+| G1060 | Quell Reflect | — | PocketGamer P79 |
+| G1061 | Lego Hero Factory | — | PocketGamer P79 |
+| G1062 | Wave Crasher | — | PocketGamer P79 |
+| G1063 | Robber Rabbits | — | PocketGamer P79 |
+| G1064 | Sticky Sheep | — | PocketGamer P79 |
+| G1065 | Brain Challenge 4 Breaking Limits | — | PocketGamer P79 |
 
-## Games Archived（已归档）
+## Games Archived（本轮新增）
+||| ID | 游戏名 | 文档文件 | 归档时间 |
+|||---|---|---|---|
+| G1179 | Pro Tennis Volley | docs/ProTennisVolley_20260816_0607.md | 2026-08-16 06:08 |
+| G1180 | Gladiator Begins | docs/GladiatorBegins_20260816_0607.md | 2026-08-16 06:08 |
+| G1181 | White Knight Chronicles Origins | docs/WhiteKnightChroniclesOrigins_20260816_0607.md | 2026-08-16 06:08 |
+| G1182 | Frontier Tower Defense | docs/FrontierTowerDefense_20260816_0607.md | 2026-08-16 06:08 |
+| G1183 | Brickzors | docs/Brickzors_20260816_0607.md | 2026-08-16 06:08 |
+| G1184 | Apparatus | docs/Apparatus_20260816_0607.md | 2026-08-16 06:08 |
+| G1185 | Wiz Kid Jr. | docs/WizKidJr_20260816_0607.md | 2026-08-16 06:08 |
+| G1186 | Dragon Fire | docs/DragonFire_20260816_0607.md | 2026-08-16 06:08 |
+| G1187 | Sprint Escape | docs/SprintEscape_20260816_0607.md | 2026-08-16 06:08 |
+| G1188 | Hertz Smasher | docs/HertzSmasher_20260816_0607.md | 2026-08-16 06:08 |
+
+| G1189 | Scoundrel's Cross | docs/ScoundrelsCross_20260816_1000.md | 2026-08-16 10:00 |
+| G1190 | Infernus: Verse 2 | docs/InfernusVerse2_20260816_1000.md | 2026-08-16 10:00 |
+| G1191 | Battle Boats 3D | docs/BattleBoats3D_20260816_1000.md | 2026-08-16 10:00 |
+| G1192 | Crazy Quest Express | docs/CrazyQuestExpress_20260816_1000.md | 2026-08-16 10:00 |
+| G1193 | Ultimate Brick Breaker 2 | docs/UltimateBrickBreaker2_20260816_1000.md | 2026-08-16 10:00 |
+| G1194 | Jewels of the Ages | docs/JewelsOfTheAges_20260816_1000.md | 2026-08-16 10:00 |
+| G1195 | Iron Wars | docs/IronWars_20260816_1000.md | 2026-08-16 10:00 |
+| G1196 | Pool Break Pro | docs/PoolBreakPro_20260816_1000.md | 2026-08-16 10:00 |
+| G1197 | City of Wonder | docs/CityOfWonder_20260816_1000.md | 2026-08-16 10:00 |
+|| G1198 | Galaxy Bowl | docs/GalaxyBowl_20260816_1000.md | 2026-08-16 10:00 |
+|| G1199 | Roll in the Hole | docs/RollInTheHole_20260816_1242.md | 2026-08-16 12:42 |
+|| G1200 | Crazy Penguin Assault | docs/CrazyPenguinAssault_20260816_1242.md | 2026-08-16 12:42 |
+|| G1201 | Alien Space Retro | docs/AlienSpaceRetro_20260816_1242.md | 2026-08-16 12:42 |
+|| G1202 | Ducati Challenge | docs/DucatiChallenge_20260816_1242.md | 2026-08-16 12:42 |
+|| G1203 | Space Squadron | docs/SpaceSquadron_20260816_1242.md | 2026-08-16 12:42 |
+|| G1204 | Aftermath XHD | docs/AftermathXHD_20260816_1242.md | 2026-08-16 12:42 |
+|| G1205 | Incredible Express | docs/IncredibleExpress_20260816_1242.md | 2026-08-16 12:42 |
+|| G1206 | Symphony of Eternity | docs/SymphonyOfEternity_20260816_1242.md | 2026-08-16 12:42 |
+|| G1207 | House of Mice | docs/HouseOfMice_20260816_1242.md | 2026-08-16 12:42 |
+|| G1208 | Stem Stumper | docs/StemStumper_20260816_1242.md | 2026-08-16 12:42 |
+
+| G1209 | Walkabout | docs/Walkabout_20260816_1608.md | 2026-08-16 16:08 |
+| G1210 | Rip Off | docs/RipOff_20260816_1608.md | 2026-08-16 16:08 |
+| G1211 | My Paper Plane 2 3D | docs/MyPaperPlane23D_20260816_1608.md | 2026-08-16 16:08 |
+| G1212 | Hot Cross Bunnies | docs/HotCrossBunnies_20260816_1608.md | 2026-08-16 16:08 |
+| G1213 | Murder in Venice | docs/MurderinVenice_20260816_1608.md | 2026-08-16 16:08 |
+| G1214 | Current | docs/Current_20260816_1608.md | 2026-08-16 16:08 |
+| G1215 | Rooftop Escape | docs/RooftopEscape_20260816_1608.md | 2026-08-16 16:08 |
+| G1216 | A Knights Dawn | docs/AKnightsDawn_20260816_1608.md | 2026-08-16 16:08 |
+| G1217 | Dragon Chaser | docs/DragonChaser_20260816_1608.md | 2026-08-16 16:08 |
+| G1218 | DeckMake Fantasy | docs/DeckMakeFantasy_20260816_1608.md | 2026-08-16 16:08 |
+| G1219 | GRave Defense HD | docs/GRaveDefenseHD_20260816_1608.md | 2026-08-16 16:08 |
+
+| S262 | PocketGamer Game Finder Page 98 | https://www.pocketgamer.com/game-finder/page/98/0_all_0_1_1/ | 25 | 2026-08-16 17:52 |
+| S263 | PocketGamer Game Finder Page 99 | https://www.pocketgamer.com/game-finder/page/99/0_all_0_1_1/ | 25 | 2026-08-16 17:52 |
+| S264 | PocketGamer Game Finder Page 100 | https://www.pocketgamer.com/game-finder/page/100/0_all_0_1_1/ | 25 | 2026-08-16 17:52 |
+
+| G1220 | Alien Overkill | docs/alienoverkill_20260816_1752.md | 2026-08-16 17:52 |
+| G1221 | Chronicles of Mystery: The Secret Tree of Life | docs/chroniclesofmysterythesecrettreeoflife_20260816_1752.md | 2026-08-16 17:52 |
+| G1222 | Angry Hipsters | docs/angryhipsters_20260816_1752.md | 2026-08-16 17:52 |
+| G1223 | 9 Colonies | docs/9colonies_20260816_1752.md | 2026-08-16 17:52 |
+| G1224 | EA Cricket 11 | docs/eacricket11_20260816_1752.md | 2026-08-16 17:52 |
+| G1225 | Enzo's Pinball | docs/enzospinball_20260816_1752.md | 2026-08-16 17:52 |
+| G1226 | Ticket to Ride (2011) | docs/tickettoride2011_20260816_1752.md | 2026-08-16 17:52 |
+| G1227 | Quell | docs/quell_20260816_1752.md | 2026-08-16 17:52 |
+| G1228 | Monopoly (2015) | docs/monopoly2015_20260816_1752.md | 2026-08-16 17:52 |
+| G1229 | Midnight Mysteries: The Edgar Allen Poe Conspiracy | docs/midnightmysteriestheedgarallenpoeconspiracy_20260816_1752.md | 2026-08-16 17:52 |
+
+| G1240 | Combat of Giants: Dinosaurs 3D | docs/CombatofGiantsDinosaurs3D_20260816_2111.md | 2026-08-16 21:11 |
+| G1241 | Hyperlight | docs/Hyperlight_20260816_2111.md | 2026-08-16 21:11 |
+| G1242 | Cell HD | docs/CellHD_20260816_2111.md | 2026-08-16 21:11 |
+| G1243 | Danger Mouse | docs/DangerMouse_20260816_2111.md | 2026-08-16 21:11 |
+| G1244 | SimplePhysics | docs/SimplePhysics_20260816_2111.md | 2026-08-16 21:11 |
+| G1245 | World Conqueror 1945 | docs/WorldConqueror1945_20260816_2111.md | 2026-08-16 21:11 |
+| G1246 | Drop the Chicken | docs/DroptheChicken_20260816_2111.md | 2026-08-16 21:11 |
+| G1247 | Raw or Roasted | docs/RaworRoasted_20260816_2111.md | 2026-08-16 21:11 |
+| G1248 | Doodle Train | docs/DoodleTrain_20260816_2111.md | 2026-08-16 21:11 |
+| G1249 | Tactical Soldier: Undead Rising | docs/TacticalSoldierUndeadRising_20260816_2111.md | 2026-08-16 21:11 |
+
+||||||||||||||||||||||||| G1118 | Danmaku Unlimited | docs/DanmakuUnlimited_20260816_0040.md | 2026-08-16 00:40 |
+||| G1119 | Samantha Swift: Hidden Roses of Athena | docs/SamanthaSwiftHiddenRosesOfAthena_20260816_0040.md | 2026-08-16 00:40 |
+||| G1120 | Tower Raiders 2 | docs/TowerRaiders2_20260816_0040.md | 2026-08-16 00:40 |
+||| G1169 | Frontier Tower Defense | docs/FrontierTowerDefense_20260816_0300.md | 2026-08-16 03:00 |
+||| G1170 | Brickzors | docs/Brickzors_20260816_0300.md | 2026-08-16 03:00 |
+||| G1171 | Apparatus | docs/Apparatus_20260816_0300.md | 2026-08-16 03:00 |
+||| G1172 | Wiz Kid Jr. | docs/WizKidJr_20260816_0300.md | 2026-08-16 03:00 |
+||| G1173 | Dragon Fire | docs/DragonFire_20260816_0300.md | 2026-08-16 03:00 |
+||| G1174 | Sprint Escape | docs/SprintEscape_20260816_0300.md | 2026-08-16 03:00 |
+||| G1175 | Hertz Smasher | docs/HertzSmasher_20260816_0300.md | 2026-08-16 03:00 |
+||| G1176 | Orbital Defender | docs/OrbitalDefender_20260816_0300.md | 2026-08-16 03:00 |
+||| G1177 | The Great Jitters: Pudding Panic | docs/TheGreatJittersPuddingPanic_20260816_0300.md | 2026-08-16 03:00 |
+||| G1178 | Ionocraft Racing | docs/IonocraftRacing_20260816_0300.md | 2026-08-16 03:00 |
+||| G1098 | jukebeat | docs/jukebeat_20260815_2120.md | 2026-08-15 21:20 |
+||| G1099 | Pickpawcket | docs/Pickpawcket_20260815_2120.md | 2026-08-15 21:20 |
+||| G1100 | Spacelings | docs/Spacelings_20260815_2120.md | 2026-08-15 21:20 |
+||| G1101 | Hardwood Spades | docs/HardwoodSpades_20260815_2120.md | 2026-08-15 21:20 |
+||| G1102 | Greedy Pigs | docs/GreedyPigs_20260815_2120.md | 2026-08-15 21:20 |
+||| G1103 | Rogue Sky | docs/RogueSky_20260815_2120.md | 2026-08-15 21:20 |
+||| G1104 | Wooords | docs/Wooords_20260815_2120.md | 2026-08-15 21:20 |
+||| G1105 | Rally-X Rumble | docs/RallyXRumble_20260815_2120.md | 2026-08-15 21:20 |
+||| G1106 | Everybody's Golf | docs/EverybodysGolf_20260815_2120.md | 2026-08-15 21:20 |
+||| G1107 | Hustle Kings | docs/HustleKings_20260815_2120.md | 2026-08-15 21:20 |
+|| G991 | Oddworld: Abe's Oddysee | docs/OddworldAbesOddysee_20260815_2301.md | 2026-08-15 23:04 |
+|| G992 | Saving Private Sheep 2 | docs/SavingPrivateSheep2_20260815_2301.md | 2026-08-15 23:04 |
+|| G993 | Arc the Lad II | docs/ArctheLadII_20260815_2301.md | 2026-08-15 23:04 |
+|| G994 | Twist Pilot | docs/TwistPilot_20260815_2301.md | 2026-08-15 23:04 |
+|| G995 | Farty Pants | docs/FartyPants_20260815_2301.md | 2026-08-15 23:04 |
+|| G996 | Wrath of the Titans | docs/WrathoftheTitans_20260815_2301.md | 2026-08-15 23:04 |
+|| G997 | Busted! | docs/Busted_20260815_2301.md | 2026-08-15 23:04 |
+|| G998 | Tekken | docs/Tekken_20260815_2301.md | 2026-08-15 23:04 |
+|| G999 | Lock 'n' Load | docs/LocknLoad_20260815_2301.md | 2026-08-15 23:04 |
+|| G1000 | Hambo | docs/Hambo_20260815_2301.md | 2026-08-15 23:04 |
+|| G1088 | Kuja | docs/Kuja_20260815_1747.md | 2026-08-15 17:47 |
+| G1089 | Crush The Castle 2 | docs/CrushTheCastle2_20260815_1747.md | 2026-08-15 17:47 |
+| G1090 | The Journey Home | docs/TheJourneyHome_20260815_1747.md | 2026-08-15 17:47 |
+| G1091 | Multitask | docs/Multitask_20260815_1747.md | 2026-08-15 17:47 |
+| G1092 | Accelerator | docs/Accelerator_20260815_1747.md | 2026-08-15 17:47 |
+| G1093 | Burrito Bison: Launcha Libre | docs/BurritoBisonLaunchaLibre_20260815_1747.md | 2026-08-15 17:47 |
+| G1094 | Hat Wizard 2 | docs/HatWizard2_20260815_1747.md | 2026-08-15 17:47 |
+| G1095 | Zombie Derby 2 | docs/ZombieDerby2_20260815_1747.md | 2026-08-15 17:47 |
+| G1096 | Cat God vs Sun King | docs/CatGodvsSunKing_20260815_1747.md | 2026-08-15 17:47 |
+| G1097 | Scooby Doo Creepy Run | docs/ScoobyDooCreepyRun_20260815_1747.md | 2026-08-15 17:47 |
+
+## Games Archived（历史归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
+|---|---|---|---|
+| G1066 | Tetris (3DS版) | docs/Tetris3DS_20260815_1300.md | 2026-08-15 13:00 |
+| G1067 | SpellTower | docs/SpellTower_20260815_1300.md | 2026-08-15 13:00 |
+| G1068 | Shantae: Risky's Revenge | docs/ShantaeRiskysRevenge_20260815_1300.md | 2026-08-15 13:00 |
+| G1069 | Wind-up Knight | docs/WindUpKnight_20260815_1300.md | 2026-08-15 13:00 |
+| G1070 | Elder Sign: Omens | docs/ElderSignOmens_20260815_1300.md | 2026-08-15 13:00 |
+| G1071 | Drag Racing | docs/DragRacing_20260815_1300.md | 2026-08-15 13:00 |
+| G1072 | NBA 2K12 | docs/NBA2K12_20260815_1300.md | 2026-08-15 13:00 |
+| G1073 | Wizardry: Labyrinth of Lost Souls | docs/WizardryLabyrinthOfLostSouls_20260815_1300.md | 2026-08-15 13:00 |
+| G1074 | 1000 Tiny Claws | docs/1000TinyClaws_20260815_1300.md | 2026-08-15 13:00 |
+| G1075 | Starbase Orion | docs/StarbaseOrion_20260815_1300.md | 2026-08-15 13:00 |
+| G1076 | Super Monkey Ball | docs/SuperMonkeyBall_20260815_1427.md | 2026-08-15 14:27 |
+| G1077 | Frogger | docs/Frogger_20260815_1427.md | 2026-08-15 14:27 |
+| G1078 | Espgaluda | docs/Espgaluda_20260815_1427.md | 2026-08-15 14:27 |
+| G1079 | Gargoyle's Quest | docs/GargoylesQuest_20260815_1427.md | 2026-08-15 14:27 |
+| G1080 | Farm Frenzy | docs/FarmFrenzy_20260815_1427.md | 2026-08-15 14:27 |
+| G1081 | Monsters Ate My Condo | docs/MonstersAteMyCondo_20260815_1427.md | 2026-08-15 14:27 |
+| G1082 | Civilization Revolution | docs/CivilizationRevolution_20260815_1427.md | 2026-08-15 14:27 |
+| G1083 | Pocket God | docs/PocketGod_20260815_1427.md | 2026-08-15 14:27 |
+| G1084 | Airport Mania | docs/AirportMania_20260815_1427.md | 2026-08-15 14:27 |
+| G1085 | Urban Champion | docs/UrbanChampion_20260815_1427.md | 2026-08-15 14:27 |
+| G1086 | Warspear Online | docs/WarspearOnline_20260815_1427.md | 2026-08-15 14:27 |
+| G1087 | Jelly Defense | docs/JellyDefense_20260815_1427.md | 2026-08-15 14:27 |
+| G991 | Oddworld: Abe's Oddysee | docs/OddworldAbesOddysee_20260815_0508.md | 2026-08-15 05:08 |
+| G992 | Saving Private Sheep 2 | docs/SavingPrivateSheep2_20260815_0508.md | 2026-08-15 05:08 |
+| G993 | Arc the Lad II | docs/ArctheLadII_20260815_0508.md | 2026-08-15 05:08 |
+| G994 | Twist Pilot | docs/TwistPilot_20260815_0508.md | 2026-08-15 05:08 |
+| G995 | Farty Pants | docs/FartyPants_20260815_0508.md | 2026-08-15 05:08 |
+|| G996 | Wrath of the Titans | docs/WrathoftheTitans_20260815_0508.md | 2026-08-15 05:08 |
+|| G997 | Busted! | docs/Busted_20260815_0508.md | 2026-08-15 05:08 |
+|| G998 | Lock 'n' Load | docs/LocknLoad_20260815_0508.md | 2026-08-15 05:08 |
+|| G999 | Hambo | docs/Hambo_20260815_0508.md | 2026-08-15 05:08 |
+|| G1000 | Burger Cat | docs/BurgerCat_20260815_0508.md | 2026-08-15 05:08 |
+|| G1001 | Burger Cat | docs/BurgerCat_20260815_0843.md | 2026-08-15 08:43 |
+|| G1002 | Defenders Of The Mystic Garden | docs/DefendersOfTheMysticGarden_20260815_0843.md | 2026-08-15 08:43 |
+|| G1003 | Cats Dogs Pets At Play | docs/CatsDogsPetsAtPlay_20260815_0843.md | 2026-08-15 08:43 |
+|| G1004 | Devildark The Fallen Kingdom | docs/DevildarkTheFallenKingdom_20260815_0843.md | 2026-08-15 08:43 |
+|| G1005 | Chickens Cant Fly | docs/ChickensCantFly_20260815_0843.md | 2026-08-15 08:43 |
+|| G1006 | Boonce | docs/Boonce_20260815_0843.md | 2026-08-15 08:43 |
+|| G1007 | Endless War | docs/EndlessWar_20260815_0843.md | 2026-08-15 08:43 |
+|| G1008 | On The Wind | docs/OnTheWind_20260815_0843.md | 2026-08-15 08:43 |
+|| G1009 | Tap The Frog 2 | docs/TapTheFrog2_20260815_0843.md | 2026-08-15 08:43 |
+|| G1010 | Blast Ball | docs/BlastBall_20260815_0843.md | 2026-08-15 08:43 |
+|| G1011 | Farming Simulator 2012 3D | docs/FarmingSimulator20123D_20260815_1000.md | 2026-08-15 10:00 |
+|| G1012 | Defense Zone HD | docs/DefenseZoneHD_20260815_1000.md | 2026-08-15 10:00 |
+|| G1013 | Stick Wars 3 | docs/StickWars3_20260815_1000.md | 2026-08-15 10:00 |
+|| G1014 | Crash Time 3D | docs/CrashTime3D_20260815_1000.md | 2026-08-15 10:00 |
+|| G1015 | Little Big City | docs/LittleBigCity_20260815_1000.md | 2026-08-15 10:00 |
+|| G1016 | Bunny Maze 3D | docs/BunnyMaze3D_20260815_1000.md | 2026-08-15 10:00 |
+|| G1017 | Beeing | docs/Beeing_20260815_1000.md | 2026-08-15 10:00 |
+|| G1018 | 12X1 Solitaire | docs/12X1Solitaire_20260815_1000.md | 2026-08-15 10:00 |
+|| G1019 | El Shaddai Vol 1 | docs/ElShaddaiVol1_20260815_1000.md | 2026-08-15 10:00 |
+|| G1020 | Sky Gnomes | docs/SkyGnomes_20260815_1000.md | 2026-08-15 10:00 |
+|| G717 | Asura Cross | docs/AsuraCross_20260814_2359.md | 2026-08-14 23:59 |
+|| G718 | Johnny HotShot | docs/JohnnyHotShot_20260814_2359.md | 2026-08-14 23:59 |
+|| G719 | BreakQuest Extra Evolution | docs/BreakQuestExtraEvolution_20260814_2359.md | 2026-08-14 23:59 |
+|| G720 | Outlaw | docs/Outlaw_20260814_2359.md | 2026-08-14 23:59 |
+|| G721 | Beatdown! | docs/Beatdown_20260814_2359.md | 2026-08-14 23:59 |
+|| G722 | Merlin: A Servant of Two Masters | docs/MerlinAServantofTwoMasters_20260814_2359.md | 2026-08-14 23:59 |
+|| G723 | Matchstick Wars | docs/MatchstickWars_20260814_2359.md | 2026-08-14 23:59 |
+|| G724 | Gear Jack | docs/GearJack_20260814_2359.md | 2026-08-14 23:59 |
+|| G725 | Finger Tied | docs/FingerTied_20260814_2359.md | 2026-08-14 23:59 |
+|| G726 | Build-a-lot 3: Passport to Europe | docs/Buildalot3PassporttoEurope_20260814_2359.md | 2026-08-14 23:59 |
+| G727 | Storm the Train | docs/StormtheTrain_20260814_2359.md | 2026-08-14 23:59 |
+| G728 | Ayakashi: Ghost Guild | docs/AyakashiGhostGuild_20260814_2359.md | 2026-08-14 23:59 |
+| G729 | Pump it Up! Aerobics | docs/PumpitUpAerobics_20260814_2359.md | 2026-08-14 23:59 |
+| G730 | Super Tiny Leap | docs/SuperTinyLeap_20260814_2359.md | 2026-08-14 23:59 |
+| G731 | Slice the Ice | docs/SlicetheIce_20260814_2359.md | 2026-08-14 23:59 |
+| G732 | Chip Chain | docs/ChipChain_20260814_2359.md | 2026-08-14 23:59 |
+| G733 | SpinCraft | docs/SpinCraft_20260814_2359.md | 2026-08-14 23:59 |
+| G734 | Meganoid 2 | docs/Meganoid2_20260814_2359.md | 2026-08-14 23:59 |
+| G735 | The Hobbit: Kingdoms of Middle-Earth | docs/TheHobbitKingdomsofMiddleEarth_20260814_2359.md | 2026-08-14 23:59 |
+| G736 | Janksy | docs/Janksy_20260814_2359.md | 2026-08-14 23:59 |
+| G737 | Heads Up! Hot Dogs | docs/HeadsUpHotDogs_20260814_2359.md | 2026-08-14 23:59 |
+| G738 | Sk8 Krazy | docs/Sk8Krazy_20260814_2359.md | 2026-08-14 23:59 |
+| G739 | League of Heroes | docs/LeagueofHeroes_20260814_2359.md | 2026-08-14 23:59 |
+| G740 | Wizardlings | docs/Wizardlings_20260814_2359.md | 2026-08-14 23:59 |
+| G741 | Panic! | docs/Panic_20260814_2359.md | 2026-08-14 23:59 |
+| G742 | Need for Speed Most Wanted (2005 edition) | docs/NeedforSpeedMostWanted2005edition_20260814_2359.md | 2026-08-14 23:59 |
+| G743 | About Love, Hate and the other ones | docs/AboutLoveHateandtheotherones_20260814_2359.md | 2026-08-14 23:59 |
+| G744 | Crazy Chicken Pirates 3D | docs/CrazyChickenPirates3D_20260814_2359.md | 2026-08-14 23:59 |
+| G745 | Hairy Tales | docs/HairyTales_20260814_2359.md | 2026-08-14 23:59 |
+| G746 | Square Planet | docs/SquarePlanet_20260814_2359.md | 2026-08-14 23:59 |
+||| G707 | Real Heroes: Firefighter 3D | docs/RealHeroesFirefighter3D_20260814_2207.md | 2026-08-14 22:13 |
+| G708 | Motley Blocks | docs/MotleyBlocks_20260814_2207.md | 2026-08-14 22:13 |
+| G709 | Desert Stormfront (RTS) | docs/DesertStormfrontRTS_20260814_2207.md | 2026-08-14 22:13 |
+| G710 | AC/DC Pinball Rocks HD | docs/ACDCPinballRocksHD_20260814_2207.md | 2026-08-14 22:13 |
+| G711 | Marksman Shooting | docs/MarksmanShooting_20260814_2207.md | 2026-08-14 22:13 |
+| G712 | Micro Miners | docs/MicroMiners_20260814_2207.md | 2026-08-14 22:13 |
+| G713 | Ghost Racer | docs/GhostRacer_20260814_2207.md | 2026-08-14 22:13 |
+| G714 | Max Awesome | docs/MaxAwesome_20260814_2207.md | 2026-08-14 22:13 |
+| G715 | Slide Circus | docs/SlideCircus_20260814_2207.md | 2026-08-14 22:13 |
+| G716 | Flow Free: Bridges | docs/FlowFreeBridges_20260814_2207.md | 2026-08-14 22:13 |
+| G697 | 300 Dwarves | docs/300Dwarves_20260814_2130.md | 2026-08-14 21:30 |
+| G698 | Dream of Pixels | docs/DreamOfPixels_20260814_2130.md | 2026-08-14 21:30 |
+| G699 | Zookeeper Battle | docs/ZookeeperBattle_20260814_2130.md | 2026-08-14 21:30 |
+| G700 | Railbot | docs/Railbot_20260814_2130.md | 2026-08-14 21:30 |
+| G701 | Nintendo presents: New Style Boutique | docs/NewStyleBoutique_20260814_2130.md | 2026-08-14 21:30 |
+| G702 | Reflec Beat + | docs/ReflecBeatPlus_20260814_2130.md | 2026-08-14 21:30 |
+| G703 | Spaceteam | docs/Spaceteam_20260814_2130.md | 2026-08-14 21:30 |
+| G704 | Zero Escape: Virtue's Last Reward | docs/ZeroEscapeVLR_20260814_2130.md | 2026-08-14 21:30 |
+| G705 | Monopoly Millionaire | docs/MonopolyMillionaire_20260814_2130.md | 2026-08-14 21:30 |
+| G706 | Stay Alive | docs/StayAlive_20260814_2130.md | 2026-08-14 21:30 |
+| G651 | Wide Sky | docs/WideSky_20260814_1730.md | 2026-08-14 15:14 |
+| G652 | Tennis in the Face | docs/TennisintheFace_20260814_1730.md | 2026-08-14 15:14 |
+| G653 | 35 Junior Games | docs/35JuniorGames_20260814_1730.md | 2026-08-14 15:14 |
+| G654 | Colosseum Defense | docs/ColosseumDefense_20260814_1730.md | 2026-08-14 15:14 |
+| G655 | Dingle Dangle | docs/DingleDangle_20260814_1730.md | 2026-08-14 15:14 |
+| G656 | Zen Training | docs/ZenTraining_20260814_1730.md | 2026-08-14 15:14 |
+| G657 | Run'n'Gun | docs/RunnGun_20260814_1730.md | 2026-08-14 15:14 |
+| G658 | Pub Quiz with Friends | docs/PubQuizwithFriends_20260814_1730.md | 2026-08-14 15:14 |
+| G659 | Little Amazon | docs/LittleAmazon_20260814_1730.md | 2026-08-14 15:14 |
+| G660 | Cognitile | docs/Cognitile_20260814_1730.md | 2026-08-14 15:14 |
+| G661 | Uranium Inc. | docs/UraniumInc_20260814_1730.md | 2026-08-14 15:14 |
+| G662 | The Grading Game | docs/TheGradingGame_20260814_1730.md | 2026-08-14 15:14 |
+| G663 | Ronin | docs/RoninTheLastSamurai_20260813_0117.md | 2026-08-14 15:14 |
+| G664 | RC Thunderbird | docs/RCThunderbird_20260814_1730.md | 2026-08-14 15:14 |
+| G621 | Bionfly | docs/bionfly_20260814_1258.md | 2026-08-14 12:58 |
+| G622 | Block Fortress | docs/BlockFortress_20260814_1258.md | 2026-08-14 12:58 |
+| G623 | Bridge Constructor Playground | docs/BridgeConstructorPlayground_20260814_1258.md | 2026-08-14 12:58 |
+| G624 | Burt Destruction | docs/BurtDestruction_20260814_1258.md | 2026-08-14 12:58 |
+| G625 | Color Sheep | docs/ColorSheep_20260814_1258.md | 2026-08-14 12:58 |
+| G626 | Galactic Conflict | docs/GalacticConflict_20260814_1258.md | 2026-08-14 12:58 |
+| G627 | Jetpack Jinx | docs/JetpackJinx_20260814_1258.md | 2026-08-14 12:58 |
+| G628 | King Cashing 2 | docs/KingCashing2_20260814_1258.md | 2026-08-14 12:58 |
+| G629 | Megapolis | docs/Megapolis_20260814_1258.md | 2026-08-14 12:58 |
+| G630 | Sushi Mushi | docs/SushiMushi_20260814_1258.md | 2026-08-14 12:58 |
+| G631 | Backflip Madness | docs/BackflipMadness_20260814_1258.md | 2026-08-14 12:58 |
+| G632 | Clear Vision 2 | docs/ClearVision2_20260814_1258.md | 2026-08-14 12:58 |
+| G633 | Cocoto Alien Brick Breaker | docs/CocotoAlienBrickBreaker_20260814_1258.md | 2026-08-14 12:58 |
+| G634 | Cyto | docs/Cyto_20260814_1258.md | 2026-08-14 12:58 |
+| G635 | Finding Teddy | docs/FindingTeddy_20260814_1258.md | 2026-08-14 12:58 |
+| G636 | Frogger Jump | docs/FroggerJump_20260814_1258.md | 2026-08-14 12:58 |
+| G637 | Fruit Pop | docs/FruitPop_20260814_1258.md | 2026-08-14 12:58 |
+| G638 | Hacky Cat | docs/HackyCat_20260814_1258.md | 2026-08-14 12:58 |
+| G639 | Life of Pixel | docs/LifeOfPixel_20260814_1258.md | 2026-08-14 12:58 |
+| G640 | Puzzle Restorer | docs/PuzzleRestorer_20260814_1258.md | 2026-08-14 12:58 |
+| G641 | Animal Park Tycoon | docs/AnimalParkTycoon_20260814_1258.md | 2026-08-14 12:58 |
+| G642 | Baseball Superstars 2013 | docs/BaseballSuperstars2013_20260814_1258.md | 2026-08-14 12:58 |
+| G643 | Covenant of Solitude | docs/CovenantOfSolitude_20260814_1258.md | 2026-08-14 12:58 |
+| G644 | Dungeon Lore | docs/DungeonLore_20260814_1258.md | 2026-08-14 12:58 |
+| G645 | Inbetween Land | docs/InbetweenLand_20260814_1258.md | 2026-08-14 12:58 |
+| G646 | Krashlander | docs/Krashlander_20260814_1258.md | 2026-08-14 12:58 |
+| G647 | Midnight Bowling 3 | docs/MidnightBowling3_20260814_1258.md | 2026-08-14 12:58 |
+| G648 | Paper Galaxy | docs/PaperGalaxy_20260814_1258.md | 2026-08-14 12:58 |
+| G649 | Rise of the Blobs | docs/RiseOfTheBlobs_20260814_1258.md | 2026-08-14 12:58 |
+| G650 | Zombie Clash | docs/ZombieClash_20260814_1258.md | 2026-08-14 12:58 |
+| G611 | Ninja Striker! | docs/NinjaStriker_20260814_0951.md | 2026-08-14 09:51 |
+| G612 | Deep Sea Deli | docs/DeepSeaDeli_20260814_0951.md | 2026-08-14 09:51 |
+| G613 | Orion's Forge | docs/OrionsForge_20260814_0951.md | 2026-08-14 09:51 |
+| G614 | Mighty Dungeons | docs/MightyDungeons_20260814_0951.md | 2026-08-14 09:51 |
+| G615 | Eyes: Scary Thriller | docs/EyesScaryThriller_20260814_0951.md | 2026-08-14 09:51 |
+| G616 | Relativity Wars | docs/RelativityWars_20260814_0951.md | 2026-08-14 09:51 |
+| G617 | Abalone | docs/Abalone_20260814_0951.md | 2026-08-14 09:51 |
+| G618 | Pocket Fleet Multiplayer | docs/PocketFleetMultiplayer_20260814_0951.md | 2026-08-14 09:51 |
+| G619 | Alien Hive | docs/AlienHive_20260814_0951.md | 2026-08-14 09:51 |
+| G620 | Zombie Minesweeper | docs/ZombieMinesweeper_20260814_0951.md | 2026-08-14 09:51 |
+| G570 | Lums | docs/Lums_20260814_0434.md | 2026-08-14 04:34 |
+| G571 | Delta-V Racing | docs/DeltaVRacing_20260814_0434.md | 2026-08-14 04:34 |
+| G572 | Attack of the Friday Monsters! A Tokyo Tale | docs/AttackOfTheFridayMonsters_20260814_0434.md | 2026-08-14 04:34 |
+| G573 | Eternal Descent: Heavy Metal Heroes | docs/EternalDescentHeavyMetalHeroes_20260814_0434.md | 2026-08-14 04:34 |
+| G574 | Asterix: Megaslap | docs/AsterixMegaslap_20260814_0434.md | 2026-08-14 04:34 |
+| G575 | Battle Rush | docs/BattleRush_20260814_0434.md | 2026-08-14 04:34 |
+| G576 | League of Mages | docs/LeagueOfMages_20260814_0434.md | 2026-08-14 04:34 |
+| G577 | SongRush | docs/SongRush_20260814_0434.md | 2026-08-14 04:34 |
+| G578 | Sky Tourist | docs/SkyTourist_20260814_0434.md | 2026-08-14 04:34 |
+| G579 | Colourtrix | docs/Colourtrix_20260814_0434.md | 2026-08-14 04:34 |
+| G580 | Bounty Arms | docs/BountyArms_20260814_0434.md | 2026-08-14 04:34 |
+| G581 | SpeedX 3D Hyper Edition | docs/SpeedX3DHyperEdition_20260814_0619.md | 2026-08-14 06:19 |
+| G582 | Pyramus | docs/Pyramus_20260814_0619.md | 2026-08-14 06:19 |
+| G583 | Beejumbled | docs/Beejumbled_20260814_0619.md | 2026-08-14 06:19 |
+| G584 | Pinball Rocks HD | docs/PinballRocksHD_20260814_0619.md | 2026-08-14 06:19 |
+| G585 | SpongeBob Moves In | docs/SpongeBobMovesIn_20260814_0619.md | 2026-08-14 06:19 |
+| G586 | Cling Thing | docs/ClingThing_20260814_0619.md | 2026-08-14 06:19 |
+| G587 | Fish Puncher! | docs/FishPuncher_20260814_0619.md | 2026-08-14 06:19 |
+| G588 | Gridd 2 | docs/Gridd2_20260814_0619.md | 2026-08-14 06:19 |
+| G589 | Cubemen 2 | docs/Cubemen2_20260814_0619.md | 2026-08-14 06:19 |
+| G590 | Color Zen | docs/ColorZen_20260814_0619.md | 2026-08-14 06:19 |
+| G591 | Rollabear | docs/Rollabear_20260814_0619.md | 2026-08-14 06:19 |
+| G592 | The Denpa Men 2: Beyond the Waves | docs/TheDenpaMen2_20260814_0619.md | 2026-08-14 06:19 |
+| G593 | Stickets | docs/Stickets_20260814_0619.md | 2026-08-14 06:19 |
+| G594 | I, Gladiator | docs/IGladiator_20260814_0619.md | 2026-08-14 06:19 |
+| G595 | Battle Nations | docs/BattleNations_20260814_0619.md | 2026-08-14 06:19 |
+| G596 | SlamBots | docs/SlamBots_20260814_0619.md | 2026-08-14 06:19 |
+| G597 | Bam fu | docs/Bamfu_20260814_0619.md | 2026-08-14 06:19 |
+| G598 | Hills of Glory 3D | docs/HillsOfGlory3D_20260814_0619.md | 2026-08-14 06:19 |
+| G599 | Stickman Tennis | docs/StickmanTennis_20260814_0619.md | 2026-08-14 06:19 |
+| G600 | Can Knockdown 3 | docs/CanKnockdown3_20260814_0619.md | 2026-08-14 06:19 |
+| G601 | Dots: A Game About Connecting | docs/DotsGameAboutConnecting_20260814_0619.md | 2026-08-14 06:19 |
+| G602 | Bellyfish | docs/Bellyfish_20260814_0619.md | 2026-08-14 06:19 |
+| G603 | Tomb Breaker | docs/TombBreaker_20260814_0619.md | 2026-08-14 06:19 |
+| G604 | Tales of Illyria | docs/TalesOfIllyria_20260814_0619.md | 2026-08-14 06:19 |
+| G605 | Era Deluxe | docs/EraDeluxe_20260814_0619.md | 2026-08-14 06:19 |
+| G606 | Dead Ahead | docs/DeadAhead_20260814_0619.md | 2026-08-14 06:19 |
+| G607 | CandyMeleon | docs/CandyMeleon_20260814_0619.md | 2026-08-14 06:19 |
+| G608 | Go Home Dinosaurs | docs/GoHomeDinosaurs_20260814_0619.md | 2026-08-14 06:19 |
+| G609 | Bonds of the Skies | docs/BondsOfTheSkies_20260814_0619.md | 2026-08-14 06:19 |
+| G610 | Dig! | docs/DigGame_20260814_0619.md | 2026-08-14 06:19 |
+| G495 | Jelly Splash | | https://www.pocketgamer.com/jelly-splash/ |
+| G496 | Grindcore | | https://www.pocketgamer.com/grindcore/ |
+| G497 | Animal Voyage: Island Adventure | | https://www.pocketgamer.com/animal-voyage-island-adventure/ |
+| G498 | ControlCraft 3 | | https://www.pocketgamer.com/controlcraft-3/ |
+| G499 | Cloud Spin | | https://www.pocketgamer.com/cloud-spin/ |
+| G500 | Death Mile | | https://www.pocketgamer.com/death-mile/ |
+| G501 | Tetra | | https://www.pocketgamer.com/tetra/ |
+| G502 | Wakedas | | https://www.pocketgamer.com/wakedas/ |
+| G503 | Mine Run 3D - Escape 2 Temple | | https://www.pocketgamer.com/mine-run-3d-escape-2-temple/ |
+| G504 | Gurk III - the 8-bit RPG | | https://www.pocketgamer.com/gurk-iii-the-8-bit-rpg/ |
+| G505 | Bike Rider DX | | https://www.pocketgamer.com/bike-rider-dx/ |
+| G506 | Sage Fusion 2 | | https://www.pocketgamer.com/sage-fusion-2/ |
+| G507 | Way to Go | | https://www.pocketgamer.com/way-to-go/ |
+| G508 | Ninjas - Stolen Scrolls | | https://www.pocketgamer.com/ninjas-stolen-scrolls/ |
+| G509 | Indie Pixel | | https://www.pocketgamer.com/indie-pixel/ |
+| G510 | Telekinesis Kyle | | https://www.pocketgamer.com/telekinesis-kyle/ |
+| G511 | The Impossible Line | | https://www.pocketgamer.com/the-impossible-line/ |
+| G512 | Alexia the Great | | https://www.pocketgamer.com/alexia-the-great/ |
+| G513 | Air War 3D | | https://www.pocketgamer.com/air-war-3d/ |
+| G514 | Pocket Land | | https://www.pocketgamer.com/pocket-land/ |
+| G515 | Nun Attack: Run and Gun | | https://www.pocketgamer.com/nun-attack-run-and-gun/ |
+| G516 | Gleamer | | https://www.pocketgamer.com/gleamer/ |
+| G517 | Brick Roll | | https://www.pocketgamer.com/brick-roll/ |
+| G518 | Trial by Survival | | https://www.pocketgamer.com/trial-by-survival/ |
+| G519 | Heroes War | | https://www.pocketgamer.com/heroes-war/ |
+| G520 | Happy Dinos | | https://www.pocketgamer.com/happy-dinos/ |
+| G521 | Abyss Attack | | https://www.pocketgamer.com/abyss-attack/ |
+| G522 | Rugby Kicks 2 | | https://www.pocketgamer.com/rugby-kicks-2/ |
+| G523 | Baby Nom Nom | | https://www.pocketgamer.com/baby-nom-nom/ |
+| G524 | NFL Pro 2014 | | https://www.pocketgamer.com/nfl-pro-2014/ |
+| G525 | Mystic Chronicles | | https://www.pocketgamer.com/mystic-chronicles/ |
+| G526 | Expander | | https://www.pocketgamer.com/expander/ |
+| G527 | Die!Die!Die! | | https://www.pocketgamer.com/die-die-die/ |
+| G528 | Lightning Fighter 2 | | https://www.pocketgamer.com/lightning-fighter-2/ |
+| G529 | Prehistorik | | https://www.pocketgamer.com/prehistorik/ |
+| G530 | Muscle Run | | https://www.pocketgamer.com/muscle-run/ |
+| G531 | Chain Blaster | | https://www.pocketgamer.com/chain-blaster/ |
+| G532 | Rally Drive | | https://www.pocketgamer.com/rally-drive/ |
+| G533 | The Fight 3D | | https://www.pocketgamer.com/the-fight-3d/ |
+| G534 | Need A Hero | | https://www.pocketgamer.com/need-a-hero/ |
+| G535 | An Alien With A Magnet | | https://www.pocketgamer.com/an-alien-with-a-magnet/ |
+| G536 | Undead Bowling | | https://www.pocketgamer.com/undead-bowling/ |
+| G537 | Chillaxian | | https://www.pocketgamer.com/chillaxian/ |
+| G538 | Rivals at War: 2084 | | https://www.pocketgamer.com/rivals-at-war-2084/ |
+| G539 | Lub vs Dub | | https://www.pocketgamer.com/lub-vs-dub/ |
 || G271 | Words With Friends 2 | docs/WordsWithFriends2_20260812_0527.md | 2026-08-12 05:27 |
 || G270 | Super Mario Run | docs/SuperMarioRun_20260812_0527.md | 2026-08-12 05:27 |
 || G269 | Postknight 2 | docs/Postknight2_20260812_0527.md | 2026-08-12 05:27 |
@@ -432,23 +1118,156 @@
 ||| G351 | Exploding Kittens 2 | docs/ExplodingKittens2_20260813_0119.md | 2026-08-13 03:00 |
 ||| G352 | Dicey Dungeons | docs/DiceyDungeons_20260813_0119.md | 2026-08-13 03:00 |
 ||| G353 | Minesweeper | docs/Minesweeper_20260813_0119.md | 2026-08-13 03:00 |
+|| G381 | Disco Elysium | docs/DiscoElysium_20260813_1323.md | 2026-08-13 13:23 |
+|| G382 | Dark and Darker Mobile | docs/DarkandDarkerMobile_20260813_1323.md | 2026-08-13 13:23 |
+|| G383 | Roblox | docs/Roblox_20260813_1323.md | 2026-08-13 13:23 |
+|| G384 | Tower of Fantasy | docs/TowerofFantasy_20260813_1323.md | 2026-08-13 13:23 |
+|| G385 | Cookie Run: Kingdom | docs/CookieRunKingdom_20260813_1323.md | 2026-08-13 13:23 |
+|| G386 | Hearthstone: Heroes of Warcraft | docs/HearthstoneHeroesofWarcraft_20260813_1323.md | 2026-08-13 13:23 |
+|| G387 | Garena Free Fire | docs/GarenaFreeFire_20260813_1323.md | 2026-08-13 13:23 |
+|| G388 | Whiteout Survival | docs/WhiteoutSurvival_20260813_1323.md | 2026-08-13 13:23 |
+|| G389 | Minecraft | docs/Minecraft_20260813_1323.md | 2026-08-13 13:23 |
+||| G390 | Geometry Dash | docs/GeometryDash_20260813_1323.md | 2026-08-13 13:23 |
+|| G434 | Wrestling Revolution 3D | docs/WrestlingRevolution3D_20260813_1644.md | 2026-08-13 16:52 |
+|| G435 | Diner DASH Adventures | docs/DinerDASHAdventures_20260813_1644.md | 2026-08-13 16:52 |
+|| G436 | Dumb Ways to Die | docs/DumbWaystoDie_20260813_1644.md | 2026-08-13 16:52 |
+|| G437 | Hyper Heroes: Marble-Like RPG | docs/HyperHeroesMarbleLikeRPG_20260813_1644.md | 2026-08-13 16:52 |
+|| G438 | Samurai Flash | docs/SamuraiFlash_20260813_1644.md | 2026-08-13 16:52 |
+|| G439 | Red Ball 4 | docs/RedBall4AdSupported_20260813_1644.md | 2026-08-13 16:52 |
+|| G440 | Auto Brawl Chess: Battle Royale | docs/AutoBrawlChessBattleRoyale_20260813_1644.md | 2026-08-13 16:52 |
+|| G441 | Pyramid Solitaire Saga | docs/PyramidSolitaireSaga_20260813_1644.md | 2026-08-13 16:52 |
+||| G442 | VS. Racing 2 | docs/VSRacing2_20260813_1644.md | 2026-08-13 16:52 |
+||| G443 | Cally's Caves 2 | docs/CallysCaves2_20260813_2000.md | 2026-08-13 20:00 |
+||| G444 | Magical Beat | docs/MagicalBeat_20260813_2000.md | 2026-08-13 20:00 |
+||| G445 | AiRace Xeno | docs/AiRaceXeno_20260813_2000.md | 2026-08-13 20:00 |
+||| G446 | Monty Python's Ministry of Silly Walks | docs/MontyPythonsMinistryofSillyWalks_20260813_2000.md | 2026-08-13 20:00 |
+||| G447 | Mecha Ace | docs/MechaAce_20260813_2000.md | 2026-08-13 20:00 |
+||| G448 | nanoRPG | docs/nanoRPG_20260813_2000.md | 2026-08-13 20:00 |
+||| G449 | Outernauts | docs/Outernauts_20260813_2000.md | 2026-08-13 20:00 |
+||| G450 | Inazuma Eleven | docs/InazumaEleven_20260813_2000.md | 2026-08-13 20:00 |
+||| G451 | RubPix | docs/RubPix_20260813_2000.md | 2026-08-13 20:00 |
+||| G452 | Pigs Can't Fly | docs/PigsCantFly_20260813_2000.md | 2026-08-13 20:00 |
+||| G453 | Eliza's Quest | docs/ElizasQuest_20260813_2000.md | 2026-08-13 20:00 |
+||| G454 | Gunship X | docs/GunshipX_20260813_2000.md | 2026-08-13 20:00 |
+||| G455 | Heroes of Camelot | docs/HeroesofCamelot_20260813_2000.md | 2026-08-13 20:00 |
+||| G456 | Star Wars Pinball | docs/StarWarsPinball_20260813_2000.md | 2026-08-13 20:00 |
+||| G457 | CastleStorm | docs/CastleStorm_20260813_2000.md | 2026-08-13 20:00 |
+||| G458 | Titan Attacks | docs/TitanAttacks_20260813_2000.md | 2026-08-13 20:00 |
+||| G459 | FarmVille 2 | docs/FarmVille2_20260813_2000.md | 2026-08-13 20:00 |
+||| G460 | Bomb Buds | docs/BombBuds_20260813_2000.md | 2026-08-13 20:00 |
+||| G461 | Overkill Mafia | docs/OverkillMafia_20260813_2000.md | 2026-08-13 20:00 |
+||| G462 | Spy Wars | docs/SpyWars_20260813_2000.md | 2026-08-13 20:00 |
+||| G463 | Battle Gems | docs/BattleGems_20260813_2000.md | 2026-08-13 20:00 |
+||| G464 | Wind-up Knight 2 | docs/WindupKnight2_20260813_2000.md | 2026-08-13 20:00 |
+||| G465 | Polar Bowler | docs/PolarBowler_20260813_2000.md | 2026-08-13 20:00 |
+||| G466 | Ace Fishing | docs/AceFishing_20260813_2000.md | 2026-08-13 20:00 |
+||| G467 | Dark Guardians | docs/DarkGuardians_20260813_2000.md | 2026-08-13 20:00 |
+||| G468 | Ethan Meteor Hunter | docs/EthanMeteorHunter_20260813_2000.md | 2026-08-13 20:00 |
+||| G469 | FreeDum | docs/FreeDum_20260813_2000.md | 2026-08-13 20:00 |
+||| G470 | Bloo Kid 2 | docs/BlooKid2_20260813_2000.md | 2026-08-13 20:00 |
+||| G471 | Pac-Man Ghostly Adventures | docs/PacManGhostlyAdventures_20260813_2000.md | 2026-08-13 20:00 |
+||| G472 | Tiny City | docs/TinyCity_20260813_2000.md | 2026-08-13 20:00 |
+|| G354 | Dash Quest Heroes | docs/DashQuestHeroes_20260813_0447.md | 2026-08-13 04:47 |
+|| G355 | Prizefighters | docs/Prizefighters_20260813_0447.md | 2026-08-13 04:47 |
+|| G356 | Mantis Burn Racing | docs/MantisBurnRacing_20260813_0447.md | 2026-08-13 04:47 |
+|| G357 | Timber West | docs/TimberWest_20260813_0447.md | 2026-08-13 04:47 |
+|| G358 | Amazing Katamari Damacy | docs/AmazingKatamariDamacy_20260813_0447.md | 2026-08-13 04:47 |
+|| G359 | Mayhem | docs/Mayhem_20260813_0447.md | 2026-08-13 04:47 |
+|| G360 | Tap Busters: Galaxy Heroes | docs/TapBustersGalaxyHeroes_20260813_0447.md | 2026-08-13 04:47 |
+|| G361 | Corporate Salmon | docs/CorporateSalmon_20260813_0447.md | 2026-08-13 04:47 |
+|| G362 | LA Noire | docs/LANoire_20260813_0447.md | 2026-08-13 04:47 |
+|| G363 | Bladebound | docs/Bladebound_20260813_0447.md | 2026-08-13 04:47 |
+|| G364 | Kickerinho World | docs/KickerinhoWorld_20260813_0626.md | 2026-08-13 06:26 |
+|| G365 | Hungry Shark World | docs/HungrySharkWorld_20260813_0626.md | 2026-08-13 06:26 |
+|| G366 | Slither.io | docs/slitherio_20260813_0626.md | 2026-08-13 06:26 |
+|| G367 | Thumb Drift | docs/ThumbDriftFuriousRacing_20260813_0626.md | 2026-08-13 06:26 |
+|| G368 | Beat Stomper | docs/BeatStomper_20260813_0626.md | 2026-08-13 06:26 |
+|| G369 | Olympus Rising | docs/OlympusRisingHeroDefense_20260813_0626.md | 2026-08-13 06:26 |
+|| G370 | Candy Crush Jelly Saga | docs/CandyCrushJellySaga_20260813_0626.md | 2026-08-13 06:26 |
+|| G371 | Badland 2 | docs/BADLAND2_20260813_0626.md | 2026-08-13 06:26 |
+|| G372 | Virtual Families | docs/VirtualFamilies3_20260813_0626.md | 2026-08-13 06:26 |
+|| G373 | Township | docs/Township_20260813_0626.md | 2026-08-13 06:26 |
+|| G374 | Cookie Jam | docs/CookieJamMatch3Games_20260813_0626.md | 2026-08-13 06:26 |
+|| G375 | LEGO Ninjago | docs/LEGONinjago_20260813_0626.md | 2026-08-13 06:26 |
+|| G376 | Zenonia 5 | docs/ZENONIA5_20260813_0626.md | 2026-08-13 06:26 |
+|| G377 | Spellstone | docs/Spellstone_20260813_0626.md | 2026-08-13 06:26 |
+|| G378 | Kitty Pops | docs/KittyPops_20260813_0626.md | 2026-08-13 06:26 |
+|| G379 | Polybear | docs/Polybear_20260813_0626.md | 2026-08-13 06:26 |
 
 | S120 | PocketGamer Android Best Action Games | https://www.pocketgamer.com/android/best-action-games/ | 25 | 2026-08-13 03:00 |
 | S121 | Android Police Best Android Games | https://www.androidpolice.com/best-android-games/ | 28 | 2026-08-13 03:00 |
 | S122 | Rock Paper Shotgun Best Puzzle Games | https://www.rockpapershotgun.com/best-puzzle-games | 23 | 2026-08-13 03:00 |
 
 ## Execution Log
+| R073 | 2026-08-16 22:50 | 手动发现3来源S268-S270(P104-P106)共75款游戏名，为10款生成文档G1250-G1259(均≥50行)，graphify 11952nodes/10809edges |
+|| R061 | 2026-08-15 23:04 | DDG被CAPTCHA阻止，PocketGamer P95+页面JS渲染无法提取，无新来源。处理10款Games Pending(G991-G1000)，产出10份文档(均≥50行)，来源: PocketGamer P77 + Wikipedia
+||| R064 | 2026-08-16 06:00 | DDG被CAPTCHA阻止，处理10个来源(G1108-G1117)
+|| R059 | 2026-08-15 19:31 | DDG被CAPTCHA阻止，手动发现3来源(S256-S258 P92-P94)，14款游戏文档(G1021,G1022,G1024,G1028,G1034,G1037,G1041,G1042,G1054,G1059,G037,G049,G054,G059) |
+| R046 | 2026-08-14 15:14 | 处理3来源(S189-S191)，提取48款游戏名，产出13款文档(G651-G663，Ronin已存在)，22款新游戏加入Pending(G665-G686) |
 
 | Run Time | Search Queries | Sources Found | Sources Processed | Games Found | Games Archived | Failed |
+
+|| 2026-08-14 17:00 | (R045: 手动发现3来源S189-S191共24款游戏名，为10款生成文档G651-G660均≥50行，30款G621-G650移入Archived，14款G661-G674留Pending) | 3 (S189-S191) | 3 (S189-S191) | 24 | 30 (G621-G650已归档+G651-G660新文档) | 0 |
+|---|---|---|---|---|---|---|
+|| 2026-08-14 06:19 | (R042: 手动发现3来源S180-S182共75款游戏名，为30款生成详细文档G581-G610，均≥50行) | 3 (S180-S182) | 3 (S180-S182) | 75 | 30 (G581-G610) | 0 |
+| 2026-08-13 09:57 | 3组(PocketGamer P28/P29+Gamigion) | 2 | 3(S141成功9款,S142失败,S143/S144归档) | 34 | 34 | 1(S142模板文章) |
+|---|---|---|---|---|---|---|
+| 2026-08-14 04:34 | (R041: DDG被CAPTCHA阻止，手动发现3个PocketGamer来源S177-S179共75款游戏，基于PocketGamer评测内容为11款生成文档G570-G580，均≥50行) | 3 (S177-S179) | 3 (S177-S179) | 75 | 11 (G570-G580) | 0 |
+| 2026-08-14 02:59 | R040: 静态发现S174-S176(75款), 处理30款(G495-G524) | 3 (S174-S176) | 3 (S174-S176) | 75 | 30 (G495-G569) | 0 |
+| 2026-08-13 20:00 | (R038: 手动发现3来源S160-S162, 处理3来源产出30款游戏文档G443-G472) | 3 (S160-S162) | 3 (S160-S162) | 75 | 30 (G443-G472) | 0 |
+|---|---|---|---|---|---|---|
+| 2026-08-13 15:12 | (R036: 处理PocketGamer P32/P33/P34共75款游戏名，产出10款文档G424-G433) | 3 (S154-S156) | 3 (S154-S156) | 75 | 10 (G424-G433) | 0 |
 |---|---|---|---|---|---|---|
 || 2026-08-12 19:48 | (R026: 3组搜索DuckDuckGo, 发现5来源S104-S108, 处理1来源S104产出12款游戏G302-G313, 4来源失败) | 5 | 1 (S104) | 0 | 12 (G302-G313) | 4 (S105反爬/S106 JS渲染/S107,S108无可提取游戏列表) |
 | 2026-08-12 23:26 | (R028: DuckDuckGo被CAPTCHA阻止，改用PocketGamer Game Finder直接发现6来源S114-S119, 处理1来源S114产出9款游戏G315-G323, 5来源仅提取游戏名) |
-|| 2026-08-13 03:00 | (R029: 3组搜索来源, 发现3来源S120-S122, 处理3来源, 产出30款游戏文档G324-G353) | 3 | 3 (S120-S122) | 0 | 30 (G324-G353) | 0 |
+||| 2026-08-13 03:00 | (R029: 3组搜索来源, 发现3来源S120-S122, 处理3来源, 产出30款游戏文档G324-G353) | 3 | 3 (S120-S122) | 0 | 30 (G324-G353) | 0 |
+|| 2026-08-13 04:47 | (R031: 3组DDG搜索, 发现11候选URL, 去重后加入6新来源S127-S132, 处理8个来源S123-S130产出194款游戏名, 产出10款文档G354-G363, 2来源失败) | 6 | 8 (S123-S130) | 194 | 10 (G354-G363) | 2 (S131/S132 Reddit JS渲染) |
+|| 2026-08-13 06:32 | (R032: DDG被CAPTCHA阻止，改用PocketGamer Game Finder直接发现3来源S133-S135共75款游戏名，通过iTunes API+Wikipedia为其中16款生成详细文档G364-G379) | 3 | 3 (S133-S135) | 75 | 16 (G364-G379) | 0 |
  6 | 1 (S114) | 153 | 9 (G315-G323) | 0 |
 | 2026-08-12 19:30 | (R025: 跳过搜索-Pending≥5, 处理6来源S098-S103, 产出6款游戏: HorizonChase/SlayawayCamp/GameDevStory/WarbitsPlus/SneakySasquatch/HallsOfTorment) | 0 | 6 (S098-S103) | 0 | 6 | 5 (S098/S100-S103 JS渲染/无法提取) |
 | 2026-08-12 14:23 | (R023: 跳过搜索-Pending≥5, 处理5来源S092-S097, 产出10款游戏G292-G301) | 0 | 5 (S092-S093,S095-S097) | 47 | 10 (G292-G301) | 0 (S092/S093为月度数据报告无新游戏) |
 || 2026-08-12 05:27 | (R018: 跳过搜索-MCP不可用，处理3个来源S065-S068，产出20款游戏文档)
-|---|---|---|---|---|---|---|
+|---|---|---| G485 | Clumsy Ninja | docs/ClumsyNinja_20260814_0119.md | 2026-08-14 01:12 |
+| G486 | DEEMO | docs/DEEMO_20260814_0119.md | 2026-08-14 01:12 |
+| G487 | Farm Frenzy 3 | docs/FarmFrenzy3_20260814_0119.md | 2026-08-14 01:12 |
+| G488 | Vampire Season: Monster Defence | docs/VampireSeasonMonsterDefence_20260814_0119.md | 2026-08-14 01:12 |
+| G489 | Mario Party: Island Tour | docs/MarioPartyIslandTour_20260814_0119.md | 2026-08-14 01:12 |
+| G490 | Tekken Arena | docs/TekkenArena_20260814_0119.md | 2026-08-14 01:12 |
+| G491 | Juice Cubes | docs/JuiceCubes_20260814_0119.md | 2026-08-14 01:12 |
+| G492 | Worms Revolution Extreme | docs/WormsRevolutionExtreme_20260814_0119.md | 2026-08-14 01:12 |
+| G493 | Pandemic: The Board Game | docs/PandemicTheBoardGame_20260814_0119.md | 2026-08-14 01:12 |
+| G494 | Amigo Pancho | docs/AmigoPancho_20260814_0119.md | 2026-08-14 01:12 |
+| G540 | CastleVille Legends | docs/CastleVilleLegends_20260814_0259.md | 2026-08-14 02:59 |
+| G541 | Orborun | docs/Orborun_20260814_0259.md | 2026-08-14 02:59 |
+| G542 | SimpleRockets | docs/SimpleRockets_20260814_0259.md | 2026-08-14 02:59 |
+| G543 | Dragon Finga | docs/DragonFinga_20260814_0259.md | 2026-08-14 02:59 |
+| G544 | Carnage Racing | docs/CarnageRacing_20260814_0259.md | 2026-08-14 02:59 |
+| G545 | Rage Warriors | docs/RageWarriors_20260814_0259.md | 2026-08-14 02:59 |
+| G546 | DuckTales: Scrooge's Loot | docs/DuckTalesScroogesLoot_20260814_0259.md | 2026-08-14 02:59 |
+| G547 | Ookibloks | docs/Ookibloks_20260814_0259.md | 2026-08-14 02:59 |
+| G548 | Total Conquest | docs/TotalConquest_20260814_0259.md | 2026-08-14 02:59 |
+| G549 | Gods VS Humans - Protect your Kingdom | docs/GodsVSHumans-ProtectyourKingdom_20260814_0259.md | 2026-08-14 02:59 |
+| G550 | Strata | docs/Strata_20260814_0259.md | 2026-08-14 02:59 |
+| G551 | Little Galaxy | docs/LittleGalaxy_20260814_0259.md | 2026-08-14 02:59 |
+| G552 | Madden NFL 25 | docs/MaddenNFL25_20260814_0259.md | 2026-08-14 02:59 |
+| G553 | Boom! Tanks | docs/BoomTanks_20260814_0259.md | 2026-08-14 02:59 |
+| G554 | A Brief History of the World | docs/ABriefHistoryoftheWorld_20260814_0259.md | 2026-08-14 02:59 |
+| G555 | Hell, The Dungeon Again | docs/HellTheDungeonAgain_20260814_0259.md | 2026-08-14 02:59 |
+| G556 | Motocross Elite | docs/MotocrossElite_20260814_0259.md | 2026-08-14 02:59 |
+| G557 | Bird Hunt | docs/BirdHunt_20260814_0259.md | 2026-08-14 02:59 |
+| G558 | Zombie Highway: Driver's Ed | docs/ZombieHighwayDriversEd_20260814_0259.md | 2026-08-14 02:59 |
+| G559 | Fix the Leaks | docs/FixtheLeaks_20260814_0259.md | 2026-08-14 02:59 |
+| G560 | 4 Thrones | docs/4Thrones_20260814_0259.md | 2026-08-14 02:59 |
+| G561 | Robbery Bob | docs/RobberyBob_20260814_0259.md | 2026-08-14 02:59 |
+| G562 | Soul Grinder | docs/SoulGrinder_20260814_0259.md | 2026-08-14 02:59 |
+| G563 | Link the Slug | docs/LinktheSlug_20260814_0259.md | 2026-08-14 02:59 |
+| G564 | Don't Fall in the Hole | docs/DontFallintheHole_20260814_0259.md | 2026-08-14 02:59 |
+| G565 | Containment: The Zombie Puzzler | docs/ContainmentTheZombiePuzzler_20260814_0259.md | 2026-08-14 02:59 |
+| G566 | Fluid Football Versus | docs/FluidFootballVersus_20260814_0259.md | 2026-08-14 02:59 |
+| G567 | Heavy Fire: Black Arms 3D | docs/HeavyFireBlackArms3D_20260814_0259.md | 2026-08-14 02:59 |
+| G568 | Yu-Gi-Oh! BAM Pocket | docs/Yu-Gi-OhBAMPocket_20260814_0259.md | 2026-08-14 02:59 |
+| G569 | Bravoman: Binja Bash | docs/BravomanBinjaBash_20260814_0259.md | 2026-08-14 02:59 |
+|---|---|---|---|
 | 2026-08-12 12:48 | (R022: 3组搜索DuckDuckGo, 发现10来源S088-S097, 处理5来源, 产出10款游戏G282-G291) | 10 | 5 (S088-S091,S094) | 17 | 10 (G282-G291) | 0 |
 | 2026-08-12 10:57 | (R021: 跳过搜索-MCP不可用，处理3个来源S085-S087，产出10款游戏文档) | 0 | 3 (S085-S087) | 75 | 10 (G272-G281) | 0 |
 | 2026-08-12 00:00 | (R013: iTunes API+Wikipedia, MCP wigolo不可用) | 0 | 1 (S053) | 0 | 10 (G184-G193) | 0 |
@@ -465,3 +1284,16 @@
 ||| 2026-08-12 03:00 | (R015: 3组搜索: hyper casual / indie puzzle) | 8 (S054-S061) | 2 (S054, S059) | 10 | 10 (G229-G238) | 0 |
 ||| 2026-08-12 06:00 | (R016: 跳过搜索，处理6个来源S055-S061) | 0 | 5 (S055-S057,S060-S061) | 13 | 13 (G239-G251) | 1 (S058内容过少) |
 || 2026-08-12 00:00 | (R013: iTunes API+Wikipedia, MCP wigolo不可用) | 0 | 1 (S053) | 0 | 10 (G184-G193) | 0 |
+
+## Execution Log
+
+| 时间 | 执行摘要 | 新|| 2026-08-15 10:00 | (R055: 手动发现3来源S213-S215, 处理3来源S210-S212归档75款游戏, 处理10款Pending游戏G1011-G1020产出文档) | 3 (S213-S215) | 3 (S210-S212) | 75 | 10 (G1011-G1020) | 0 |
+来源 | 处理来源 | 产出游戏 | 归档游戏 | 失败 |
+|---|---|---|---|---|---|---|
+| 2026-08-14 18:41 | (R048: 手动发现S192-S194, 提取75款游戏, 产出10款文档G687-G696) | 3 (S192-S194) | 0 | 75 | 10 (G687-G696) | 0 |
+| 2026-08-14 21:30 | (R049: 处理S192-S194, 提取75款游戏, 产出10款文档G697-G706, 59款Pending) | 0 | 3 (S192-S194) | 75 | 10 (G697-G706) | 0 |
+| 2026-08-14 23:59 | (R051: 发现3来源S198-S200, 提取75款游戏G841-G915, 处理30款Pending游戏G717-G746产出文档) | 3 (S198-S200) | 3 (S198-S200) | 75 | 30 (G717-G746) | 0 |
+|| 2026-08-15 14:27 | (R057: 处理3新来源S216-S218+9 stale来源S198-S206, 提取300款游戏名, 产出12款文档G1076-G1087) | 0 | 12 (S216-S218+S198-S206) | 300 | 12 (G1076-G1087) | 0 |
+| 2026-08-16 06:08 | (R065: 处理10个Sources Pending G1118-G1127, 产出10款游戏文档G1179-G1188, 剩余41个Sources Pending) | 0 | 10 (G1118-G1127) | 10 | 10 (G1179-G1188) | 0 |
+| 2026-08-16 07:50 | (R066: 处理10个Sources Pending G1128-G1137, 产出9款游戏文档, 1个失败G1134-404, 剩余41个Sources Pending) | 0 | 10 (G1128-G1137) | 9 | 9 (G1128-G1137) | 1 (G1134-404) |
+| 2026-08-16 20:00 | (R071: 手动发现3来源S265-S267 P101-P103共75款游戏, 为10款生成详细文档G1230-G1239, 均≥50行) | 3 (S265-S267) | 3 (S265-S267) | 75 | 10 (G1230-G1239) | 0 |
