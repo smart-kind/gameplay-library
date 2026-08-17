@@ -623,3 +623,12 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-17 11:02] [R080] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空(剩余4-5款无可用资料源，已在上轮跳过)
 [2026-08-17 11:02] [R080] [Phase 5: Git Push] ⏭️ 跳过 — 无新文档产生，与R079同一commit
 [2026-08-17 11:02] [R080] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+
+## 2026-08-17
+
+[2026-08-17 12:40] [R081] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0(stale已清理), Processing=0, Archived=293+, Games Pending=0(全部已处理), Games Archived=1279+, 文档总数=1192
+[2026-08-17 12:40] [R081] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources 为空, DDG CAPTCHA/PocketGamer P106+ Cloudflare保护, 无新可用来源
+[2026-08-17 12:40] [R081] [Phase 3: Process Sources] ⏭️ 跳过 — Pending Sources 为空
+[2026-08-17 12:40] [R081] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空(全部已有文档, 无新数据源可生成文档)
+[2026-08-17 12:40] [R081] [Phase 5: Git Push] ⏭️ 跳过 — 无新文档产生
+[2026-08-17 12:40] [R081] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(清理stale Pending条目S270-S273, Games Pending全部有对应文档)

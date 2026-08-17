@@ -4,11 +4,6 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S271 | PocketGamer Game Finder Page 107 | https://www.pocketgamer.com/game-finder/page/107/0_all_0_1_1/ | 25 | 2026-08-17 05:53 |
-| S272 | PocketGamer Game Finder Page 108 | https://www.pocketgamer.com/game-finder/page/108/0_all_0_1_1/ | 25 | 2026-08-17 05:53 |
-| S273 | PocketGamer Game Finder Page 109 | https://www.pocketgamer.com/game-finder/page/109/0_all_0_1_1/ | 25 | 2026-08-17 05:53 |
-
-| S270 | PocketGamer Game Finder Page 106 | https://www.pocketgamer.com/game-finder/page/106/0_all_0_1_1/ | 25 | 2026-08-17 05:53 |
 
 ## Sources Processing（处理中）
 
@@ -430,32 +425,12 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-|| G991 | Oddworld Abes Oddysee | docs/OddworldAbesOddysee_20260815_2301.md | PocketGamer P77 |
-|| G992 | Saving Private Sheep 2 | docs/SavingPrivateSheep2_20260815_2301.md | PocketGamer P77 |
-|| G993 | Arc The Lad Ii | docs/ArctheLadII_20260815_2301.md | PocketGamer P77 |
-|| G994 | Twist Pilot | docs/TwistPilot_20260815_2301.md | PocketGamer P77 |
-|| G995 | Farty Pants | docs/FartyPants_20260815_2301.md | PocketGamer P77 |
-|| G996 | Wrath Of The Titans | docs/WrathoftheTitans_20260815_2301.md | PocketGamer P77 |
-|| G997 | Busted | docs/Busted_20260815_2301.md | PocketGamer P77 |
-|| G998 | Tekken | docs/Tekken_20260815_2301.md | PocketGamer P77 |
-|| G999 | Lock N Load | docs/LocknLoad_20260815_2301.md | PocketGamer P77 |
-|| G1000 | Hambo | docs/Hambo_20260815_2301.md | PocketGamer P77 |
-|| G1001 | Burger Cat | docs/BurgerCat_20260815_0843.md | PocketGamer P77 |
-|| G1002 | Defenders Of The Mystic Garden | docs/DefendersOfTheMysticGarden_20260815_0843.md | PocketGamer P77 |
-|| G1003 | Cats Dogs Pets At Play | docs/CatsDogsPetsAtPlay_20260815_0843.md | PocketGamer P77 |
-|| G1004 | Devildark The Fallen Kingdom | docs/DevildarkTheFallenKingdom_20260815_0843.md | PocketGamer P77 |
-|| G1005 | Chickens Cant Fly | docs/ChickensCantFly_20260815_0843.md | PocketGamer P77 |
-|| G1006 | Boonce | docs/Boonce_20260815_0843.md | PocketGamer P77 |
-|| G1007 | Endless War | docs/EndlessWar_20260815_0843.md | PocketGamer P77 |
-|| G1008 | On The Wind | docs/OnTheWind_20260815_0843.md | PocketGamer P77 |
-|| G1009 | Tap The Frog 2 | docs/TapTheFrog2_20260815_0843.md | PocketGamer P77 |
-|| G1010 | Blast Ball | docs/BlastBall_20260815_0843.md | PocketGamer P77 |
-||| G1021 | Trial Xtreme 2 Winter Edition | docs/TrialXtreme2WinterEdition_20260815_1931.md | PocketGamer P78 |
-||| G1022 | Violet Storm | docs/VioletStorm_20260815_1931.md | PocketGamer P78 |
-||| G1023 | Iootp Baseball 2012 Edition | docs/IootpBaseball2012Edition_20260817_0736.md | PocketGamer P78 |
-||| G1024 | Kung Fu Rabbit | docs/KungFuRabbit_20260815_1931.md | PocketGamer P78 |
-||| G1025 | My Little City | docs/MyLittleCity_20260817_0736.md | PocketGamer P78 |
-||| G1026 | Fmx Iv Pro | docs/FmxIvPro_20260817_0736.md | PocketGamer P78 |
+
+## Games Archived（本轮新增）
+
+| ID | 游戏名 | 文档文件 | 归档时间 |
+|---|---|---|---|
+
 ||| G1027 | Kale In Dinoland | docs/KaleInDinoland_20260817_0736.md | PocketGamer P78 |
 ||| G1028 | Jelly Love | docs/JellyLove_20260815_1931.md | PocketGamer P78 |
 ||| G1029 | Pathpix Joy | docs/PathPixJoy_20260816_0755.md | PocketGamer P78 |
@@ -483,18 +458,18 @@
 | G1051 | Pebble Universe | docs/pebbleuniverse_20260817_0300.md | PocketGamer P79 |
 || G1052 | Picnic Wars | docs/PicnicWars_20260815_1700.md | PocketGamer P79 |
 || G1053 | Jewel Master Cradle Of Persia | docs/JewelMasterCradleOfPersia_20260815_1700.md | PocketGamer P79 |
-|| G1054 | Twingo | — | PocketGamer P79 |
+|| G1054 | Twingo | docs/Twingo_20260817_1100.md | PocketGamer P79 |
 || G1055 | Tower Bloxx Revolution | docs/TowerBloxx_20260815_1700.md | PocketGamer P79 |
-|| G1056 | Fireball Special Edition | — | PocketGamer P79 |
+|| G1056 | Fireball Special Edition | docs/FireballSpecialEdition_20260817_0414.md | PocketGamer P79 |
 || G1057 | Azkend 2 The World Beneath | docs/Azkend2TheWorldBeneath_20260815_1700.md | PocketGamer P79 |
 || G1058 | Canabalt | docs/Canabalt_20260815_1700.md | PocketGamer P79 |
-| G1059 | Flick Nations Rugby | docs/flicknationsrugby_20260817_0300.md | PocketGamer P79 |
-| G1060 | Quell Reflect | — | PocketGamer P79 |
-| G1061 | Lego Hero Factory | — | PocketGamer P79 |
-| G1062 | Wave Crasher | — | PocketGamer P79 |
-| G1063 | Robber Rabbits | — | PocketGamer P79 |
-| G1064 | Sticky Sheep | — | PocketGamer P79 |
-| G1065 | Brain Challenge 4 Breaking Limits | — | PocketGamer P79 |
+|| G1059 | Flick Nations Rugby | docs/flicknationsrugby_20260817_0300.md | PocketGamer P79 |
+|| G1060 | Quell Reflect | docs/QuellReflect_20260817_1100.md | PocketGamer P79 |
+|| G1061 | Lego Hero Factory | docs/LegoHeroFactory_20260817_0414.md | PocketGamer P79 |
+|| G1062 | Wave Crasher | docs/WaveCrasher_20260817_0414.md | PocketGamer P79 |
+|| G1063 | Robber Rabbits | docs/RobberRabbits_20260817_0418.md | PocketGamer P79 |
+|| G1064 | Sticky Sheep | docs/StickySheep_20260817_0414.md | PocketGamer P79 |
+|| G1065 | Brain Challenge 4 Breaking Limits | docs/BrainChallenge4BreakingLimits_20260817_1100.md | PocketGamer P79 |
 
 ## Games Archived（本轮新增）
 ||| ID | 游戏名 | 文档文件 | 归档时间 |
