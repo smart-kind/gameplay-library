@@ -4,6 +4,9 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S274 | pocketgamer | PocketGamer Game Finder Page 110 | https://www.pocketgamer.com/game-finder/page/110/0_all_0_1_1/ | 2026-08-17 14:10 |
+| S275 | pocketgamer | PocketGamer Game Finder Page 111 | https://www.pocketgamer.com/game-finder/page/111/0_all_0_1_1/ | 2026-08-17 14:10 |
+| S276 | pocketgamer | PocketGamer Game Finder Page 112 | https://www.pocketgamer.com/game-finder/page/112/0_all_0_1_1/ | 2026-08-17 14:10 |
 
 ## Sources Processing（处理中）
 
@@ -20,6 +23,9 @@
 | S271 | PocketGamer Game Finder Page 107 | https://www.pocketgamer.com/game-finder/page/107/0_all_0_1_1/ | 10 | 2026-08-17 05:53 |
 | S272 | PocketGamer Game Finder Page 108 | https://www.pocketgamer.com/game-finder/page/108/0_all_0_1_1/ | 0 | 2026-08-17 05:53 |
 | S273 | PocketGamer Game Finder Page 109 | https://www.pocketgamer.com/game-finder/page/109/0_all_0_1_1/ | 0 | 2026-08-17 05:53 |
+| S274 | PocketGamer Game Finder Page 110 | https://www.pocketgamer.com/game-finder/page/110/0_all_0_1_1/ | 25 | 2026-08-17 14:29 |
+| S275 | PocketGamer Game Finder Page 111 | https://www.pocketgamer.com/game-finder/page/111/0_all_0_1_1/ | 25 | 2026-08-17 14:29 |
+| S276 | PocketGamer Game Finder Page 112 | https://www.pocketgamer.com/game-finder/page/112/0_all_0_1_1/ | 25 | 2026-08-17 14:29 |
 
 
 | G1250 | 9 Hours, 9 Persons, 9 Doors | docs/9Hours9Persons9Doors_20260816_2250.md | 1 | 2026-08-16 22:50 |
@@ -42,6 +48,16 @@
 | G1267 | Bingo Blaster | docs/BingoBlaster_20260817_0553.md | 1 | 2026-08-17 05:53 |
 | G1268 | Glow Artisan | docs/GlowArtisan_20260817_0553.md | 1 | 2026-08-17 05:53 |
 | G1269 | Butterfly | docs/Butterfly_20260817_0553.md | 1 | 2026-08-17 05:53 |
+| G1280 | Game Dev Story | docs/GameDevStory_20260817_1429.md | 2026-08-17 14:29 |
+| G1281 | Starfall HD | docs/StarfallHD_20260817_1429.md | 2026-08-17 14:29 |
+| G1282 | Meteor Cafe | docs/MeteorCafe_20260817_1429.md | 2026-08-17 14:29 |
+| G1283 | Paradise Island | docs/ParadiseIsland_20260817_1429.md | 2026-08-17 14:29 |
+| G1284 | Last Window: The Secret of Cape West | docs/LastWindowTheSecretofCapeWest_20260817_1429.md | 2026-08-17 14:29 |
+| G1285 | Crazy John | docs/CrazyJohn_20260817_1429.md | 2026-08-17 14:29 |
+| G1286 | Tank Warz | docs/TankWarz_20260817_1429.md | 2026-08-17 14:29 |
+| G1287 | Lord of the Rings: Middle-earth Defense | docs/LordoftheRingsMiddleearthDefense_20260817_1429.md | 2026-08-17 14:29 |
+| G1288 | Championship Racing 2010 | docs/ChampionshipRacing2010_20260817_1429.md | 2026-08-17 14:29 |
+| G1289 | Mega Tower Assault | docs/MegaTowerAssault_20260817_1429.md | 2026-08-17 14:29 |
 
 ## Games Archived（本轮新增）
 
@@ -57,6 +73,16 @@
 | G1277 | Speedthru Potzols Puzzle | docs/SpeedthruPotzolsPuzzle_20260817_0736.md | 2026-08-17 07:36 |
 | G1278 | Dude Perfect | docs/DudePerfect_20260817_0736.md | 2026-08-17 07:36 |
 | G1279 | Rune Raiders | docs/RuneRaiders_20260817_0736.md | 2026-08-17 07:36 |
+| G1280 | Game Dev Story | docs/GameDevStory_20260817_1429.md | 2026-08-17 14:29 |
+| G1281 | Starfall HD | docs/StarfallHD_20260817_1429.md | 2026-08-17 14:29 |
+| G1282 | Meteor Cafe | docs/MeteorCafe_20260817_1429.md | 2026-08-17 14:29 |
+| G1283 | Paradise Island | docs/ParadiseIsland_20260817_1429.md | 2026-08-17 14:29 |
+| G1284 | Last Window: The Secret of Cape West | docs/LastWindowTheSecretofCapeWest_20260817_1429.md | 2026-08-17 14:29 |
+| G1285 | Crazy John | docs/CrazyJohn_20260817_1429.md | 2026-08-17 14:29 |
+| G1286 | Tank Warz | docs/TankWarz_20260817_1429.md | 2026-08-17 14:29 |
+| G1287 | Lord of the Rings: Middle-earth Defense | docs/LordoftheRingsMiddleearthDefense_20260817_1429.md | 2026-08-17 14:29 |
+| G1288 | Championship Racing 2010 | docs/ChampionshipRacing2010_20260817_1429.md | 2026-08-17 14:29 |
+| G1289 | Mega Tower Assault | docs/MegaTowerAssault_20260817_1429.md | 2026-08-17 14:29 |
 | G1250 | 9 Hours, 9 Persons, 9 Doors | docs/9Hours9Persons9Doors_20260816_2250.md | 2026-08-16 22:50 |
 | G1251 | Disc Drivin' | docs/DiscDrivin_20260816_2250.md | 2026-08-16 22:50 |
 | G1252 | Jewels of the Tropical Lost Island | docs/JewelsOfTheTropicalLostIsland_20260816_2250.md | 2026-08-16 22:50 |
@@ -1212,6 +1238,7 @@
 ## Execution Log
 | R073 | 2026-08-16 22:50 | 手动发现3来源S268-S270(P104-P106)共75款游戏名，为10款生成文档G1250-G1259(均≥50行)，graphify 11952nodes/10809edges |
 | R077 | 2026-08-17 05:53 | 手动发现3来源S271-S273(P107-P109)共75款游戏名，为10款生成文档G1260-G1269(均53行)，来源: PocketGamer P107，S270标记为已处理 |
+| R082 | 2026-08-17 14:29 | 手动发现3来源S274-S276(P110-P112)共75款游戏名，为10款生成文档G1280-G1289(均>=50行)，65款新游戏加入Pending |
 || R061 | 2026-08-15 23:04 | DDG被CAPTCHA阻止，PocketGamer P95+页面JS渲染无法提取，无新来源。处理10款Games Pending(G991-G1000)，产出10份文档(均≥50行)，来源: PocketGamer P77 + Wikipedia
 ||| R064 | 2026-08-16 06:00 | DDG被CAPTCHA阻止，处理10个来源(G1108-G1117)
 || R059 | 2026-08-15 19:31 | DDG被CAPTCHA阻止，手动发现3来源(S256-S258 P92-P94)，14款游戏文档(G1021,G1022,G1024,G1028,G1034,G1037,G1041,G1042,G1054,G1059,G037,G049,G054,G059) |
@@ -1309,5 +1336,6 @@
 | 2026-08-16 06:08 | (R065: 处理10个Sources Pending G1118-G1127, 产出10款游戏文档G1179-G1188, 剩余41个Sources Pending) | 0 | 10 (G1118-G1127) | 10 | 10 (G1179-G1188) | 0 |
 | 2026-08-16 07:50 | (R066: 处理10个Sources Pending G1128-G1137, 产出9款游戏文档, 1个失败G1134-404, 剩余41个Sources Pending) | 0 | 10 (G1128-G1137) | 9 | 9 (G1128-G1137) | 1 (G1134-404) |
 || 2026-08-16 20:00 | (R071: 手动发现3来源S265-S267 P101-P103共75款游戏, 为10款生成详细文档G1230-G1239, 均≥50行) | 3 (S265-S267) | 3 (S265-S267) | 75 | 10 (G1230-G1239) | 0 |
-||| 2026-08-17 11:00 | (R079: 无新来源(DDG CAPTCHA/PG Cloudflare), 处理3款Pending游戏产出文档, 4款无足够资料跳过) | 0 | 0 | 0 | 3 (TwinGo/QuellReflect/BrainChallenge4) | 4 (资料不足跳过) |
+||| 2026-08-17 14:29 | (R082: 手动发现3来源S274-S276 P110-P112共75款游戏，为10款生成详细文档G1280-G1289，均>=50行) | 3 (S274-S276) | 3 (S274-S276) | 75 | 10 (G1280-G1289) | 0 |
+| 2026-08-17 11:00 | (R079: 无新来源(DDG CAPTCHA/PG Cloudflare), 处理3款Pending游戏产出文档, 4款无足够资料跳过) | 0 | 0 | 0 | 3 (TwinGo/QuellReflect/BrainChallenge4) | 4 (资料不足跳过) |
 ||| 2026-08-17 12:40 | (R081: 无新来源(DDG CAPTCHA/PG Cloudflare), 清理stale条目, 验证Games Pending全部已有文档) | 0 | 0 | 0 | 0 | 0 |

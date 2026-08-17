@@ -632,3 +632,12 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-17 12:40] [R081] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空(全部已有文档, 无新数据源可生成文档)
 [2026-08-17 12:40] [R081] [Phase 5: Git Push] ⏭️ 跳过 — 无新文档产生
 [2026-08-17 12:40] [R081] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(清理stale Pending条目S270-S273, Games Pending全部有对应文档)
+
+## 2026-08-17
+
+[2026-08-17 14:10] [R082] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=293+, Games Pending=0, Games Archived=1279+
+[2026-08-17 14:10] [R082] [Phase 2: Discover] ✅ 完成 — 手动发现3个来源(S274-S276 PocketGamer P110/P111/P112)，共75款游戏
+[2026-08-17 14:29] [R082] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S274-S276 P110-P112)，提取75款游戏名，为10款生成文档(G1280-G1289)，65款加入Pending
+[2026-08-17 14:29] [R082] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-17 14:29] [R082] [Phase 5: Git Push] ⏭️ 待执行
+[2026-08-17 14:29] [R082] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
