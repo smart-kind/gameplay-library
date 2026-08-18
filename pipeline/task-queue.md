@@ -171,6 +171,9 @@
 | S310 | PocketGamer Game Finder Page 146 | https://www.pocketgamer.com/game-finder/page/146/0_all_0_1_1/ | 25 | 2026-08-18 13:56 |
 | S311 | PocketGamer Game Finder Page 147 | https://www.pocketgamer.com/game-finder/page/147/0_all_0_1_1/ | 25 | 2026-08-18 13:56 |
 | S312 | PocketGamer Game Finder Page 148 | https://www.pocketgamer.com/game-finder/page/148/0_all_0_1_1/ | 25 | 2026-08-18 13:56 |
+| S313 | PocketGamer Game Finder Page 149 | https://www.pocketgamer.com/game-finder/page/149/0_all_0_1_1/ | 25 | 2026-08-18 16:00 |
+| S314 | PocketGamer Game Finder Page 150 | https://www.pocketgamer.com/game-finder/page/150/0_all_0_1_1/ | 25 | 2026-08-18 16:00 |
+| S315 | PocketGamer Game Finder Page 151 | https://www.pocketgamer.com/game-finder/page/151/0_all_0_1_1/ | 25 | 2026-08-18 16:00 |
 
 
 | S307 | PocketGamer Game Finder Page 143 | https://www.pocketgamer.com/game-finder/page/143/0_all_0_1_1/ | 25 | 2026-08-18 11:48 |
@@ -349,6 +352,7 @@
 | R088 | 2026-08-18 05:45 | 3 (S295-S297) | 3 (S295-S297) | 10 | 0 | PocketGamer P131-P133, JSON-LD+Review页 |
 | R089 | 2026-08-18 06:15 | 3 (S298-S300) | 3 (S298-S300) | 10 | 0 | PocketGamer P134-P136, 69款游戏名提取, 10款文档生成(Wikipedia辅助) |
 | R092 | 2026-08-18 13:56 | 3 (S310-S312) | 3 (S310-S312) | 10 | 0 | PocketGamer P146-P148, 75款游戏名提取, 10款文档生成(review页内容) |
+| R093 | 2026-08-18 16:00 | 3 (S313-S315) | 3 (S313-S315) | 10 | 0 | PocketGamer P149-P151, 75款游戏名提取, 10款文档生成(review页内容) |
 
 ## Games Archived（历史归档）
 
