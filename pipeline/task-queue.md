@@ -87,6 +87,16 @@
 | G1475 | Pac-Man (iPhone) | docs/pacmaniphone_20260818_1717.md | 2026-08-18 17:17 |
 | G1476 | SolarQuest | docs/solarquest_20260818_1717.md | 2026-08-18 17:17 |
 | G1477 | Ducati Moto | docs/ducatimoto_20260818_1717.md | 2026-08-18 17:17 |
+| G1478 | Battle Rapper | docs/BattleRapper_20260818_2035.md | 2026-08-18 20:35 |
+| G1479 | Critter Crunch | docs/CritterCrunch_20260818_2035.md | 2026-08-18 20:35 |
+| G1480 | Tetris | docs/TetrisiPhone_20260818_2035.md | 2026-08-18 20:35 |
+| G1481 | Puzzler Collection | docs/PuzzlerCollection_20260818_2035.md | 2026-08-18 20:35 |
+| G1482 | Monopoly 2008 | docs/Monopoly2008_20260818_2035.md | 2026-08-18 20:35 |
+| G1483 | Crash Bandicoot Nitro Kart 3D | docs/CrashBandicootNitroKart3D_20260818_2035.md | 2026-08-18 20:35 |
+| G1484 | Fort Apocalypse | docs/FortApocalypse_20260818_2035.md | 2026-08-18 20:35 |
+| G1485 | Puzzle World 3 | docs/PuzzleWorld3_20260818_2035.md | 2026-08-18 20:35 |
+| G1486 | Atlantis Sky Patrol | docs/AtlantisSkyPatrol_20260818_2035.md | 2026-08-18 20:35 |
+| G1487 | Scrabble | docs/ScrabbleGame_20260818_2035.md | 2026-08-18 20:35 |
 
 
 ## Sources Processing（处理中）
@@ -187,6 +197,9 @@
 | S316 | PocketGamer Game Finder Page 152 | https://www.pocketgamer.com/game-finder/page/152/0_all_0_1_1/ | 25 | 2026-08-18 17:17 |
 | S317 | PocketGamer Game Finder Page 153 | https://www.pocketgamer.com/game-finder/page/153/0_all_0_1_1/ | 25 | 2026-08-18 17:17 |
 | S318 | PocketGamer Game Finder Page 154 | https://www.pocketgamer.com/game-finder/page/154/0_all_0_1_1/ | 25 | 2026-08-18 17:17 |
+| S319 | PocketGamer Game Finder Page 155 | https://www.pocketgamer.com/game-finder/page/155/0_all_0_1_1/ | 25 | 2026-08-18 20:35 |
+| S320 | PocketGamer Game Finder Page 156 | https://www.pocketgamer.com/game-finder/page/156/0_all_0_1_1/ | 25 | 2026-08-18 20:35 |
+| S321 | PocketGamer Game Finder Page 157 | https://www.pocketgamer.com/game-finder/page/157/0_all_0_1_1/ | 25 | 2026-08-18 20:35 |
 
 
 | S307 | PocketGamer Game Finder Page 143 | https://www.pocketgamer.com/game-finder/page/143/0_all_0_1_1/ | 25 | 2026-08-18 11:48 |
@@ -352,6 +365,17 @@
 
 
 | G1240 | Combat of Giants: Dinosaurs 3D | docs/CombatofGiantsDinosaurs3D_20260816_2111.md | 2026-08-16 21:11 |
+| G1478 | Battle Rapper | docs/BattleRapper_20260818_2035.md | 2026-08-18 20:35 |
+| G1479 | Critter Crunch | docs/CritterCrunch_20260818_2035.md | 2026-08-18 20:35 |
+| G1480 | Tetris | docs/TetrisiPhone_20260818_2035.md | 2026-08-18 20:35 |
+| G1481 | Puzzler Collection | docs/PuzzlerCollection_20260818_2035.md | 2026-08-18 20:35 |
+| G1482 | Monopoly 2008 | docs/Monopoly2008_20260818_2035.md | 2026-08-18 20:35 |
+| G1483 | Crash Bandicoot Nitro Kart 3D | docs/CrashBandicootNitroKart3D_20260818_2035.md | 2026-08-18 20:35 |
+| G1484 | Fort Apocalypse | docs/FortApocalypse_20260818_2035.md | 2026-08-18 20:35 |
+| G1485 | Puzzle World 3 | docs/PuzzleWorld3_20260818_2035.md | 2026-08-18 20:35 |
+| G1486 | Atlantis Sky Patrol | docs/AtlantisSkyPatrol_20260818_2035.md | 2026-08-18 20:35 |
+| G1487 | Scrabble | docs/ScrabbleGame_20260818_2035.md | 2026-08-18 20:35 |
+
 
 ## Execution Log
 
@@ -367,6 +391,7 @@
 | R092 | 2026-08-18 13:56 | 3 (S310-S312) | 3 (S310-S312) | 10 | 0 | PocketGamer P146-P148, 75款游戏名提取, 10款文档生成(review页内容) |
 | R093 | 2026-08-18 16:00 | 3 (S313-S315) | 3 (S313-S315) | 10 | 0 | PocketGamer P149-P151, 75款游戏名提取, 10款文档生成(review页内容) |
 | R094 | 2026-08-18 17:17 | 3 (S316-S318) | 3 (S316-S318) | 10 | 0 | PocketGamer P152-P154, 75款游戏名提取, 10款文档生成(review页JSON-LD+内容) |
+| R095 | 2026-08-18 20:35 | 3 (S319-S321) | 3 (S319-S321) | 10 | 0 | PocketGamer P155-P157, 75款游戏名提取, 10款文档生成(review页内容) |
 
 ## Games Archived（历史归档）
 
