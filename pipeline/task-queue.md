@@ -47,6 +47,16 @@
 | G1435 | Art Style Nemrem | docs/ArtStyleNemrem_20260818_0825.md | 2026-08-18 08:14 |
 | G1436 | Pangya Fantasy Golf | docs/PangyaFantasyGolf_20260818_0825.md | 2026-08-18 08:14 |
 | G1437 | Kaloki Adventure | docs/KalokiAdventure_20260818_0825.md | 2026-08-18 08:14 |
+| G1438 | Spintastic | docs/Spintastic_20260818_1013.md | 2026-08-18 11:00 |
+| G1439 | Dynamite Fishing 2 | docs/DynamiteFishing2_20260818_1013.md | 2026-08-18 11:00 |
+| G1440 | Syndicates | docs/Syndicates_20260818_1013.md | 2026-08-18 11:00 |
+| G1441 | Flower Garden | docs/FlowerGarden_20260818_1013.md | 2026-08-18 11:00 |
+| G1442 | 3D logic | docs/3Dlogic_20260818_1013.md | 2026-08-18 11:00 |
+| G1443 | Retro Game Challenge | docs/RetroGameChallenge_20260818_1013.md | 2026-08-18 11:00 |
+| G1444 | Iso | docs/Iso_20260818_1013.md | 2026-08-18 11:00 |
+| G1445 | Ixion | docs/Ixion_20260818_1013.md | 2026-08-18 11:00 |
+| G1446 | Absolute Twin Blades | docs/AbsoluteTwinBlades_20260818_1013.md | 2026-08-18 11:00 |
+| G1447 | Mini-Golf Theme Park: 99 Holes (Smart Phone) | docs/MiniGolfThemePark99HolesSmartPhone_20260818_1013.md | 2026-08-18 11:00 |
 
 ## Sources Processing（处理中）
 
@@ -131,6 +141,9 @@
 | S301 | PocketGamer Game Finder Page 137 | https://www.pocketgamer.com/game-finder/page/137/0_all_0_1_1/ | 25 | 2026-08-18 08:14 |
 | S302 | PocketGamer Game Finder Page 138 | https://www.pocketgamer.com/game-finder/page/138/0_all_0_1_1/ | 25 | 2026-08-18 08:14 |
 | S303 | PocketGamer Game Finder Page 139 | https://www.pocketgamer.com/game-finder/page/139/0_all_0_1_1/ | 25 | 2026-08-18 08:14 |
+| S304 | PocketGamer Game Finder Page 140 | https://www.pocketgamer.com/game-finder/page/140/0_all_0_1_1/ | 25 | 2026-08-18 11:00 |
+| S305 | PocketGamer Game Finder Page 141 | https://www.pocketgamer.com/game-finder/page/141/0_all_0_1_1/ | 25 | 2026-08-18 11:00 |
+| S306 | PocketGamer Game Finder Page 142 | https://www.pocketgamer.com/game-finder/page/142/0_all_0_1_1/ | 25 | 2026-08-18 11:00 |
 |---|---|---|---|---|
 
 | S268 | PocketGamer Game Finder Page 104 | https://www.pocketgamer.com/game-finder/page/104/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
@@ -1570,3 +1583,5 @@
 | 2026-08-17 11:00 | (R079: 无新来源(DDG CAPTCHA/PG Cloudflare), 处理3款Pending游戏产出文档, 4款无足够资料跳过) | 0 | 0 | 0 | 3 (TwinGo/QuellReflect/BrainChallenge4) | 4 (资料不足跳过) |
 ||| 2026-08-17 12:40 | (R081: 无新来源(DDG CAPTCHA/PG Cloudflare), 清理stale条目, 验证Games Pending全部已有文档) | 0 | 0 | 0 | 0 | 0 |
 ||| 2026-08-18 01:05 | (R087: 手动发现3来源S292-S294 P128-P130共75款游戏, 处理6来源S289-S294提取150款游戏名, 为10款生成详细文档G1398-G1407, 均>=50行) | 3 (S292-S294) | 6 (S289-S294) | 150 | 10 (G1398-G1407) | 0 |
+|| 2026-08-18 11:00 | (R091: 手动发现3来源S304-S306 P140-P142共75款游戏, 为10款生成详细文档G1438-G1447, 均≥50行) | 3 (S304-S306) | 3 (S304-S306) | 75 | 10 (G1438-G1447) | 0 |
+|| 2026-08-18 11:00 | (R091: 手动发现3来源S304-S306 P140-P142共75款游戏, 为10款生成详细文档G1438-G1447, 均≥50行) | 3 (S304-S306) | 3 (S304-S306) | 75 | 10 (G1438-G1447) | 0 |
