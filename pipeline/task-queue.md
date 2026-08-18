@@ -7,7 +7,7 @@
 
 |---|---|---|---|---|
 
-|| G1398 | AssassinsCreedII | docs/AssassinsCreedII_20260818_0105.md | 2026-08-18 01:05 |
+| G1398 | AssassinsCreedII | docs/AssassinsCreedII_20260818_0105.md | 2026-08-18 01:05 |
 | G1399 | FingerPhysics | docs/FingerPhysics_20260818_0105.md | 2026-08-18 01:05 |
 | G1400 | SonicSpinball | docs/SonicSpinball_20260818_0105.md | 2026-08-18 01:05 |
 | G1401 | HookChamp | docs/HookChamp_20260818_0105.md | 2026-08-18 01:05 |
@@ -17,6 +17,16 @@
 | G1405 | Bloons | docs/Bloons_20260818_0105.md | 2026-08-18 01:05 |
 | G1406 | 99Ninjas | docs/99Ninjas_20260818_0105.md | 2026-08-18 01:05 |
 | G1407 | BattleBearsZombies | docs/BattleBearsZombies_20260818_0105.md | 2026-08-18 01:05 |
+| G1408 | DeadPanic | docs/DeadPanic_20260818_0440.md | 2026-08-18 05:45 |
+| G1409 | CrushBunny | docs/CrushBunny_20260818_0440.md | 2026-08-18 05:45 |
+| G1410 | CrazyCats | docs/CrazyCats_20260818_0440.md | 2026-08-18 05:45 |
+| G1411 | EarthvsMoon | docs/EarthvsMoon_20260818_0440.md | 2026-08-18 05:45 |
+| G1412 | GoldKeeper | docs/GoldKeeper_20260818_0440.md | 2026-08-18 05:45 |
+| G1413 | Jounce | docs/Jounce_20260818_0440.md | 2026-08-18 05:45 |
+| G1414 | Orbital | docs/Orbital_20260818_0440.md | 2026-08-18 05:45 |
+| G1415 | Snood | docs/Snood_20260818_0440.md | 2026-08-18 05:45 |
+| G1416 | DragonBricks | docs/DragonBricks_20260818_0440.md | 2026-08-18 05:45 |
+| G1417 | ZombieAttack | docs/ZombieAttack_20260818_0440.md | 2026-08-18 05:45 |
 
 ## Sources Processing（处理中）
 
@@ -92,6 +102,9 @@
 | S292 | PocketGamer Game Finder Page 128 | https://www.pocketgamer.com/game-finder/page/128/0_all_0_1_1/ | 25 | 2026-08-18 02:44 |
 | S293 | PocketGamer Game Finder Page 129 | https://www.pocketgamer.com/game-finder/page/129/0_all_0_1_1/ | 25 | 2026-08-18 02:44 |
 | S294 | PocketGamer Game Finder Page 130 | https://www.pocketgamer.com/game-finder/page/130/0_all_0_1_1/ | 25 | 2026-08-18 02:44 |
+| S295 | PocketGamer Game Finder Page 131 | https://www.pocketgamer.com/game-finder/page/131/0_all_0_1_1/ | 10 | 2026-08-18 05:45 |
+| S296 | PocketGamer Game Finder Page 132 | https://www.pocketgamer.com/game-finder/page/132/0_all_0_1_1/ | 10 | 2026-08-18 05:45 |
+| S297 | PocketGamer Game Finder Page 133 | https://www.pocketgamer.com/game-finder/page/133/0_all_0_1_1/ | 10 | 2026-08-18 05:45 |
 |---|---|---|---|---|
 
 | S268 | PocketGamer Game Finder Page 104 | https://www.pocketgamer.com/game-finder/page/104/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
