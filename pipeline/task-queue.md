@@ -4,9 +4,24 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S289 | pocketgamer | PocketGamer Game Finder Page 125 | https://www.pocketgamer.com/game-finder/page/125/0_all_0_1_1/ | 2026-08-17 23:20 |
-| S290 | pocketgamer | PocketGamer Game Finder Page 126 | https://www.pocketgamer.com/game-finder/page/126/0_all_0_1_1/ | 2026-08-17 23:20 |
-| S291 | pocketgamer | PocketGamer Game Finder Page 127 | https://www.pocketgamer.com/game-finder/page/127/0_all_0_1_1/ | 2026-08-17 23:20 |
+| S289 | PocketGamer Game Finder Page 125 | https://www.pocketgamer.com/game-finder/page/125/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
+| S290 | PocketGamer Game Finder Page 126 | https://www.pocketgamer.com/game-finder/page/126/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
+| S291 | PocketGamer Game Finder Page 127 | https://www.pocketgamer.com/game-finder/page/127/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
+| S292 | PocketGamer Game Finder Page 128 | https://www.pocketgamer.com/game-finder/page/128/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
+| S293 | PocketGamer Game Finder Page 129 | https://www.pocketgamer.com/game-finder/page/129/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
+| S294 | PocketGamer Game Finder Page 130 | https://www.pocketgamer.com/game-finder/page/130/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
+|---|---|---|---|---|
+
+|| G1398 | AssassinsCreedII | docs/AssassinsCreedII_20260818_0105.md | 2026-08-18 01:05 |
+| G1399 | FingerPhysics | docs/FingerPhysics_20260818_0105.md | 2026-08-18 01:05 |
+| G1400 | SonicSpinball | docs/SonicSpinball_20260818_0105.md | 2026-08-18 01:05 |
+| G1401 | HookChamp | docs/HookChamp_20260818_0105.md | 2026-08-18 01:05 |
+| G1402 | DisneyPixarsUp | docs/DisneyPixarsUp_20260818_0105.md | 2026-08-18 01:05 |
+| G1403 | DiRT2 | docs/DiRT2_20260818_0105.md | 2026-08-18 01:05 |
+| G1404 | SpaceInvadersEvolution | docs/SpaceInvadersEvolution_20260818_0105.md | 2026-08-18 01:05 |
+| G1405 | Bloons | docs/Bloons_20260818_0105.md | 2026-08-18 01:05 |
+| G1406 | 99Ninjas | docs/99Ninjas_20260818_0105.md | 2026-08-18 01:05 |
+| G1407 | BattleBearsZombies | docs/BattleBearsZombies_20260818_0105.md | 2026-08-18 01:05 |
 
 ## Sources Processing（处理中）
 
