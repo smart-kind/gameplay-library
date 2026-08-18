@@ -27,6 +27,26 @@
 | G1415 | Snood | docs/Snood_20260818_0440.md | 2026-08-18 05:45 |
 | G1416 | DragonBricks | docs/DragonBricks_20260818_0440.md | 2026-08-18 05:45 |
 | G1417 | ZombieAttack | docs/ZombieAttack_20260818_0440.md | 2026-08-18 05:45 |
+| G1418 | Fight Night Round 4 | docs/FightNightRound4_20260818_0615.md | 2026-08-18 06:15 |
+| G1419 | Ace Attorney Investigations: Miles Edgeworth | docs/AceAttorneyInvestigationsMilesEdgeworth_20260818_0615.md | 2026-08-18 06:15 |
+| G1420 | Harbor Master | docs/HarborMaster_20260818_0615.md | 2026-08-18 06:15 |
+| G1421 | Bomberman Touch 2: Volcano Party | docs/BombermanTouch2VolcanoParty_20260818_0615.md | 2026-08-18 06:15 |
+| G1422 | Blur | docs/Blur_20260818_0615.md | 2026-08-18 06:15 |
+| G1423 | Red Faction: Guerrilla | docs/RedFactionGuerrilla_20260818_0615.md | 2026-08-18 06:15 |
+| G1424 | Spy Hunter | docs/SpyHunter_20260818_0615.md | 2026-08-18 06:15 |
+| G1425 | Guitar Hero 5 | docs/GuitarHero5_20260818_0615.md | 2026-08-18 06:15 |
+| G1426 | UFO: Afterlight | docs/UFOAfterlight_20260818_0615.md | 2026-08-18 06:15 |
+| G1427 | Bubble Bash 2 | docs/BubbleBash2_20260818_0615.md | 2026-08-18 06:15 |
+| G1428 | Wheres Waldo | docs/WheresWaldo_20260818_0825.md | 2026-08-18 08:14 |
+| G1429 | Battle For Mars | docs/BattleForMars_20260818_0825.md | 2026-08-18 08:14 |
+| G1430 | Xtreme Quad Racing | docs/XtremeQuadRacing_20260818_0825.md | 2026-08-18 08:14 |
+| G1431 | Beatrider Touch | docs/BeatriderTouch_20260818_0825.md | 2026-08-18 08:14 |
+| G1432 | New York Nights Success In The City Iphone | docs/NewYorkNightsSuccessInTheCityIphone_20260818_0825.md | 2026-08-18 08:14 |
+| G1433 | Idroidsmania | docs/Idroidsmania_20260818_0825.md | 2026-08-18 08:14 |
+| G1434 | Ragdoll Blaster | docs/RagdollBlaster_20260818_0825.md | 2026-08-18 08:14 |
+| G1435 | Art Style Nemrem | docs/ArtStyleNemrem_20260818_0825.md | 2026-08-18 08:14 |
+| G1436 | Pangya Fantasy Golf | docs/PangyaFantasyGolf_20260818_0825.md | 2026-08-18 08:14 |
+| G1437 | Kaloki Adventure | docs/KalokiAdventure_20260818_0825.md | 2026-08-18 08:14 |
 
 ## Sources Processing（处理中）
 
@@ -105,6 +125,12 @@
 | S295 | PocketGamer Game Finder Page 131 | https://www.pocketgamer.com/game-finder/page/131/0_all_0_1_1/ | 10 | 2026-08-18 05:45 |
 | S296 | PocketGamer Game Finder Page 132 | https://www.pocketgamer.com/game-finder/page/132/0_all_0_1_1/ | 10 | 2026-08-18 05:45 |
 | S297 | PocketGamer Game Finder Page 133 | https://www.pocketgamer.com/game-finder/page/133/0_all_0_1_1/ | 10 | 2026-08-18 05:45 |
+| S298 | PocketGamer Game Finder Page 134 | https://www.pocketgamer.com/game-finder/page/134/0_all_0_1_1/ | 10 | 2026-08-18 06:15 |
+| S299 | PocketGamer Game Finder Page 135 | https://www.pocketgamer.com/game-finder/page/135/0_all_0_1_1/ | 10 | 2026-08-18 06:15 |
+| S300 | PocketGamer Game Finder Page 136 | https://www.pocketgamer.com/game-finder/page/136/0_all_0_1_1/ | 10 | 2026-08-18 06:15 |
+| S301 | PocketGamer Game Finder Page 137 | https://www.pocketgamer.com/game-finder/page/137/0_all_0_1_1/ | 25 | 2026-08-18 08:14 |
+| S302 | PocketGamer Game Finder Page 138 | https://www.pocketgamer.com/game-finder/page/138/0_all_0_1_1/ | 25 | 2026-08-18 08:14 |
+| S303 | PocketGamer Game Finder Page 139 | https://www.pocketgamer.com/game-finder/page/139/0_all_0_1_1/ | 25 | 2026-08-18 08:14 |
 |---|---|---|---|---|
 
 | S268 | PocketGamer Game Finder Page 104 | https://www.pocketgamer.com/game-finder/page/104/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
@@ -275,6 +301,8 @@
 | R085 | 2026-08-17 22:32 | 3 (S283-S285) | 3 (S283-S285) | 10 | 0 | PocketGamer P119-P121, iTunes API+Wikipedia辅助 |
 | R086 | 2026-08-17 23:20 | 3 (S289-S291) | 6 (S286-S291) | 38 | 0 | PocketGamer P122-P127, 150款游戏名提取, 38款文档生成 |
 | R087 | 2026-08-18 02:44 | 0 (跳过≥5) | 6 (S289-S294) | 10 | 0 | PocketGamer P125-P130, 150款游戏名提取, 10款文档生成(PocketGamer review) |
+| R088 | 2026-08-18 05:45 | 3 (S295-S297) | 3 (S295-S297) | 10 | 0 | PocketGamer P131-P133, JSON-LD+Review页 |
+| R089 | 2026-08-18 06:15 | 3 (S298-S300) | 3 (S298-S300) | 10 | 0 | PocketGamer P134-P136, 69款游戏名提取, 10款文档生成(Wikipedia辅助) |
 
 ## Games Archived（历史归档）
 
