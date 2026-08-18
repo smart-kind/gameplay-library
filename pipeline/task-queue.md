@@ -4,12 +4,7 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S289 | PocketGamer Game Finder Page 125 | https://www.pocketgamer.com/game-finder/page/125/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
-| S290 | PocketGamer Game Finder Page 126 | https://www.pocketgamer.com/game-finder/page/126/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
-| S291 | PocketGamer Game Finder Page 127 | https://www.pocketgamer.com/game-finder/page/127/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
-| S292 | PocketGamer Game Finder Page 128 | https://www.pocketgamer.com/game-finder/page/128/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
-| S293 | PocketGamer Game Finder Page 129 | https://www.pocketgamer.com/game-finder/page/129/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
-| S294 | PocketGamer Game Finder Page 130 | https://www.pocketgamer.com/game-finder/page/130/0_all_0_1_1/ | 25 | 2026-08-18 01:05 |
+
 |---|---|---|---|---|
 
 || G1398 | AssassinsCreedII | docs/AssassinsCreedII_20260818_0105.md | 2026-08-18 01:05 |
@@ -91,6 +86,12 @@
 | S289 | PocketGamer Game Finder Page 125 | https://www.pocketgamer.com/game-finder/page/125/0_all_0_1_1/ | 25 | 2026-08-17 23:20 |
 | S290 | PocketGamer Game Finder Page 126 | https://www.pocketgamer.com/game-finder/page/126/0_all_0_1_1/ | 25 | 2026-08-17 23:20 |
 | S291 | PocketGamer Game Finder Page 127 | https://www.pocketgamer.com/game-finder/page/127/0_all_0_1_1/ | 25 | 2026-08-17 23:20 |
+| S289 | PocketGamer Game Finder Page 125 | https://www.pocketgamer.com/game-finder/page/125/0_all_0_1_1/ | 25 | 2026-08-18 02:44 |
+| S290 | PocketGamer Game Finder Page 126 | https://www.pocketgamer.com/game-finder/page/126/0_all_0_1_1/ | 25 | 2026-08-18 02:44 |
+| S291 | PocketGamer Game Finder Page 127 | https://www.pocketgamer.com/game-finder/page/127/0_all_0_1_1/ | 25 | 2026-08-18 02:44 |
+| S292 | PocketGamer Game Finder Page 128 | https://www.pocketgamer.com/game-finder/page/128/0_all_0_1_1/ | 25 | 2026-08-18 02:44 |
+| S293 | PocketGamer Game Finder Page 129 | https://www.pocketgamer.com/game-finder/page/129/0_all_0_1_1/ | 25 | 2026-08-18 02:44 |
+| S294 | PocketGamer Game Finder Page 130 | https://www.pocketgamer.com/game-finder/page/130/0_all_0_1_1/ | 25 | 2026-08-18 02:44 |
 |---|---|---|---|---|
 
 | S268 | PocketGamer Game Finder Page 104 | https://www.pocketgamer.com/game-finder/page/104/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
@@ -260,6 +261,7 @@
 | R084 | 2026-08-17 20:00 | 3 (S280-S282) | 3 (S280-S282) | 30 | 0 | PocketGamer P116-P118, iTunes API辅助 |
 | R085 | 2026-08-17 22:32 | 3 (S283-S285) | 3 (S283-S285) | 10 | 0 | PocketGamer P119-P121, iTunes API+Wikipedia辅助 |
 | R086 | 2026-08-17 23:20 | 3 (S289-S291) | 6 (S286-S291) | 38 | 0 | PocketGamer P122-P127, 150款游戏名提取, 38款文档生成 |
+| R087 | 2026-08-18 02:44 | 0 (跳过≥5) | 6 (S289-S294) | 10 | 0 | PocketGamer P125-P130, 150款游戏名提取, 10款文档生成(PocketGamer review) |
 
 ## Games Archived（历史归档）
 
