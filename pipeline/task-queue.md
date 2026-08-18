@@ -57,6 +57,27 @@
 | G1445 | Ixion | docs/Ixion_20260818_1013.md | 2026-08-18 11:00 |
 | G1446 | Absolute Twin Blades | docs/AbsoluteTwinBlades_20260818_1013.md | 2026-08-18 11:00 |
 | G1447 | Mini-Golf Theme Park: 99 Holes (Smart Phone) | docs/MiniGolfThemePark99HolesSmartPhone_20260818_1013.md | 2026-08-18 11:00 |
+| G1448 | Drop7 | docs/Drop7_20260818_1148.md | 2026-08-18 11:48 |
+| G1449 | Super Street Fighter II | docs/SuperStreetFighterII_20260818_1148.md | 2026-08-18 11:48 |
+| G1450 | ExZeus | docs/ExZeus_20260818_1148.md | 2026-08-18 11:48 |
+| G1451 | Trivial Pursuit | docs/TrivialPursuit_20260818_1148.md | 2026-08-18 11:48 |
+| G1452 | Paper Pilot | docs/PaperPilot_20260818_1148.md | 2026-08-18 11:48 |
+| G1453 | Sushi Shuffle | docs/SushiShuffle_20260818_1148.md | 2026-08-18 11:48 |
+| G1454 | H.E.X | docs/HEX_20260818_1148.md | 2026-08-18 11:48 |
+| G1455 | Days of Thunder | docs/DaysofThunder_20260818_1148.md | 2026-08-18 11:48 |
+| G1456 | Orbitsu | docs/Orbitsu_20260818_1148.md | 2026-08-18 11:48 |
+| G1457 | Zombie Infection | docs/ZombieInfection_20260818_1148.md | 2026-08-18 11:48 |
+| G1458 | Totomi | docs/Totomi_20260818_1356.md | 2026-08-18 13:56 |
+| G1459 | Slyder Adventures | docs/SlyderAdventures_20260818_1356.md | 2026-08-18 13:56 |
+| G1460 | Tiki Towers | docs/TikiTowers_20260818_1356.md | 2026-08-18 13:56 |
+| G1461 | Super Fruitfall | docs/SuperFruitfall_20260818_1356.md | 2026-08-18 13:56 |
+| G1462 | Alphabetic | docs/Alphabetic_20260818_1356.md | 2026-08-18 13:56 |
+| G1463 | Puzzle Prism | docs/PuzzlePrism_20260818_1356.md | 2026-08-18 13:56 |
+| G1464 | Block n Roll | docs/BlocknRoll_20260818_1356.md | 2026-08-18 13:56 |
+| G1465 | Toy Bot Diaries 3 | docs/ToyBotDiaries3_20260818_1356.md | 2026-08-18 13:56 |
+| G1466 | Shaun White Snowboarding | docs/ShaunWhiteSnowboarding_20260818_1356.md | 2026-08-18 13:56 |
+| G1467 | Bounce Trap Tilt | docs/BounceTrapTilt_20260818_1356.md | 2026-08-18 13:56 |
+
 
 ## Sources Processing（处理中）
 
@@ -144,6 +165,17 @@
 | S304 | PocketGamer Game Finder Page 140 | https://www.pocketgamer.com/game-finder/page/140/0_all_0_1_1/ | 25 | 2026-08-18 11:00 |
 | S305 | PocketGamer Game Finder Page 141 | https://www.pocketgamer.com/game-finder/page/141/0_all_0_1_1/ | 25 | 2026-08-18 11:00 |
 | S306 | PocketGamer Game Finder Page 142 | https://www.pocketgamer.com/game-finder/page/142/0_all_0_1_1/ | 25 | 2026-08-18 11:00 |
+| S307 | PocketGamer Game Finder Page 143 | https://www.pocketgamer.com/game-finder/page/143/0_all_0_1_1/ | 25 | 2026-08-18 11:48 |
+| S308 | PocketGamer Game Finder Page 144 | https://www.pocketgamer.com/game-finder/page/144/0_all_0_1_1/ | 25 | 2026-08-18 11:48 |
+| S309 | PocketGamer Game Finder Page 145 | https://www.pocketgamer.com/game-finder/page/145/0_all_0_1_1/ | 25 | 2026-08-18 11:48 |
+| S310 | PocketGamer Game Finder Page 146 | https://www.pocketgamer.com/game-finder/page/146/0_all_0_1_1/ | 25 | 2026-08-18 13:56 |
+| S311 | PocketGamer Game Finder Page 147 | https://www.pocketgamer.com/game-finder/page/147/0_all_0_1_1/ | 25 | 2026-08-18 13:56 |
+| S312 | PocketGamer Game Finder Page 148 | https://www.pocketgamer.com/game-finder/page/148/0_all_0_1_1/ | 25 | 2026-08-18 13:56 |
+
+
+| S307 | PocketGamer Game Finder Page 143 | https://www.pocketgamer.com/game-finder/page/143/0_all_0_1_1/ | 25 | 2026-08-18 11:48 |
+| S308 | PocketGamer Game Finder Page 144 | https://www.pocketgamer.com/game-finder/page/144/0_all_0_1_1/ | 25 | 2026-08-18 11:48 |
+| S309 | PocketGamer Game Finder Page 145 | https://www.pocketgamer.com/game-finder/page/145/0_all_0_1_1/ | 25 | 2026-08-18 11:48 |
 |---|---|---|---|---|
 
 | S268 | PocketGamer Game Finder Page 104 | https://www.pocketgamer.com/game-finder/page/104/0_all_0_1_1/ | 25 | 2026-08-16 22:50 |
@@ -316,6 +348,7 @@
 | R087 | 2026-08-18 02:44 | 0 (跳过≥5) | 6 (S289-S294) | 10 | 0 | PocketGamer P125-P130, 150款游戏名提取, 10款文档生成(PocketGamer review) |
 | R088 | 2026-08-18 05:45 | 3 (S295-S297) | 3 (S295-S297) | 10 | 0 | PocketGamer P131-P133, JSON-LD+Review页 |
 | R089 | 2026-08-18 06:15 | 3 (S298-S300) | 3 (S298-S300) | 10 | 0 | PocketGamer P134-P136, 69款游戏名提取, 10款文档生成(Wikipedia辅助) |
+| R092 | 2026-08-18 13:56 | 3 (S310-S312) | 3 (S310-S312) | 10 | 0 | PocketGamer P146-P148, 75款游戏名提取, 10款文档生成(review页内容) |
 
 ## Games Archived（历史归档）
 
