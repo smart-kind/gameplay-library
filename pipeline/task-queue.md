@@ -77,6 +77,16 @@
 | G1465 | Toy Bot Diaries 3 | docs/ToyBotDiaries3_20260818_1356.md | 2026-08-18 13:56 |
 | G1466 | Shaun White Snowboarding | docs/ShaunWhiteSnowboarding_20260818_1356.md | 2026-08-18 13:56 |
 | G1467 | Bounce Trap Tilt | docs/BounceTrapTilt_20260818_1356.md | 2026-08-18 13:56 |
+| G1468 | Chocolate Shop Frenzy | docs/chocolateshopfrenzy_20260818_1717.md | 2026-08-18 17:17 |
+| G1469 | Raging Thunder | docs/ragingthunder_20260818_1717.md | 2026-08-18 17:17 |
+| G1470 | Newtonica | docs/newtonica_20260818_1717.md | 2026-08-18 17:17 |
+| G1471 | Bionic Commando Rearmed | docs/bioniccommandorearmed_20260818_1717.md | 2026-08-18 17:17 |
+| G1472 | Galcon | docs/galcon_20260818_1717.md | 2026-08-18 17:17 |
+| G1473 | Sally's Salon | docs/sallyssalon_20260818_1717.md | 2026-08-18 17:17 |
+| G1474 | Shards | docs/shards_20260818_1717.md | 2026-08-18 17:17 |
+| G1475 | Pac-Man (iPhone) | docs/pacmaniphone_20260818_1717.md | 2026-08-18 17:17 |
+| G1476 | SolarQuest | docs/solarquest_20260818_1717.md | 2026-08-18 17:17 |
+| G1477 | Ducati Moto | docs/ducatimoto_20260818_1717.md | 2026-08-18 17:17 |
 
 
 ## Sources Processing（处理中）
@@ -174,6 +184,9 @@
 | S313 | PocketGamer Game Finder Page 149 | https://www.pocketgamer.com/game-finder/page/149/0_all_0_1_1/ | 25 | 2026-08-18 16:00 |
 | S314 | PocketGamer Game Finder Page 150 | https://www.pocketgamer.com/game-finder/page/150/0_all_0_1_1/ | 25 | 2026-08-18 16:00 |
 | S315 | PocketGamer Game Finder Page 151 | https://www.pocketgamer.com/game-finder/page/151/0_all_0_1_1/ | 25 | 2026-08-18 16:00 |
+| S316 | PocketGamer Game Finder Page 152 | https://www.pocketgamer.com/game-finder/page/152/0_all_0_1_1/ | 25 | 2026-08-18 17:17 |
+| S317 | PocketGamer Game Finder Page 153 | https://www.pocketgamer.com/game-finder/page/153/0_all_0_1_1/ | 25 | 2026-08-18 17:17 |
+| S318 | PocketGamer Game Finder Page 154 | https://www.pocketgamer.com/game-finder/page/154/0_all_0_1_1/ | 25 | 2026-08-18 17:17 |
 
 
 | S307 | PocketGamer Game Finder Page 143 | https://www.pocketgamer.com/game-finder/page/143/0_all_0_1_1/ | 25 | 2026-08-18 11:48 |
@@ -353,6 +366,7 @@
 | R089 | 2026-08-18 06:15 | 3 (S298-S300) | 3 (S298-S300) | 10 | 0 | PocketGamer P134-P136, 69款游戏名提取, 10款文档生成(Wikipedia辅助) |
 | R092 | 2026-08-18 13:56 | 3 (S310-S312) | 3 (S310-S312) | 10 | 0 | PocketGamer P146-P148, 75款游戏名提取, 10款文档生成(review页内容) |
 | R093 | 2026-08-18 16:00 | 3 (S313-S315) | 3 (S313-S315) | 10 | 0 | PocketGamer P149-P151, 75款游戏名提取, 10款文档生成(review页内容) |
+| R094 | 2026-08-18 17:17 | 3 (S316-S318) | 3 (S316-S318) | 10 | 0 | PocketGamer P152-P154, 75款游戏名提取, 10款文档生成(review页JSON-LD+内容) |
 
 ## Games Archived（历史归档）
 
