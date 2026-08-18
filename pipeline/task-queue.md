@@ -97,6 +97,16 @@
 | G1485 | Puzzle World 3 | docs/PuzzleWorld3_20260818_2035.md | 2026-08-18 20:35 |
 | G1486 | Atlantis Sky Patrol | docs/AtlantisSkyPatrol_20260818_2035.md | 2026-08-18 20:35 |
 | G1487 | Scrabble | docs/ScrabbleGame_20260818_2035.md | 2026-08-18 20:35 |
+| G1488 | Club Soko | docs/ClubSoko_20260818_2330.md | 2026-08-18 23:30 |
+| G1489 | Wish Upon A Cat | docs/WishUponACat_20260818_2330.md | 2026-08-18 23:30 |
+| G1490 | And Roger | docs/AndRoger_20260818_2330.md | 2026-08-18 23:30 |
+| G1491 | Consume Me | docs/ConsumeMe_20260818_2330.md | 2026-08-18 23:30 |
+| G1492 | RogueSlide | docs/RogueSlide_20260818_2330.md | 2026-08-18 23:30 |
+| G1493 | Pond Pals | docs/PondPals_20260818_2330.md | 2026-08-18 23:30 |
+| G1494 | Shelter From The Storm | docs/ShelterFromTheStorm_20260818_2330.md | 2026-08-18 23:30 |
+| G1495 | Tiny Bookshop | docs/TinyBookshop_20260818_2330.md | 2026-08-18 23:30 |
+| G1496 | Slime Rancher | docs/SlimeRancher_20260818_2330.md | 2026-08-18 23:30 |
+| G1497 | Spirit Crossing | docs/SpiritCrossing_20260818_2330.md | 2026-08-18 23:30 |
 
 
 ## Sources Processing（处理中）
@@ -200,6 +210,16 @@
 | S319 | PocketGamer Game Finder Page 155 | https://www.pocketgamer.com/game-finder/page/155/0_all_0_1_1/ | 25 | 2026-08-18 20:35 |
 | S320 | PocketGamer Game Finder Page 156 | https://www.pocketgamer.com/game-finder/page/156/0_all_0_1_1/ | 25 | 2026-08-18 20:35 |
 | S321 | PocketGamer Game Finder Page 157 | https://www.pocketgamer.com/game-finder/page/157/0_all_0_1_1/ | 25 | 2026-08-18 20:35 |
+| S322 | PocketGamer Club Soko Review | https://www.pocketgamer.com/club-soko/review/ | 1 | 2026-08-18 23:30 |
+| S323 | PocketGamer Wish Upon A Cat Review | https://www.pocketgamer.com/wish-upon-a-cat/review/ | 1 | 2026-08-18 23:30 |
+| S324 | PocketGamer And Roger Review | https://www.pocketgamer.com/and-roger/review/ | 1 | 2026-08-18 23:30 |
+| S325 | PocketGamer Consume Me Review | https://www.pocketgamer.com/consume-me/review/ | 1 | 2026-08-18 23:30 |
+| S326 | PocketGamer RogueSlide Review | https://www.pocketgamer.com/rogueslide/review/ | 1 | 2026-08-18 23:30 |
+| S327 | PocketGamer Pond Pals Review | https://www.pocketgamer.com/pond-pals/review/ | 1 | 2026-08-18 23:30 |
+| S328 | PocketGamer Shelter from the Storm Review | https://www.pocketgamer.com/shelter-from-the-storm/review/ | 1 | 2026-08-18 23:30 |
+| S329 | PocketGamer Tiny Bookshop Review | https://www.pocketgamer.com/tiny-bookshop/review/ | 1 | 2026-08-18 23:30 |
+| S330 | PocketGamer Slime Rancher Review | https://www.pocketgamer.com/slime-rancher/review/ | 1 | 2026-08-18 23:30 |
+| S331 | PocketGamer Spirit Crossing Review | https://www.pocketgamer.com/spirit-crossing-netflix/review/ | 1 | 2026-08-18 23:30 |
 
 
 | S307 | PocketGamer Game Finder Page 143 | https://www.pocketgamer.com/game-finder/page/143/0_all_0_1_1/ | 25 | 2026-08-18 11:48 |
@@ -392,6 +412,7 @@
 | R093 | 2026-08-18 16:00 | 3 (S313-S315) | 3 (S313-S315) | 10 | 0 | PocketGamer P149-P151, 75款游戏名提取, 10款文档生成(review页内容) |
 | R094 | 2026-08-18 17:17 | 3 (S316-S318) | 3 (S316-S318) | 10 | 0 | PocketGamer P152-P154, 75款游戏名提取, 10款文档生成(review页JSON-LD+内容) |
 | R095 | 2026-08-18 20:35 | 3 (S319-S321) | 3 (S319-S321) | 10 | 0 | PocketGamer P155-P157, 75款游戏名提取, 10款文档生成(review页内容) |
+| R096 | 2026-08-18 23:30 | 10 (S322-S331) | 10 (S322-S331) | 10 | 0 | PocketGamer Reviews via sitemap, 10款游戏文档生成 |
 
 ## Games Archived（历史归档）
 
