@@ -4,6 +4,9 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S338 | PocketGamer Game Finder Page 161 | https://www.pocketgamer.com/game-finder/page/161/0_all_0_1_1/ | 25 | 2026-08-19 03:25 |
+| S339 | PocketGamer Game Finder Page 162 | https://www.pocketgamer.com/game-finder/page/162/0_all_0_1_1/ | 25 | 2026-08-19 03:25 |
+| S340 | PocketGamer Game Finder Page 163 | https://www.pocketgamer.com/game-finder/page/163/0_all_0_1_1/ | 25 | 2026-08-19 03:25 |
 |---|---|---|---|---|
 
 ## Sources Archived（本轮新增）
@@ -17,6 +20,76 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
+|| G1504 | Bubble Popper Deluxe |  | 2026-08-19 03:25 |
+|| G1505 | Cafe Sea Battle |  | 2026-08-19 03:25 |
+|| G1506 | My Pet Store |  | 2026-08-19 03:25 |
+|| G1507 | Diamond Islands |  | 2026-08-19 03:25 |
+|| G1508 | Cafe Crosswords |  | 2026-08-19 03:25 |
+|| G1509 | Cafe Dominoes |  | 2026-08-19 03:25 |
+|| G1510 | Mini Golf 99 Holes |  | 2026-08-19 03:25 |
+|| G1511 | 24 Special Ops |  | 2026-08-19 03:25 |
+|| G1512 | Cafe Hearts |  | 2026-08-19 03:25 |
+|| G1513 | Crazy Window Cleaners |  | 2026-08-19 03:25 |
+|| G1514 | Xango Tango |  | 2026-08-19 03:25 |
+|| G1515 | Phil Taylor's Power Darts 08 |  | 2026-08-19 03:25 |
+|| G1516 | Tribal Basketball |  | 2026-08-19 03:25 |
+|| G1517 | Ernie Els Golf 2008 |  | 2026-08-19 03:25 |
+|| G1518 | Ronnie O'Sullivan's Snooker 2008 |  | 2026-08-19 03:25 |
+|| G1519 | Amped |  | 2026-08-19 03:25 |
+|| G1520 | RBS 6 Nations Rugby 2008 |  | 2026-08-19 03:25 |
+|| G1521 | Super Mahjong Quest |  | 2026-08-19 03:25 |
+|| G1522 | Supermodel Empire |  | 2026-08-19 03:25 |
+|| G1523 | Flying Stickfighter |  | 2026-08-19 03:25 |
+|| G1524 | Sky Sports Quiz Challenge |  | 2026-08-19 03:25 |
+|| G1525 | Christmas Toyland |  | 2026-08-19 03:25 |
+|| G1526 | SWAT Elite Troops |  | 2026-08-19 03:25 |
+|| G1527 | Sega Puzzle Pack |  | 2026-08-19 03:25 |
+|| G1528 | 3 in 1 Numbers |  | 2026-08-19 03:25 |
+|| G1529 | Super Taxi Driver |  | 2026-08-19 03:25 |
+|| G1530 | Holy Wars Sons of Enoch |  | 2026-08-19 03:25 |
+|| G1531 | Brain Challenge Vol 2 Stress Management |  | 2026-08-19 03:25 |
+|| G1532 | Table Tennis Star |  | 2026-08-19 03:25 |
+|| G1533 | Trivial Pursuit Deluxe Edition |  | 2026-08-19 03:25 |
+|| G1534 | Magical Hammer |  | 2026-08-19 03:25 |
+|| G1535 | Alexa Deadly Agent |  | 2026-08-19 03:25 |
+|| G1536 | Super Action Hero |  | 2026-08-19 03:25 |
+|| G1537 | Mr Mahjong 2 |  | 2026-08-19 03:25 |
+|| G1538 | Theme Park Tycoon |  | 2026-08-19 03:25 |
+|| G1539 | Illuminum |  | 2026-08-19 03:25 |
+|| G1540 | Aqua Rush |  | 2026-08-19 03:25 |
+|| G1541 | Lode Runner |  | 2026-08-19 03:25 |
+|| G1542 | Heroes Lore Wind of Soltia |  | 2026-08-19 03:25 |
+|| G1543 | The Musketeers |  | 2026-08-19 03:25 |
+|| G1544 | Puzzle World |  | 2026-08-19 03:25 |
+|| G1545 | Stuck |  | 2026-08-19 03:25 |
+|| G1546 | Captain Comet |  | 2026-08-19 03:25 |
+|| G1547 | Bikini Pool Battle |  | 2026-08-19 03:25 |
+|| G1548 | Twin Spin |  | 2026-08-19 03:25 |
+|| G1549 | Aqua Dig |  | 2026-08-19 03:25 |
+|| G1550 | Rocky 3D Apollo's Fall |  | 2026-08-19 03:25 |
+|| G1551 | Scooby-Doo Saving Shaggy |  | 2026-08-19 03:25 |
+|| G1552 | Solid Weapon |  | 2026-08-19 03:25 |
+|| G1553 | Disgaea Afternoon of Darkness |  | 2026-08-19 03:25 |
+|| G1554 | Teddy Factory |  | 2026-08-19 03:25 |
+|| G1555 | Gem Blast |  | 2026-08-19 03:25 |
+|| G1556 | World Championship Pool 2007 3D |  | 2026-08-19 03:25 |
+|| G1557 | Kamikaze Robots |  | 2026-08-19 03:25 |
+|| G1558 | Sonic Golf |  | 2026-08-19 03:25 |
+|| G1559 | Mechanismo |  | 2026-08-19 03:25 |
+|| G1560 | Pool Star |  | 2026-08-19 03:25 |
+|| G1561 | Medieval Total War |  | 2026-08-19 03:25 |
+|| G1562 | Tornado Mania 3D |  | 2026-08-19 03:25 |
+|| G1563 | Tribal Baseball |  | 2026-08-19 03:25 |
+|| G1564 | Magic Match |  | 2026-08-19 03:25 |
+|| G1565 | Hexic |  | 2026-08-19 03:25 |
+|| G1566 | Medieval Combat Age of Glory |  | 2026-08-19 03:25 |
+|| G1567 | Slingo Bingo |  | 2026-08-19 03:25 |
+|| G1568 | Cafe Hold 'em Poker |  | 2026-08-19 03:25 |
+|| G1569 | Bumper Car City |  | 2026-08-19 03:25 |
+|| G1570 | Cafe Sudoku |  | 2026-08-19 03:25 |
+|| G1571 | Cafe Solitaire |  | 2026-08-19 03:25 |
+|| G1572 | One (N-Gage Version) |  | 2026-08-19 03:25 |
+|| G1573 | 3D Mini Golf Las Vegas |  | 2026-08-19 03:25 |
 
 | G1398 | AssassinsCreedII | docs/AssassinsCreedII_20260818_0105.md | 2026-08-18 01:05 |
 | G1399 | FingerPhysics | docs/FingerPhysics_20260818_0105.md | 2026-08-18 01:05 |
@@ -432,11 +505,15 @@
 | R096 | 2026-08-18 23:30 | 10 (S322-S331) | 10 (S322-S331) | 10 | 0 | PocketGamer Reviews via sitemap, 10款游戏文档生成 |
 | R097 | 2026-08-19 02:30 | 3 (S332-S334) | 3 (S332-S334) | 3 | 0 | PocketGamer Reviews via sitemap, Zen Bound 2/Colin McRae Rally 2005/Bloodmasque |
 
+|| R098 | 2026-08-19 03:25 | 3 (S338-S340) | 3 (S335-S337) | 10 | 0 | PocketGamer P161-P163, 75款游戏名提取, 10款文档生成(review页内容) |
 ## Games Archived（历史归档）
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
 
+|| G1501 | Kenny vs Spenny | docs/KennyVsSpenny_20260819_0325.md | 2026-08-19 03:25 |
+|| G1502 | Destroy All Humans Crypto Does Vegas | docs/DestroyAllHumansCryptoDoesVegas_20260819_0325.md | 2026-08-19 03:25 |
+|| G1503 | Dakar 08 | docs/Dakar08_20260819_0325.md | 2026-08-19 03:25 |
 ## Sources Archived（已处理）
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
