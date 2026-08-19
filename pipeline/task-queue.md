@@ -156,6 +156,17 @@
 | G1622 | Ridge Racer 3D | docs/RidgeRacer3D_20260819_1352.md | 2026-08-19 13:52 |
 | G1623 | Pac-Mania | docs/PacMania_20260819_1352.md | 2026-08-19 13:52 |
 | G1624 | Brain Challenge | docs/BrainChallenge_20260819_1352.md | 2026-08-19 13:52 |
+| G1625 | Vampire Survivors | docs/VampireSurvivors_20260819_1539.md | 2026-08-19 15:46 |
+| G1626 | Grindstone | docs/Grindstone_20260819_1539.md | 2026-08-19 15:46 |
+| G1627 | Dicero | docs/Dicero_20260819_1539.md | 2026-08-19 15:46 |
+| G1628 | Block Blast | docs/BlockBlast_20260819_1539.md | 2026-08-19 15:46 |
+| G1629 | Block Jam 3D | docs/BlockJam3D_20260819_1539.md | 2026-08-19 15:46 |
+| G1630 | Water Sort Puzzle | docs/WaterSortPuzzle_20260819_1539.md | 2026-08-19 15:46 |
+| G1631 | Slay the Spire | docs/SlayTheSpire_20260819_1539.md | 2026-08-19 15:46 |
+| G1632 | Pawnbarian | docs/Pawnbarian_20260819_1539.md | 2026-08-19 15:46 |
+| G1633 | Tomb of the Mask | docs/TombOfTheMask_20260819_1539.md | 2026-08-19 15:46 |
+| G1634 | Piffle | docs/Piffle_20260819_1539.md | 2026-08-19 15:46 |
+| G1635 | Duet Game | docs/DuetGame_20260819_1539.md | 2026-08-19 15:46 |
 
 ## Games Archived（历史累计，最近100条）
 
