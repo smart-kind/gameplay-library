@@ -23,6 +23,9 @@
 | S362 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software | 10 | 2026-08-19 20:00 |
 | S363 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software | 8 | 2026-08-19 20:00 |
 | S364 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software | 8 | 2026-08-19 20:00 |
+| S365 | iTunes Search: best mini game collection | https://itunes.apple.com/search?term=best+mini+game+collection&media=software | 3 | 2026-08-19 20:56 |
+| S366 | iTunes Search: arcade puzzle casual mobile | https://itunes.apple.com/search?term=arcade+puzzle+casual+mobile&media=software | 3 | 2026-08-19 20:56 |
+| S367 | iTunes Search: idle tycoon management game | https://itunes.apple.com/search?term=idle+tycoon+management+game&media=software | 3 | 2026-08-19 20:56 |
 
 ## Sources Archived（历史累计）
 
@@ -126,6 +129,15 @@
 | G1663 | Woody Battle Block Puzzle Dual | docs/WoodyBattleBlockPuzzleDual_20260819_2000.md | 2026-08-19 20:00 |
 | G1664 | Yarn Loop: Knit Puzzle | docs/YarnLoopKnitPuzzle_20260819_2000.md | 2026-08-19 20:00 |
 | G1665 | 15 Puzzle Challenge | docs/15PuzzleChallenge_20260819_2000.md | 2026-08-19 20:00 |
+| G1666 | Mini Monsters: Card Collector | docs/MiniMonstersCardCollector_20260819_2053.md | 2026-08-19 20:56 |
+| G1667 | Fancade | docs/Fancade_20260819_2053.md | 2026-08-19 20:56 |
+| G1668 | Mini Games: Calm & Relax | docs/MiniGamesCalmRelax_20260819_2053.md | 2026-08-19 20:56 |
+| G1669 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260819_2053.md | 2026-08-19 20:56 |
+| G1670 | Arcadia | docs/Arcadia_20260819_2053.md | 2026-08-19 20:56 |
+| G1671 | Mini Football | docs/MiniFootball_20260819_2053.md | 2026-08-19 20:56 |
+| G1672 | Idle Office Tycoon | docs/IdleOfficeTycoon_20260819_2053.md | 2026-08-19 20:56 |
+| G1673 | Idle Prison Tycoon | docs/IdlePrisonTycoon_20260819_2053.md | 2026-08-19 20:56 |
+| G1674 | Idle Scrapyard Tycoon | docs/IdleScrapyardTycoon_20260819_2053.md | 2026-08-19 20:56 |
 | G1594 | Diner Dash | docs/DinerDash_20260819_1030.md | 2026-08-19 10:30 |
 | G1595 | Feeding Frenzy | docs/FeedingFrenzy_20260819_1030.md | 2026-08-19 10:30 |
 | G1596 | Plants vs Zombies | docs/PlantsVsZombies_20260819_1030.md | 2026-08-19 10:30 |
@@ -235,3 +247,4 @@
 | R106 | 2026-08-19 15:46 | 3 (S353-S355) | 3 (S353-S355直接归档) | 10 | 0 | iTunes API搜索3组关键词(casual mini game indie/puzzle arcade mobile/roguelike strategy board), 产出10款文档(G1625-G1634), 全部≥50行 |
 | R107 | 2026-08-19 17:26 | 6 (S356-S361) | 6 (S356-S361直接归档) | 20 | 0 | PocketGamer P173-P175(75款游戏, 提取5款) + iTunes API搜索3组关键词(best mini game casual 2024/viral hyper casual games 2024/indie puzzle game mechanics), 产出20款文档(G1636-G1655), 全部≥50行 |
 | R108 | 2026-08-19 20:00 | 3 (S362-S364) | 3 (S362-S364直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/viral hyper casual games list/indie puzzle game popular loop), 产出10款文档(G1656-G1665), 全部≥50行 |
+| R109 | 2026-08-19 20:56 | 3 (S365-S367) | 3 (S365-S367直接归档) | 9 | 0 | iTunes API搜索3组关键词(best mini game collection/arcade puzzle casual/idle tycoon management)，产出9款游戏文档(G1666-G1674)，全部>=50行 |
