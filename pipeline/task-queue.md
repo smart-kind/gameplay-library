@@ -26,6 +26,9 @@
 | S347 | iTunes Search: mini game casual | https://itunes.apple.com/search?term=mini+game+casual&media=software | 5 | 2026-08-19 12:19 |
 | S348 | iTunes Search: hyper casual game | https://itunes.apple.com/search?term=hyper+casual+game&media=software | 3 | 2026-08-19 12:19 |
 | S349 | iTunes Search: indie puzzle mobile | https://itunes.apple.com/search?term=indie+puzzle+mobile&media=software | 3 | 2026-08-19 12:19 |
+| S350 | PocketGamer Game Finder Page 170 | https://www.pocketgamer.com/game-finder/page/170/0_all_0_1_1/ | 25 | 2026-08-19 13:52 |
+| S351 | PocketGamer Game Finder Page 171 | https://www.pocketgamer.com/game-finder/page/171/0_all_0_1_1/ | 25 | 2026-08-19 13:52 |
+| S352 | PocketGamer Game Finder Page 172 | https://www.pocketgamer.com/game-finder/page/172/0_all_0_1_1/ | 25 | 2026-08-19 13:52 |
 
 ## Sources Archived（历史累计）
 
@@ -140,6 +143,16 @@
 | G1612 | Kingshot | docs/Kingshot_20260819_1213.md | 2026-08-19 12:19 |
 | G1613 | Sneak Out 3D | docs/SneakOut3D_20260819_1213.md | 2026-08-19 12:19 |
 | G1614 | Block Jam 3D | docs/BlockJam3D_20260819_1213.md | 2026-08-19 12:19 |
+| G1615 | Super Puzzle Bobble | docs/SuperPuzzleBobble_20260819_1352.md | 2026-08-19 13:52 |
+| G1616 | Jewel Quest Solitaire | docs/JewelQuestSolitaire_20260819_1352.md | 2026-08-19 13:52 |
+| G1617 | Final Fantasy Fables: Chocobo Tales | docs/FinalFantasyFablesChocoboTales_20260819_1352.md | 2026-08-19 13:52 |
+| G1618 | Lemmings Return | docs/LemmingsReturn_20260819_1352.md | 2026-08-19 13:52 |
+| G1619 | Ms Pac-Man | docs/MsPacMan_20260819_1352.md | 2026-08-19 13:52 |
+| G1620 | Mr Driller Deluxe | docs/MrDrillerDeluxe_20260819_1352.md | 2026-08-19 13:52 |
+| G1621 | Centipede | docs/Centipede_20260819_1352.md | 2026-08-19 13:52 |
+| G1622 | Ridge Racer 3D | docs/RidgeRacer3D_20260819_1352.md | 2026-08-19 13:52 |
+| G1623 | Pac-Mania | docs/PacMania_20260819_1352.md | 2026-08-19 13:52 |
+| G1624 | Brain Challenge | docs/BrainChallenge_20260819_1352.md | 2026-08-19 13:52 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -178,4 +191,5 @@
 || R101 | 2026-08-19 08:30 | 3 (S341-S343) | 0 (直接归档) | 10 | 0 | 手动发现3来源S341-S343 P164-P166; 处理10款游戏(G1574-G1583), PocketGamer Review + iTunes API + Wikipedia |
 | R102 | 2026-08-19 11:00 | 3 (S344-S346) | 0 (跳过) | 10 | 0 | 手动发现3来源S344-S346 P167-P169 (JS渲染待处理); 处理10款经典游戏(G1584-G1593), Wikipedia资料整理 |
 || R103 | 2026-08-19 10:30 | 0 (跳过) | 3 (S344-S346, 产出0) | 10 | 0 | S344-S346标记归档(JS渲染无法提取); 处理10款经典游戏(G1594-G1603), iTunes API数据+游戏知识库 |
-| R104 | 2026-08-19 12:19 | 3 (S347-S349) | 3 (S347-S349直接归档) | 11 | 0 | iTunes API搜索3组关键词，发现44款游戏，产出11款文档(G1604-G1614), 全部≥50行 |
+|| R104 | 2026-08-19 12:19 | 3 (S347-S349) | 3 (S347-S349直接归档) | 11 | 0 | iTunes API搜索3组关键词，发现44款游戏，产出11款文档(G1604-G1614), 全部≥50行 |
+| R105 | 2026-08-19 13:52 | 3 (S350-S352) | 3 (S350-S352直接归档) | 10 | 0 | 手动发现3来源S350-S352 P170-P172(75款游戏), 产出10款文档(G1615-G1624), 全部≥50行, PocketGamer+iTunes API |
