@@ -20,6 +20,9 @@
 | S359 | iTunes Search: best mini game casual 2024 | https://itunes.apple.com/search?term=best+mini+game+casual+2024&media=software | 5 | 2026-08-19 17:15 |
 | S360 | iTunes Search: viral hyper casual games 2024 | https://itunes.apple.com/search?term=viral+hyper+casual+games+2024&media=software | 3 | 2026-08-19 17:15 |
 | S361 | iTunes Search: indie puzzle game mechanics | https://itunes.apple.com/search?term=indie+puzzle+game+mechanics&media=software | 2 | 2026-08-19 17:15 |
+| S362 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software | 10 | 2026-08-19 20:00 |
+| S363 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software | 8 | 2026-08-19 20:00 |
+| S364 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software | 8 | 2026-08-19 20:00 |
 
 ## Sources Archived（历史累计）
 
@@ -113,6 +116,16 @@
 | G1653 | Shape Escape Block Puzzle | docs/ShapeEscapeBlockPuzzle_20260819_1726.md | 2026-08-19 17:26 |
 | G1654 | Big Time Games | docs/BigTimeGames_20260819_1726.md | 2026-08-19 17:26 |
 | G1655 | TopTop Games & Party | docs/TopTopGames&Party_20260819_1726.md | 2026-08-19 17:26 |
+| G1656 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260819_2000.md | 2026-08-19 20:00 |
+| G1657 | Mini Games: Calm & Relax | docs/MiniGamesCalmRelax_20260819_2000.md | 2026-08-19 20:00 |
+| G1658 | Idol Mini Games: Finger Rush | docs/IdolMiniGamesFingerRush_20260819_2000.md | 2026-08-19 20:00 |
+| G1659 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260819_2000.md | 2026-08-19 20:00 |
+| G1660 | Playgama: Play 2000+ Games | docs/PlaygamaPlay2000Games_20260819_2000.md | 2026-08-19 20:00 |
+| G1661 | Apple Games | docs/AppleGames_20260819_2000.md | 2026-08-19 20:00 |
+| G1662 | Cubic 2 3 4 Player Games | docs/Cubic234PlayerGames_20260819_2000.md | 2026-08-19 20:00 |
+| G1663 | Woody Battle Block Puzzle Dual | docs/WoodyBattleBlockPuzzleDual_20260819_2000.md | 2026-08-19 20:00 |
+| G1664 | Yarn Loop: Knit Puzzle | docs/YarnLoopKnitPuzzle_20260819_2000.md | 2026-08-19 20:00 |
+| G1665 | 15 Puzzle Challenge | docs/15PuzzleChallenge_20260819_2000.md | 2026-08-19 20:00 |
 | G1594 | Diner Dash | docs/DinerDash_20260819_1030.md | 2026-08-19 10:30 |
 | G1595 | Feeding Frenzy | docs/FeedingFrenzy_20260819_1030.md | 2026-08-19 10:30 |
 | G1596 | Plants vs Zombies | docs/PlantsVsZombies_20260819_1030.md | 2026-08-19 10:30 |
@@ -221,3 +234,4 @@
 | R105 | 2026-08-19 13:52 | 3 (S350-S352) | 3 (S350-S352直接归档) | 10 | 0 | 手动发现3来源S350-S352 P170-P172(75款游戏), 产出10款文档(G1615-G1624), 全部≥50行, PocketGamer+iTunes API |
 | R106 | 2026-08-19 15:46 | 3 (S353-S355) | 3 (S353-S355直接归档) | 10 | 0 | iTunes API搜索3组关键词(casual mini game indie/puzzle arcade mobile/roguelike strategy board), 产出10款文档(G1625-G1634), 全部≥50行 |
 | R107 | 2026-08-19 17:26 | 6 (S356-S361) | 6 (S356-S361直接归档) | 20 | 0 | PocketGamer P173-P175(75款游戏, 提取5款) + iTunes API搜索3组关键词(best mini game casual 2024/viral hyper casual games 2024/indie puzzle game mechanics), 产出20款文档(G1636-G1655), 全部≥50行 |
+| R108 | 2026-08-19 20:00 | 3 (S362-S364) | 3 (S362-S364直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/viral hyper casual games list/indie puzzle game popular loop), 产出10款文档(G1656-G1665), 全部≥50行 |
