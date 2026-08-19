@@ -105,8 +105,11 @@
 | G1493 | Pond Pals | docs/PondPals_20260818_2330.md | 2026-08-18 23:30 |
 | G1494 | Shelter From The Storm | docs/ShelterFromTheStorm_20260818_2330.md | 2026-08-18 23:30 |
 | G1495 | Tiny Bookshop | docs/TinyBookshop_20260818_2330.md | 2026-08-18 23:30 |
-| G1496 | Slime Rancher | docs/SlimeRancher_20260818_2330.md | 2026-08-18 23:30 |
+|| G1496 | Slime Rancher | docs/SlimeRancher_20260818_2330.md | 2026-08-18 23:30 |
 | G1497 | Spirit Crossing | docs/SpiritCrossing_20260818_2330.md | 2026-08-18 23:30 |
+| G1498 | Zen Bound 2 | docs/ZenBound2_20260819_0230.md | 2026-08-19 02:30 |
+| G1499 | Colin McRae Rally 2005 | docs/ColinMcRaeRally2005_20260819_0230.md | 2026-08-19 02:30 |
+| G1500 | Bloodmasque | docs/Bloodmasque_20260819_0230.md | 2026-08-19 02:30 |
 
 
 ## Sources Processing（处理中）
@@ -220,6 +223,9 @@
 | S329 | PocketGamer Tiny Bookshop Review | https://www.pocketgamer.com/tiny-bookshop/review/ | 1 | 2026-08-18 23:30 |
 | S330 | PocketGamer Slime Rancher Review | https://www.pocketgamer.com/slime-rancher/review/ | 1 | 2026-08-18 23:30 |
 | S331 | PocketGamer Spirit Crossing Review | https://www.pocketgamer.com/spirit-crossing-netflix/review/ | 1 | 2026-08-18 23:30 |
+| S332 | PocketGamer Zen Bound 2 Review | https://www.pocketgamer.com/zen-bound-2/review/ | 1 | 2026-08-19 02:30 |
+| S333 | PocketGamer Colin McRae Rally 2005 Review | https://www.pocketgamer.com/colin-mcrae-rally-2005/review/ | 1 | 2026-08-19 02:30 |
+| S334 | PocketGamer Bloodmasque Review | https://www.pocketgamer.com/bloodmasque/review/ | 1 | 2026-08-19 02:30 |
 
 
 | S307 | PocketGamer Game Finder Page 143 | https://www.pocketgamer.com/game-finder/page/143/0_all_0_1_1/ | 25 | 2026-08-18 11:48 |
@@ -413,6 +419,7 @@
 | R094 | 2026-08-18 17:17 | 3 (S316-S318) | 3 (S316-S318) | 10 | 0 | PocketGamer P152-P154, 75款游戏名提取, 10款文档生成(review页JSON-LD+内容) |
 | R095 | 2026-08-18 20:35 | 3 (S319-S321) | 3 (S319-S321) | 10 | 0 | PocketGamer P155-P157, 75款游戏名提取, 10款文档生成(review页内容) |
 | R096 | 2026-08-18 23:30 | 10 (S322-S331) | 10 (S322-S331) | 10 | 0 | PocketGamer Reviews via sitemap, 10款游戏文档生成 |
+| R097 | 2026-08-19 02:30 | 3 (S332-S334) | 3 (S332-S334) | 3 | 0 | PocketGamer Reviews via sitemap, Zen Bound 2/Colin McRae Rally 2005/Bloodmasque |
 
 ## Games Archived（历史归档）
 
