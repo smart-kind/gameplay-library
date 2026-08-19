@@ -4,8 +4,19 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-
 |---|---|---|---|---|
+
+## Sources Archived（本轮新增）
+| ID | 标题 | URL | 产出游戏数 | 完成时间 |
+|---|---|---|---|---|
+| S335 | PocketGamer Game Finder Page 158 | https://www.pocketgamer.com/game-finder/page/158/0_all_0_1_1/ | 25 | 2026-08-19 01:44 |
+| S336 | PocketGamer Game Finder Page 159 | https://www.pocketgamer.com/game-finder/page/159/0_all_0_1_1/ | 25 | 2026-08-19 01:44 |
+| S337 | PocketGamer Game Finder Page 160 | https://www.pocketgamer.com/game-finder/page/160/0_all_0_1_1/ | 25 | 2026-08-19 01:44 |
+
+## Games Pending（待处理游戏）
+
+| ID | 游戏名 | 文档文件 | 来源 |
+|---|---|---|---|
 
 | G1398 | AssassinsCreedII | docs/AssassinsCreedII_20260818_0105.md | 2026-08-18 01:05 |
 | G1399 | FingerPhysics | docs/FingerPhysics_20260818_0105.md | 2026-08-18 01:05 |
@@ -960,6 +971,7 @@
 | Run ID | 时间 | 发现来源 | 处理来源 | 产出游戏 | 失败 | 备注 |
 |---|---|---|---|---|---|---|
 | R083 | 2026-08-17 16:16 | 3 (S277-S279) | 3 (S274-S276) | 30 | 0 | PocketGamer P110-P115, iTunes API辅助 |
+| R098 | 2026-08-19 01:44 | 3 (S335-S337) | 3 (S335-S337) | 11 | 0 | PocketGamer P158-P160, 75款游戏名提取, 11款文档生成 |
 
 ## Games Archived（历史归档）
 | ID | 游戏名 | 文档文件 | 归档时间 |
