@@ -17,6 +17,9 @@
 | S338 | PocketGamer Game Finder Page 161 | https://www.pocketgamer.com/game-finder/page/161/0_all_0_1_1/ | 25 | 2026-08-19 05:21 |
 | S339 | PocketGamer Game Finder Page 162 | https://www.pocketgamer.com/game-finder/page/162/0_all_0_1_1/ | 25 | 2026-08-19 05:21 |
 | S340 | PocketGamer Game Finder Page 163 | https://www.pocketgamer.com/game-finder/page/163/0_all_0_1_1/ | 25 | 2026-08-19 05:21 |
+| S341 | PocketGamer Game Finder Page 164 | https://www.pocketgamer.com/game-finder/page/164/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
+| S342 | PocketGamer Game Finder Page 165 | https://www.pocketgamer.com/game-finder/page/165/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
+| S343 | PocketGamer Game Finder Page 166 | https://www.pocketgamer.com/game-finder/page/166/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
 
 ## Sources Archived（历史累计）
 
@@ -85,16 +88,6 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G1574 | Kenny Vs Spenny |  | 2026-08-19 03:25 |
-| G1575 | Destroy All Humans Crypto Does Vegas |  | 2026-08-19 03:25 |
-| G1576 | Dakar 08 |  | 2026-08-19 03:25 |
-| G1577 | 3D Mahjong |  | 2026-08-19 03:25 |
-| G1578 | Pocket Pool |  | 2026-08-19 03:25 |
-| G1579 | Word Mole |  | 2026-08-19 03:25 |
-| G1580 | Pinball |  | 2026-08-19 03:25 |
-| G1581 | Sudoku Challenge |  | 2026-08-19 03:25 |
-| G1582 | Chess Master |  | 2026-08-19 03:25 |
-| G1583 | Blackjack Pro |  | 2026-08-19 03:25 |
 | G1584 | Space Invaders Mobile |  | 2026-08-19 03:25 |
 | G1585 | Tetris Mobile |  | 2026-08-19 03:25 |
 | G1586 | Pac-Man Mobile |  | 2026-08-19 03:25 |
@@ -130,6 +123,16 @@
 | G1511 | 24 Special Ops | docs/24SpecialOps_20260819_0521.md | 2026-08-19 05:21 |
 | G1512 | Cafe Hearts | docs/CafeHearts_20260819_0521.md | 2026-08-19 05:21 |
 | G1513 | Crazy Window Cleaners | docs/CrazyWindowCleaners_20260819_0521.md | 2026-08-19 05:21 |
+| G1574 | Kenny Vs Spenny | docs/KennyVsSpenny_20260819_0830.md | 2026-08-19 08:30 |
+| G1575 | Destroy All Humans Crypto Does Vegas | docs/DestroyAllHumansCryptoDoesVegas_20260819_0830.md | 2026-08-19 08:30 |
+| G1576 | Dakar 08 | docs/Dakar08_20260819_0830.md | 2026-08-19 08:30 |
+| G1577 | 3D Mahjong | docs/3DMahjong_20260819_0830.md | 2026-08-19 08:30 |
+| G1578 | Pocket Pool | docs/PocketPool_20260819_0830.md | 2026-08-19 08:30 |
+| G1579 | Word Mole | docs/WordMole_20260819_0830.md | 2026-08-19 08:30 |
+| G1580 | Pinball | docs/Pinball_20260819_0830.md | 2026-08-19 08:30 |
+| G1581 | Sudoku Challenge | docs/SudokuChallenge_20260819_0830.md | 2026-08-19 08:30 |
+| G1582 | Chess Master | docs/ChessMaster_20260819_0830.md | 2026-08-19 08:30 |
+| G1583 | Blackjack Pro | docs/BlackjackPro_20260819_0830.md | 2026-08-19 08:30 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -155,3 +158,4 @@
 |---|---|---|---|---|---|---|
 | R099 | 2026-08-19 03:25 | 3 (S338-S340) | 3 (S338-S340) | 10 | 0 | PocketGamer P161-P163, iTunes API辅助 |
 | R100 | 2026-08-19 05:21 | 0 (跳过≥5) | 3 (S338-S340) | 10 | 0 | PocketGamer P161-P163 JS渲染无法静态提取, 3来源直接归档; 处理10款游戏(G1504-G1513), iTunes API辅助 |
+| R101 | 2026-08-19 08:30 | 3 (S341-S343) | 0 (直接归档) | 10 | 0 | 手动发现3来源S341-S343 P164-P166; 处理10款游戏(G1574-G1583), PocketGamer Review + iTunes API + Wikipedia |

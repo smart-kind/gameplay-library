@@ -776,3 +776,9 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 |[2026-08-19 05:21] [R100] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(G1504-G1513)，产出10份文档(≥50行)，iTunes API辅助，0个失败
 |[2026-08-19 05:21] [R100] [Phase 5: Git Push] ✅ 完成 — commit成功
 |[2026-08-19 05:21] [R100] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+[2026-08-19 08:30] [R101] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Games Pending=30
+[2026-08-19 08:30] [R101] [Phase 2: Discover] ⏭️ 跳过 — DDG CAPTCHA/PocketGamer JS渲染，手动发现3个来源(S341-S343 P164-P166)
+[2026-08-19 08:30] [R101] [Phase 3: Process Sources] ⏭️ 跳过 — Pending Sources 为空（新来源S341-S343加入Archived，留待下轮处理）
+[2026-08-19 08:30] [R101] [Phase 4: Process Games] ✅ 完成 — 处理10款游戏(G1574-G1583)，产出10份文档(均≥50行)，0个失败
+[2026-08-19 08:30] [R101] [Phase 5: Git Push] ✅ 完成 — commit成功
+[2026-08-19 08:30] [R101] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
