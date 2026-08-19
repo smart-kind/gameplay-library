@@ -14,24 +14,12 @@
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
-| S338 | PocketGamer Game Finder Page 161 | https://www.pocketgamer.com/game-finder/page/161/0_all_0_1_1/ | 25 | 2026-08-19 05:21 |
-| S339 | PocketGamer Game Finder Page 162 | https://www.pocketgamer.com/game-finder/page/162/0_all_0_1_1/ | 25 | 2026-08-19 05:21 |
-| S340 | PocketGamer Game Finder Page 163 | https://www.pocketgamer.com/game-finder/page/163/0_all_0_1_1/ | 25 | 2026-08-19 05:21 |
-| S341 | PocketGamer Game Finder Page 164 | https://www.pocketgamer.com/game-finder/page/164/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
-| S342 | PocketGamer Game Finder Page 165 | https://www.pocketgamer.com/game-finder/page/165/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
-| S343 | PocketGamer Game Finder Page 166 | https://www.pocketgamer.com/game-finder/page/166/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
-| S344 | PocketGamer Game Finder Page 167 | https://www.pocketgamer.com/game-finder/page/167/0_all_0_1_1/ | 0 | 2026-08-19 10:30 |
-| S345 | PocketGamer Game Finder Page 168 | https://www.pocketgamer.com/game-finder/page/168/0_all_0_1_1/ | 0 | 2026-08-19 10:30 |
-| S346 | PocketGamer Game Finder Page 169 | https://www.pocketgamer.com/game-finder/page/169/0_all_0_1_1/ | 0 | 2026-08-19 10:30 |
-| S347 | iTunes Search: mini game casual | https://itunes.apple.com/search?term=mini+game+casual&media=software | 5 | 2026-08-19 12:19 |
-| S348 | iTunes Search: hyper casual game | https://itunes.apple.com/search?term=hyper+casual+game&media=software | 3 | 2026-08-19 12:19 |
-| S349 | iTunes Search: indie puzzle mobile | https://itunes.apple.com/search?term=indie+puzzle+mobile&media=software | 3 | 2026-08-19 12:19 |
-| S350 | PocketGamer Game Finder Page 170 | https://www.pocketgamer.com/game-finder/page/170/0_all_0_1_1/ | 25 | 2026-08-19 13:52 |
-| S351 | PocketGamer Game Finder Page 171 | https://www.pocketgamer.com/game-finder/page/171/0_all_0_1_1/ | 25 | 2026-08-19 13:52 |
-| S352 | PocketGamer Game Finder Page 172 | https://www.pocketgamer.com/game-finder/page/172/0_all_0_1_1/ | 25 | 2026-08-19 13:52 |
-| S353 | iTunes Search: casual mini game indie | https://itunes.apple.com/search?term=casual+mini+game+indie&media=software | 10 | 2026-08-19 15:46 |
-| S354 | iTunes Search: puzzle arcade mobile | https://itunes.apple.com/search?term=puzzle+arcade+mobile&media=software | 10 | 2026-08-19 15:46 |
-| S355 | iTunes Search: roguelike strategy board | https://itunes.apple.com/search?term=roguelike+strategy+board&media=software | 10 | 2026-08-19 15:46 |
+| S356 | PocketGamer Game Finder Page 173 | https://www.pocketgamer.com/game-finder/page/173/0_all_0_1_1/ | 5 | 2026-08-19 17:15 |
+| S357 | PocketGamer Game Finder Page 174 | https://www.pocketgamer.com/game-finder/page/174/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
+| S358 | PocketGamer Game Finder Page 175 | https://www.pocketgamer.com/game-finder/page/175/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
+| S359 | iTunes Search: best mini game casual 2024 | https://itunes.apple.com/search?term=best+mini+game+casual+2024&media=software | 5 | 2026-08-19 17:15 |
+| S360 | iTunes Search: viral hyper casual games 2024 | https://itunes.apple.com/search?term=viral+hyper+casual+games+2024&media=software | 3 | 2026-08-19 17:15 |
+| S361 | iTunes Search: indie puzzle game mechanics | https://itunes.apple.com/search?term=indie+puzzle+game+mechanics&media=software | 2 | 2026-08-19 17:15 |
 
 ## Sources Archived（历史累计）
 
@@ -105,6 +93,26 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G1636 | FPR Superbikes | docs/FPRSuperbikes_20260819_1725.md | 2026-08-19 17:25 |
+| G1637 | Galaxian | docs/Galaxian_20260819_1725.md | 2026-08-19 17:25 |
+| G1638 | Mega Man ZX | docs/MegaManZX_20260819_1725.md | 2026-08-19 17:25 |
+| G1639 | Shinobido Tales of the Ninja | docs/ShinobidoTalesoftheNinja_20260819_1725.md | 2026-08-19 17:25 |
+| G1640 | Croc Mobile Pinball | docs/CrocMobilePinball_20260819_1725.md | 2026-08-19 17:25 |
+| G1641 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260819_1725.md | 2026-08-19 17:25 |
+| G1642 | Mini Soccer Star 2026 | docs/MiniSoccerStar2026_20260819_1725.md | 2026-08-19 17:25 |
+| G1643 | Mini Golf Stars Arena Battle | docs/MiniGolfStarsArenaBattle!_20260819_1725.md | 2026-08-19 17:25 |
+| G1644 | Mini Games Calm & Chill | docs/MiniGamesCalm&Chill_20260819_1725.md | 2026-08-19 17:25 |
+| G1645 | 2 3 4 Player Games | docs/234PlayerGames_20260819_1725.md | 2026-08-19 17:25 |
+| G1646 | ID Please Club Simulation | docs/IDPleaseClubSimulation_20260819_1726.md | 2026-08-19 17:26 |
+| G1647 | Sneak Out 3D | docs/SneakOut3D_20260819_1726.md | 2026-08-19 17:26 |
+| G1648 | Hyperball | docs/Hyperball_20260819_1726.md | 2026-08-19 17:26 |
+| G1649 | Flippy Floors | docs/FlippyFloors_20260819_1726.md | 2026-08-19 17:26 |
+| G1650 | Trism | docs/Trism_20260819_1726.md | 2026-08-19 17:26 |
+| G1651 | Creaks | docs/Creaks_20260819_1726.md | 2026-08-19 17:26 |
+| G1652 | Block Away Tap Out Puzzle | docs/BlockAwayTapOutPuzzle_20260819_1726.md | 2026-08-19 17:26 |
+| G1653 | Shape Escape Block Puzzle | docs/ShapeEscapeBlockPuzzle_20260819_1726.md | 2026-08-19 17:26 |
+| G1654 | Big Time Games | docs/BigTimeGames_20260819_1726.md | 2026-08-19 17:26 |
+| G1655 | TopTop Games & Party | docs/TopTopGames&Party_20260819_1726.md | 2026-08-19 17:26 |
 | G1594 | Diner Dash | docs/DinerDash_20260819_1030.md | 2026-08-19 10:30 |
 | G1595 | Feeding Frenzy | docs/FeedingFrenzy_20260819_1030.md | 2026-08-19 10:30 |
 | G1596 | Plants vs Zombies | docs/PlantsVsZombies_20260819_1030.md | 2026-08-19 10:30 |
@@ -212,3 +220,4 @@
 || R104 | 2026-08-19 12:19 | 3 (S347-S349) | 3 (S347-S349直接归档) | 11 | 0 | iTunes API搜索3组关键词，发现44款游戏，产出11款文档(G1604-G1614), 全部≥50行 |
 | R105 | 2026-08-19 13:52 | 3 (S350-S352) | 3 (S350-S352直接归档) | 10 | 0 | 手动发现3来源S350-S352 P170-P172(75款游戏), 产出10款文档(G1615-G1624), 全部≥50行, PocketGamer+iTunes API |
 | R106 | 2026-08-19 15:46 | 3 (S353-S355) | 3 (S353-S355直接归档) | 10 | 0 | iTunes API搜索3组关键词(casual mini game indie/puzzle arcade mobile/roguelike strategy board), 产出10款文档(G1625-G1634), 全部≥50行 |
+| R107 | 2026-08-19 17:26 | 6 (S356-S361) | 6 (S356-S361直接归档) | 20 | 0 | PocketGamer P173-P175(75款游戏, 提取5款) + iTunes API搜索3组关键词(best mini game casual 2024/viral hyper casual games 2024/indie puzzle game mechanics), 产出20款文档(G1636-G1655), 全部≥50行 |
