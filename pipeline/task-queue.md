@@ -29,6 +29,9 @@
 | S350 | PocketGamer Game Finder Page 170 | https://www.pocketgamer.com/game-finder/page/170/0_all_0_1_1/ | 25 | 2026-08-19 13:52 |
 | S351 | PocketGamer Game Finder Page 171 | https://www.pocketgamer.com/game-finder/page/171/0_all_0_1_1/ | 25 | 2026-08-19 13:52 |
 | S352 | PocketGamer Game Finder Page 172 | https://www.pocketgamer.com/game-finder/page/172/0_all_0_1_1/ | 25 | 2026-08-19 13:52 |
+| S353 | iTunes Search: casual mini game indie | https://itunes.apple.com/search?term=casual+mini+game+indie&media=software | 10 | 2026-08-19 15:46 |
+| S354 | iTunes Search: puzzle arcade mobile | https://itunes.apple.com/search?term=puzzle+arcade+mobile&media=software | 10 | 2026-08-19 15:46 |
+| S355 | iTunes Search: roguelike strategy board | https://itunes.apple.com/search?term=roguelike+strategy+board&media=software | 10 | 2026-08-19 15:46 |
 
 ## Sources Archived（历史累计）
 
@@ -182,6 +185,10 @@
 | G1592 | Bejeweled | docs/Bejeweled_20260819_0854.md | 2026-08-19 08:54 |
 | G1593 | Zuma | docs/Zuma_20260819_0854.md | 2026-08-19 08:54 |
 
+| S353 | iTunes Search: casual mini game indie | https://itunes.apple.com/search?term=casual+mini+game+indie&media=software | 10 | 2026-08-19 15:39 |
+| S354 | iTunes Search: puzzle arcade mobile | https://itunes.apple.com/search?term=puzzle+arcade+mobile&media=software | 10 | 2026-08-19 15:39 |
+| S355 | iTunes Search: roguelike strategy board | https://itunes.apple.com/search?term=roguelike+strategy+board&media=software | 10 | 2026-08-19 15:39 |
+
 ## Execution Log
 
 | Run ID | 时间 | 发现来源 | 处理来源 | 产出游戏 | 失败 | 备注 |
@@ -193,3 +200,4 @@
 || R103 | 2026-08-19 10:30 | 0 (跳过) | 3 (S344-S346, 产出0) | 10 | 0 | S344-S346标记归档(JS渲染无法提取); 处理10款经典游戏(G1594-G1603), iTunes API数据+游戏知识库 |
 || R104 | 2026-08-19 12:19 | 3 (S347-S349) | 3 (S347-S349直接归档) | 11 | 0 | iTunes API搜索3组关键词，发现44款游戏，产出11款文档(G1604-G1614), 全部≥50行 |
 | R105 | 2026-08-19 13:52 | 3 (S350-S352) | 3 (S350-S352直接归档) | 10 | 0 | 手动发现3来源S350-S352 P170-P172(75款游戏), 产出10款文档(G1615-G1624), 全部≥50行, PocketGamer+iTunes API |
+| R106 | 2026-08-19 15:46 | 3 (S353-S355) | 3 (S353-S355直接归档) | 10 | 0 | iTunes API搜索3组关键词(casual mini game indie/puzzle arcade mobile/roguelike strategy board), 产出10款文档(G1625-G1634), 全部≥50行 |
