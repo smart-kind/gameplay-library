@@ -20,9 +20,9 @@
 | S341 | PocketGamer Game Finder Page 164 | https://www.pocketgamer.com/game-finder/page/164/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
 | S342 | PocketGamer Game Finder Page 165 | https://www.pocketgamer.com/game-finder/page/165/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
 | S343 | PocketGamer Game Finder Page 166 | https://www.pocketgamer.com/game-finder/page/166/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
-| S344 | PocketGamer Game Finder Page 167 | https://www.pocketgamer.com/game-finder/page/167/0_all_0_1_1/ |  |  |
-| S345 | PocketGamer Game Finder Page 168 | https://www.pocketgamer.com/game-finder/page/168/0_all_0_1_1/ |  |  |
-| S346 | PocketGamer Game Finder Page 169 | https://www.pocketgamer.com/game-finder/page/169/0_all_0_1_1/ |  |  |
+| S344 | PocketGamer Game Finder Page 167 | https://www.pocketgamer.com/game-finder/page/167/0_all_0_1_1/ | 0 | 2026-08-19 10:30 |
+| S345 | PocketGamer Game Finder Page 168 | https://www.pocketgamer.com/game-finder/page/168/0_all_0_1_1/ | 0 | 2026-08-19 10:30 |
+| S346 | PocketGamer Game Finder Page 169 | https://www.pocketgamer.com/game-finder/page/169/0_all_0_1_1/ | 0 | 2026-08-19 10:30 |
 
 ## Sources Archived（历史累计）
 
@@ -91,31 +91,21 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G1584 | Space Invaders | docs/SpaceInvaders_20260819_0854.md | 2026-08-19 08:54 |
-| G1585 | Tetris | docs/Tetris_20260819_0854.md | 2026-08-19 08:54 |
-| G1586 | Pac-Man | docs/PacMan_20260819_0854.md | 2026-08-19 08:54 |
-| G1587 | Snake | docs/Snake_20260819_0854.md | 2026-08-19 08:54 |
-| G1588 | Brick Breaker | docs/BrickBreaker_20260819_0854.md | 2026-08-19 08:54 |
-| G1589 | Bubble Shooter | docs/BubbleShooter_20260819_0854.md | 2026-08-19 08:54 |
-| G1590 | Mahjong Quest | docs/MahjongQuest_20260819_0854.md | 2026-08-19 08:54 |
-| G1591 | Jewel Quest | docs/JewelQuest_20260819_0854.md | 2026-08-19 08:54 |
-| G1592 | Bejeweled | docs/Bejeweled_20260819_0854.md | 2026-08-19 08:54 |
-| G1593 | Zuma | docs/Zuma_20260819_0854.md | 2026-08-19 08:54 |
-| G1594 | Diner Dash |  | 2026-08-19 03:25 |
-| G1595 | Feeding Frenzy |  | 2026-08-19 03:25 |
-| G1596 | Plants vs Zombies |  | 2026-08-19 03:25 |
-| G1597 | Angry Birds |  | 2026-08-19 03:25 |
-| G1598 | Cut the Rope |  | 2026-08-19 03:25 |
-| G1599 | Temple Run |  | 2026-08-19 03:25 |
-| G1600 | Subway Surfers |  | 2026-08-19 03:25 |
-| G1601 | Fruit Ninja |  | 2026-08-19 03:25 |
-| G1602 | Candy Crush |  | 2026-08-19 03:25 |
-| G1603 | Clash of Clans |  | 2026-08-19 03:25 |
 
 ## Games Archived（本轮新增）
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G1594 | Diner Dash | docs/DinerDash_20260819_1030.md | 2026-08-19 10:30 |
+| G1595 | Feeding Frenzy | docs/FeedingFrenzy_20260819_1030.md | 2026-08-19 10:30 |
+| G1596 | Plants vs Zombies | docs/PlantsVsZombies_20260819_1030.md | 2026-08-19 10:30 |
+| G1597 | Angry Birds | docs/AngryBirds_20260819_1030.md | 2026-08-19 10:30 |
+| G1598 | Cut the Rope | docs/CutTheRope_20260819_1030.md | 2026-08-19 10:30 |
+| G1599 | Temple Run | docs/TempleRun_20260819_1030.md | 2026-08-19 10:30 |
+| G1600 | Subway Surfers | docs/SubwaySurfers_20260819_1030.md | 2026-08-19 10:30 |
+| G1601 | Fruit Ninja | docs/FruitNinja_20260819_1030.md | 2026-08-19 10:30 |
+| G1602 | Candy Crush | docs/CandyCrush_20260819_1030.md | 2026-08-19 10:30 |
+| G1603 | Clash of Clans | docs/ClashOfClans_20260819_1030.md | 2026-08-19 10:30 |
 | G1584 | Space Invaders | docs/SpaceInvaders_20260819_0854.md | 2026-08-19 08:54 |
 | G1585 | Tetris | docs/Tetris_20260819_0854.md | 2026-08-19 08:54 |
 | G1586 | Pac-Man | docs/PacMan_20260819_0854.md | 2026-08-19 08:54 |
@@ -173,3 +163,4 @@
 | R100 | 2026-08-19 05:21 | 0 (跳过≥5) | 3 (S338-S340) | 10 | 0 | PocketGamer P161-P163 JS渲染无法静态提取, 3来源直接归档; 处理10款游戏(G1504-G1513), iTunes API辅助 |
 || R101 | 2026-08-19 08:30 | 3 (S341-S343) | 0 (直接归档) | 10 | 0 | 手动发现3来源S341-S343 P164-P166; 处理10款游戏(G1574-G1583), PocketGamer Review + iTunes API + Wikipedia |
 | R102 | 2026-08-19 11:00 | 3 (S344-S346) | 0 (跳过) | 10 | 0 | 手动发现3来源S344-S346 P167-P169 (JS渲染待处理); 处理10款经典游戏(G1584-G1593), Wikipedia资料整理 |
+| R103 | 2026-08-19 10:30 | 0 (跳过) | 3 (S344-S346, 产出0) | 10 | 0 | S344-S346标记归档(JS渲染无法提取); 处理10款经典游戏(G1594-G1603), iTunes API数据+游戏知识库 |
