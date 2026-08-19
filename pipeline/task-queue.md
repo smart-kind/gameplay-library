@@ -20,6 +20,9 @@
 | S341 | PocketGamer Game Finder Page 164 | https://www.pocketgamer.com/game-finder/page/164/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
 | S342 | PocketGamer Game Finder Page 165 | https://www.pocketgamer.com/game-finder/page/165/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
 | S343 | PocketGamer Game Finder Page 166 | https://www.pocketgamer.com/game-finder/page/166/0_all_0_1_1/ | 25 | 2026-08-19 08:30 |
+| S344 | PocketGamer Game Finder Page 167 | https://www.pocketgamer.com/game-finder/page/167/0_all_0_1_1/ |  |  |
+| S345 | PocketGamer Game Finder Page 168 | https://www.pocketgamer.com/game-finder/page/168/0_all_0_1_1/ |  |  |
+| S346 | PocketGamer Game Finder Page 169 | https://www.pocketgamer.com/game-finder/page/169/0_all_0_1_1/ |  |  |
 
 ## Sources Archived（历史累计）
 
@@ -88,16 +91,16 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G1584 | Space Invaders Mobile |  | 2026-08-19 03:25 |
-| G1585 | Tetris Mobile |  | 2026-08-19 03:25 |
-| G1586 | Pac-Man Mobile |  | 2026-08-19 03:25 |
-| G1587 | Snake Classic |  | 2026-08-19 03:25 |
-| G1588 | Brick Breaker |  | 2026-08-19 03:25 |
-| G1589 | Bubble Shooter |  | 2026-08-19 03:25 |
-| G1590 | Mahjong Quest |  | 2026-08-19 03:25 |
-| G1591 | Jewel Quest |  | 2026-08-19 03:25 |
-| G1592 | Bejeweled |  | 2026-08-19 03:25 |
-| G1593 | Zuma |  | 2026-08-19 03:25 |
+| G1584 | Space Invaders | docs/SpaceInvaders_20260819_0854.md | 2026-08-19 08:54 |
+| G1585 | Tetris | docs/Tetris_20260819_0854.md | 2026-08-19 08:54 |
+| G1586 | Pac-Man | docs/PacMan_20260819_0854.md | 2026-08-19 08:54 |
+| G1587 | Snake | docs/Snake_20260819_0854.md | 2026-08-19 08:54 |
+| G1588 | Brick Breaker | docs/BrickBreaker_20260819_0854.md | 2026-08-19 08:54 |
+| G1589 | Bubble Shooter | docs/BubbleShooter_20260819_0854.md | 2026-08-19 08:54 |
+| G1590 | Mahjong Quest | docs/MahjongQuest_20260819_0854.md | 2026-08-19 08:54 |
+| G1591 | Jewel Quest | docs/JewelQuest_20260819_0854.md | 2026-08-19 08:54 |
+| G1592 | Bejeweled | docs/Bejeweled_20260819_0854.md | 2026-08-19 08:54 |
+| G1593 | Zuma | docs/Zuma_20260819_0854.md | 2026-08-19 08:54 |
 | G1594 | Diner Dash |  | 2026-08-19 03:25 |
 | G1595 | Feeding Frenzy |  | 2026-08-19 03:25 |
 | G1596 | Plants vs Zombies |  | 2026-08-19 03:25 |
@@ -113,16 +116,16 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
-| G1504 | Bubble Popper Deluxe | docs/BubblePopperDeluxe_20260819_0520.md | 2026-08-19 05:21 |
-| G1505 | Cafe Sea Battle | docs/CafeSeaBattle_20260819_0520.md | 2026-08-19 05:21 |
-| G1506 | My Pet Store | docs/MyPetStore_20260819_0520.md | 2026-08-19 05:21 |
-| G1507 | Diamond Islands | docs/DiamondIslands_20260819_0520.md | 2026-08-19 05:21 |
-| G1508 | Cafe Crosswords | docs/CafeCrosswords_20260819_0520.md | 2026-08-19 05:21 |
-| G1509 | Cafe Dominoes | docs/CafeDominoes_20260819_0520.md | 2026-08-19 05:21 |
-| G1510 | Mini Golf 99 Holes | docs/MiniGolf99Holes_20260819_0521.md | 2026-08-19 05:21 |
-| G1511 | 24 Special Ops | docs/24SpecialOps_20260819_0521.md | 2026-08-19 05:21 |
-| G1512 | Cafe Hearts | docs/CafeHearts_20260819_0521.md | 2026-08-19 05:21 |
-| G1513 | Crazy Window Cleaners | docs/CrazyWindowCleaners_20260819_0521.md | 2026-08-19 05:21 |
+| G1584 | Space Invaders | docs/SpaceInvaders_20260819_0854.md | 2026-08-19 08:54 |
+| G1585 | Tetris | docs/Tetris_20260819_0854.md | 2026-08-19 08:54 |
+| G1586 | Pac-Man | docs/PacMan_20260819_0854.md | 2026-08-19 08:54 |
+| G1587 | Snake | docs/Snake_20260819_0854.md | 2026-08-19 08:54 |
+| G1588 | Brick Breaker | docs/BrickBreaker_20260819_0854.md | 2026-08-19 08:54 |
+| G1589 | Bubble Shooter | docs/BubbleShooter_20260819_0854.md | 2026-08-19 08:54 |
+| G1590 | Mahjong Quest | docs/MahjongQuest_20260819_0854.md | 2026-08-19 08:54 |
+| G1591 | Jewel Quest | docs/JewelQuest_20260819_0854.md | 2026-08-19 08:54 |
+| G1592 | Bejeweled | docs/Bejeweled_20260819_0854.md | 2026-08-19 08:54 |
+| G1593 | Zuma | docs/Zuma_20260819_0854.md | 2026-08-19 08:54 |
 | G1574 | Kenny Vs Spenny | docs/KennyVsSpenny_20260819_0830.md | 2026-08-19 08:30 |
 | G1575 | Destroy All Humans Crypto Does Vegas | docs/DestroyAllHumansCryptoDoesVegas_20260819_0830.md | 2026-08-19 08:30 |
 | G1576 | Dakar 08 | docs/Dakar08_20260819_0830.md | 2026-08-19 08:30 |
@@ -148,9 +151,19 @@
 | G1495 | Tiny Bookshop | docs/TinyBookshop_20260818_2330.md | 2026-08-18 23:30 |
 | G1496 | Slime Rancher | docs/SlimeRancher_20260818_2330.md | 2026-08-18 23:30 |
 | G1497 | Spirit Crossing | docs/SpiritCrossing_20260818_2330.md | 2026-08-18 23:30 |
-| G1498 | Zen Bound 2 | docs/ZenBound2_20260819_0230.md | 2026-08-19 02:30 |
+|| G1498 | Zen Bound 2 | docs/ZenBound2_20260819_0230.md | 2026-08-19 02:30 |
 | G1499 | Colin McRae Rally 2005 | docs/ColinMcRaeRally2005_20260819_0230.md | 2026-08-19 02:30 |
 | G1500 | Bloodmasque | docs/Bloodmasque_20260819_0230.md | 2026-08-19 02:30 |
+| G1584 | Space Invaders | docs/SpaceInvaders_20260819_0854.md | 2026-08-19 08:54 |
+| G1585 | Tetris | docs/Tetris_20260819_0854.md | 2026-08-19 08:54 |
+| G1586 | Pac-Man | docs/PacMan_20260819_0854.md | 2026-08-19 08:54 |
+| G1587 | Snake | docs/Snake_20260819_0854.md | 2026-08-19 08:54 |
+| G1588 | Brick Breaker | docs/BrickBreaker_20260819_0854.md | 2026-08-19 08:54 |
+| G1589 | Bubble Shooter | docs/BubbleShooter_20260819_0854.md | 2026-08-19 08:54 |
+| G1590 | Mahjong Quest | docs/MahjongQuest_20260819_0854.md | 2026-08-19 08:54 |
+| G1591 | Jewel Quest | docs/JewelQuest_20260819_0854.md | 2026-08-19 08:54 |
+| G1592 | Bejeweled | docs/Bejeweled_20260819_0854.md | 2026-08-19 08:54 |
+| G1593 | Zuma | docs/Zuma_20260819_0854.md | 2026-08-19 08:54 |
 
 ## Execution Log
 
@@ -158,4 +171,5 @@
 |---|---|---|---|---|---|---|
 | R099 | 2026-08-19 03:25 | 3 (S338-S340) | 3 (S338-S340) | 10 | 0 | PocketGamer P161-P163, iTunes API辅助 |
 | R100 | 2026-08-19 05:21 | 0 (跳过≥5) | 3 (S338-S340) | 10 | 0 | PocketGamer P161-P163 JS渲染无法静态提取, 3来源直接归档; 处理10款游戏(G1504-G1513), iTunes API辅助 |
-| R101 | 2026-08-19 08:30 | 3 (S341-S343) | 0 (直接归档) | 10 | 0 | 手动发现3来源S341-S343 P164-P166; 处理10款游戏(G1574-G1583), PocketGamer Review + iTunes API + Wikipedia |
+|| R101 | 2026-08-19 08:30 | 3 (S341-S343) | 0 (直接归档) | 10 | 0 | 手动发现3来源S341-S343 P164-P166; 处理10款游戏(G1574-G1583), PocketGamer Review + iTunes API + Wikipedia |
+| R102 | 2026-08-19 11:00 | 3 (S344-S346) | 0 (跳过) | 10 | 0 | 手动发现3来源S344-S346 P167-P169 (JS渲染待处理); 处理10款经典游戏(G1584-G1593), Wikipedia资料整理 |
