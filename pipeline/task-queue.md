@@ -26,6 +26,9 @@
 | S365 | iTunes Search: best mini game collection | https://itunes.apple.com/search?term=best+mini+game+collection&media=software | 3 | 2026-08-19 20:56 |
 | S366 | iTunes Search: arcade puzzle casual mobile | https://itunes.apple.com/search?term=arcade+puzzle+casual+mobile&media=software | 3 | 2026-08-19 20:56 |
 | S367 | iTunes Search: idle tycoon management game | https://itunes.apple.com/search?term=idle+tycoon+management+game&media=software | 3 | 2026-08-19 20:56 |
+| S368 | iTunes Search: PopCap classic games gameplay mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-19 23:30 |
+| S369 | iTunes Search: mini game collection party casual | https://itunes.apple.com/search?term=mini+game+collection+party+casual&media=software&limit=10 | 10 | 2026-08-19 23:30 |
+| S370 | iTunes Search: hidden gem casual game unique gameplay | https://itunes.apple.com/search?term=hidden+gem+casual+game+unique+gameplay&media=software&limit=10 | 10 | 2026-08-19 23:30 |
 
 ## Sources Archived（历史累计）
 
@@ -99,6 +102,16 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G1675 | 2 For 2 | docs/2For2_20260819_2330.md | 2026-08-19 23:30 |
+| G1676 | Save Balls Brain Teaser Games | docs/SaveBallsBrainTeaserGames_20260819_2330.md | 2026-08-19 23:30 |
+| G1677 | Touch Physics Lite | docs/TouchPhysicsLite_20260819_2330.md | 2026-08-19 23:30 |
+| G1678 | Brain It On | docs/BrainItOn_20260819_2330.md | 2026-08-19 23:30 |
+| G1679 | Tricky Story 2 Brain Twist | docs/TrickyStory2BrainTwist_20260819_2330.md | 2026-08-19 23:30 |
+| G1680 | Erase Games Brain Tricky Test | docs/EraseGamesBrainTrickyTest_20260819_2330.md | 2026-08-19 23:30 |
+| G1681 | Brain Puzzle 2 Logic Twist | docs/BrainPuzzle2LogicTwist_20260819_2330.md | 2026-08-19 23:30 |
+| G1682 | Brain Go Puzzle Test | docs/BrainGoPuzzleTest_20260819_2330.md | 2026-08-19 23:30 |
+| G1683 | Rope Around | docs/RopeAround_20260819_2330.md | 2026-08-19 23:30 |
+| G1684 | Hexascapes Block Puzzle | docs/HexascapesBlockPuzzle_20260819_2330.md | 2026-08-19 23:30 |
 | G1636 | FPR Superbikes | docs/FPRSuperbikes_20260819_1725.md | 2026-08-19 17:25 |
 | G1637 | Galaxian | docs/Galaxian_20260819_1725.md | 2026-08-19 17:25 |
 | G1638 | Mega Man ZX | docs/MegaManZX_20260819_1725.md | 2026-08-19 17:25 |
@@ -248,3 +261,4 @@
 | R107 | 2026-08-19 17:26 | 6 (S356-S361) | 6 (S356-S361直接归档) | 20 | 0 | PocketGamer P173-P175(75款游戏, 提取5款) + iTunes API搜索3组关键词(best mini game casual 2024/viral hyper casual games 2024/indie puzzle game mechanics), 产出20款文档(G1636-G1655), 全部≥50行 |
 | R108 | 2026-08-19 20:00 | 3 (S362-S364) | 3 (S362-S364直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/viral hyper casual games list/indie puzzle game popular loop), 产出10款文档(G1656-G1665), 全部≥50行 |
 | R109 | 2026-08-19 20:56 | 3 (S365-S367) | 3 (S365-S367直接归档) | 9 | 0 | iTunes API搜索3组关键词(best mini game collection/arcade puzzle casual/idle tycoon management)，产出9款游戏文档(G1666-G1674)，全部>=50行 |
+| R110 | 2026-08-19 23:30 | 3 (S368-S370) | 3 (S368-S370直接归档) | 10 | 0 | iTunes API搜索3组关键词(PopCap classic/mini game party/hidden gem casual)，产出10款益智解谜游戏文档(G1675-G1684)，全部>=50行 |
