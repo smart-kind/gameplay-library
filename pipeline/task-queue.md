@@ -23,6 +23,9 @@
 | S344 | PocketGamer Game Finder Page 167 | https://www.pocketgamer.com/game-finder/page/167/0_all_0_1_1/ | 0 | 2026-08-19 10:30 |
 | S345 | PocketGamer Game Finder Page 168 | https://www.pocketgamer.com/game-finder/page/168/0_all_0_1_1/ | 0 | 2026-08-19 10:30 |
 | S346 | PocketGamer Game Finder Page 169 | https://www.pocketgamer.com/game-finder/page/169/0_all_0_1_1/ | 0 | 2026-08-19 10:30 |
+| S347 | iTunes Search: mini game casual | https://itunes.apple.com/search?term=mini+game+casual&media=software | 5 | 2026-08-19 12:19 |
+| S348 | iTunes Search: hyper casual game | https://itunes.apple.com/search?term=hyper+casual+game&media=software | 3 | 2026-08-19 12:19 |
+| S349 | iTunes Search: indie puzzle mobile | https://itunes.apple.com/search?term=indie+puzzle+mobile&media=software | 3 | 2026-08-19 12:19 |
 
 ## Sources Archived（历史累计）
 
@@ -125,7 +128,18 @@
 | G1580 | Pinball | docs/Pinball_20260819_0830.md | 2026-08-19 08:30 |
 | G1581 | Sudoku Challenge | docs/SudokuChallenge_20260819_0830.md | 2026-08-19 08:30 |
 | G1582 | Chess Master | docs/ChessMaster_20260819_0830.md | 2026-08-19 08:30 |
-| G1583 | Blackjack Pro | docs/BlackjackPro_20260819_0830.md | 2026-08-19 08:30 |
+| G1603 | Clash of Clans | docs/ClashOfClans_20260819_1030.md | 2026-08-19 10:30 |
+| G1604 | Stack | docs/Stack_20260819_1213.md | 2026-08-19 12:19 |
+| G1605 | Fire Balls 3D | docs/FireBalls3D_20260819_1213.md | 2026-08-19 12:19 |
+| G1606 | Lumino City | docs/LuminoCity_20260819_1213.md | 2026-08-19 12:19 |
+| G1607 | Boom Beach | docs/BoomBeach_20260819_1213.md | 2026-08-19 12:19 |
+| G1608 | Make Hexa Puzzle | docs/MakeHexaPuzzle_20260819_1213.md | 2026-08-19 12:19 |
+| G1609 | Mob Control | docs/MobControl_20260819_1213.md | 2026-08-19 12:19 |
+| G1610 | RISK Global Domination | docs/RISKGlobalDomination_20260819_1213.md | 2026-08-19 12:19 |
+| G1611 | Magic Chess Go Go | docs/MagicChessGoGo_20260819_1213.md | 2026-08-19 12:19 |
+| G1612 | Kingshot | docs/Kingshot_20260819_1213.md | 2026-08-19 12:19 |
+| G1613 | Sneak Out 3D | docs/SneakOut3D_20260819_1213.md | 2026-08-19 12:19 |
+| G1614 | Block Jam 3D | docs/BlockJam3D_20260819_1213.md | 2026-08-19 12:19 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -163,4 +177,5 @@
 | R100 | 2026-08-19 05:21 | 0 (跳过≥5) | 3 (S338-S340) | 10 | 0 | PocketGamer P161-P163 JS渲染无法静态提取, 3来源直接归档; 处理10款游戏(G1504-G1513), iTunes API辅助 |
 || R101 | 2026-08-19 08:30 | 3 (S341-S343) | 0 (直接归档) | 10 | 0 | 手动发现3来源S341-S343 P164-P166; 处理10款游戏(G1574-G1583), PocketGamer Review + iTunes API + Wikipedia |
 | R102 | 2026-08-19 11:00 | 3 (S344-S346) | 0 (跳过) | 10 | 0 | 手动发现3来源S344-S346 P167-P169 (JS渲染待处理); 处理10款经典游戏(G1584-G1593), Wikipedia资料整理 |
-| R103 | 2026-08-19 10:30 | 0 (跳过) | 3 (S344-S346, 产出0) | 10 | 0 | S344-S346标记归档(JS渲染无法提取); 处理10款经典游戏(G1594-G1603), iTunes API数据+游戏知识库 |
+|| R103 | 2026-08-19 10:30 | 0 (跳过) | 3 (S344-S346, 产出0) | 10 | 0 | S344-S346标记归档(JS渲染无法提取); 处理10款经典游戏(G1594-G1603), iTunes API数据+游戏知识库 |
+| R104 | 2026-08-19 12:19 | 3 (S347-S349) | 3 (S347-S349直接归档) | 11 | 0 | iTunes API搜索3组关键词，发现44款游戏，产出11款文档(G1604-G1614), 全部≥50行 |
