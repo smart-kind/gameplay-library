@@ -26,9 +26,12 @@
 | S386 | iTunes Search: word puzzle game casual brain teaser | https://itunes.apple.com/search?term=word+puzzle+game+casual+brain+teaser&media=software&limit=10 | 10 | 2026-08-20 08:20 |
 | S387 | iTunes Search: merge puzzle casual mobile game | https://itunes.apple.com/search?term=merge+puzzle+casual+mobile+game&media=software&limit=10 | 10 | 2026-08-20 08:20 |
 | S388 | iTunes Search: match 3 puzzle game casual classic | https://itunes.apple.com/search?term=match+3+puzzle+game+casual+classic&media=software&limit=10 | 10 | 2026-08-20 08:20 |
-| S389 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-20 14:00 |
-| S390 | iTunes Search: best small games app store hidden gems | https://itunes.apple.com/search?term=best+small+games+app+store+hidden+gems&media=software&limit=10 | 9 | 2026-08-20 14:00 |
-| S391 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-20 14:00 |
+|| S389 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-20 14:00 |
+|| S390 | iTunes Search: best small games app store hidden gems | https://itunes.apple.com/search?term=best+small+games+app+store+hidden+gems&media=software&limit=10 | 9 | 2026-08-20 14:00 |
+|| S391 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-20 14:00 |
+| S392 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-20 17:00 |
+| S393 | iTunes Search: indie puzzle game gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+gameplay+loop&media=software&limit=10 | 10 | 2026-08-20 17:00 |
+| S394 | iTunes Search: physics puzzle casual mobile game | https://itunes.apple.com/search?term=physics+puzzle+casual+mobile+game&media=software&limit=10 | 10 | 2026-08-20 17:00 |
 | S356 | PocketGamer Game Finder Page 173 | https://www.pocketgamer.com/game-finder/page/173/0_all_0_1_1/ | 5 | 2026-08-19 17:15 |
 | S357 | PocketGamer Game Finder Page 174 | https://www.pocketgamer.com/game-finder/page/174/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
 | S358 | PocketGamer Game Finder Page 175 | https://www.pocketgamer.com/game-finder/page/175/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
@@ -173,7 +176,17 @@
 | G1752 | Heroll: Dice Roguelike | docs/HerollDiceRoguelike_20260820_1400.md | 2026-08-20 14:00 |
 | G1753 | Endless Wander | docs/EndlessWander_RoguelikeRPG_20260820_1400.md | 2026-08-20 14:00 |
 | G1754 | Guidus | docs/Guidus_20260820_1400.md | 2026-08-20 14:00 |
-| G1755 | Find Em All! | docs/FindEmAll_HiddenObjects_20260820_1400.md | 2026-08-20 14:00 |
+|| G1755 | Find Em All! | docs/FindEmAll_HiddenObjects_20260820_1400.md | 2026-08-20 14:00 |
+| G1756 | Knock Out : Physics Puzzle | docs/KnockOutPhysicsPuzzle_20260820_1700.md | 2026-08-20 17:00 |
+| G1757 | Royal Smash! - Physics Puzzle | docs/RoyalSmashPhysicsPuzzle_20260820_1700.md | 2026-08-20 17:00 |
+| G1758 | Siege Hero | docs/SiegeHero_20260820_1700.md | 2026-08-20 17:00 |
+| G1759 | Tricky Blocks - Block Puzzle | docs/TrickyBlocksBlockPuzzle_20260820_1700.md | 2026-08-20 17:00 |
+| G1760 | Target Smash - Physics Puzzle | docs/TargetSmashPhysicsPuzzle_20260820_1700.md | 2026-08-20 17:00 |
+| G1761 | circloO - Physics Platformer | docs/circloOPhysicsPlatformer_20260820_1700.md | 2026-08-20 17:00 |
+| G1762 | Cat Physics | docs/CatPhysics_20260820_1700.md | 2026-08-20 17:00 |
+| G1763 | Angry Birds Friends | docs/AngryBirdsFriends_20260820_1700.md | 2026-08-20 17:00 |
+| G1764 | 3D Bubble Shoot - ASMR Game | docs/3DBubbleShootASMRGame_20260820_1700.md | 2026-08-20 17:00 |
+| G1765 | Infinity Loop: Relaxing Puzzle | docs/InfinityLoopRelaxingPuzzle_20260820_1700.md | 2026-08-20 17:00 |
 | G1675 | 2 For 2 | docs/2For2_20260819_2330.md | 2026-08-19 23:30 |
 | G1676 | Save Balls Brain Teaser Games | docs/SaveBallsBrainTeaserGames_20260819_2330.md | 2026-08-19 23:30 |
 | G1677 | Touch Physics Lite | docs/TouchPhysicsLite_20260819_2330.md | 2026-08-19 23:30 |
@@ -361,3 +374,8 @@
 || R115 | 2026-08-20 10:30 | 3 (S383-S385) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/Nintendo Switch indie puzzle casual/flash games classic gameplay)，发现26款游戏，产出10款游戏文档(G1725-G1734)，全部≥47行 |
 | R116 | 2026-08-20 08:20 | 3 (S386-S388) | 3 (直接归档) | 11 | 0 | iTunes API搜索3组关键词(word puzzle casual brain teaser/merge puzzle casual mobile/match 3 puzzle casual classic)，产出11款游戏文档(G1735-G1745)，覆盖词汇解谜/合成/三消/物理/配对等品类，全部≥47行 |
 | R117 | 2026-08-20 14:00 | 3 (S389-S391) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(Google Play trending/best small games hidden gems/roguelike mini games)，产出10款游戏文档(G1746-G1755)，覆盖找物解谜/roguelike RPG/骰子棋盘等品类，全部≥50行 |
+| R118 | 2026-08-20 17:00 | 3 (S392-S394) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(hyper casual gameplay/indie puzzle loop/physics puzzle casual)，产出10款游戏文档(G1756-G1765)，覆盖物理弹射/堆叠解谜/平台跳跃/泡泡射击/连线逻辑等品类，全部≥50行 |
+
+## Phase 1 Log
+
+[2026-08-20 17:00] [R118] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=36
