@@ -59,6 +59,9 @@
 | S398 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-20 20:30 |
 | S399 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-20 20:30 |
 | S400 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-20 20:30 |
+| S401 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-20 16:58 |
+| S402 | iTunes Search: physics puzzle casual mobile game fun | https://itunes.apple.com/search?term=physics+puzzle+casual+mobile+game+fun&media=software&limit=10 | 10 | 2026-08-20 16:58 |
+| S403 | iTunes Search: match 3 puzzle casual mobile addictive | https://itunes.apple.com/search?term=match+3+puzzle+casual+mobile+addictive&media=software&limit=10 | 10 | 2026-08-20 16:58 |
 
 ## Sources Archived（历史累计）
 
@@ -337,6 +340,16 @@
 | G1786 | Idle Sheep! | docs/IdleSheep_20260820_1512.md | 2026-08-20 20:30 |
 | G1787 | Idle Universe | docs/IdleUniverse_20260820_1512.md | 2026-08-20 20:30 |
 | G1788 | Bacterial Takeover - Idle Game | docs/BacterialTakeoverIdleGame_20260820_1512.md | 2026-08-20 20:30 |
+| G1789 | Big Time Games | docs/BigTimeGames_20260820_1658.md | 2026-08-20 16:58 |
+| G1790 | 2 3 4 Player Games | docs/234PlayerGames_20260820_1658.md | 2026-08-20 16:58 |
+| G1791 | Playgama: Play 2000+ Games | docs/Playgama_20260820_1658.md | 2026-08-20 16:58 |
+| G1792 | Bubble Ball | docs/BubbleBall_20260820_1658.md | 2026-08-20 16:58 |
+| G1793 | Cut the Rope: Physics Puzzle | docs/CutTheRopePhysicsPuzzle_20260820_1658.md | 2026-08-20 16:58 |
+| G1794 | Enigmo | docs/Enigmo_20260820_1658.md | 2026-08-20 16:58 |
+| G1795 | Lost Jewels - Match 3 Puzzle | docs/LostJewelsMatch3Puzzle_20260820_1658.md | 2026-08-20 16:58 |
+| G1796 | Royal Match | docs/RoyalMatch_20260820_1658.md | 2026-08-20 16:58 |
+| G1797 | Juice Jam! Match 3 Puzzle Game | docs/JuiceJamMatch3PuzzleGame_20260820_1658.md | 2026-08-20 16:58 |
+| G1798 | Match Manor | docs/MatchManor_20260820_1658.md | 2026-08-20 16:58 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -395,6 +408,8 @@
 | R117 | 2026-08-20 14:00 | 3 (S389-S391) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(Google Play trending/best small games hidden gems/roguelike mini games)，产出10款游戏文档(G1746-G1755)，覆盖找物解谜/roguelike RPG/骰子棋盘等品类，全部≥50行 |
 | R118 | 2026-08-20 17:00 | 3 (S392-S394) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(hyper casual gameplay/indie puzzle loop/physics puzzle casual)，产出10款游戏文档(G1756-G1765)，覆盖物理弹射/堆叠解谜/平台跳跃/泡泡射击/连线逻辑等品类，全部≥50行 |
 | R119 | 2026-08-20 13:26 | 3 (S395-S397) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/word puzzle brain teaser)，产出10款游戏文档(G1766-G1775)，覆盖文字配对/词汇联想/迷你赛车/高尔夫对战/找物解谜等品类，全部≥50行 |
+| R120 | 2026-08-20 20:30 | 3 (S398-S400) | 3 (直接归档) | 13 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/idle clicker)，产出13款游戏文档(G1776-G1788)，全部≥50行 |
+| R121 | 2026-08-20 16:58 | 3 (S401-S403) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024/physics puzzle casual/match 3 puzzle addictive)，产出10款游戏文档(G1789-G1798)，覆盖休闲合集/多人派对/物理益智/三消除等品类，全部≥50行 |
 
 ## Phase 1 Log
 
