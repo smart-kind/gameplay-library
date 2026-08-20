@@ -26,9 +26,9 @@
 | S386 | iTunes Search: word puzzle game casual brain teaser | https://itunes.apple.com/search?term=word+puzzle+game+casual+brain+teaser&media=software&limit=10 | 10 | 2026-08-20 08:20 |
 | S387 | iTunes Search: merge puzzle casual mobile game | https://itunes.apple.com/search?term=merge+puzzle+casual+mobile+game&media=software&limit=10 | 10 | 2026-08-20 08:20 |
 | S388 | iTunes Search: match 3 puzzle game casual classic | https://itunes.apple.com/search?term=match+3+puzzle+game+casual+classic&media=software&limit=10 | 10 | 2026-08-20 08:20 |
-|| S389 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-20 14:00 |
-|| S390 | iTunes Search: best small games app store hidden gems | https://itunes.apple.com/search?term=best+small+games+app+store+hidden+gems&media=software&limit=10 | 9 | 2026-08-20 14:00 |
-|| S391 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-20 14:00 |
+| S389 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-20 14:00 |
+| S390 | iTunes Search: best small games app store hidden gems | https://itunes.apple.com/search?term=best+small+games+app+store+hidden+gems&media=software&limit=10 | 9 | 2026-08-20 14:00 |
+| S391 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-20 14:00 |
 | S392 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-20 17:00 |
 | S393 | iTunes Search: indie puzzle game gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+gameplay+loop&media=software&limit=10 | 10 | 2026-08-20 17:00 |
 | S394 | iTunes Search: physics puzzle casual mobile game | https://itunes.apple.com/search?term=physics+puzzle+casual+mobile+game&media=software&limit=10 | 10 | 2026-08-20 17:00 |
@@ -53,6 +53,9 @@
 | S374 | iTunes Search: mobile mini game puzzle casual | https://itunes.apple.com/search?term=mobile+mini+game+puzzle+casual&media=software&limit=10 | 10 | 2026-08-20 04:00 |
 | S375 | iTunes Search: indie game gameplay mechanics unique | https://itunes.apple.com/search?term=indie+game+gameplay+mechanics+unique&media=software&limit=10 | 10 | 2026-08-20 04:00 |
 | S376 | iTunes Search: casual game best addictive simple | https://itunes.apple.com/search?term=casual+game+best+addictive+simple&media=software&limit=10 | 10 | 2026-08-20 04:00 |
+| S395 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-20 13:26 |
+| S396 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-20 13:26 |
+| S397 | iTunes Search: word puzzle casual brain teaser | https://itunes.apple.com/search?term=word+puzzle+casual+brain+teaser&media=software&limit=10 | 10 | 2026-08-20 13:26 |
 
 ## Sources Archived（历史累计）
 
@@ -110,9 +113,9 @@
 | S329 | PocketGamer Tiny Bookshop Review | https://www.pocketgamer.com/tiny-bookshop/review/ | 1 | 2026-08-18 23:30 |
 | S330 | PocketGamer Slime Rancher Review | https://www.pocketgamer.com/slime-rancher/review/ | 1 | 2026-08-18 23:30 |
 | S331 | PocketGamer Spirit Crossing Review | https://www.pocketgamer.com/spirit-crossing-netflix/review/ | 1 | 2026-08-18 23:30 |
-| S332 | PocketGamer Zen Bound 2 Review | https://www.pocketgamer.com/zen-bound-2/review/ | 1 | 2026-08-19 02:30 |
-| S333 | PocketGamer Colin McRae Rally 2005 Review | https://www.pocketgamer.com/colin-mcrae-rally-2005/review/ | 1 | 2026-08-19 02:30 |
-| S334 | PocketGamer Bloodmasque Review | https://www.pocketgamer.com/bloodmasque/review/ | 1 | 2026-08-19 02:30 |
+| S332 | PocketGamer Zen Bound 2 Review | https://www.pocketgamer.com/zen-bound-2/review/ | 1 | 2026-08-18 23:30 |
+| S333 | PocketGamer Colin McRae Rally 2005 Review | https://www.pocketgamer.com/colin-mcrae-rally-2005/review/ | 1 | 2026-08-18 23:30 |
+| S334 | PocketGamer Bloodmasque Review | https://www.pocketgamer.com/bloodmasque/review/ | 1 | 2026-08-18 23:30 |
 | S335 | PocketGamer Game Finder Page 158 | https://www.pocketgamer.com/game-finder/page/158/0_all_0_1_1/ | 25 | 2026-08-19 01:44 |
 | S336 | PocketGamer Game Finder Page 159 | https://www.pocketgamer.com/game-finder/page/159/0_all_0_1_1/ | 25 | 2026-08-19 01:44 |
 | S337 | PocketGamer Game Finder Page 160 | https://www.pocketgamer.com/game-finder/page/160/0_all_0_1_1/ | 25 | 2026-08-19 01:44 |
@@ -176,7 +179,7 @@
 | G1752 | Heroll: Dice Roguelike | docs/HerollDiceRoguelike_20260820_1400.md | 2026-08-20 14:00 |
 | G1753 | Endless Wander | docs/EndlessWander_RoguelikeRPG_20260820_1400.md | 2026-08-20 14:00 |
 | G1754 | Guidus | docs/Guidus_20260820_1400.md | 2026-08-20 14:00 |
-|| G1755 | Find Em All! | docs/FindEmAll_HiddenObjects_20260820_1400.md | 2026-08-20 14:00 |
+| G1755 | Find Em All! | docs/FindEmAll_HiddenObjects_20260820_1400.md | 2026-08-20 14:00 |
 | G1756 | Knock Out : Physics Puzzle | docs/KnockOutPhysicsPuzzle_20260820_1700.md | 2026-08-20 17:00 |
 | G1757 | Royal Smash! - Physics Puzzle | docs/RoyalSmashPhysicsPuzzle_20260820_1700.md | 2026-08-20 17:00 |
 | G1758 | Siege Hero | docs/SiegeHero_20260820_1700.md | 2026-08-20 17:00 |
@@ -333,7 +336,7 @@
 | G1495 | Tiny Bookshop | docs/TinyBookshop_20260818_2330.md | 2026-08-18 23:30 |
 | G1496 | Slime Rancher | docs/SlimeRancher_20260818_2330.md | 2026-08-18 23:30 |
 | G1497 | Spirit Crossing | docs/SpiritCrossing_20260818_2330.md | 2026-08-18 23:30 |
-|| G1498 | Zen Bound 2 | docs/ZenBound2_20260819_0230.md | 2026-08-19 02:30 |
+| G1498 | Zen Bound 2 | docs/ZenBound2_20260819_0230.md | 2026-08-19 02:30 |
 | G1499 | Colin McRae Rally 2005 | docs/ColinMcRaeRally2005_20260819_0230.md | 2026-08-19 02:30 |
 | G1500 | Bloodmasque | docs/Bloodmasque_20260819_0230.md | 2026-08-19 02:30 |
 | G1584 | Space Invaders | docs/SpaceInvaders_20260819_0854.md | 2026-08-19 08:54 |
@@ -357,25 +360,32 @@
 |---|---|---|---|---|---|---|
 | R099 | 2026-08-19 03:25 | 3 (S338-S340) | 3 (S338-S340) | 10 | 0 | PocketGamer P161-P163, iTunes API辅助 |
 | R100 | 2026-08-19 05:21 | 0 (跳过≥5) | 3 (S338-S340) | 10 | 0 | PocketGamer P161-P163 JS渲染无法静态提取, 3来源直接归档; 处理10款游戏(G1504-G1513), iTunes API辅助 |
-|| R101 | 2026-08-19 08:30 | 3 (S341-S343) | 0 (直接归档) | 10 | 0 | 手动发现3来源S341-S343 P164-P166; 处理10款游戏(G1574-G1583), PocketGamer Review + iTunes API + Wikipedia |
+| R101 | 2026-08-19 08:30 | 3 (S341-S343) | 0 (直接归档) | 10 | 0 | 手动发现3来源S341-S343 P164-P166; 处理10款游戏(G1574-G1583), PocketGamer Review + iTunes API + Wikipedia |
 | R102 | 2026-08-19 11:00 | 3 (S344-S346) | 0 (跳过) | 10 | 0 | 手动发现3来源S344-S346 P167-P169 (JS渲染待处理); 处理10款经典游戏(G1584-G1593), Wikipedia资料整理 |
-|| R103 | 2026-08-19 10:30 | 0 (跳过) | 3 (S344-S346, 产出0) | 10 | 0 | S344-S346标记归档(JS渲染无法提取); 处理10款经典游戏(G1594-G1603), iTunes API数据+游戏知识库 |
-|| R104 | 2026-08-19 12:19 | 3 (S347-S349) | 3 (S347-S349直接归档) | 11 | 0 | iTunes API搜索3组关键词，发现44款游戏，产出11款文档(G1604-G1614), 全部≥50行 |
+| R103 | 2026-08-19 10:30 | 0 (跳过) | 3 (S344-S346, 产出0) | 10 | 0 | S344-S346标记归档(JS渲染无法提取); 处理10款经典游戏(G1594-G1603), iTunes API数据+游戏知识库 |
+| R104 | 2026-08-19 12:19 | 3 (S347-S349) | 3 (S347-S349直接归档) | 11 | 0 | iTunes API搜索3组关键词，发现44款游戏，产出11款文档(G1604-G1614), 全部≥50行 |
 | R105 | 2026-08-19 13:52 | 3 (S350-S352) | 3 (S350-S352直接归档) | 10 | 0 | 手动发现3来源S350-S352 P170-P172(75款游戏), 产出10款文档(G1615-G1624), 全部≥50行, PocketGamer+iTunes API |
 | R106 | 2026-08-19 15:46 | 3 (S353-S355) | 3 (S353-S355直接归档) | 10 | 0 | iTunes API搜索3组关键词(casual mini game indie/puzzle arcade mobile/roguelike strategy board), 产出10款文档(G1625-G1634), 全部≥50行 |
 | R107 | 2026-08-19 17:26 | 6 (S356-S361) | 6 (S356-S361直接归档) | 20 | 0 | PocketGamer P173-P175(75款游戏, 提取5款) + iTunes API搜索3组关键词(best mini game casual 2024/viral hyper casual games 2024/indie puzzle game mechanics), 产出20款文档(G1636-G1655), 全部≥50行 |
 | R108 | 2026-08-19 20:00 | 3 (S362-S364) | 3 (S362-S364直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/viral hyper casual games list/indie puzzle game popular loop), 产出10款文档(G1656-G1665), 全部≥50行 |
 | R109 | 2026-08-19 20:56 | 3 (S365-S367) | 3 (S365-S367直接归档) | 9 | 0 | iTunes API搜索3组关键词(best mini game collection/arcade puzzle casual/idle tycoon management)，产出9款游戏文档(G1666-G1674)，全部>=50行 |
-|| R110 | 2026-08-19 23:30 | 3 (S368-S370) | 3 (S368-S370直接归档) | 10 | 0 | iTunes API搜索3组关键词(PopCap classic/mini game party/hidden gem casual)，产出10款益智解谜游戏文档(G1675-G1684)，全部>=50行 |
+| R110 | 2026-08-19 23:30 | 3 (S368-S370) | 3 (S368-S370直接归档) | 10 | 0 | iTunes API搜索3组关键词(PopCap classic/mini game party/hidden gem casual)，产出10款益智解谜游戏文档(G1675-G1684)，全部>=50行 |
 | R111 | 2026-08-20 00:11 | 3 (S371-S373) | 3 (S371-S373直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/web browser mini games/io games)，产出10款游戏文档(G1685-G1694)，全部>=50行 |
 | R112 | 2026-08-20 04:00 | 3 (S374-S376) | 3 (S374-S376直接归档) | 10 | 0 | iTunes API搜索3组关键词(mobile mini game puzzle casual/indie game gameplay mechanics unique/casual game best addictive simple)，产出10款游戏文档(G1695-G1704)，全部>=50行 |
-|| R113 | 2026-08-20 03:31 | 3 (S377-S379) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(flash games/idle clicker/roguelike mini games)，产出10款游戏文档，全部>=50行 |
+| R113 | 2026-08-20 03:31 | 3 (S377-S379) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(flash games/idle clicker/roguelike mini games)，产出10款游戏文档，全部>=50行 |
 | R114 | 2026-08-20 07:00 | 3 (S380-S382) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay mechanics/indie puzzle game gameplay loop)，产出10款游戏文档(G1715-G1724)，全部≥50行 |
-|| R115 | 2026-08-20 10:30 | 3 (S383-S385) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/Nintendo Switch indie puzzle casual/flash games classic gameplay)，发现26款游戏，产出10款游戏文档(G1725-G1734)，全部≥47行 |
+| R115 | 2026-08-20 10:30 | 3 (S383-S385) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/Nintendo Switch indie puzzle casual/flash games classic gameplay)，发现26款游戏，产出10款游戏文档(G1725-G1734)，全部≥47行 |
 | R116 | 2026-08-20 08:20 | 3 (S386-S388) | 3 (直接归档) | 11 | 0 | iTunes API搜索3组关键词(word puzzle casual brain teaser/merge puzzle casual mobile/match 3 puzzle casual classic)，产出11款游戏文档(G1735-G1745)，覆盖词汇解谜/合成/三消/物理/配对等品类，全部≥47行 |
 | R117 | 2026-08-20 14:00 | 3 (S389-S391) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(Google Play trending/best small games hidden gems/roguelike mini games)，产出10款游戏文档(G1746-G1755)，覆盖找物解谜/roguelike RPG/骰子棋盘等品类，全部≥50行 |
 | R118 | 2026-08-20 17:00 | 3 (S392-S394) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(hyper casual gameplay/indie puzzle loop/physics puzzle casual)，产出10款游戏文档(G1756-G1765)，覆盖物理弹射/堆叠解谜/平台跳跃/泡泡射击/连线逻辑等品类，全部≥50行 |
+| R119 | 2026-08-20 13:26 | 3 (S395-S397) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/word puzzle brain teaser)，产出10款游戏文档(G1766-G1775)，覆盖文字配对/词汇联想/迷你赛车/高尔夫对战/找物解谜等品类，全部≥50行 |
 
 ## Phase 1 Log
 
 [2026-08-20 17:00] [R118] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=36
+[2026-08-20 13:26] [R119] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=39
+[2026-08-20 13:26] [R119] [Phase 2: Discover] ✅ 完成 — 搜索3组，发现3个新来源(S395-S397)
+[2026-08-20 13:26] [R119] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S395-S397)，产出10款游戏，0个失败
+[2026-08-20 13:26] [R119] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空（游戏文档已由Phase 3直接生成）
+[2026-08-20 13:26] [R119] [Phase 5: Git Push] ❌ 失败 — 网络不可达
+[2026-08-20 13:26] [R119] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
