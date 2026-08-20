@@ -62,6 +62,9 @@
 | S401 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-20 16:58 |
 | S402 | iTunes Search: physics puzzle casual mobile game fun | https://itunes.apple.com/search?term=physics+puzzle+casual+mobile+game+fun&media=software&limit=10 | 10 | 2026-08-20 16:58 |
 | S403 | iTunes Search: match 3 puzzle casual mobile addictive | https://itunes.apple.com/search?term=match+3+puzzle+casual+mobile+addictive&media=software&limit=10 | 10 | 2026-08-20 16:58 |
+| S404 | iTunes Search: idle merge puzzle game casual | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual&media=software&limit=10 | 10 | 2026-08-20 23:55 |
+| S405 | iTunes Search: tower defense strategy mobile | https://itunes.apple.com/search?term=tower+defense+strategy+mobile&media=software&limit=10 | 10 | 2026-08-20 23:55 |
+| S406 | iTunes Search: card battle deckbuilder mobile | https://itunes.apple.com/search?term=card+battle+deckbuilder+mobile&media=software&limit=10 | 10 | 2026-08-20 23:55 |
 
 ## Sources Archived（历史累计）
 
@@ -348,8 +351,18 @@
 | G1794 | Enigmo | docs/Enigmo_20260820_1658.md | 2026-08-20 16:58 |
 | G1795 | Lost Jewels - Match 3 Puzzle | docs/LostJewelsMatch3Puzzle_20260820_1658.md | 2026-08-20 16:58 |
 | G1796 | Royal Match | docs/RoyalMatch_20260820_1658.md | 2026-08-20 16:58 |
-| G1797 | Juice Jam! Match 3 Puzzle Game | docs/JuiceJamMatch3PuzzleGame_20260820_1658.md | 2026-08-20 16:58 |
-| G1798 | Match Manor | docs/MatchManor_20260820_1658.md | 2026-08-20 16:58 |
+|| G1797 | Juice Jam! Match 3 Puzzle Game | docs/JuiceJamMatch3PuzzleGame_20260820_1658.md | 2026-08-20 16:58 |
+|| G1798 | Match Manor | docs/MatchManor_20260820_1658.md | 2026-08-20 16:58 |
+|| G1799 | Chef Merge | docs/ChefMergeFunMatchPuzzle_20260820_2355.md | 2026-08-20 23:55 |
+|| G1800 | Merge Away | docs/MergeAwayPuzzleAdventure_20260820_2355.md | 2026-08-20 23:55 |
+|| G1801 | Kingdom Rush | docs/KingdomRushTowerDefenseTD_20260820_2355.md | 2026-08-20 23:55 |
+|| G1802 | Clash of Zombies | docs/ClashofZombiesHeroesMobile_20260820_2355.md | 2026-08-20 23:55 |
+|| G1803 | Merge Inn | docs/MergeInnTastyMatchPuzzle_20260820_2355.md | 2026-08-20 23:55 |
+|| G1804 | Stormbound | docs/Stormbound_20260820_2355.md | 2026-08-20 23:55 |
+|| G1805 | The Tower | docs/TheTowerIdleTowerDefense_20260820_2355.md | 2026-08-20 23:55 |
+|| G1806 | Raid Rush | docs/RaidRushTowerDefenseTD_20260820_2355.md | 2026-08-20 23:55 |
+|| G1807 | Arcane Arena | docs/ArcaneArenaTowerDefenseTD_20260820_2355.md | 2026-08-20 23:55 |
+|| G1808 | Blacksmith | docs/BlacksmithMergeIdleRPG_20260820_2355.md | 2026-08-20 23:55 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -409,7 +422,8 @@
 | R118 | 2026-08-20 17:00 | 3 (S392-S394) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(hyper casual gameplay/indie puzzle loop/physics puzzle casual)，产出10款游戏文档(G1756-G1765)，覆盖物理弹射/堆叠解谜/平台跳跃/泡泡射击/连线逻辑等品类，全部≥50行 |
 | R119 | 2026-08-20 13:26 | 3 (S395-S397) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/word puzzle brain teaser)，产出10款游戏文档(G1766-G1775)，覆盖文字配对/词汇联想/迷你赛车/高尔夫对战/找物解谜等品类，全部≥50行 |
 | R120 | 2026-08-20 20:30 | 3 (S398-S400) | 3 (直接归档) | 13 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/idle clicker)，产出13款游戏文档(G1776-G1788)，全部≥50行 |
-| R121 | 2026-08-20 16:58 | 3 (S401-S403) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024/physics puzzle casual/match 3 puzzle addictive)，产出10款游戏文档(G1789-G1798)，覆盖休闲合集/多人派对/物理益智/三消除等品类，全部≥50行 |
+|| R121 | 2026-08-20 16:58 | 3 (S401-S403) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024/physics puzzle casual/match 3 puzzle addictive)，产出10款游戏文档(G1789-G1798)，覆盖休闲合集/多人派对/物理益智/三消除等品类，全部≥50行 |
+|| R122 | 2026-08-20 23:55 | 3 (S404-S406) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(idle merge puzzle/tower defense strategy/card battle deckbuilder)，产出10款游戏文档(G1799-G1808)，覆盖合成解谜/塔防策略/卡牌对战/放置RPG等品类，全部≥48行 |
 
 ## Phase 1 Log
 
