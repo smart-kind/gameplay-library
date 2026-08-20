@@ -32,6 +32,9 @@
 | S371 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software | 10 | 2026-08-20 00:11 |
 | S372 | iTunes Search: web browser mini games popular addictive | https://itunes.apple.com/search?term=web+browser+mini+games+popular+addictive&media=software | 10 | 2026-08-20 00:11 |
 | S373 | iTunes Search: io games popular mechanics | https://itunes.apple.com/search?term=io+games+popular+mechanics&media=software | 9 | 2026-08-20 00:11 |
+| S374 | iTunes Search: mobile mini game puzzle casual | https://itunes.apple.com/search?term=mobile+mini+game+puzzle+casual&media=software&limit=10 | 10 | 2026-08-20 04:00 |
+| S375 | iTunes Search: indie game gameplay mechanics unique | https://itunes.apple.com/search?term=indie+game+gameplay+mechanics+unique&media=software&limit=10 | 10 | 2026-08-20 04:00 |
+| S376 | iTunes Search: casual game best addictive simple | https://itunes.apple.com/search?term=casual+game+best+addictive+simple&media=software&limit=10 | 10 | 2026-08-20 04:00 |
 
 ## Sources Archived（历史累计）
 
@@ -125,6 +128,16 @@
 | G1692 | The Way Home: Pixel Roguelike | docs/TheWayHomePixelRoguelike_20260820_0011.md | 2026-08-20 00:11 |
 | G1693 | Wayward Souls | docs/WaywardSouls_20260820_0011.md | 2026-08-20 00:11 |
 | G1694 | Elona Mobile | docs/ElonaMobile_20260820_0011.md | 2026-08-20 00:11 |
+| G1695 | Coolmath Games: Fun Mini Games | docs/CoolmathGamesFunMiniGames_20260820_0151.md | 2026-08-20 04:00 |
+| G1696 | Fishdom | docs/Fishdom_20260820_0151.md | 2026-08-20 04:00 |
+| G1697 | CrazyGames: Play 1500+ Games | docs/CrazyGames_20260820_0151.md | 2026-08-20 04:00 |
+| G1698 | Tricky Challenge: Mini Games | docs/TrickyChallenge_20260820_0151.md | 2026-08-20 04:00 |
+| G1699 | Block Away - Tap Out Puzzle | docs/BlockAway_20260820_0151.md | 2026-08-20 04:00 |
+| G1700 | Elseland - Mini Games | docs/Elseland_20260820_0151.md | 2026-08-20 04:00 |
+| G1701 | Bunny Blast - Puzzle | docs/BunnyBlast_20260820_0151.md | 2026-08-20 04:00 |
+| G1702 | Arrows – Puzzle Escape | docs/ArrowsPuzzleEscape_20260820_0151.md | 2026-08-20 04:00 |
+| G1703 | Tile Scenery: Match Puzzle | docs/TileScenery_20260820_0151.md | 2026-08-20 04:00 |
+| G1704 | The Impossible Game | docs/TheImpossibleGame_20260820_0151.md | 2026-08-20 04:00 |
 | G1636 | FPR Superbikes | docs/FPRSuperbikes_20260819_1725.md | 2026-08-19 17:25 |
 | G1637 | Galaxian | docs/Galaxian_20260819_1725.md | 2026-08-19 17:25 |
 | G1638 | Mega Man ZX | docs/MegaManZX_20260819_1725.md | 2026-08-19 17:25 |
@@ -276,3 +289,4 @@
 | R109 | 2026-08-19 20:56 | 3 (S365-S367) | 3 (S365-S367直接归档) | 9 | 0 | iTunes API搜索3组关键词(best mini game collection/arcade puzzle casual/idle tycoon management)，产出9款游戏文档(G1666-G1674)，全部>=50行 |
 || R110 | 2026-08-19 23:30 | 3 (S368-S370) | 3 (S368-S370直接归档) | 10 | 0 | iTunes API搜索3组关键词(PopCap classic/mini game party/hidden gem casual)，产出10款益智解谜游戏文档(G1675-G1684)，全部>=50行 |
 | R111 | 2026-08-20 00:11 | 3 (S371-S373) | 3 (S371-S373直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/web browser mini games/io games)，产出10款游戏文档(G1685-G1694)，全部>=50行 |
+| R112 | 2026-08-20 04:00 | 3 (S374-S376) | 3 (S374-S376直接归档) | 10 | 0 | iTunes API搜索3组关键词(mobile mini game puzzle casual/indie game gameplay mechanics unique/casual game best addictive simple)，产出10款游戏文档(G1695-G1704)，全部>=50行 |
