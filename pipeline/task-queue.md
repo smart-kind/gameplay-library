@@ -23,6 +23,9 @@
 | S383 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-20 10:30 |
 | S384 | iTunes Search: Nintendo Switch indie puzzle casual | https://itunes.apple.com/search?term=Nintendo+Switch+indie+puzzle+casual&media=software&limit=10 | 10 | 2026-08-20 10:30 |
 | S385 | iTunes Search: flash games best classic gameplay mechanics | https://itunes.apple.com/search?term=flash+games+best+classic+gameplay+mechanics&media=software&limit=10 | 6 | 2026-08-20 10:30 |
+| S386 | iTunes Search: word puzzle game casual brain teaser | https://itunes.apple.com/search?term=word+puzzle+game+casual+brain+teaser&media=software&limit=10 | 10 | 2026-08-20 08:20 |
+| S387 | iTunes Search: merge puzzle casual mobile game | https://itunes.apple.com/search?term=merge+puzzle+casual+mobile+game&media=software&limit=10 | 10 | 2026-08-20 08:20 |
+| S388 | iTunes Search: match 3 puzzle game casual classic | https://itunes.apple.com/search?term=match+3+puzzle+game+casual+classic&media=software&limit=10 | 10 | 2026-08-20 08:20 |
 | S356 | PocketGamer Game Finder Page 173 | https://www.pocketgamer.com/game-finder/page/173/0_all_0_1_1/ | 5 | 2026-08-19 17:15 |
 | S357 | PocketGamer Game Finder Page 174 | https://www.pocketgamer.com/game-finder/page/174/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
 | S358 | PocketGamer Game Finder Page 175 | https://www.pocketgamer.com/game-finder/page/175/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
@@ -147,6 +150,17 @@
 | G1732 | Falcon Squad: Classic Arcade | docs/FalconSquadClassicArcade_20260820_1030.md | 2026-08-20 10:30 |
 | G1733 | Hero's Way (Classic ACT) | docs/HerosWayClassicACT_20260820_1030.md | 2026-08-20 10:30 |
 | G1734 | Force Master | docs/ForceMaster_20260820_1030.md | 2026-08-20 10:30 |
+| G1735 | WordBrain | docs/WordBrain_20260820_0820.md | 2026-08-20 08:20 |
+| G1736 | Merge Inn | docs/MergeInn_20260820_0820.md | 2026-08-20 08:20 |
+| G1737 | Dice Merge | docs/DiceMerge_20260820_0820.md | 2026-08-20 08:20 |
+| G1738 | Bejeweled Stars | docs/BejeweledStars_20260820_0820.md | 2026-08-20 08:20 |
+| G1739 | Gummy Drop | docs/GummyDrop_20260820_0820.md | 2026-08-20 08:20 |
+| G1740 | Match Masters | docs/MatchMasters_20260820_0820.md | 2026-08-20 08:20 |
+| G1741 | Merge Away | docs/MergeAway_20260820_0820.md | 2026-08-20 08:20 |
+| G1742 | Blossom Match | docs/BlossomMatch_20260820_0820.md | 2026-08-20 08:20 |
+| G1743 | Fruit Merge | docs/FruitMerge_20260820_0820.md | 2026-08-20 08:20 |
+| G1744 | Onnect Pair Matching | docs/OnnectPairMatching_20260820_0820.md | 2026-08-20 08:20 |
+| G1745 | Wordscapes Solitaire | docs/WordscapesSolitaire_20260820_0820.md | 2026-08-20 08:20 |
 | G1675 | 2 For 2 | docs/2For2_20260819_2330.md | 2026-08-19 23:30 |
 | G1676 | Save Balls Brain Teaser Games | docs/SaveBallsBrainTeaserGames_20260819_2330.md | 2026-08-19 23:30 |
 | G1677 | Touch Physics Lite | docs/TouchPhysicsLite_20260819_2330.md | 2026-08-19 23:30 |
