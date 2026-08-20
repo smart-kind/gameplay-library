@@ -26,6 +26,9 @@
 | S386 | iTunes Search: word puzzle game casual brain teaser | https://itunes.apple.com/search?term=word+puzzle+game+casual+brain+teaser&media=software&limit=10 | 10 | 2026-08-20 08:20 |
 | S387 | iTunes Search: merge puzzle casual mobile game | https://itunes.apple.com/search?term=merge+puzzle+casual+mobile+game&media=software&limit=10 | 10 | 2026-08-20 08:20 |
 | S388 | iTunes Search: match 3 puzzle game casual classic | https://itunes.apple.com/search?term=match+3+puzzle+game+casual+classic&media=software&limit=10 | 10 | 2026-08-20 08:20 |
+| S389 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-20 14:00 |
+| S390 | iTunes Search: best small games app store hidden gems | https://itunes.apple.com/search?term=best+small+games+app+store+hidden+gems&media=software&limit=10 | 9 | 2026-08-20 14:00 |
+| S391 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-20 14:00 |
 | S356 | PocketGamer Game Finder Page 173 | https://www.pocketgamer.com/game-finder/page/173/0_all_0_1_1/ | 5 | 2026-08-19 17:15 |
 | S357 | PocketGamer Game Finder Page 174 | https://www.pocketgamer.com/game-finder/page/174/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
 | S358 | PocketGamer Game Finder Page 175 | https://www.pocketgamer.com/game-finder/page/175/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
@@ -161,6 +164,16 @@
 | G1743 | Fruit Merge | docs/FruitMerge_20260820_0820.md | 2026-08-20 08:20 |
 | G1744 | Onnect Pair Matching | docs/OnnectPairMatching_20260820_0820.md | 2026-08-20 08:20 |
 | G1745 | Wordscapes Solitaire | docs/WordscapesSolitaire_20260820_0820.md | 2026-08-20 08:20 |
+| G1746 | Bix Challenge | docs/BixChallenge_20260820_1400.md | 2026-08-20 14:00 |
+| G1747 | Little Things Forever | docs/LittleThingsForever_20260820_1400.md | 2026-08-20 14:00 |
+| G1748 | Twin Moons | docs/TwinMoons_20260820_1400.md | 2026-08-20 14:00 |
+| G1749 | Little Things | docs/LittleThings_20260820_1400.md | 2026-08-20 14:00 |
+| G1750 | Hidden Objects: Seek & Find It | docs/HiddenObjectsSeek&FindIt_20260820_1400.md | 2026-08-20 14:00 |
+| G1751 | Rogue Legend | docs/RogueLegend_RoguelikeRPG_20260820_1400.md | 2026-08-20 14:00 |
+| G1752 | Heroll: Dice Roguelike | docs/HerollDiceRoguelike_20260820_1400.md | 2026-08-20 14:00 |
+| G1753 | Endless Wander | docs/EndlessWander_RoguelikeRPG_20260820_1400.md | 2026-08-20 14:00 |
+| G1754 | Guidus | docs/Guidus_20260820_1400.md | 2026-08-20 14:00 |
+| G1755 | Find Em All! | docs/FindEmAll_HiddenObjects_20260820_1400.md | 2026-08-20 14:00 |
 | G1675 | 2 For 2 | docs/2For2_20260819_2330.md | 2026-08-19 23:30 |
 | G1676 | Save Balls Brain Teaser Games | docs/SaveBallsBrainTeaserGames_20260819_2330.md | 2026-08-19 23:30 |
 | G1677 | Touch Physics Lite | docs/TouchPhysicsLite_20260819_2330.md | 2026-08-19 23:30 |
@@ -345,4 +358,5 @@
 | R112 | 2026-08-20 04:00 | 3 (S374-S376) | 3 (S374-S376直接归档) | 10 | 0 | iTunes API搜索3组关键词(mobile mini game puzzle casual/indie game gameplay mechanics unique/casual game best addictive simple)，产出10款游戏文档(G1695-G1704)，全部>=50行 |
 || R113 | 2026-08-20 03:31 | 3 (S377-S379) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(flash games/idle clicker/roguelike mini games)，产出10款游戏文档，全部>=50行 |
 | R114 | 2026-08-20 07:00 | 3 (S380-S382) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay mechanics/indie puzzle game gameplay loop)，产出10款游戏文档(G1715-G1724)，全部≥50行 |
-| R115 | 2026-08-20 10:30 | 3 (S383-S385) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/Nintendo Switch indie puzzle casual/flash games classic gameplay)，发现26款游戏，产出10款游戏文档(G1725-G1734)，全部≥47行 |
+|| R115 | 2026-08-20 10:30 | 3 (S383-S385) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/Nintendo Switch indie puzzle casual/flash games classic gameplay)，发现26款游戏，产出10款游戏文档(G1725-G1734)，全部≥47行 |
+| R116 | 2026-08-20 08:20 | 3 (S386-S388) | 3 (直接归档) | 11 | 0 | iTunes API搜索3组关键词(word puzzle casual brain teaser/merge puzzle casual mobile/match 3 puzzle casual classic)，产出11款游戏文档(G1735-G1745)，覆盖词汇解谜/合成/三消/物理/配对等品类，全部≥47行 |

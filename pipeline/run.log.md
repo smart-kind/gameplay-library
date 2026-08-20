@@ -504,6 +504,8 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-20 08:19] [R116] [Phase 2: Discover] ✅ 完成 — 搜索3组，发现3个新来源(S386-S388)
 [2026-08-20 08:20] [R116] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S386-S388)，产出11款游戏(G1735-G1745)，0个失败
 [2026-08-20 08:20] [R116] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空（游戏文档已由Phase 3直接生成）
+[2026-08-20 08:20] [R116] [Phase 5: Git Push] ✅ 完成 — commit成功(13 files, +556 lines)，push成功
+[2026-08-20 08:20] [R116] [Phase 6: Update Log] ✅ 完成
 
 |[2026-08-16 06:08] [R065] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=51, Processing=0, Archived=261+, Games Pending~40无文档, Games Archived=1117
 |[2026-08-16 06:08] [R065] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 5 (51个)，DDG被CAPTCHA阻止
@@ -877,3 +879,7 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 |[2026-08-20 10:30] [R115] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 |[2026-08-20 10:30] [R115] [Phase 5: Git Push] ✅ 完成 — commit成功，push成功
 |[2026-08-20 10:30] [R115] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S383-S385，10款游戏G1725-G1734)
+|[2026-08-20 14:00] [R117] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=388
+|[2026-08-20 14:00] [R117] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现29款游戏，添加3个新来源(S389-S391)
+|[2026-08-20 14:00] [R117] [Phase 3: Process Sources] ✅ 完成 — 处理3来源(S389-S391)，基于iTunes API描述数据产出10款游戏文档(G1746-G1755)，全部≥50行，0个失败
+|[2026-08-20 14:00] [R117] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
