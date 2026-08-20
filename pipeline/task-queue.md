@@ -360,3 +360,4 @@
 | R114 | 2026-08-20 07:00 | 3 (S380-S382) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay mechanics/indie puzzle game gameplay loop)，产出10款游戏文档(G1715-G1724)，全部≥50行 |
 || R115 | 2026-08-20 10:30 | 3 (S383-S385) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/Nintendo Switch indie puzzle casual/flash games classic gameplay)，发现26款游戏，产出10款游戏文档(G1725-G1734)，全部≥47行 |
 | R116 | 2026-08-20 08:20 | 3 (S386-S388) | 3 (直接归档) | 11 | 0 | iTunes API搜索3组关键词(word puzzle casual brain teaser/merge puzzle casual mobile/match 3 puzzle casual classic)，产出11款游戏文档(G1735-G1745)，覆盖词汇解谜/合成/三消/物理/配对等品类，全部≥47行 |
+| R117 | 2026-08-20 14:00 | 3 (S389-S391) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(Google Play trending/best small games hidden gems/roguelike mini games)，产出10款游戏文档(G1746-G1755)，覆盖找物解谜/roguelike RPG/骰子棋盘等品类，全部≥50行 |
