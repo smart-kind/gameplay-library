@@ -56,6 +56,9 @@
 | S395 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-20 13:26 |
 | S396 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-20 13:26 |
 | S397 | iTunes Search: word puzzle casual brain teaser | https://itunes.apple.com/search?term=word+puzzle+casual+brain+teaser&media=software&limit=10 | 10 | 2026-08-20 13:26 |
+| S398 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-20 20:30 |
+| S399 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-20 20:30 |
+| S400 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-20 20:30 |
 
 ## Sources Archived（历史累计）
 
@@ -320,7 +323,20 @@
 | G1632 | Pawnbarian | docs/Pawnbarian_20260819_1539.md | 2026-08-19 15:46 |
 | G1633 | Tomb of the Mask | docs/TombOfTheMask_20260819_1539.md | 2026-08-19 15:46 |
 | G1634 | Piffle | docs/Piffle_20260819_1539.md | 2026-08-19 15:46 |
-| G1635 | Duet Game | docs/DuetGame_20260819_1539.md | 2026-08-19 15:46 |
+|| G1775 | Find Em All! | docs/FindEmAll_HiddenObjects_20260820_1400.md | 2026-08-20 14:00 |
+| G1776 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260820_1512.md | 2026-08-20 20:30 |
+| G1777 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260820_1512.md | 2026-08-20 20:30 |
+| G1778 | Mini Games: Calm & Chill | docs/MiniGamesCalm&Chill_20260820_1512.md | 2026-08-20 20:30 |
+| G1779 | Offline Games - No Wifi Games | docs/OfflineGamesNoWifiGames_20260820_1512.md | 2026-08-20 20:30 |
+| G1780 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260820_1512.md | 2026-08-20 20:30 |
+| G1781 | Gun Sprint | docs/GunSprint_20260820_1512.md | 2026-08-20 20:30 |
+| G1782 | Bullet Rush! | docs/BulletRush_20260820_1512.md | 2026-08-20 20:30 |
+| G1783 | Squad Alpha - Action Shooting | docs/SquadAlphaActionShooting_20260820_1512.md | 2026-08-20 20:30 |
+| G1784 | Magic Mushrooms - Idle Game | docs/MagicMushroomsIdleGame_20260820_1512.md | 2026-08-20 20:30 |
+| G1785 | CivCrafter | docs/CivCrafter_20260820_1512.md | 2026-08-20 20:30 |
+| G1786 | Idle Sheep! | docs/IdleSheep_20260820_1512.md | 2026-08-20 20:30 |
+| G1787 | Idle Universe | docs/IdleUniverse_20260820_1512.md | 2026-08-20 20:30 |
+| G1788 | Bacterial Takeover - Idle Game | docs/BacterialTakeoverIdleGame_20260820_1512.md | 2026-08-20 20:30 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -388,4 +404,11 @@
 [2026-08-20 13:26] [R119] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S395-S397)，产出10款游戏，0个失败
 [2026-08-20 13:26] [R119] [Phase 4: Process Games] ⏭️ 跳过 — Games Pending 为空（游戏文档已由Phase 3直接生成）
 [2026-08-20 13:26] [R119] [Phase 5: Git Push] ❌ 失败 — 网络不可达
-[2026-08-20 13:26] [R119] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+||[2026-08-20 13:37] [R119] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+
+||[2026-08-20 20:30] [R120] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=42
+||[2026-08-20 20:30] [R120] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现3个新来源(S398-S400)
+||[2026-08-20 20:30] [R120] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S398-S400)，产出13款游戏文档(G1776-G1788)，全部≥50行，0个失败
+||[2026-08-20 20:30] [R120] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+||[2026-08-20 20:30] [R120] [Phase 5: Git Push] ✅ 完成
+||[2026-08-20 20:30] [R120] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
