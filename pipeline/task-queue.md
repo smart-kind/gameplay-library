@@ -14,6 +14,9 @@
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S377 | iTunes Search: flash games classic gameplay mechanics | https://itunes.apple.com/search?term=flash+games+classic+gameplay+mechanics&media=software&limit=10 | 10 | 2026-08-20 03:31 |
+| S378 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-20 03:31 |
+| S379 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 8 | 2026-08-20 03:31 |
 | S356 | PocketGamer Game Finder Page 173 | https://www.pocketgamer.com/game-finder/page/173/0_all_0_1_1/ | 5 | 2026-08-19 17:15 |
 | S357 | PocketGamer Game Finder Page 174 | https://www.pocketgamer.com/game-finder/page/174/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
 | S358 | PocketGamer Game Finder Page 175 | https://www.pocketgamer.com/game-finder/page/175/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
@@ -108,6 +111,16 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G1705 | Samurai Flash | docs/SamuraiFlash_20260820_0331.md | 2026-08-20 03:31 |
+| G1706 | Burning Bubbles Lab | docs/BurningBubblesLab_20260820_0331.md | 2026-08-20 03:31 |
+| G1707 | Flash it! Slip Shot.io on Dark Paper | docs/FlashitSlipShotioonDarkPaper_20260820_0331.md | 2026-08-20 03:31 |
+| G1708 | Brick Breaker Classic 2016 - Ultimate Revolution | docs/BrickBreakerClassic2016UltimateRevolution_20260820_0331.md | 2026-08-20 03:31 |
+| G1709 | Super Hero Classic Reborn | docs/SuperHeroClassicReborn_20260820_0331.md | 2026-08-20 03:31 |
+| G1710 | CivCrafter | docs/CivCrafter_20260820_0331.md | 2026-08-20 03:31 |
+| G1711 | Idle Sheep! | docs/IdleSheep_20260820_0331.md | 2026-08-20 03:31 |
+| G1712 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260820_0331.md | 2026-08-20 03:31 |
+| G1713 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260820_0331.md | 2026-08-20 03:31 |
+| G1714 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260820_0331.md | 2026-08-20 03:31 |
 | G1675 | 2 For 2 | docs/2For2_20260819_2330.md | 2026-08-19 23:30 |
 | G1676 | Save Balls Brain Teaser Games | docs/SaveBallsBrainTeaserGames_20260819_2330.md | 2026-08-19 23:30 |
 | G1677 | Touch Physics Lite | docs/TouchPhysicsLite_20260819_2330.md | 2026-08-19 23:30 |
@@ -290,3 +303,4 @@
 || R110 | 2026-08-19 23:30 | 3 (S368-S370) | 3 (S368-S370直接归档) | 10 | 0 | iTunes API搜索3组关键词(PopCap classic/mini game party/hidden gem casual)，产出10款益智解谜游戏文档(G1675-G1684)，全部>=50行 |
 | R111 | 2026-08-20 00:11 | 3 (S371-S373) | 3 (S371-S373直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/web browser mini games/io games)，产出10款游戏文档(G1685-G1694)，全部>=50行 |
 | R112 | 2026-08-20 04:00 | 3 (S374-S376) | 3 (S374-S376直接归档) | 10 | 0 | iTunes API搜索3组关键词(mobile mini game puzzle casual/indie game gameplay mechanics unique/casual game best addictive simple)，产出10款游戏文档(G1695-G1704)，全部>=50行 |
+| R113 | 2026-08-20 03:31 | 3 (S377-S379) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(flash games/idle clicker/roguelike mini games)，产出10款游戏文档，全部>=50行 |
