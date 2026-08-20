@@ -65,6 +65,9 @@
 | S404 | iTunes Search: idle merge puzzle game casual | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual&media=software&limit=10 | 10 | 2026-08-20 23:55 |
 | S405 | iTunes Search: tower defense strategy mobile | https://itunes.apple.com/search?term=tower+defense+strategy+mobile&media=software&limit=10 | 10 | 2026-08-20 23:55 |
 | S406 | iTunes Search: card battle deckbuilder mobile | https://itunes.apple.com/search?term=card+battle+deckbuilder+mobile&media=software&limit=10 | 10 | 2026-08-20 23:55 |
+| S407 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-20 23:36 |
+| S408 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-20 23:36 |
+| S409 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-20 23:36 |
 
 ## Sources Archived（历史累计）
 
@@ -396,6 +399,17 @@
 ||| G1866 | Bud Farm: Idle Tycoon Game | docs/Bud_Farm_Idle_Tycoon_Game_20260820_2151.md | 2026-08-20 21:51 |
 ||| G1867 | Super Idle Cats - Farm Tycoon | docs/Super_Idle_Cats__Farm_Tycoon_20260820_2151.md | 2026-08-20 21:51 |
 ||| G1868 | Idle Inventor - Factory Tycoon | docs/Idle_Inventor__Factory_Tycoon_20260820_2151.md | 2026-08-20 21:51 |
+| G1869 | Idle Game 1 | docs/IdleGame1_20260820_2333.md | 2026-08-20 23:36 |
+| G1870 | Bacterial Takeover - Idle Game | docs/Bacterial_Takeover_Idle_Game_20260820_2333.md | 2026-08-20 23:36 |
+| G1871 | Idle Slayer: Addictive Clicker | docs/Idle_Slayer_Addictive_Clicker_20260820_2333.md | 2026-08-20 23:36 |
+| G1872 | Planet Evolution: Idle Clicker | docs/Planet_Evolution_Idle_Clicker_20260820_2333.md | 2026-08-20 23:36 |
+| G1873 | Rogue with the Dead: Idle RPG | docs/Rogue_with_the_Dead_Idle_RPG_20260820_2333.md | 2026-08-20 23:36 |
+| G1874 | Clicker Heroes - Idle Slayer | docs/Clicker_Heroes_Idle_Slayer_20260820_2333.md | 2026-08-20 23:36 |
+| G1875 | Epic Clickers | docs/Epic_Clickers_20260820_2333.md | 2026-08-20 23:36 |
+| G1876 | Trigger Heroes | docs/Trigger_Heroes_20260820_2333.md | 2026-08-20 23:36 |
+| G1877 | Heroll: Dice Roguelike | docs/Heroll__Dice_Roguelike_20260820_2333.md | 2026-08-20 23:36 |
+| G1878 | Mini World: CREATA | docs/Mini_World_CREATA_20260820_2333.md | 2026-08-20 23:36 |
+| G1879 | Slay the Spire | docs/Slay_the_Spire_20260820_2333.md | 2026-08-20 23:36 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -459,6 +473,7 @@
 || R122 | 2026-08-20 23:55 | 3 (S404-S406) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(idle merge puzzle/tower defense strategy/card battle deckbuilder)，产出10款游戏文档(G1799-G1808)，覆盖合成解谜/塔防策略/卡牌对战/放置RPG等品类，全部≥48行 |
 || R123 | 2026-08-20 20:15 | 3 (S407-S409) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/word puzzle brain teaser)，产出10款游戏文档(G1809-G1818)，覆盖休闲合集/多人派对/游戏平台/益智解谜/体育竞技等品类，全部≥50行 |
 ||| R124 | 2026-08-20 21:51 | 3 (S410-S412) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(hidden object puzzle/word scramble brain/idle farm tycoon)，产出30款游戏文档(G1839-G1868)，覆盖隐藏物品找物/文字益智/放置农场等品类，全部≥54行 |
+| R125 | 2026-08-20 23:36 | 3 (S407-S409) | 3 (直接归档) | 11 | 0 | iTunes API搜索3组关键词(best mini games mobile/idle clicker games/roguelike mini games)，产出11款游戏文档(G1869-G1879)，覆盖放置点击/僵尸生存/骰子肉鸽/沙盒创造/爬塔卡牌等品类，全部≥50行 |
 
 ## Phase 1 Log
 
