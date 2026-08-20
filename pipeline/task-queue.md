@@ -125,9 +125,12 @@
 | S332 | PocketGamer Zen Bound 2 Review | https://www.pocketgamer.com/zen-bound-2/review/ | 1 | 2026-08-18 23:30 |
 | S333 | PocketGamer Colin McRae Rally 2005 Review | https://www.pocketgamer.com/colin-mcrae-rally-2005/review/ | 1 | 2026-08-18 23:30 |
 | S334 | PocketGamer Bloodmasque Review | https://www.pocketgamer.com/bloodmasque/review/ | 1 | 2026-08-18 23:30 |
-| S335 | PocketGamer Game Finder Page 158 | https://www.pocketgamer.com/game-finder/page/158/0_all_0_1_1/ | 25 | 2026-08-19 01:44 |
-| S336 | PocketGamer Game Finder Page 159 | https://www.pocketgamer.com/game-finder/page/159/0_all_0_1_1/ | 25 | 2026-08-19 01:44 |
-| S337 | PocketGamer Game Finder Page 160 | https://www.pocketgamer.com/game-finder/page/160/0_all_0_1_1/ | 25 | 2026-08-19 01:44 |
+|| S335 | PocketGamer Game Finder Page 158 | https://www.pocketgamer.com/game-finder/page/158/0_all_0_1_1/ | 25 | 2026-08-19 01:44 |
+|| S336 | PocketGamer Game Finder Page 159 | https://www.pocketgamer.com/game-finder/page/159/0_all_0_1_1/ | 25 | 2026-08-19 01:44 |
+|| S406 | iTunes Search: card battle deckbuilder mobile | https://itunes.apple.com/search?term=card+battle+deckbuilder+mobile&media=software&limit=10 | 10 | 2026-08-20 23:55 |
+|| S410 | iTunes Search: hidden object puzzle casual game | https://itunes.apple.com/search?term=hidden+object+puzzle+casual+game&media=software&limit=10 | 10 | 2026-08-20 21:51 |
+|| S411 | iTunes Search: word scramble puzzle brain game | https://itunes.apple.com/search?term=word+scramble+puzzle+brain+game&media=software&limit=10 | 10 | 2026-08-20 21:51 |
+|| S412 | iTunes Search: idle farm tycoon management game | https://itunes.apple.com/search?term=idle+farm+tycoon+management+game&media=software&limit=10 | 10 | 2026-08-20 21:51 |
 
 ## Games Pending（待处理游戏）
 
@@ -362,7 +365,37 @@
 || G1805 | The Tower | docs/TheTowerIdleTowerDefense_20260820_2355.md | 2026-08-20 23:55 |
 || G1806 | Raid Rush | docs/RaidRushTowerDefenseTD_20260820_2355.md | 2026-08-20 23:55 |
 || G1807 | Arcane Arena | docs/ArcaneArenaTowerDefenseTD_20260820_2355.md | 2026-08-20 23:55 |
-|| G1808 | Blacksmith | docs/BlacksmithMergeIdleRPG_20260820_2355.md | 2026-08-20 23:55 |
+||| G1808 | Blacksmith | docs/BlacksmithMergeIdleRPG_20260820_2355.md | 2026-08-20 23:55 |
+||| G1839 | Hidden Objects: Puzzle Games | docs/Hidden_Objects_Puzzle_Games_20260820_2151.md | 2026-08-20 21:51 |
+||| G1840 | Hidden Objects - Find It Out | docs/Hidden_Objects__Find_It_Out_20260820_2151.md | 2026-08-20 21:51 |
+||| G1841 | Hidden Object Games: Seek It | docs/Hidden_Object_Games_Seek_It_20260820_2151.md | 2026-08-20 21:51 |
+||| G1842 | Secret Puzzle Society | docs/Secret_Puzzle_Society_20260820_2151.md | 2026-08-20 21:51 |
+||| G1843 | Hidden Objects: Journey Story | docs/Hidden_Objects_Journey_Story_20260820_2151.md | 2026-08-20 21:51 |
+||| G1844 | Find Out - Hidden Objects | docs/Find_Out__Hidden_Objects_20260820_2151.md | 2026-08-20 21:51 |
+||| G1845 | Spot Hidden Objects - Find It | docs/Spot_Hidden_Objects__Find_It_20260820_2151.md | 2026-08-20 21:51 |
+||| G1846 | Find Hidden Objects World Trip | docs/Find_Hidden_Objects_World_Trip_20260820_2151.md | 2026-08-20 21:51 |
+||| G1847 | Hidden Journey: Find Objects | docs/Hidden_Journey_Find_Objects_20260820_2151.md | 2026-08-20 21:51 |
+||| G1848 | Happy Find : Hidden Objects 2D | docs/Happy_Find__Hidden_Objects_2D_20260820_2151.md | 2026-08-20 21:51 |
+||| G1849 | WordBrain: classic word puzzle | docs/WordBrain_classic_word_puzzle_20260820_2151.md | 2026-08-20 21:51 |
+||| G1850 | Word to Word: Fun Brain Games | docs/Word_to_Word_Fun_Brain_Games_20260820_2151.md | 2026-08-20 21:51 |
+||| G1851 | Easy Words - Word Puzzle Games | docs/Easy_Words__Word_Puzzle_Games_20260820_2151.md | 2026-08-20 21:51 |
+||| G1852 | Zen Word: Relax Puzzle Game | docs/Zen_Word__Relax_Puzzle_Game_20260820_2151.md | 2026-08-20 21:51 |
+||| G1853 | Word Beach: Fun Spelling Games | docs/Word_Beach_Fun_Spelling_Games_20260820_2151.md | 2026-08-20 21:51 |
+||| G1854 | Word Wiz - Connect Words Game | docs/Word_Wiz__Connect_Words_Game_20260820_2151.md | 2026-08-20 21:51 |
+||| G1855 | Cryptogram: Word Brain Puzzle | docs/Cryptogram_Word_Brain_Puzzle_20260820_2151.md | 2026-08-20 21:51 |
+||| G1856 | Wordzee! - Puzzle Word Game | docs/Wordzee__Puzzle_Word_Game_20260820_2151.md | 2026-08-20 21:51 |
+||| G1857 | Words With Friends Word Game | docs/Words_With_Friends_Word_Game_20260820_2151.md | 2026-08-20 21:51 |
+||| G1858 | Word Search Quest Puzzles | docs/Word_Search_Quest_Puzzles_20260820_2151.md | 2026-08-20 21:51 |
+||| G1859 | Idle Farm Tycoon - Merge Game | docs/Idle_Farm_Tycoon__Merge_Game_20260820_2151.md | 2026-08-20 21:51 |
+||| G1860 | Little Farm Story: Idle Tycoon | docs/Little_Farm_Story_Idle_Tycoon_20260820_2151.md | 2026-08-20 21:51 |
+||| G1861 | Milk Farm Tycoon | docs/Milk_Farm_Tycoon_20260820_2151.md | 2026-08-20 21:51 |
+||| G1862 | Idle Farming Empire | docs/Idle_Farming_Empire_20260820_2151.md | 2026-08-20 21:51 |
+||| G1863 | Mystery Farm: Idle Tycoon Game | docs/Mystery_Farm_Idle_Tycoon_Game_20260820_2151.md | 2026-08-20 21:51 |
+||| G1864 | Idle Farmer: Farm Tycoon Games | docs/Idle_Farmer_Farm_Tycoon_Games_20260820_2151.md | 2026-08-20 21:51 |
+||| G1865 | Idle Farm: Farming Town Games | docs/Idle_Farm_Farming_Town_Games_20260820_2151.md | 2026-08-20 21:51 |
+||| G1866 | Bud Farm: Idle Tycoon Game | docs/Bud_Farm_Idle_Tycoon_Game_20260820_2151.md | 2026-08-20 21:51 |
+||| G1867 | Super Idle Cats - Farm Tycoon | docs/Super_Idle_Cats__Farm_Tycoon_20260820_2151.md | 2026-08-20 21:51 |
+||| G1868 | Idle Inventor - Factory Tycoon | docs/Idle_Inventor__Factory_Tycoon_20260820_2151.md | 2026-08-20 21:51 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -424,7 +457,8 @@
 | R120 | 2026-08-20 20:30 | 3 (S398-S400) | 3 (直接归档) | 13 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/idle clicker)，产出13款游戏文档(G1776-G1788)，全部≥50行 |
 || R121 | 2026-08-20 16:58 | 3 (S401-S403) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024/physics puzzle casual/match 3 puzzle addictive)，产出10款游戏文档(G1789-G1798)，覆盖休闲合集/多人派对/物理益智/三消除等品类，全部≥50行 |
 || R122 | 2026-08-20 23:55 | 3 (S404-S406) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(idle merge puzzle/tower defense strategy/card battle deckbuilder)，产出10款游戏文档(G1799-G1808)，覆盖合成解谜/塔防策略/卡牌对战/放置RPG等品类，全部≥48行 |
-| R123 | 2026-08-20 20:15 | 3 (S407-S409) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/word puzzle brain teaser)，产出10款游戏文档(G1809-G1818)，覆盖休闲合集/多人派对/游戏平台/益智解谜/体育竞技等品类，全部≥50行 |
+|| R123 | 2026-08-20 20:15 | 3 (S407-S409) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/word puzzle brain teaser)，产出10款游戏文档(G1809-G1818)，覆盖休闲合集/多人派对/游戏平台/益智解谜/体育竞技等品类，全部≥50行 |
+||| R124 | 2026-08-20 21:51 | 3 (S410-S412) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(hidden object puzzle/word scramble brain/idle farm tycoon)，产出30款游戏文档(G1839-G1868)，覆盖隐藏物品找物/文字益智/放置农场等品类，全部≥54行 |
 
 ## Phase 1 Log
 
