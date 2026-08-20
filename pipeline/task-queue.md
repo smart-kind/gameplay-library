@@ -20,6 +20,9 @@
 | S380 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-20 07:00 |
 | S381 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-20 07:00 |
 | S382 | iTunes Search: indie puzzle game gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+gameplay+loop&media=software&limit=10 | 10 | 2026-08-20 07:00 |
+| S383 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-20 10:30 |
+| S384 | iTunes Search: Nintendo Switch indie puzzle casual | https://itunes.apple.com/search?term=Nintendo+Switch+indie+puzzle+casual&media=software&limit=10 | 10 | 2026-08-20 10:30 |
+| S385 | iTunes Search: flash games best classic gameplay mechanics | https://itunes.apple.com/search?term=flash+games+best+classic+gameplay+mechanics&media=software&limit=10 | 6 | 2026-08-20 10:30 |
 | S356 | PocketGamer Game Finder Page 173 | https://www.pocketgamer.com/game-finder/page/173/0_all_0_1_1/ | 5 | 2026-08-19 17:15 |
 | S357 | PocketGamer Game Finder Page 174 | https://www.pocketgamer.com/game-finder/page/174/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
 | S358 | PocketGamer Game Finder Page 175 | https://www.pocketgamer.com/game-finder/page/175/0_all_0_1_1/ | 0 | 2026-08-19 17:15 |
@@ -134,6 +137,16 @@
 | G1722 | Hyper Arrow | docs/HyperArrow_20260820_0506.md | 2026-08-20 07:00 |
 | G1723 | Tiny Run 3D | docs/TinyRun3D_20260820_0506.md | 2026-08-20 07:00 |
 | G1724 | Yarn Loop: Knit Puzzle | docs/YarnLoopKnitPuzzle_20260820_0506.md | 2026-08-20 07:00 |
+| G1725 | Offline Games - No Wifi Games | docs/OfflineGamesNoWifiGames_20260820_1030.md | 2026-08-20 10:30 |
+| G1726 | TENS! | docs/TENS_20260820_1030.md | 2026-08-20 10:30 |
+| G1727 | iSlash | docs/iSlash_20260820_1030.md | 2026-08-20 10:30 |
+| G1728 | Tile Burst - Match Puzzle | docs/TileBurstMatchPuzzle_20260820_1030.md | 2026-08-20 10:30 |
+| G1729 | Block Jam - 3D Block Puzzle | docs/BlockJam3DBlockPuzzle_20260820_1030.md | 2026-08-20 10:30 |
+| G1730 | Puzzle to the Center of Earth | docs/PuzzletotheCenterofEarth_20260820_1030.md | 2026-08-20 10:30 |
+| G1731 | Tile Block Jam - Puzzle Game | docs/TileBlockJamPuzzleGame_20260820_1030.md | 2026-08-20 10:30 |
+| G1732 | Falcon Squad: Classic Arcade | docs/FalconSquadClassicArcade_20260820_1030.md | 2026-08-20 10:30 |
+| G1733 | Hero's Way (Classic ACT) | docs/HerosWayClassicACT_20260820_1030.md | 2026-08-20 10:30 |
+| G1734 | Force Master | docs/ForceMaster_20260820_1030.md | 2026-08-20 10:30 |
 | G1675 | 2 For 2 | docs/2For2_20260819_2330.md | 2026-08-19 23:30 |
 | G1676 | Save Balls Brain Teaser Games | docs/SaveBallsBrainTeaserGames_20260819_2330.md | 2026-08-19 23:30 |
 | G1677 | Touch Physics Lite | docs/TouchPhysicsLite_20260819_2330.md | 2026-08-19 23:30 |
@@ -317,4 +330,5 @@
 | R111 | 2026-08-20 00:11 | 3 (S371-S373) | 3 (S371-S373直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/web browser mini games/io games)，产出10款游戏文档(G1685-G1694)，全部>=50行 |
 | R112 | 2026-08-20 04:00 | 3 (S374-S376) | 3 (S374-S376直接归档) | 10 | 0 | iTunes API搜索3组关键词(mobile mini game puzzle casual/indie game gameplay mechanics unique/casual game best addictive simple)，产出10款游戏文档(G1695-G1704)，全部>=50行 |
 || R113 | 2026-08-20 03:31 | 3 (S377-S379) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(flash games/idle clicker/roguelike mini games)，产出10款游戏文档，全部>=50行 |
-| R114 | 2026-08-20 07:00 | 3 (S380-S382) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay mechanics/indie puzzle game gameplay loop)，产出10款游戏文档(G1715-G1724)，全部>=50行 |
+| R114 | 2026-08-20 07:00 | 3 (S380-S382) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay mechanics/indie puzzle game gameplay loop)，产出10款游戏文档(G1715-G1724)，全部≥50行 |
+| R115 | 2026-08-20 10:30 | 3 (S383-S385) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/Nintendo Switch indie puzzle casual/flash games classic gameplay)，发现26款游戏，产出10款游戏文档(G1725-G1734)，全部≥47行 |
