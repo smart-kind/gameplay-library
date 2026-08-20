@@ -29,6 +29,9 @@
 | S368 | iTunes Search: PopCap classic games gameplay mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-19 23:30 |
 | S369 | iTunes Search: mini game collection party casual | https://itunes.apple.com/search?term=mini+game+collection+party+casual&media=software&limit=10 | 10 | 2026-08-19 23:30 |
 | S370 | iTunes Search: hidden gem casual game unique gameplay | https://itunes.apple.com/search?term=hidden+gem+casual+game+unique+gameplay&media=software&limit=10 | 10 | 2026-08-19 23:30 |
+| S371 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software | 10 | 2026-08-20 00:11 |
+| S372 | iTunes Search: web browser mini games popular addictive | https://itunes.apple.com/search?term=web+browser+mini+games+popular+addictive&media=software | 10 | 2026-08-20 00:11 |
+| S373 | iTunes Search: io games popular mechanics | https://itunes.apple.com/search?term=io+games+popular+mechanics&media=software | 9 | 2026-08-20 00:11 |
 
 ## Sources Archived（历史累计）
 
@@ -112,6 +115,16 @@
 | G1682 | Brain Go Puzzle Test | docs/BrainGoPuzzleTest_20260819_2330.md | 2026-08-19 23:30 |
 | G1683 | Rope Around | docs/RopeAround_20260819_2330.md | 2026-08-19 23:30 |
 | G1684 | Hexascapes Block Puzzle | docs/HexascapesBlockPuzzle_20260819_2330.md | 2026-08-19 23:30 |
+| G1685 | Popular Wars | docs/PopularWars_20260820_0011.md | 2026-08-20 00:11 |
+| G1686 | Plato: Fun Multiplayer Games | docs/PlatoFunMultiplayerGames_20260820_0011.md | 2026-08-20 00:11 |
+| G1687 | Soul.io | docs/SoulIO_20260820_0011.md | 2026-08-20 00:11 |
+| G1688 | Hexar.io | docs/HexarIO_20260820_0011.md | 2026-08-20 00:11 |
+| G1689 | Ladder.io | docs/LadderIO_20260820_0011.md | 2026-08-20 00:11 |
+| G1690 | String.io | docs/StringIO_20260820_0011.md | 2026-08-20 00:11 |
+| G1691 | Trigger Heroes | docs/TriggerHeroes_20260820_0011.md | 2026-08-20 00:11 |
+| G1692 | The Way Home: Pixel Roguelike | docs/TheWayHomePixelRoguelike_20260820_0011.md | 2026-08-20 00:11 |
+| G1693 | Wayward Souls | docs/WaywardSouls_20260820_0011.md | 2026-08-20 00:11 |
+| G1694 | Elona Mobile | docs/ElonaMobile_20260820_0011.md | 2026-08-20 00:11 |
 | G1636 | FPR Superbikes | docs/FPRSuperbikes_20260819_1725.md | 2026-08-19 17:25 |
 | G1637 | Galaxian | docs/Galaxian_20260819_1725.md | 2026-08-19 17:25 |
 | G1638 | Mega Man ZX | docs/MegaManZX_20260819_1725.md | 2026-08-19 17:25 |
@@ -261,4 +274,5 @@
 | R107 | 2026-08-19 17:26 | 6 (S356-S361) | 6 (S356-S361直接归档) | 20 | 0 | PocketGamer P173-P175(75款游戏, 提取5款) + iTunes API搜索3组关键词(best mini game casual 2024/viral hyper casual games 2024/indie puzzle game mechanics), 产出20款文档(G1636-G1655), 全部≥50行 |
 | R108 | 2026-08-19 20:00 | 3 (S362-S364) | 3 (S362-S364直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/viral hyper casual games list/indie puzzle game popular loop), 产出10款文档(G1656-G1665), 全部≥50行 |
 | R109 | 2026-08-19 20:56 | 3 (S365-S367) | 3 (S365-S367直接归档) | 9 | 0 | iTunes API搜索3组关键词(best mini game collection/arcade puzzle casual/idle tycoon management)，产出9款游戏文档(G1666-G1674)，全部>=50行 |
-| R110 | 2026-08-19 23:30 | 3 (S368-S370) | 3 (S368-S370直接归档) | 10 | 0 | iTunes API搜索3组关键词(PopCap classic/mini game party/hidden gem casual)，产出10款益智解谜游戏文档(G1675-G1684)，全部>=50行 |
+|| R110 | 2026-08-19 23:30 | 3 (S368-S370) | 3 (S368-S370直接归档) | 10 | 0 | iTunes API搜索3组关键词(PopCap classic/mini game party/hidden gem casual)，产出10款益智解谜游戏文档(G1675-G1684)，全部>=50行 |
+| R111 | 2026-08-20 00:11 | 3 (S371-S373) | 3 (S371-S373直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/web browser mini games/io games)，产出10款游戏文档(G1685-G1694)，全部>=50行 |
