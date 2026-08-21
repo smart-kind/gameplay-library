@@ -77,6 +77,9 @@
 | S416 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-21 11:00 |
 | S417 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-21 11:00 |
 | S418 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-21 11:00 |
+| S419 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-21 14:48 |
+| S420 | iTunes Search: casual puzzle game collection fun | https://itunes.apple.com/search?term=casual+puzzle+game+collection+fun&media=software&limit=10 | 10 | 2026-08-21 14:48 |
+| S421 | iTunes Search: puzzle arcade classic mobile casual | https://itunes.apple.com/search?term=puzzle+arcade+classic+mobile+casual&media=software&limit=10 | 10 | 2026-08-21 14:48 |
 
 ## Sources Archived（历史累计）
 
