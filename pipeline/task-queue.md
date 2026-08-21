@@ -74,6 +74,9 @@
 | S413 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-21 08:00 |
 | S414 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-21 08:00 |
 | S415 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-21 08:00 |
+| S416 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-21 11:00 |
+| S417 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-21 11:00 |
+| S418 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-21 11:00 |
 
 ## Sources Archived（历史累计）
 
@@ -456,6 +459,18 @@
 | G1917 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260821_0800.md | 2026-08-21 08:00 |
 | G1918 | Tiny Run 3D | docs/TinyRun3D_20260821_0800.md | 2026-08-21 08:00 |
 | G1919 | Traffic Turn | docs/TrafficTurn_20260821_0800.md | 2026-08-21 08:00 |
+| G1920 | Trigger Heroes | docs/TriggerHeroes_20260821_1100.md | 2026-08-21 11:00 |
+| G1921 | Mini Motor Racing | docs/MiniMotorRacing_20260821_1100.md | 2026-08-21 11:00 |
+| G1922 | Shoot n Merge | docs/ShootnMerge_20260821_1100.md | 2026-08-21 11:00 |
+| G1923 | Merge Block - Number Puzzle | docs/MergeBlockNumberPuzzle_20260821_1100.md | 2026-08-21 11:00 |
+| G1924 | Merge Inn - Tasty Match Puzzle | docs/MergeInnTastyMatchPuzzle_20260821_1100.md | 2026-08-21 11:00 |
+| G1925 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260821_1100.md | 2026-08-21 11:00 |
+| G1926 | Merge Plus 2: Adventure | docs/MergePlus2Adventure_20260821_1100.md | 2026-08-21 11:00 |
+| G1927 | Blast to Merge | docs/BlasttoMerge_20260821_1100.md | 2026-08-21 11:00 |
+| G1928 | Wayward Souls | docs/WaywardSouls_20260821_1100.md | 2026-08-21 11:00 |
+| G1929 | Guidus | docs/Guidus_20260821_1100.md | 2026-08-21 11:00 |
+| G1930 | Island Building : Merge Games | docs/IslandBuildingMergeGames_20260821_1100.md | 2026-08-21 11:00 |
+| G1931 | Merge Mayor | docs/MergeMayor_20260821_1100.md | 2026-08-21 11:00 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -522,6 +537,7 @@
 || R125 | 2026-08-20 23:36 | 3 (S407-S409) | 3 (直接归档) | 11 | 0 | iTunes API搜索3组关键词(best mini games mobile/idle clicker games/roguelike mini games)，产出11款游戏文档(G1869-G1879)，覆盖放置点击/僵尸生存/骰子肉鸽/沙盒创造/爬塔卡牌等品类，全部≥50行 |
 ||| R126 | 2026-08-21 01:09 | 3 (S410-S412) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/viral hyper casual/indie puzzle loop)，产出10款游戏文档(G1880-G1889)，覆盖高尔夫竞技/1v1对战平台/社交派对/潜行解谜/横版射击/后坐力竞速/编织解谜/管道连线/方块消除/数字推盘等品类，全部≥50行 |
 ||| R127 | 2026-08-21 08:00 | 3 (S413-S415) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/hyper casual gameplay/idle clicker)，产出30款游戏文档(G1890-G1919)，覆盖休闲合集/超休闲动作/放置点击/射击/潜行/交通管理等品类，全部≥50行 |
+||| R128 | 2026-08-21 11:00 | 3 (S416-S418) | 3 (直接归档) | 12 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/roguelike mini games mobile/idle merge puzzle casual simple)，产出12款游戏文档(G1920-G1931)，覆盖俯视角射击/遥控车竞速/射击合并/数字合并/合并烹饪/像素Roguelike/合并放置等品类，全部≥50行 |
 
 ## Phase 1 Log
 
