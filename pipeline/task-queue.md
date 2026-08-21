@@ -68,6 +68,9 @@
 | S407 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-20 23:36 |
 | S408 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-20 23:36 |
 | S409 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-20 23:36 |
+| S410 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-21 01:09 |
+| S411 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-21 01:09 |
+| S412 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-21 01:09 |
 
 ## Sources Archived（历史累计）
 
@@ -410,6 +413,16 @@
 | G1877 | Heroll: Dice Roguelike | docs/Heroll__Dice_Roguelike_20260820_2333.md | 2026-08-20 23:36 |
 | G1878 | Mini World: CREATA | docs/Mini_World_CREATA_20260820_2333.md | 2026-08-20 23:36 |
 | G1879 | Slay the Spire | docs/Slay_the_Spire_20260820_2333.md | 2026-08-20 23:36 |
+| G1880 | Mini Golf Stars | docs/MiniGolfStarsArenaBattle_20260821_0109.md | 2026-08-21 01:09 |
+| G1881 | Hyper | docs/HyperPlay1v1GamesForCash_20260821_0109.md | 2026-08-21 01:09 |
+| G1882 | TopTop | docs/TopTopGamesParty_20260821_0109.md | 2026-08-21 01:09 |
+| G1883 | Sneak Out 3D | docs/SneakOut3D_20260821_0109.md | 2026-08-21 01:09 |
+| G1884 | Squad Alpha | docs/SquadAlphaActionShooting_20260821_0109.md | 2026-08-21 01:09 |
+| G1885 | Gun Sprint | docs/GunSprint_20260821_0109.md | 2026-08-21 01:09 |
+| G1886 | Yarn Loop | docs/YarnLoopKnitPuzzle_20260821_0109.md | 2026-08-21 01:09 |
+| G1887 | Infinity Loop | docs/InfinityLoopRelaxingPuzzle_20260821_0109.md | 2026-08-21 01:09 |
+| G1888 | Block Jam Out | docs/BlockJamOutNoTimerPuzzle_20260821_0109.md | 2026-08-21 01:09 |
+| G1889 | 15 Puzzle Challenge | docs/15PuzzleChallenge_20260821_0109.md | 2026-08-21 01:09 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -473,7 +486,8 @@
 || R122 | 2026-08-20 23:55 | 3 (S404-S406) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(idle merge puzzle/tower defense strategy/card battle deckbuilder)，产出10款游戏文档(G1799-G1808)，覆盖合成解谜/塔防策略/卡牌对战/放置RPG等品类，全部≥48行 |
 || R123 | 2026-08-20 20:15 | 3 (S407-S409) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/word puzzle brain teaser)，产出10款游戏文档(G1809-G1818)，覆盖休闲合集/多人派对/游戏平台/益智解谜/体育竞技等品类，全部≥50行 |
 ||| R124 | 2026-08-20 21:51 | 3 (S410-S412) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(hidden object puzzle/word scramble brain/idle farm tycoon)，产出30款游戏文档(G1839-G1868)，覆盖隐藏物品找物/文字益智/放置农场等品类，全部≥54行 |
-| R125 | 2026-08-20 23:36 | 3 (S407-S409) | 3 (直接归档) | 11 | 0 | iTunes API搜索3组关键词(best mini games mobile/idle clicker games/roguelike mini games)，产出11款游戏文档(G1869-G1879)，覆盖放置点击/僵尸生存/骰子肉鸽/沙盒创造/爬塔卡牌等品类，全部≥50行 |
+|| R125 | 2026-08-20 23:36 | 3 (S407-S409) | 3 (直接归档) | 11 | 0 | iTunes API搜索3组关键词(best mini games mobile/idle clicker games/roguelike mini games)，产出11款游戏文档(G1869-G1879)，覆盖放置点击/僵尸生存/骰子肉鸽/沙盒创造/爬塔卡牌等品类，全部≥50行 |
+|| R126 | 2026-08-21 01:09 | 3 (S410-S412) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/viral hyper casual/indie puzzle loop)，产出10款游戏文档(G1880-G1889)，覆盖高尔夫竞技/1v1对战平台/社交派对/潜行解谜/横版射击/后坐力竞速/编织解谜/管道连线/方块消除/数字推盘等品类，全部≥50行 |
 
 ## Phase 1 Log
 
@@ -497,3 +511,9 @@
 [2026-08-20 20:15] [R123] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 [2026-08-20 20:15] [R123] [Phase 5: Git Push] ⏭️ 待执行
 [2026-08-20 20:15] [R123] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+[2026-08-21 01:09] [R126] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=412
+[2026-08-21 01:09] [R126] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现3个新来源(S410-S412)
+[2026-08-21 01:09] [R126] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S410-S412)，产出10款游戏文档(G1880-G1889)，全部≥50行，0个失败
+[2026-08-21 01:09] [R126] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-21 01:09] [R126] [Phase 5: Git Push] ⏭️ 待执行
+[2026-08-21 01:09] [R126] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
