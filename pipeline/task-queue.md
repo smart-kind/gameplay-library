@@ -84,6 +84,9 @@
 | S431 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-22 02:00 |
 | S432 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-22 02:00 |
 | S433 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-22 02:00 |
+| S434 | iTunes Search: word puzzle casual mobile game fun | https://itunes.apple.com/search?term=word+puzzle+casual+mobile+game+fun&media=software&limit=10 | 10 | 2026-08-22 05:00 |
+| S435 | iTunes Search: physics puzzle casual mobile game addictive | https://itunes.apple.com/search?term=physics+puzzle+casual+mobile+game+addictive&media=software&limit=10 | 10 | 2026-08-22 05:00 |
+| S436 | iTunes Search: merge puzzle idle casual game fun | https://itunes.apple.com/search?term=merge+puzzle+idle+casual+game+fun&media=software&limit=10 | 10 | 2026-08-22 05:00 |
 
 ## Sources Archived（历史累计）
 
@@ -624,6 +627,37 @@
 || G2074 | Idle Game 1 | docs/IdleGame1_20260822_0200.md | 2026-08-22 02:00 |
 || G2075 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260822_0200.md | 2026-08-22 02:00 |
 || G2076 | Clicker Heroes - Idle Slayer | docs/ClickerHeroesIdleSlayer_20260822_0200.md | 2026-08-22 02:00 |
+| G2077 | Otium Word Search: Fun Game | docs/OtiumWordSearchFunGame_20260821_1804.md | 2026-08-22 05:00 |
+| G2078 | Word Yatzy - Fun Word Puzzler | docs/WordYatzyFunWordPuzzler_20260821_1804.md | 2026-08-22 05:00 |
+| G2079 | WordWhizzle Connect | docs/WordWhizzleConnect_20260821_1804.md | 2026-08-22 05:00 |
+| G2080 | WordWhizzle Themes | docs/WordWhizzleThemes_20260821_1804.md | 2026-08-22 05:00 |
+| G2081 | Vita Word Search for Seniors | docs/VitaWordSearchforSeniors_20260821_1804.md | 2026-08-22 05:00 |
+| G2082 | Otium Word: Relax Puzzle Game | docs/OtiumWordRelaxPuzzleGame_20260821_1804.md | 2026-08-22 05:00 |
+| G2083 | Word Forest: Word Games Puzzle | docs/WordForestWordGamesPuzzle_20260821_1804.md | 2026-08-22 05:00 |
+| G2084 | Word Search!-Word Puzzle Game | docs/WordSearchWordPuzzleGame_20260821_1804.md | 2026-08-22 05:00 |
+| G2085 | Wordle! | docs/Wordle_20260821_1804.md | 2026-08-22 05:00 |
+| G2086 | Phase 10: Casual Card Game | docs/Phase10CasualCardGame_20260821_1804.md | 2026-08-22 05:00 |
+| G2087 | Wooden Block - Party Game | docs/WoodenBlockPartyGame_20260821_1804.md | 2026-08-22 05:00 |
+| G2088 | Amazing Breaker | docs/AmazingBreaker_20260821_1804.md | 2026-08-22 05:00 |
+| G2089 | Hole Rush Classic Game | docs/HoleRushClassicGame_20260821_1804.md | 2026-08-22 05:00 |
+| G2090 | Touch Physics Lite | docs/TouchPhysicsLite_20260821_1804.md | 2026-08-22 05:00 |
+| G2091 | Enigmo | docs/Enigmo_20260821_1804.md | 2026-08-22 05:00 |
+| G2092 | Sand Blast - Block Puzzle Game | docs/SandBlastBlockPuzzleGame_20260821_1804.md | 2026-08-22 05:00 |
+| G2093 | Drop Flip | docs/DropFlip_20260821_1804.md | 2026-08-22 05:00 |
+| G2094 | Balls Breakout 2020 | docs/BallsBreakout2020_20260821_1804.md | 2026-08-22 05:00 |
+| G2095 | Royal Smash! - Physics Puzzle | docs/RoyalSmashPhysicsPuzzle_20260821_1804.md | 2026-08-22 05:00 |
+| G2096 | Aerox | docs/Aerox_20260821_1804.md | 2026-08-22 05:00 |
+| G2097 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260821_1804.md | 2026-08-22 05:00 |
+| G2098 | Drag n Merge | docs/DragnMerge_20260821_1804.md | 2026-08-22 05:00 |
+| G2099 | Merge Inn - Tasty Match Puzzle | docs/MergeInnTastyMatchPuzzle_20260821_1804.md | 2026-08-22 05:00 |
+| G2100 | Shoot n Merge | docs/ShootnMerge_20260821_1804.md | 2026-08-22 05:00 |
+| G2101 | Merge Block: Star Finders | docs/MergeBlockStarFinders_20260821_1804.md | 2026-08-22 05:00 |
+| G2102 | Merge Block - Number Puzzle | docs/MergeBlockNumberPuzzle_20260821_1804.md | 2026-08-22 05:00 |
+| G2103 | Merge Plus 2:Adventure | docs/MergePlus2Adventure_20260821_1804.md | 2026-08-22 05:00 |
+| G2104 | Blast to Merge | docs/BlasttoMerge_20260821_1804.md | 2026-08-22 05:00 |
+| G2105 | Merge Plus | docs/MergePlus_20260821_1804.md | 2026-08-22 05:00 |
+| G2106 | Laps Fuse: Puzzle with Numbers | docs/LapsFusePuzzlewithNumbers_20260821_1804.md | 2026-08-22 05:00 |
+
 
 ## Games Archived（历史累计，最近100条）
 
@@ -710,6 +744,7 @@
 |||||| R132 | 2026-08-21 23:00 | 3 (S428-S430) | 3 (直接归档) | 26 | 0 | iTunes API搜索3组关键词(popcap classic/viral hyper casual/indie puzzle)，产出26款游戏(G2022-G2047)，覆盖泡泡射击/复古街机/休闲合集/益智解谜/io游戏等品类，全部>=50行，0个失败 |
 | R133 | 2026-08-21 14:48 | 3 (S419-S421) | 3 (直接归档) | 26 | 0 | iTunes API搜索3组关键词(best mini games/hyper casual/idle clicker)，产出26款游戏(G1959-G1984)，覆盖休闲合集/放置点击/物理益智等品类，全部>=50行，0个失败 |
 | R134 | 2026-08-22 02:00 | 3 (S431-S433) | 3 (直接归档) | 29 | 0 | iTunes API搜索3组关键词(best mini games/hyper casual/idle clicker)，产出29款游戏(G2048-G2076)，覆盖休闲合集/派对游戏/放置点击/物理益智等品类，全部>=50行，0个失败 | iTunes API搜索3组关键词(popcap classic games/viral hyper casual/indie puzzle game)，产出26款游戏(G2022-G2047)，覆盖泡泡射击/复古街机/休闲合集/放置对战/益智解谜/io游戏等品类，全部>=50行，0个失败 |
+| R135 | 2026-08-22 05:00 | 3 (S434-S436) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(word puzzle casual mobile/physics puzzle casual/merge puzzle idle casual)，产出30款游戏(G2077-G2106)，覆盖文字解谜/物理益智/合并消除等品类，全部>=50行，0个失败 |
 
 ## Phase 1 Log
 
