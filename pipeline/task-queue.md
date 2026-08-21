@@ -71,6 +71,9 @@
 | S410 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-21 01:09 |
 | S411 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-21 01:09 |
 | S412 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-21 01:09 |
+| S413 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-21 08:00 |
+| S414 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-21 08:00 |
+| S415 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-21 08:00 |
 
 ## Sources Archived（历史累计）
 
@@ -422,7 +425,37 @@
 | G1886 | Yarn Loop | docs/YarnLoopKnitPuzzle_20260821_0109.md | 2026-08-21 01:09 |
 | G1887 | Infinity Loop | docs/InfinityLoopRelaxingPuzzle_20260821_0109.md | 2026-08-21 01:09 |
 | G1888 | Block Jam Out | docs/BlockJamOutNoTimerPuzzle_20260821_0109.md | 2026-08-21 01:09 |
-| G1889 | 15 Puzzle Challenge | docs/15PuzzleChallenge_20260821_0109.md | 2026-08-21 01:09 |
+|| G1889 | 15 Puzzle Challenge | docs/15PuzzleChallenge_20260821_0109.md | 2026-08-21 01:09 |
+| G1890 | 234PlayerGames | docs/234PlayerGames_20260821_0800.md | 2026-08-21 08:00 |
+| G1891 | Bacterial Takeover - Idle game | docs/BacterialTakeover-Idlegame_20260821_0800.md | 2026-08-21 08:00 |
+| G1892 | Big Time Games | docs/BigTimeGames_20260821_0800.md | 2026-08-21 08:00 |
+| G1893 | Bullet Rush! | docs/BulletRush_20260821_0800.md | 2026-08-21 08:00 |
+| G1894 | CivCrafter | docs/CivCrafter_20260821_0800.md | 2026-08-21 08:00 |
+| G1895 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260821_0800.md | 2026-08-21 08:00 |
+| G1896 | Gun Sprint | docs/GunSprint_20260821_0800.md | 2026-08-21 08:00 |
+| G1897 | Hyper Arrow | docs/HyperArrow_20260821_0800.md | 2026-08-21 08:00 |
+| G1898 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260821_0800.md | 2026-08-21 08:00 |
+| G1899 | Hyperball | docs/Hyperball_20260821_0800.md | 2026-08-21 08:00 |
+| G1900 | Idle Game 1 | docs/IdleGame1_20260821_0800.md | 2026-08-21 08:00 |
+| G1901 | Idle Sheep! | docs/IdleSheep_20260821_0800.md | 2026-08-21 08:00 |
+| G1902 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260821_0800.md | 2026-08-21 08:00 |
+| G1903 | Idle Stickman | docs/IdleStickman_20260821_0800.md | 2026-08-21 08:00 |
+| G1904 | Idle Universe | docs/IdleUniverse_20260821_0800.md | 2026-08-21 08:00 |
+| G1905 | Magic Mushrooms - Idle Game | docs/MagicMushrooms-IdleGame_20260821_0800.md | 2026-08-21 08:00 |
+| G1906 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260821_0800.md | 2026-08-21 08:00 |
+| G1907 | Mini Games: Calm & Relax | docs/MiniGamesCalmRelax_20260821_0800.md | 2026-08-21 08:00 |
+| G1908 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260821_0800.md | 2026-08-21 08:00 |
+| G1909 | Offline Games - No Wifi Games | docs/OfflineGames-NoWifiGames_20260821_0800.md | 2026-08-21 08:00 |
+| G1910 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260821_0800.md | 2026-08-21 08:00 |
+| G1911 | Playbite - Mobile Arcade | docs/Playbite-MobileArcade_20260821_0800.md | 2026-08-21 08:00 |
+| G1912 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260821_0800.md | 2026-08-21 08:00 |
+| G1913 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260821_0800.md | 2026-08-21 08:00 |
+| G1914 | Save the grandmother | docs/Savethegrandmother_20260821_0800.md | 2026-08-21 08:00 |
+| G1915 | Sneak Out 3D | docs/SneakOut3D_20260821_0800.md | 2026-08-21 08:00 |
+| G1916 | Squad Alpha - Action Shooting | docs/SquadAlpha-ActionShooting_20260821_0800.md | 2026-08-21 08:00 |
+| G1917 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260821_0800.md | 2026-08-21 08:00 |
+| G1918 | Tiny Run 3D | docs/TinyRun3D_20260821_0800.md | 2026-08-21 08:00 |
+| G1919 | Traffic Turn | docs/TrafficTurn_20260821_0800.md | 2026-08-21 08:00 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -487,7 +520,8 @@
 || R123 | 2026-08-20 20:15 | 3 (S407-S409) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/word puzzle brain teaser)，产出10款游戏文档(G1809-G1818)，覆盖休闲合集/多人派对/游戏平台/益智解谜/体育竞技等品类，全部≥50行 |
 ||| R124 | 2026-08-20 21:51 | 3 (S410-S412) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(hidden object puzzle/word scramble brain/idle farm tycoon)，产出30款游戏文档(G1839-G1868)，覆盖隐藏物品找物/文字益智/放置农场等品类，全部≥54行 |
 || R125 | 2026-08-20 23:36 | 3 (S407-S409) | 3 (直接归档) | 11 | 0 | iTunes API搜索3组关键词(best mini games mobile/idle clicker games/roguelike mini games)，产出11款游戏文档(G1869-G1879)，覆盖放置点击/僵尸生存/骰子肉鸽/沙盒创造/爬塔卡牌等品类，全部≥50行 |
-|| R126 | 2026-08-21 01:09 | 3 (S410-S412) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/viral hyper casual/indie puzzle loop)，产出10款游戏文档(G1880-G1889)，覆盖高尔夫竞技/1v1对战平台/社交派对/潜行解谜/横版射击/后坐力竞速/编织解谜/管道连线/方块消除/数字推盘等品类，全部≥50行 |
+||| R126 | 2026-08-21 01:09 | 3 (S410-S412) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/viral hyper casual/indie puzzle loop)，产出10款游戏文档(G1880-G1889)，覆盖高尔夫竞技/1v1对战平台/社交派对/潜行解谜/横版射击/后坐力竞速/编织解谜/管道连线/方块消除/数字推盘等品类，全部≥50行 |
+||| R127 | 2026-08-21 08:00 | 3 (S413-S415) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/hyper casual gameplay/idle clicker)，产出30款游戏文档(G1890-G1919)，覆盖休闲合集/超休闲动作/放置点击/射击/潜行/交通管理等品类，全部≥50行 |
 
 ## Phase 1 Log
 
