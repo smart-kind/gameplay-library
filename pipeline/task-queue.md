@@ -471,6 +471,36 @@
 | G1929 | Guidus | docs/Guidus_20260821_1100.md | 2026-08-21 11:00 |
 | G1930 | Island Building : Merge Games | docs/IslandBuildingMergeGames_20260821_1100.md | 2026-08-21 11:00 |
 | G1931 | Merge Mayor | docs/MergeMayor_20260821_1100.md | 2026-08-21 11:00 |
+| G1932 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260821_1400.md | 2026-08-21 14:00 |
+| G1933 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260821_1400.md | 2026-08-21 14:00 |
+| G1934 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260821_1400.md | 2026-08-21 14:00 |
+| G1935 | Big Time Games | docs/BigTimeGames_20260821_1400.md | 2026-08-21 14:00 |
+| G1936 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260821_1400.md | 2026-08-21 14:00 |
+| G1937 | Offline Games - No Wifi Games | docs/OfflineGamesNoWifiGames_20260821_1400.md | 2026-08-21 14:00 |
+| G1938 | Mini Motor Racing | docs/MiniMotorRacing_20260821_1400.md | 2026-08-21 14:00 |
+| G1939 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260821_1400.md | 2026-08-21 14:00 |
+| G1940 | 2 3 4 Player Games | docs/234PlayerGames_20260821_1400.md | 2026-08-21 14:00 |
+| G1941 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260821_1400.md | 2026-08-21 14:00 |
+| G1942 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260821_1400.md | 2026-08-21 14:00 |
+| G1943 | Hyperball | docs/Hyperball_20260821_1400.md | 2026-08-21 14:00 |
+| G1944 | Sneak Out 3D | docs/SneakOut3D_20260821_1400.md | 2026-08-21 14:00 |
+| G1945 | Bullet Rush! | docs/BulletRush_20260821_1400.md | 2026-08-21 14:00 |
+| G1946 | Gun Sprint | docs/GunSprint_20260821_1400.md | 2026-08-21 14:00 |
+| G1947 | Squad Alpha - Action Shooting | docs/SquadAlphaActionShooting_20260821_1400.md | 2026-08-21 14:00 |
+| G1948 | Save the grandmother | docs/Savethegrandmother_20260821_1400.md | 2026-08-21 14:00 |
+| G1949 | Hyper Arrow | docs/HyperArrow_20260821_1400.md | 2026-08-21 14:00 |
+| G1950 | Tiny Run 3D | docs/TinyRun3D_20260821_1400.md | 2026-08-21 14:00 |
+| G1951 | Push Master | docs/PushMaster_20260821_1400.md | 2026-08-21 14:00 |
+| G1952 | Magic Mushrooms - Idle Game | docs/MagicMushroomsIdleGame_20260821_1400.md | 2026-08-21 14:00 |
+| G1953 | CivCrafter | docs/CivCrafter_20260821_1400.md | 2026-08-21 14:00 |
+| G1954 | Idle Stickman | docs/IdleStickman_20260821_1400.md | 2026-08-21 14:00 |
+| G1955 | Bacterial Takeover - Idle game | docs/BacterialTakeoverIdlegame_20260821_1400.md | 2026-08-21 14:00 |
+| G1956 | Idle Sheep! | docs/IdleSheep_20260821_1400.md | 2026-08-21 14:00 |
+| G1957 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260821_1400.md | 2026-08-21 14:00 |
+| G1958 | Idle Universe | docs/IdleUniverse_20260821_1400.md | 2026-08-21 14:00 |
+| G1959 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260821_1400.md | 2026-08-21 14:00 |
+| G1960 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260821_1400.md | 2026-08-21 14:00 |
+| G1961 | Idle Game 1 | docs/IdleGame1_20260821_1400.md | 2026-08-21 14:00 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -503,6 +533,10 @@
 | S353 | iTunes Search: casual mini game indie | https://itunes.apple.com/search?term=casual+mini+game+indie&media=software | 10 | 2026-08-19 15:39 |
 | S354 | iTunes Search: puzzle arcade mobile | https://itunes.apple.com/search?term=puzzle+arcade+mobile&media=software | 10 | 2026-08-19 15:39 |
 | S355 | iTunes Search: roguelike strategy board | https://itunes.apple.com/search?term=roguelike+strategy+board&media=software | 10 | 2026-08-19 15:39 |
+
+||| S419 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-21 14:00 |
+||| S420 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-21 14:00 |
+||| S421 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-21 14:00 |
 
 ## Execution Log
 
@@ -537,7 +571,8 @@
 || R125 | 2026-08-20 23:36 | 3 (S407-S409) | 3 (直接归档) | 11 | 0 | iTunes API搜索3组关键词(best mini games mobile/idle clicker games/roguelike mini games)，产出11款游戏文档(G1869-G1879)，覆盖放置点击/僵尸生存/骰子肉鸽/沙盒创造/爬塔卡牌等品类，全部≥50行 |
 ||| R126 | 2026-08-21 01:09 | 3 (S410-S412) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/viral hyper casual/indie puzzle loop)，产出10款游戏文档(G1880-G1889)，覆盖高尔夫竞技/1v1对战平台/社交派对/潜行解谜/横版射击/后坐力竞速/编织解谜/管道连线/方块消除/数字推盘等品类，全部≥50行 |
 ||| R127 | 2026-08-21 08:00 | 3 (S413-S415) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/hyper casual gameplay/idle clicker)，产出30款游戏文档(G1890-G1919)，覆盖休闲合集/超休闲动作/放置点击/射击/潜行/交通管理等品类，全部≥50行 |
-||| R128 | 2026-08-21 11:00 | 3 (S416-S418) | 3 (直接归档) | 12 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/roguelike mini games mobile/idle merge puzzle casual simple)，产出12款游戏文档(G1920-G1931)，覆盖俯视角射击/遥控车竞速/射击合并/数字合并/合并烹饪/像素Roguelike/合并放置等品类，全部≥50行 |
+|||| R128 | 2026-08-21 11:00 | 3 (S416-S418) | 3 (直接归档) | 12 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/roguelike mini games mobile/idle merge puzzle casual simple)，产出12款游戏文档(G1920-G1931)，覆盖俯视角射击/遥控车竞速/射击合并/数字合并/合并烹饪/像素Roguelike/合并放置等品类，全部≥50行 |
+|||| R129 | 2026-08-21 14:00 | 3 (S419-S421) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/hyper casual gameplay/idle clicker)，产出30款游戏文档(G1932-G1961)，覆盖休闲合集/超休闲动作/放置点击/射击/潜行/跑酷/推挤解谜/赛车/体育等品类，全部≥50行 |
 
 ## Phase 1 Log
 
