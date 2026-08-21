@@ -561,6 +561,32 @@
 ||| G2019 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260821_2000.md | 2026-08-21 20:00 |
 ||| G2020 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260821_2000.md | 2026-08-21 20:00 |
 ||| G2021 | Idle Game 1 | docs/IdleGame1_20260821_2000.md | 2026-08-21 20:00 |
+||| G2022 | Bubble Shooter Classic Puzzle | docs/BubbleShooterClassicPuzzle_20260821_2300.md | 2026-08-21 23:00 |
+||| G2023 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260821_2300.md | 2026-08-21 23:00 |
+||| G2024 | ProgressBar95 - retro arcade | docs/ProgressBar95retroarcade_20260821_2300.md | 2026-08-21 23:00 |
+||| G2025 | Bubble Shooter: Pop Games | docs/BubbleShooterPopGames_20260821_2300.md | 2026-08-21 23:00 |
+||| G2026 | Classic Bubble Pop-Ball Games | docs/ClassicBubblePopBallGames_20260821_2300.md | 2026-08-21 23:00 |
+||| G2027 | Brick Game - Retro Games | docs/BrickGameRetroGames_20260821_2300.md | 2026-08-21 23:00 |
+||| G2028 | Brick Breaker Classic 2016 | docs/BrickBreakerClassic2016UltimateRevolution_20260821_2300.md | 2026-08-21 23:00 |
+||| G2029 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260821_2300.md | 2026-08-21 23:00 |
+||| G2030 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260821_2300.md | 2026-08-21 23:00 |
+||| G2031 | Big Time Games | docs/BigTimeGames_20260821_2300.md | 2026-08-21 23:00 |
+||| G2032 | Traffic Turn | docs/TrafficTurn_20260821_2300.md | 2026-08-21 23:00 |
+||| G2033 | Fire Balls 3D | docs/FireBalls3D_20260821_2300.md | 2026-08-21 23:00 |
+||| G2034 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260821_2300.md | 2026-08-21 23:00 |
+||| G2035 | TopTop: Games & Party | docs/TopTopGamesParty_20260821_2300.md | 2026-08-21 23:00 |
+||| G2036 | Hexar.io - #1 in IO Games | docs/Hexario1inIOGames_20260821_2300.md | 2026-08-21 23:00 |
+||| G2037 | Apple Games | docs/AppleGames_20260821_2300.md | 2026-08-21 23:00 |
+||| G2038 | Block Away - Tap Out Puzzle | docs/BlockAwayTapOutPuzzle_20260821_2300.md | 2026-08-21 23:00 |
+||| G2039 | Woody Battle Block Puzzle Dual | docs/WoodyBattleBlockPuzzleDual_20260821_2300.md | 2026-08-21 23:00 |
+||| G2040 | Shape Escape: Block Puzzle | docs/ShapeEscapeBlockPuzzle_20260821_2300.md | 2026-08-21 23:00 |
+||| G2041 | Yarn Loop: Knit Puzzle | docs/YarnLoopKnitPuzzle_20260821_2300.md | 2026-08-21 23:00 |
+||| G2042 | Block Jam - 3D Block Puzzle | docs/BlockJam3DBlockPuzzle_20260821_2300.md | 2026-08-21 23:00 |
+||| G2043 | Pencil Loop! | docs/PencilLoop_20260821_2300.md | 2026-08-21 23:00 |
+||| G2044 | Infinity Loop: Relaxing Puzzle | docs/InfinityLoopRelaxingPuzzle_20260821_2300.md | 2026-08-21 23:00 |
+||| G2045 | Tile Block Jam - Puzzle Game | docs/TileBlockJamPuzzleGame_20260821_2300.md | 2026-08-21 23:00 |
+||| G2046 | Block Jam Out: No Timer Puzzle | docs/BlockJamOutNoTimerPuzzle_20260821_2300.md | 2026-08-21 23:00 |
+||| G2047 | 15 Puzzle Challenge | docs/15PuzzleChallenge_20260821_2300.md | 2026-08-21 23:00 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -603,6 +629,9 @@
 ||| S425 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-21 20:00 |
 ||| S426 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-21 20:00 |
 ||| S427 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-21 20:00 |
+| S428 | iTunes Search: popcap classic games list mechanics | https://itunes.apple.com/search?term=popcap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-21 23:00 |
+| S429 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-21 23:00 |
+| S430 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-21 23:00 |
 
 ## Execution Log
 
@@ -640,7 +669,8 @@
 |||| R128 | 2026-08-21 11:00 | 3 (S416-S418) | 3 (直接归档) | 12 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/roguelike mini games mobile/idle merge puzzle casual simple)，产出12款游戏文档(G1920-G1931)，覆盖俯视角射击/遥控车竞速/射击合并/数字合并/合并烹饪/像素Roguelike/合并放置等品类，全部≥50行 |
 ||||| R129 | 2026-08-21 14:00 | 3 (S419-S421) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/hyper casual gameplay/idle clicker)，产出30款游戏文档(G1932-G1961)，覆盖休闲合集/超休闲动作/放置点击/射击/潜行/跑酷/推挤解谜/赛车/体育等品类，全部≥50行 |
 ||||| R130 | 2026-08-21 17:00 | 3 (S422-S424) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/hyper casual gameplay/idle clicker)，产出30款游戏(G1962-G1991)，覆盖休闲合集/超休闲动作/放置点击/射击/潜行/跑酷/推挤/竞速/体育等品类，0个失败 |
-|||||| R131 | 2026-08-21 20:00 | 3 (S425-S427) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(indie puzzle game popular gameplay loop/roguelike mini games mobile simple/idle clicker games best mechanics)，产出30款游戏(G1992-G2021)，覆盖空间填充解谜/连线解谜/弹珠肉鸽/放置点击/实时对战等品类，全部>=50行，0个失败 |
+|||||| R131 | 2026-08-21 20:00 | 3 (S425-S427) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(indie puzzle game popular gameplay loop/roguelike mini games mobile simple/idle clicker games best mechanics)，产出30款游戏(G1992-G2021)，覆盖空间填充解谜/连线解谜/弹珠肉鸽/放置点击/实时对战等品类，全部>=50行，0个失败
+|||||| R132 | 2026-08-21 23:00 | 3 (S428-S430) | 3 (直接归档) | 26 | 0 | iTunes API搜索3组关键词(popcap classic games/viral hyper casual/indie puzzle game)，产出26款游戏(G2022-G2047)，覆盖泡泡射击/复古街机/休闲合集/放置对战/益智解谜/io游戏等品类，全部>=50行，0个失败 |
 
 ## Phase 1 Log
 
