@@ -530,7 +530,37 @@
 || G1988 | Idle Universe | iTunes_API | 2026-08-21 17:00 |
 || G1989 | Idle Slayer: Addictive Clicker | iTunes_API | 2026-08-21 17:00 |
 || G1990 | Planet Evolution: Idle Clicker | iTunes_API | 2026-08-21 17:00 |
-|| G1991 | Idle Game 1 | iTunes_API | 2026-08-21 17:00 |
+||| G1991 | Idle Game 1 | iTunes_API | 2026-08-21 17:00 |
+||| G1992 | Block Away - Tap Out Puzzle | docs/BlockAwayTapOutPuzzle_20260821_2000.md | 2026-08-21 20:00 |
+||| G1993 | Woody Battle Block Puzzle Dual | docs/WoodyBattleBlockPuzzleDual_20260821_2000.md | 2026-08-21 20:00 |
+||| G1994 | Shape Escape: Block Puzzle | docs/ShapeEscapeBlockPuzzle_20260821_2000.md | 2026-08-21 20:00 |
+||| G1995 | Yarn Loop: Knit Puzzle | docs/YarnLoopKnitPuzzle_20260821_2000.md | 2026-08-21 20:00 |
+||| G1996 | Block Jam - 3D Block Puzzle | docs/BlockJam3DBlockPuzzle_20260821_2000.md | 2026-08-21 20:00 |
+||| G1997 | Pencil Loop! | docs/PencilLoop_20260821_2000.md | 2026-08-21 20:00 |
+||| G1998 | Infinity Loop: Relaxing Puzzle | docs/InfinityLoopRelaxingPuzzle_20260821_2000.md | 2026-08-21 20:00 |
+||| G1999 | Tile Block Jam - Puzzle Game | docs/TileBlockJamPuzzleGame_20260821_2000.md | 2026-08-21 20:00 |
+||| G2000 | Block Jam Out: No Timer Puzzle | docs/BlockJamOutNoTimerPuzzle_20260821_2000.md | 2026-08-21 20:00 |
+||| G2001 | 15 Puzzle Challenge. | docs/15PuzzleChallenge_20260821_2000.md | 2026-08-21 20:00 |
+||| G2002 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260821_2000.md | 2026-08-21 20:00 |
+||| G2003 | Trigger Heroes | docs/TriggerHeroes_20260821_2000.md | 2026-08-21 20:00 |
+||| G2004 | Rogue Legend - Roguelike RPG | docs/RogueLegendRoguelikeRPG_20260821_2000.md | 2026-08-21 20:00 |
+||| G2005 | The Way Home: Pixel Roguelike | docs/TheWayHomePixelRoguelike_20260821_2000.md | 2026-08-21 20:00 |
+||| G2006 | Heroll : Dice Roguelike | docs/HerollDiceRoguelike_20260821_2000.md | 2026-08-21 20:00 |
+||| G2007 | Guidus | docs/Guidus_20260821_2000.md | 2026-08-21 20:00 |
+||| G2008 | Mini World: CREATA | docs/MiniWorldCREATA_20260821_2000.md | 2026-08-21 20:00 |
+||| G2009 | Endless Wander - Roguelike RPG | docs/EndlessWanderRoguelikeRPG_20260821_2000.md | 2026-08-21 20:00 |
+||| G2010 | Elona Mobile | docs/ElonaMobile_20260821_2000.md | 2026-08-21 20:00 |
+||| G2011 | Peglin | docs/Peglin_20260821_2000.md | 2026-08-21 20:00 |
+||| G2012 | Magic Mushrooms - Idle Game | docs/MagicMushroomsIdleGame_20260821_2000.md | 2026-08-21 20:00 |
+||| G2013 | CivCrafter | docs/CivCrafter_20260821_2000.md | 2026-08-21 20:00 |
+||| G2014 | Idle Stickman | docs/IdleStickman_20260821_2000.md | 2026-08-21 20:00 |
+||| G2015 | Bacterial Takeover - Idle game | docs/BacterialTakeoverIdlegame_20260821_2000.md | 2026-08-21 20:00 |
+||| G2016 | Idle Sheep! | docs/IdleSheep_20260821_2000.md | 2026-08-21 20:00 |
+||| G2017 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260821_2000.md | 2026-08-21 20:00 |
+||| G2018 | Idle Universe | docs/IdleUniverse_20260821_2000.md | 2026-08-21 20:00 |
+||| G2019 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260821_2000.md | 2026-08-21 20:00 |
+||| G2020 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260821_2000.md | 2026-08-21 20:00 |
+||| G2021 | Idle Game 1 | docs/IdleGame1_20260821_2000.md | 2026-08-21 20:00 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -569,7 +599,10 @@
 ||| S421 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-21 14:00 |
 || S422 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-21 17:00 |
 || S423 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-21 17:00 |
-|| S424 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-21 17:00 |
+||| S424 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-21 17:00 |
+||| S425 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-21 20:00 |
+||| S426 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-21 20:00 |
+||| S427 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-21 20:00 |
 
 ## Execution Log
 
@@ -607,6 +640,7 @@
 |||| R128 | 2026-08-21 11:00 | 3 (S416-S418) | 3 (直接归档) | 12 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/roguelike mini games mobile/idle merge puzzle casual simple)，产出12款游戏文档(G1920-G1931)，覆盖俯视角射击/遥控车竞速/射击合并/数字合并/合并烹饪/像素Roguelike/合并放置等品类，全部≥50行 |
 ||||| R129 | 2026-08-21 14:00 | 3 (S419-S421) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/hyper casual gameplay/idle clicker)，产出30款游戏文档(G1932-G1961)，覆盖休闲合集/超休闲动作/放置点击/射击/潜行/跑酷/推挤解谜/赛车/体育等品类，全部≥50行 |
 ||||| R130 | 2026-08-21 17:00 | 3 (S422-S424) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/hyper casual gameplay/idle clicker)，产出30款游戏(G1962-G1991)，覆盖休闲合集/超休闲动作/放置点击/射击/潜行/跑酷/推挤/竞速/体育等品类，0个失败 |
+|||||| R131 | 2026-08-21 20:00 | 3 (S425-S427) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(indie puzzle game popular gameplay loop/roguelike mini games mobile simple/idle clicker games best mechanics)，产出30款游戏(G1992-G2021)，覆盖空间填充解谜/连线解谜/弹珠肉鸽/放置点击/实时对战等品类，全部>=50行，0个失败 |
 
 ## Phase 1 Log
 
