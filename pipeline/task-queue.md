@@ -96,6 +96,9 @@
 | S458 | iTunes Search: rhythm music game casual fun | https://itunes.apple.com/search?term=rhythm+music+game+casual+fun&media=software&limit=10 | 10 | 2026-08-22 15:36 |
 | S459 | iTunes Search: escape room puzzle adventure | https://itunes.apple.com/search?term=escape+room+puzzle+adventure&media=software&limit=10 | 10 | 2026-08-22 15:36 |
 | S460 | iTunes Search: card battle strategy deckbuilder | https://itunes.apple.com/search?term=card+battle+strategy+deckbuilder&media=software&limit=10 | 10 | 2026-08-22 15:36 |
+| S461 | iTunes Search: Nintendo Switch indie puzzle casual | https://itunes.apple.com/search?term=Nintendo+Switch+indie+puzzle+casual&media=software&limit=10 | 10 | 2026-08-22 17:13 |
+| S462 | iTunes Search: flash games best classic gameplay mechanics | https://itunes.apple.com/search?term=flash+games+best+classic+gameplay+mechanics&media=software&limit=10 | 8 | 2026-08-22 17:13 |
+| S463 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-22 17:13 |
 
 
 ## Sources Archived（历史累计）
@@ -253,6 +256,18 @@
 | G2252 | KARDS - The WW2 Card Game | docs/KARDSTheWW2CardGame_20260822_1536.md | 2026-08-22 15:36 |
 | G2253 | Hearthstone | docs/Hearthstone_20260822_1536.md | 2026-08-22 15:36 |
 | G2254 | Dungeon Tales : RPG Card Game | docs/DungeonTalesRPGCardGame_20260822_1536.md | 2026-08-22 15:36 |
+| G2255 | TENS! | docs/TENS_20260822_1713.md | 2026-08-22 17:13 |
+| G2256 | iSlash | docs/iSlash_20260822_1713.md | 2026-08-22 17:13 |
+| G2257 | Tile Scenery: Match Puzzle | docs/TileSceneryMatchPuzzle_20260822_1713.md | 2026-08-22 17:13 |
+| G2258 | Puzzle to the Center of Earth | docs/PuzzletotheCenterofEarth_20260822_1713.md | 2026-08-22 17:13 |
+| G2259 | Goods Puzzle: Relaxing Sort | docs/GoodsPuzzleRelaxingSort_20260822_1713.md | 2026-08-22 17:13 |
+| G2260 | Falcon Squad: Classic Arcade | docs/FalconSquadClassicArcade_20260822_1713.md | 2026-08-22 17:13 |
+| G2261 | Stickman Dash! | docs/StickmanDash_20260822_1713.md | 2026-08-22 17:13 |
+| G2262 | Hero's Way (Classic ACT) | docs/HerosWayClassicACT_20260822_1713.md | 2026-08-22 17:13 |
+| G2263 | Force Master | docs/ForceMaster_20260822_1713.md | 2026-08-22 17:13 |
+| G2264 | Super Bino Go 2: Jump N Run | docs/SuperBinoGo2JumpNRun_20260822_1713.md | 2026-08-22 17:13 |
+| G2265 | Apple Games | docs/AppleGames_20260822_1713.md | 2026-08-22 17:13 |
+| G2266 | Bix Challenge | docs/BixChallenge_20260822_1713.md | 2026-08-22 17:13 |
 
 
 
@@ -927,6 +942,7 @@
 
 | R143 | 2026-08-22 13:51 | 3 (S455-S457) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(match 3 puzzle/physics puzzle casual/word puzzle brain)，产出10款游戏(G2215-G2224)，覆盖三消除/物理益智/文字解谜/方块消除等品类，全部≥56行，0个失败 |
 | R144 | 2026-08-22 15:36 | 3 (S458-S460) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(rhythm music game casual fun/escape room puzzle adventure/card battle strategy deckbuilder)，产出30款游戏(G2225-G2254)，覆盖音乐节奏/解谜逃脱/卡牌对战三品类，全部≥50行，0个失败 |
+| R145 | 2026-08-22 17:13 | 3 (S461-S463) | 3 (直接归档) | 12 | 0 | iTunes API搜索3组关键词(Nintendo Switch indie puzzle casual/flash games best classic gameplay/Google Play trending casual games)，产出12款游戏(G2255-G2266)，覆盖益智解谜/动作/跑酷/休闲/策略等品类，全部≥50行，0个失败 |
 
 ## Phase 1 Log
 
