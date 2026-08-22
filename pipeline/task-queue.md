@@ -874,6 +874,7 @@
 || R139 | 2026-08-22 05:25 | 3 (S443-S445) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(puzzle adventure/match 3/physics puzzle)，产出10款游戏(G2163-G2172)，覆盖弹道解谜/物理绘图/三消除/管道导向/经典策略等品类，全部>=50行，0个失败 |
 | R141 | 2026-08-22 12:00 | 3 (S449-S451) | 3 (直接归档) | 29 | 0 | iTunes API搜索3组关键词，产出29款游戏文档，全部≥50行，0个失败 |
 | R141 | 2026-08-22 12:00 | 3 (S449-S451) | 3 (直接归档) | 29 | 0 | iTunes API搜索3组关键词(best mini games/hyper casual/idle clicker)，产出29款游戏文档，覆盖休闲合集/放置点击/射击/赛车/体育等品类，全部≥50行，0个失败 |
+|| R142 | 2026-08-22 12:09 | 3 (S452-S454) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/idle clicker)，产出30款游戏(G2185-G2214)，覆盖休闲合集/放置点击/动作射击/物理弹射/竞速/潜行解谜等品类，全部≥50行，0个失败 |
 | R140 | 2026-08-22 09:00 | 3 (S443-S445) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/Google Play trending)，产出10款游戏(G2173-G2182)，覆盖弹幕射击/反应力解谜/寻物冒险/休闲放松/物理弹射/游戏平台等品类，全部≥50行，0个失败 |
 
 ## Phase 1 Log
