@@ -90,6 +90,10 @@
 | S437 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-21 22:50 |
 | S438 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-21 22:50 |
 | S439 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-21 22:50 |
+| S455 | iTunes Search: match 3 puzzle casual addictive game | https://itunes.apple.com/search?term=match+3+puzzle+casual+addictive+game&media=software&limit=10 | 10 | 2026-08-22 13:51 |
+| S456 | iTunes Search: physics puzzle casual fun game | https://itunes.apple.com/search?term=physics+puzzle+casual+fun+game&media=software&limit=10 | 10 | 2026-08-22 13:51 |
+| S457 | iTunes Search: word puzzle brain casual game | https://itunes.apple.com/search?term=word+puzzle+brain+casual+game&media=software&limit=10 | 10 | 2026-08-22 13:51 |
+
 
 ## Sources Archived（历史累计）
 
@@ -206,6 +210,17 @@
 | G2212 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260822_1209.md | 2026-08-22 12:09 |
 | G2213 | Clicker Heroes - Idle Slayer | docs/ClickerHeroesIdleSlayer_20260822_1209.md | 2026-08-22 12:09 |
 | G2214 | Epic Clickers | docs/EpicClickers_20260822_1209.md | 2026-08-22 12:09 |
+| G2215 | Lost Jewels - Match 3 Puzzle | docs/LostJewels-Match3Puzzle_20260822_1351.md | 2026-08-22 13:51 |
+| G2216 | Juice Jam! Match 3 Puzzle Game | docs/JuiceJamMatch3PuzzleGame_20260822_1351.md | 2026-08-22 13:51 |
+| G2217 | Royal Match | docs/RoyalMatch_20260822_1351.md | 2026-08-22 13:51 |
+| G2218 | Tile Link - Match & Connect | docs/TileLink-MatchConnect_20260822_1351.md | 2026-08-22 13:51 |
+| G2219 | Traffic Puzzle: Car Jam Escape | docs/TrafficPuzzleCarJamEscape_20260822_1351.md | 2026-08-22 13:51 |
+| G2220 | Cube Block - Woody Puzzle Game | docs/CubeBlock-WoodyPuzzleGame_20260822_1351.md | 2026-08-22 13:51 |
+| G2221 | Jelly Splash: Fun Puzzle Game | docs/JellySplashFunPuzzleGame_20260822_1351.md | 2026-08-22 13:51 |
+| G2222 | Brick Block - Puzzle Game | docs/BrickBlock-PuzzleGame_20260822_1351.md | 2026-08-22 13:51 |
+| G2223 | Match the Dots by IceMochi | docs/MatchtheDotsbyIceMochi_20260822_1351.md | 2026-08-22 13:51 |
+| G2224 | Matchland Quest | docs/MatchlandQuest_20260822_1351.md | 2026-08-22 13:51 |
+
 
 
 ## Games Archived（历史累计，最近100条）
@@ -876,6 +891,8 @@
 | R141 | 2026-08-22 12:00 | 3 (S449-S451) | 3 (直接归档) | 29 | 0 | iTunes API搜索3组关键词(best mini games/hyper casual/idle clicker)，产出29款游戏文档，覆盖休闲合集/放置点击/射击/赛车/体育等品类，全部≥50行，0个失败 |
 || R142 | 2026-08-22 12:09 | 3 (S452-S454) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/idle clicker)，产出30款游戏(G2185-G2214)，覆盖休闲合集/放置点击/动作射击/物理弹射/竞速/潜行解谜等品类，全部≥50行，0个失败 |
 | R140 | 2026-08-22 09:00 | 3 (S443-S445) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/Google Play trending)，产出10款游戏(G2173-G2182)，覆盖弹幕射击/反应力解谜/寻物冒险/休闲放松/物理弹射/游戏平台等品类，全部≥50行，0个失败 |
+
+| R143 | 2026-08-22 13:51 | 3 (S455-S457) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(match 3 puzzle/physics puzzle casual/word puzzle brain)，产出10款游戏(G2215-G2224)，覆盖三消除/物理益智/文字解谜/方块消除等品类，全部≥56行，0个失败 |
 
 ## Phase 1 Log
 
