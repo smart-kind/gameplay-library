@@ -702,7 +702,17 @@
 | G2169 | Brain Dots | docs/BrainDotsPhysicsPuzzle_20260822_0525.md | 2026-08-22 05:25 |
 | G2170 | Lost Island: Blast Adventure | docs/LostIslandBlastAdventure_20260822_0525.md | 2026-08-22 05:25 |
 | G2171 | Enigmo | docs/Enigmo3DPuzzleGame_20260822_0525.md | 2026-08-22 05:25 |
-| G2172 | Matchland Quest | docs/MatchlandQuestMatch3Game_20260822_0525.md | 2026-08-22 05:25 |
+|| G2172 | Matchland Quest | docs/MatchlandQuestMatch3Game_20260822_0525.md | 2026-08-22 05:25 |
+|| G2173 | Bullet Rush! | docs/BulletRush_20260822_0900.md | 2026-08-22 09:00 |
+|| G2174 | Agent Twist | docs/AgentTwist_20260822_0900.md | 2026-08-22 09:00 |
+|| G2175 | The Hidden Treasures・Mystery | docs/HiddenTreasuresMystery_20260822_0900.md | 2026-08-22 09:00 |
+|| G2176 | Find Them All - Hidden Puzzle | docs/FindThemAllHiddenPuzzle_20260822_0900.md | 2026-08-22 09:00 |
+|| G2177 | Little Things Forever | docs/LittleThingsForever_20260822_0900.md | 2026-08-22 09:00 |
+|| G2178 | Find Em All! - Hidden Objects | docs/FindEmAllHiddenObjects_20260822_0900.md | 2026-08-22 09:00 |
+|| G2179 | Twin Moons | docs/TwinMoons_20260822_0900.md | 2026-08-22 09:00 |
+|| G2180 | Little Things | docs/LittleThings_20260822_0900.md | 2026-08-22 09:00 |
+|| G2181 | Find Fast: Hidden Objects | docs/FindFastHiddenObjects_20260822_0900.md | 2026-08-22 09:00 |
+|| G2182 | Log Thrower | docs/LogThrower_20260822_0900.md | 2026-08-22 09:00 |
 
 
 ## Games Archived（历史累计，最近100条）
@@ -824,7 +834,8 @@
 | R136 | 2026-08-21 22:50 | 3 (S437-S439) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/hyper casual gameplay/idle clicker)，产出30款游戏(G2107-G2136)，覆盖休闲合集/超休闲动作/放置点击/射击/竞速/体育等品类，全部>=50行，0个失败 |
 | R138 | 2026-08-22 03:42 | 3 (S440-S442) | 3 (直接归档) | 26 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual/idle clicker)，产出26款游戏(G2137-G2162)，覆盖休闲合集/放置点击/横版射击/潜行解谜等品类，全部>=50行，0个失败 |
 
-| R139 | 2026-08-22 05:25 | 3 (S443-S445) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(puzzle adventure/match 3/physics puzzle)，产出10款游戏(G2163-G2172)，覆盖弹道解谜/物理绘图/三消除/管道导向/经典策略等品类，全部>=50行，0个失败 |
+|| R139 | 2026-08-22 05:25 | 3 (S443-S445) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(puzzle adventure/match 3/physics puzzle)，产出10款游戏(G2163-G2172)，覆盖弹道解谜/物理绘图/三消除/管道导向/经典策略等品类，全部>=50行，0个失败 |
+| R140 | 2026-08-22 09:00 | 3 (S443-S445) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/Google Play trending)，产出10款游戏(G2173-G2182)，覆盖弹幕射击/反应力解谜/寻物冒险/休闲放松/物理弹射/游戏平台等品类，全部≥50行，0个失败 |
 
 ## Phase 1 Log
 
@@ -854,3 +865,9 @@
 [2026-08-21 01:09] [R126] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 [2026-08-21 01:09] [R126] [Phase 5: Git Push] ⏭️ 待执行
 [2026-08-21 01:09] [R126] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+[2026-08-22 09:00] [R140] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=70+
+[2026-08-22 09:00] [R140] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现3个新来源(S443-S445)
+[2026-08-22 09:00] [R140] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S443-S445)，产出10款游戏文档(G2173-G2182)，覆盖弹幕射击/反应力解谜/寻物冒险/休闲放松/物理弹射/游戏平台等品类，全部≥50行，0个失败
+[2026-08-22 09:00] [R140] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-22 09:00] [R140] [Phase 5: Git Push] ⏭️ 待执行
+[2026-08-22 09:00] [R140] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
