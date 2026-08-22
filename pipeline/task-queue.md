@@ -4,9 +4,9 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S440 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 26 | 2026-08-22 03:42 |
-| S441 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 26 | 2026-08-22 03:42 |
-| S442 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 26 | 2026-08-22 03:42 |
+| S443 | iTunes Search: puzzle adventure game casual mobile fun | https://itunes.apple.com/search?term=puzzle+adventure+game+casual+mobile+fun&media=software&limit=10 | 10 | 2026-08-22 05:25 |
+| S444 | iTunes Search: match 3 puzzle game casual addictive | https://itunes.apple.com/search?term=match+3+puzzle+game+casual+addictive&media=software&limit=10 | 10 | 2026-08-22 05:25 |
+| S445 | iTunes Search: physics puzzle game casual brain | https://itunes.apple.com/search?term=physics+puzzle+game+casual+brain&media=software&limit=10 | 10 | 2026-08-22 05:25 |
 
 ## Sources Processing（处理中）
 
@@ -159,6 +159,10 @@
 || S410 | iTunes Search: hidden object puzzle casual game | https://itunes.apple.com/search?term=hidden+object+puzzle+casual+game&media=software&limit=10 | 10 | 2026-08-20 21:51 |
 || S411 | iTunes Search: word scramble puzzle brain game | https://itunes.apple.com/search?term=word+scramble+puzzle+brain+game&media=software&limit=10 | 10 | 2026-08-20 21:51 |
 || S412 | iTunes Search: idle farm tycoon management game | https://itunes.apple.com/search?term=idle+farm+tycoon+management+game&media=software&limit=10 | 10 | 2026-08-20 21:51 |
+| S440 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-22 05:25 |
+| S441 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-22 05:25 |
+| S442 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-22 05:25 |
+
 ## Games Pending（待处理游戏）
 
 | ID | 游戏名 | 文档文件 | 来源 |
@@ -692,6 +696,16 @@
 | G2134 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260821_2250.md | 2026-08-21 22:50 |
 | G2135 | Clicker Heroes - Idle Slayer | docs/ClickerHeroesIdleSlayer_20260821_2250.md | 2026-08-21 22:50 |
 | G2136 | Epic Clickers | docs/EpicClickers_20260821_2250.md | 2026-08-21 22:50 |
+| G2163 | Stormshot: Isle of Adventure | docs/StormshotIsleofAdventure_20260822_0525.md | 2026-08-22 05:25 |
+| G2164 | Brain It On! | docs/BrainItOnPhysicsPuzzle_20260822_0525.md | 2026-08-22 05:25 |
+| G2165 | Royal Smash! | docs/RoyalSmashPhysicsPuzzle_20260822_0525.md | 2026-08-22 05:25 |
+| G2166 | Lemmings | docs/LemmingsStrategyPuzzle_20260822_0525.md | 2026-08-22 05:25 |
+| G2167 | Cut the Rope | docs/CutTheRopePhysicsPuzzle_20260822_0525.md | 2026-08-22 05:25 |
+| G2168 | Jelly Splash | docs/JellySplashFunPuzzleGame_20260822_0525.md | 2026-08-22 05:25 |
+| G2169 | Brain Dots | docs/BrainDotsPhysicsPuzzle_20260822_0525.md | 2026-08-22 05:25 |
+| G2170 | Lost Island: Blast Adventure | docs/LostIslandBlastAdventure_20260822_0525.md | 2026-08-22 05:25 |
+| G2171 | Enigmo | docs/Enigmo3DPuzzleGame_20260822_0525.md | 2026-08-22 05:25 |
+| G2172 | Matchland Quest | docs/MatchlandQuestMatch3Game_20260822_0525.md | 2026-08-22 05:25 |
 
 
 ## Games Archived（历史累计，最近100条）
@@ -765,6 +779,12 @@
 | S428 | iTunes Search: popcap classic games list mechanics | https://itunes.apple.com/search?term=popcap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-21 23:00 |
 | S429 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-21 23:00 |
 | S430 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-21 23:00 |
+| S440 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-22 05:25 |
+| S441 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-22 05:25 |
+| S442 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-22 05:25 |
+| S443 | iTunes Search: puzzle adventure game casual mobile fun | https://itunes.apple.com/search?term=puzzle+adventure+game+casual+mobile+fun&media=software&limit=10 | 10 | 2026-08-22 05:25 |
+| S444 | iTunes Search: match 3 puzzle game casual addictive | https://itunes.apple.com/search?term=match+3+puzzle+game+casual+addictive&media=software&limit=10 | 10 | 2026-08-22 05:25 |
+| S445 | iTunes Search: physics puzzle game casual brain | https://itunes.apple.com/search?term=physics+puzzle+game+casual+brain&media=software&limit=10 | 10 | 2026-08-22 05:25 |
 
 ## Execution Log
 
@@ -809,6 +829,8 @@
 | R135 | 2026-08-22 05:00 | 3 (S434-S436) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(word puzzle casual mobile/physics puzzle casual/merge puzzle idle casual)，产出30款游戏(G2077-G2106)，覆盖文字解谜/物理益智/合并消除等品类，全部>=50行，0个失败 |
 | R136 | 2026-08-21 22:50 | 3 (S437-S439) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/hyper casual gameplay/idle clicker)，产出30款游戏(G2107-G2136)，覆盖休闲合集/超休闲动作/放置点击/射击/竞速/体育等品类，全部>=50行，0个失败 |
 | R138 | 2026-08-22 03:42 | 3 (S440-S442) | 3 (直接归档) | 26 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual/idle clicker)，产出26款游戏(G2137-G2162)，覆盖休闲合集/放置点击/横版射击/潜行解谜等品类，全部>=50行，0个失败 |
+
+| R139 | 2026-08-22 05:25 | 3 (S443-S445) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(puzzle adventure/match 3/physics puzzle)，产出10款游戏(G2163-G2172)，覆盖弹道解谜/物理绘图/三消除/管道导向/经典策略等品类，全部>=50行，0个失败 |
 
 ## Phase 1 Log
 
