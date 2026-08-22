@@ -4,9 +4,6 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S443 | iTunes Search: puzzle adventure game casual mobile fun | https://itunes.apple.com/search?term=puzzle+adventure+game+casual+mobile+fun&media=software&limit=10 | 10 | 2026-08-22 05:25 |
-| S444 | iTunes Search: match 3 puzzle game casual addictive | https://itunes.apple.com/search?term=match+3+puzzle+game+casual+addictive&media=software&limit=10 | 10 | 2026-08-22 05:25 |
-| S445 | iTunes Search: physics puzzle game casual brain | https://itunes.apple.com/search?term=physics+puzzle+game+casual+brain&media=software&limit=10 | 10 | 2026-08-22 05:25 |
 
 ## Sources Processing（处理中）
 
@@ -782,9 +779,6 @@
 | S440 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-22 05:25 |
 | S441 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-22 05:25 |
 | S442 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-22 05:25 |
-| S443 | iTunes Search: puzzle adventure game casual mobile fun | https://itunes.apple.com/search?term=puzzle+adventure+game+casual+mobile+fun&media=software&limit=10 | 10 | 2026-08-22 05:25 |
-| S444 | iTunes Search: match 3 puzzle game casual addictive | https://itunes.apple.com/search?term=match+3+puzzle+game+casual+addictive&media=software&limit=10 | 10 | 2026-08-22 05:25 |
-| S445 | iTunes Search: physics puzzle game casual brain | https://itunes.apple.com/search?term=physics+puzzle+game+casual+brain&media=software&limit=10 | 10 | 2026-08-22 05:25 |
 
 ## Execution Log
 
