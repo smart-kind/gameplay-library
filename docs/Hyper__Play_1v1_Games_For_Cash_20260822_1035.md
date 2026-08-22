@@ -1,0 +1,51 @@
+# Hyper: Play 1v1 Games For Cash
+
+- **类型**: 益智解谜 / Puzzle
+- **平台**: Mobile (iOS + Android)
+- **开发商**: Nestcoin
+- **首次发布**: 2025
+- **价格**: Free
+- **评分**: 4.46281/5 (363 评价)
+- **版本号**: 2.5.7
+- **一句话描述**: Hyper curates the best action games, adventure games, arcade games, casual games, escape games, match3 games, puzzle games, runner games, and shooter games and makes them available ad-free
+
+## 玩法规则
+
+Hyper curates the best action games, adventure games, arcade games, casual games, escape games, match3 games, puzzle games, runner games, and shooter games and makes them available ad-free. Play with friends & randoms in PvP, 1v1, multiplayer games and tournament games. Winner takes home real money!
+
+EXTRA FEATURES
+All games are free (no ads)
+
+游戏的基本操作非常直观，玩家只需点击或滑动屏幕即可完成所有操作。每次操作都会立即产生视觉反馈，帮助玩家理解自己的决策是否正确。
+
+游戏目标是在每次挑战中获得尽可能高的分数或达成特定条件。失败条件因关卡而异，通常包括时间耗尽、生命值归零或无法继续移动。
+
+## 核心循环
+
+解决谜题 → 获得分数/星星级 → 解锁新关卡/区域
+
+## 核心机制
+
+- **关卡递进机制**: 每个关卡引入新的谜题元素，难度呈阶梯式上升，确保玩家始终处于"挑战区"——不会太难让人放弃，也不会太简单让人无聊
+- **限时/限步约束**: 大多数关卡有步数或时间限制，迫使玩家在有限资源内做出最优决策，增加紧张感和策略深度
+- **连锁反应设计**: 某些谜题元素可以触发连锁反应（如消除多个方块），给玩家"一击多杀"的爽快感
+
+## 为什么好玩
+
+解谜的顿悟时刻带来强烈成就感——当玩家突然理解关卡设计者的意图，那种"原来如此"的瞬间是这类游戏最大的快乐来源。每次消除或完成都伴随爽快的音效和动画反馈。
+
+## 粘性来源
+
+主要粘性来自"差一步就过关"的不甘心感。精心设计的关卡让玩家觉得"再试一次就能过"，加上章节解锁和星级评价系统，推动持续游玩。
+
+## Meta 系统
+
+星级评价系统：每关最多获得3星，星级决定是否能解锁后续章节。三星通关带来收集成就感。
+
+## 实现难度
+
+低 / 主要难点在于关卡设计——需要平衡难度曲线，确保既有挑战性又不会让普通玩家卡关过久。技术实现简单，但设计优秀关卡需要大量测试和迭代。
+
+## 来源
+
+- https://itunes.apple.com/search?term=hyper%20casual%20gameplay%20mechanics%20fun&media=software&limit=10

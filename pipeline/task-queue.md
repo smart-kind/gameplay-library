@@ -159,6 +159,10 @@
 | S440 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-22 05:25 |
 | S441 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-22 05:25 |
 | S442 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-22 05:25 |
+| S449 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best%20mini%20games%20mobile%20casual%202024%202025&media=software&limit=10 | 9 | 2026-08-22 12:00 |
+| S450 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper%20casual%20gameplay%20mechanics%20fun&media=software&limit=10 | 10 | 2026-08-22 12:00 |
+| S451 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle%20clicker%20games%20best%20mechanics&media=software&limit=10 | 10 | 2026-08-22 12:00 |
+
 
 ## Games Pending（待处理游戏）
 
@@ -835,6 +839,7 @@
 | R138 | 2026-08-22 03:42 | 3 (S440-S442) | 3 (直接归档) | 26 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual/idle clicker)，产出26款游戏(G2137-G2162)，覆盖休闲合集/放置点击/横版射击/潜行解谜等品类，全部>=50行，0个失败 |
 
 || R139 | 2026-08-22 05:25 | 3 (S443-S445) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(puzzle adventure/match 3/physics puzzle)，产出10款游戏(G2163-G2172)，覆盖弹道解谜/物理绘图/三消除/管道导向/经典策略等品类，全部>=50行，0个失败 |
+| R141 | 2026-08-22 12:00 | 3 (S449-S451) | 3 (直接归档) | 29 | 0 | iTunes API搜索3组关键词，产出29款游戏文档，全部≥50行，0个失败 |
 | R140 | 2026-08-22 09:00 | 3 (S443-S445) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/Google Play trending)，产出10款游戏(G2173-G2182)，覆盖弹幕射击/反应力解谜/寻物冒险/休闲放松/物理弹射/游戏平台等品类，全部≥50行，0个失败 |
 
 ## Phase 1 Log
