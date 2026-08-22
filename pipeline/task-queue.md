@@ -93,6 +93,9 @@
 | S455 | iTunes Search: match 3 puzzle casual addictive game | https://itunes.apple.com/search?term=match+3+puzzle+casual+addictive+game&media=software&limit=10 | 10 | 2026-08-22 13:51 |
 | S456 | iTunes Search: physics puzzle casual fun game | https://itunes.apple.com/search?term=physics+puzzle+casual+fun+game&media=software&limit=10 | 10 | 2026-08-22 13:51 |
 | S457 | iTunes Search: word puzzle brain casual game | https://itunes.apple.com/search?term=word+puzzle+brain+casual+game&media=software&limit=10 | 10 | 2026-08-22 13:51 |
+| S458 | iTunes Search: rhythm music game casual fun | https://itunes.apple.com/search?term=rhythm+music+game+casual+fun&media=software&limit=10 | 10 | 2026-08-22 15:36 |
+| S459 | iTunes Search: escape room puzzle adventure | https://itunes.apple.com/search?term=escape+room+puzzle+adventure&media=software&limit=10 | 10 | 2026-08-22 15:36 |
+| S460 | iTunes Search: card battle strategy deckbuilder | https://itunes.apple.com/search?term=card+battle+strategy+deckbuilder&media=software&limit=10 | 10 | 2026-08-22 15:36 |
 
 
 ## Sources Archived（历史累计）
@@ -220,6 +223,36 @@
 | G2222 | Brick Block - Puzzle Game | docs/BrickBlock-PuzzleGame_20260822_1351.md | 2026-08-22 13:51 |
 | G2223 | Match the Dots by IceMochi | docs/MatchtheDotsbyIceMochi_20260822_1351.md | 2026-08-22 13:51 |
 | G2224 | Matchland Quest | docs/MatchlandQuest_20260822_1351.md | 2026-08-22 13:51 |
+| G2225 | Music Tiles 2 - Fun Piano Game | docs/MusicTiles2FunPianoGame_20260822_1536.md | 2026-08-22 15:36 |
+| G2226 | Tiles Hop: Music Ball Smash | docs/TilesHopMusicBallSmash_20260822_1536.md | 2026-08-22 15:36 |
+| G2227 | BanG Dream! Girls Band Party! | docs/BanGDreamGirlsBandParty_20260822_1536.md | 2026-08-22 15:36 |
+| G2228 | Dancing LINE - Music Game | docs/DancingLineMusicGame_20260822_1536.md | 2026-08-22 15:36 |
+| G2229 | Magic Tiles 3™: Piano Game | docs/MagicTiles3PianoGame_20260822_1536.md | 2026-08-22 15:36 |
+| G2230 | Rhythm Hive | docs/RhythmHive_20260822_1536.md | 2026-08-22 15:36 |
+| G2231 | SuperStar: Music Game | docs/SuperStarMusicGame_20260822_1536.md | 2026-08-22 15:36 |
+| G2232 | Beat Smash 3D: EDM Music Game | docs/BeatSmash3DEDMMusicGame_20260822_1536.md | 2026-08-22 15:36 |
+| G2233 | Dot n Beat-Test hand speed | docs/DotnBeatTesthandspeed_20260822_1536.md | 2026-08-22 15:36 |
+| G2234 | Duet Cats: Rhythm Meow Game | docs/DuetCatsRhythmMeowGame_20260822_1536.md | 2026-08-22 15:36 |
+| G2235 | Prison Escape Puzzle Adventure | docs/PrisonEscapePuzzleAdventure_20260822_1536.md | 2026-08-22 15:36 |
+| G2236 | Rooms & Exits: Puzzle Escape | docs/RoomsExitsPuzzleEscape_20260822_1536.md | 2026-08-22 15:36 |
+| G2237 | Great Escapes | docs/GreatEscapes_20260822_1536.md | 2026-08-22 15:36 |
+| G2238 | Titanic: The Mystery Room Escape Adventure Game | docs/TitanicTheMysteryRoomEscapeAdventureGame_20260822_1536.md | 2026-08-22 15:36 |
+| G2239 | Room Escape: 50 rooms I | docs/RoomEscape50roomsI_20260822_1536.md | 2026-08-22 15:36 |
+| G2240 | Escape Room:Can you escape? | docs/EscapeRoomCanyouescape_20260822_1536.md | 2026-08-22 15:36 |
+| G2241 | Escape Room!! | docs/EscapeRoom_20260822_1536.md | 2026-08-22 15:36 |
+| G2242 | 50 Tiny Room Escape | docs/50TinyRoomEscape_20260822_1536.md | 2026-08-22 15:36 |
+| G2243 | Escape 100 Rooms-Season 1 | docs/Escape100RoomsSeason1_20260822_1536.md | 2026-08-22 15:36 |
+| G2244 | Escape Room:New Escape Games | docs/EscapeRoomNewEscapeGames_20260822_1536.md | 2026-08-22 15:36 |
+| G2245 | Magic: The Gathering Arena | docs/MagicTheGatheringArena_20260822_1536.md | 2026-08-22 15:36 |
+| G2246 | Legends of Runeterra | docs/LegendsofRuneterra_20260822_1536.md | 2026-08-22 15:36 |
+| G2247 | Stormbound | docs/Stormbound_20260822_1536.md | 2026-08-22 15:36 |
+| G2248 | Cards, Universe & Everything | docs/CardsUniverseEverything_20260822_1536.md | 2026-08-22 15:36 |
+| G2249 | Epic Cards Battle (TCG) | docs/EpicCardsBattleTCG_20260822_1536.md | 2026-08-22 15:36 |
+| G2250 | Lies Of Astaroth-Clash Games | docs/LiesOfAstarothClashGames_20260822_1536.md | 2026-08-22 15:36 |
+| G2251 | Clash Royale | docs/ClashRoyale_20260822_1536.md | 2026-08-22 15:36 |
+| G2252 | KARDS - The WW2 Card Game | docs/KARDSTheWW2CardGame_20260822_1536.md | 2026-08-22 15:36 |
+| G2253 | Hearthstone | docs/Hearthstone_20260822_1536.md | 2026-08-22 15:36 |
+| G2254 | Dungeon Tales : RPG Card Game | docs/DungeonTalesRPGCardGame_20260822_1536.md | 2026-08-22 15:36 |
 
 
 
@@ -893,6 +926,7 @@
 | R140 | 2026-08-22 09:00 | 3 (S443-S445) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/Google Play trending)，产出10款游戏(G2173-G2182)，覆盖弹幕射击/反应力解谜/寻物冒险/休闲放松/物理弹射/游戏平台等品类，全部≥50行，0个失败 |
 
 | R143 | 2026-08-22 13:51 | 3 (S455-S457) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(match 3 puzzle/physics puzzle casual/word puzzle brain)，产出10款游戏(G2215-G2224)，覆盖三消除/物理益智/文字解谜/方块消除等品类，全部≥56行，0个失败 |
+| R144 | 2026-08-22 15:36 | 3 (S458-S460) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(rhythm music game casual fun/escape room puzzle adventure/card battle strategy deckbuilder)，产出30款游戏(G2225-G2254)，覆盖音乐节奏/解谜逃脱/卡牌对战三品类，全部≥50行，0个失败 |
 
 ## Phase 1 Log
 
