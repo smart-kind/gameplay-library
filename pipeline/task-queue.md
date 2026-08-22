@@ -159,9 +159,12 @@
 | S440 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-22 05:25 |
 | S441 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-22 05:25 |
 | S442 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-22 05:25 |
-| S449 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best%20mini%20games%20mobile%20casual%202024%202025&media=software&limit=10 | 9 | 2026-08-22 12:00 |
-| S450 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper%20casual%20gameplay%20mechanics%20fun&media=software&limit=10 | 10 | 2026-08-22 12:00 |
-| S451 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle%20clicker%20games%20best%20mechanics&media=software&limit=10 | 10 | 2026-08-22 12:00 |
+|| S449 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best%20mini%20games%20mobile%20casual%202024%202025&media=software&limit=10 | 9 | 2026-08-22 12:00 |
+|| S450 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper%20casual%20gameplay%20mechanics%20fun&media=software&limit=10 | 10 | 2026-08-22 12:00 |
+|| S451 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle%20clicker%20games%20best%20mechanics&media=software&limit=10 | 10 | 2026-08-22 12:00 |
+|| S452 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-22 12:09 |
+|| S453 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-22 12:09 |
+|| S454 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-22 12:09 |
 
 
 ## Games Pending（待处理游戏）
@@ -173,9 +176,39 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
-| G1705 | Samurai Flash | docs/SamuraiFlash_20260820_0331.md | 2026-08-20 03:31 |
-| G1706 | Burning Bubbles Lab | docs/BurningBubblesLab_20260820_0331.md | 2026-08-20 03:31 |
-| G1707 | Flash it! Slip Shot.io on Dark Paper | docs/FlashitSlipShotioonDarkPaper_20260820_0331.md | 2026-08-20 03:31 |
+| G2185 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260822_1209.md | 2026-08-22 12:09 |
+| G2186 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260822_1209.md | 2026-08-22 12:09 |
+| G2187 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260822_1209.md | 2026-08-22 12:09 |
+| G2188 | Big Time Games | docs/BigTimeGames_20260822_1209.md | 2026-08-22 12:09 |
+| G2189 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260822_1209.md | 2026-08-22 12:09 |
+| G2190 | Offline Games - No Wifi Games | docs/OfflineGamesNoWifiGames_20260822_1209.md | 2026-08-22 12:09 |
+| G2191 | Mini Motor Racing | docs/MiniMotorRacing_20260822_1209.md | 2026-08-22 12:09 |
+| G2192 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260822_1209.md | 2026-08-22 12:09 |
+| G2193 | 2 3 4 Player Games | docs/234PlayerGames_20260822_1209.md | 2026-08-22 12:09 |
+| G2194 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260822_1209.md | 2026-08-22 12:09 |
+| G2195 | Bullet Rush! | docs/BulletRush_20260822_1209.md | 2026-08-22 12:09 |
+| G2196 | Gun Head Run | docs/GunHeadRun_20260822_1209.md | 2026-08-22 12:09 |
+| G2197 | Squad Alpha - Action Shooting | docs/SquadAlphaActionShooting_20260822_1209.md | 2026-08-22 12:09 |
+| G2198 | Hyperball | docs/Hyperball_20260822_1209.md | 2026-08-22 12:09 |
+| G2199 | Save the grandmother | docs/Savethegrandmother_20260822_1209.md | 2026-08-22 12:09 |
+| G2200 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260822_1209.md | 2026-08-22 12:09 |
+| G2201 | Sneak Out 3D | docs/SneakOut3D_20260822_1209.md | 2026-08-22 12:09 |
+| G2202 | Gun Sprint | docs/GunSprint_20260822_1209.md | 2026-08-22 12:09 |
+| G2203 | Hyper Arrow | docs/HyperArrow_20260822_1209.md | 2026-08-22 12:09 |
+| G2204 | Push Master | docs/PushMaster_20260822_1209.md | 2026-08-22 12:09 |
+| G2205 | CivCrafter | docs/CivCrafter_20260822_1209.md | 2026-08-22 12:09 |
+| G2206 | Idle Sheep! | docs/IdleSheep_20260822_1209.md | 2026-08-22 12:09 |
+| G2207 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260822_1209.md | 2026-08-22 12:09 |
+| G2208 | Idle Universe | docs/IdleUniverse_20260822_1209.md | 2026-08-22 12:09 |
+| G2209 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260822_1209.md | 2026-08-22 12:09 |
+| G2210 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260822_1209.md | 2026-08-22 12:09 |
+| G2211 | Idle Game 1 | docs/IdleGame1_20260822_1209.md | 2026-08-22 12:09 |
+| G2212 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260822_1209.md | 2026-08-22 12:09 |
+| G2213 | Clicker Heroes - Idle Slayer | docs/ClickerHeroesIdleSlayer_20260822_1209.md | 2026-08-22 12:09 |
+| G2214 | Epic Clickers | docs/EpicClickers_20260822_1209.md | 2026-08-22 12:09 |
+
+
+## Games Archived（历史累计，最近100条）
 | G1708 | Brick Breaker Classic 2016 - Ultimate Revolution | docs/BrickBreakerClassic2016UltimateRevolution_20260820_0331.md | 2026-08-20 03:31 |
 | G1709 | Super Hero Classic Reborn | docs/SuperHeroClassicReborn_20260820_0331.md | 2026-08-20 03:31 |
 | G1710 | CivCrafter | docs/CivCrafter_20260820_0331.md | 2026-08-20 03:31 |
