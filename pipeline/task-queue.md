@@ -180,6 +180,9 @@
 | S464 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-22 18:50 |
 | S465 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-22 18:50 |
 | S466 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-22 18:50 |
+| S467 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-22 20:41 |
+| S468 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-22 20:41 |
+| S469 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-22 20:41 |
 
 
 ## Games Pending（待处理游戏）
@@ -273,6 +276,35 @@
 | G2264 | Super Bino Go 2: Jump N Run | docs/SuperBinoGo2JumpNRun_20260822_1713.md | 2026-08-22 17:13 |
 | G2265 | Apple Games | docs/AppleGames_20260822_1713.md | 2026-08-22 17:13 |
 | G2266 | Bix Challenge | docs/BixChallenge_20260822_1713.md | 2026-08-22 17:13 |
+| G2267 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260822_2041.md | 2026-08-22 20:41 |
+| G2268 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260822_2041.md | 2026-08-22 20:41 |
+| G2269 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260822_2041.md | 2026-08-22 20:41 |
+| G2270 | Big Time Games | docs/BigTimeGames_20260822_2041.md | 2026-08-22 20:41 |
+| G2271 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260822_2041.md | 2026-08-22 20:41 |
+| G2272 | Offline Games - No Wifi Games | docs/OfflineGamesNoWifiGames_20260822_2041.md | 2026-08-22 20:41 |
+| G2273 | Mini Motor Racing | docs/MiniMotorRacing_20260822_2041.md | 2026-08-22 20:41 |
+| G2274 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260822_2041.md | 2026-08-22 20:41 |
+| G2275 | 2 3 4 Player Games | docs/234PlayerGames_20260822_2041.md | 2026-08-22 20:41 |
+| G2276 | Bullet Rush! | docs/BulletRush_20260822_2041.md | 2026-08-22 20:41 |
+| G2277 | Gun Head Run | docs/GunHeadRun_20260822_2041.md | 2026-08-22 20:41 |
+| G2278 | Squad Alpha - Action Shooting | docs/SquadAlphaActionShooting_20260822_2041.md | 2026-08-22 20:41 |
+| G2279 | Hyperball | docs/Hyperball_20260822_2041.md | 2026-08-22 20:41 |
+| G2280 | Save the grandmother | docs/Savethegrandmother_20260822_2041.md | 2026-08-22 20:41 |
+| G2281 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260822_2041.md | 2026-08-22 20:41 |
+| G2282 | Sneak Out 3D | docs/SneakOut3D_20260822_2041.md | 2026-08-22 20:41 |
+| G2283 | Gun Sprint | docs/GunSprint_20260822_2041.md | 2026-08-22 20:41 |
+| G2284 | Hyper Arrow | docs/HyperArrow_20260822_2041.md | 2026-08-22 20:41 |
+| G2285 | Push Master | docs/PushMaster_20260822_2041.md | 2026-08-22 20:41 |
+| G2286 | Magic Mushrooms - Idle Game | docs/MagicMushroomsIdleGame_20260822_2041.md | 2026-08-22 20:41 |
+| G2287 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260822_2041.md | 2026-08-22 20:41 |
+| G2288 | Idle Sheep! | docs/IdleSheep_20260822_2041.md | 2026-08-22 20:41 |
+| G2289 | CivCrafter | docs/CivCrafter_20260822_2041.md | 2026-08-22 20:41 |
+| G2290 | Bacterial Takeover - Idle game | docs/BacterialTakeoverIdlegame_20260822_2041.md | 2026-08-22 20:41 |
+| G2291 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260822_2041.md | 2026-08-22 20:41 |
+| G2292 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260822_2041.md | 2026-08-22 20:41 |
+| G2293 | Idle Game 1 | docs/IdleGame1_20260822_2041.md | 2026-08-22 20:41 |
+| G2294 | Tap Tap Dig - Idle Clicker | docs/TapTapDigIdleClicker_20260822_2041.md | 2026-08-22 20:41 |
+| G2295 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260822_2041.md | 2026-08-22 20:41 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -487,6 +519,7 @@
 | R144 | 2026-08-22 15:36 | 3 (S458-S460) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(rhythm music game casual fun/escape room puzzle adventure/card battle strategy deckbuilder)，产出30款游戏(G2225-G2254)，覆盖音乐节奏/解谜逃脱/卡牌对战三品类，全部≥50行，0个失败 |
 | R145 | 2026-08-22 17:13 | 3 (S461-S463) | 3 (直接归档) | 12 | 0 | iTunes API搜索3组关键词(Nintendo Switch indie puzzle casual/flash games best classic gameplay/Google Play trending casual games)，产出12款游戏(G2255-G2266)，覆盖益智解谜/动作/跑酷/休闲/策略等品类，全部≥50行，0个失败 |
 | R146 | 2026-08-22 18:50 | 3 (S464-S466) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/viral hyper casual games list/idle clicker games)，产出10款游戏(G2267-G2276)，覆盖休闲合集/超休闲动作/放置点击等品类，全部≥50行，0个失败 |
+| R147 | 2026-08-22 20:41 | 3 (S467-S469) | 3 (直接归档) | 29 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/hyper casual gameplay mechanics fun/idle clicker games best mechanics)，产出29款游戏(G2267-G2295)，覆盖休闲合集/动作射击/放置点击/超休闲跑酷等品类，全部≥50行，0个失败 |
 
 ## Phase 1 Log
 
@@ -495,4 +528,10 @@
 [2026-08-22 18:50] [R146] [Phase 3: Process Sources] ✅ 完成 — 处理3来源(S464-S466)，基于iTunes API描述数据产出10款游戏文档(G2267-G2276)，全部≥50行，0个失败
 [2026-08-22 18:50] [R146] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 [2026-08-22 18:50] [R146] [Phase 5: Git Push] ⏭️ 待执行
-[2026-08-22 18:50] [R146] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S464-S466，10款游戏G2267-G2276)
+|[2026-08-22 18:50] [R146] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S464-S466，10款游戏G2267-G2276)
+|[2026-08-22 20:41] [R147] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=469
+|[2026-08-22 20:41] [R147] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现3个新来源(S467-S469)，共29款游戏
+|[2026-08-22 20:41] [R147] [Phase 3: Process Sources] ✅ 完成 — 处理3来源(S467-S469)，基于iTunes API描述数据产出29款游戏文档(G2267-G2295)，全部≥50行，0个失败
+|[2026-08-22 20:41] [R147] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-22 20:41] [R147] [Phase 5: Git Push] ⏭️ 待执行
+|[2026-08-22 20:41] [R147] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S467-S469，29款游戏G2267-G2295)
