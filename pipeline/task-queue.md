@@ -132,7 +132,10 @@
 | S499 | iTunes Search: card roguelike deckbuilding mobile | https://itunes.apple.com/search?term=card+roguelike+deckbuilding+mobile&media=software&limit=10 | 10 | 2026-08-23 18:00 |
 | S500 | iTunes Search: party game casual multiplayer mobile | https://itunes.apple.com/search?term=party+game+casual+multiplayer+mobile&media=software&limit=10 | 10 | 2026-08-23 20:00 |
 | S501 | iTunes Search: social detective casual story mobile | https://itunes.apple.com/search?term=social+detective+casual+story+mobile&media=software&limit=10 | 8 | 2026-08-23 20:00 |
-| S502 | iTunes Search: minigame collection arcade fun casual | https://itunes.apple.com/search?term=minigame+collection+arcade+fun+casual&media=software&limit=10 | 10 | 2026-08-23 20:00 |
+| S502 | iTunes Search: minigame collection arcade fun casual |
+| S503 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-23 23:16 |
+| S504 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-23 23:16 |
+| S505 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-23 23:16 | https://itunes.apple.com/search?term=minigame+collection+arcade+fun+casual&media=software&limit=10 | 10 | 2026-08-23 20:00 |
 ## Sources Archived（历史累计）
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
@@ -510,6 +513,31 @@
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
 | G2547 | 2 3 4 Player Party Mini Games | docs/234PlayerPartyMiniGames_20260823_2000.md | 2026-08-23 20:00 |
+| G2575 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260823_2316.md | 2026-08-23 23:16 |
+| G2576 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260823_2316.md | 2026-08-23 23:16 |
+| G2577 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260823_2316.md | 2026-08-23 23:16 |
+| G2578 | Big Time Games | docs/BigTimeGames_20260823_2316.md | 2026-08-23 23:16 |
+| G2579 | Mini Games: Calm & Chill | docs/MiniGamesCalm&Chill_20260823_2316.md | 2026-08-23 23:16 |
+| G2580 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle!_20260823_2316.md | 2026-08-23 23:16 |
+| G2581 | 2 3 4 Player Games | docs/234PlayerGames_20260823_2316.md | 2026-08-23 23:16 |
+| G2582 | 2 Player Games : Offline Games | docs/2PlayerGamesOfflineGames_20260823_2316.md | 2026-08-23 23:16 |
+| G2583 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260823_2316.md | 2026-08-23 23:16 |
+| G2584 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260823_2316.md | 2026-08-23 23:16 |
+| G2585 | Fire Balls 3D | docs/FireBalls3D_20260823_2316.md | 2026-08-23 23:16 |
+| G2586 | TopTop: Games & Party | docs/TopTopGames&Party_20260823_2316.md | 2026-08-23 23:16 |
+| G2587 | Apple Games | docs/AppleGames_20260823_2316.md | 2026-08-23 23:16 |
+| G2588 | Squad Alpha - Action Shooting | docs/SquadAlpha-ActionShooting_20260823_2316.md | 2026-08-23 23:16 |
+| G2589 | Save the grandmother | docs/Savethegrandmother_20260823_2316.md | 2026-08-23 23:16 |
+| G2590 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260823_2316.md | 2026-08-23 23:16 |
+| G2591 | CivCrafter | docs/CivCrafter_20260823_2316.md | 2026-08-23 23:16 |
+| G2592 | Bacterial Takeover - Idle game | docs/BacterialTakeover-Idlegame_20260823_2316.md | 2026-08-23 23:16 |
+| G2593 | Idle Sheep! | docs/IdleSheep!_20260823_2316.md | 2026-08-23 23:16 |
+| G2594 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260823_2316.md | 2026-08-23 23:16 |
+| G2595 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260823_2316.md | 2026-08-23 23:16 |
+| G2596 | Idle Game 1 | docs/IdleGame1_20260823_2316.md | 2026-08-23 23:16 |
+| G2597 | Tap Tap Dig - Idle Clicker | docs/TapTapDig-IdleClicker_20260823_2316.md | 2026-08-23 23:16 |
+| G2598 | Tiny Worlds: Dragon Idle games | docs/TinyWorldsDragonIdlegames_20260823_2316.md | 2026-08-23 23:16 |
+| G2599 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260823_2316.md | 2026-08-23 23:16 |
 | G2548 | Stumble Guys | docs/StumbleGuys_20260823_2000.md | 2026-08-23 20:00 |
 | G2549 | Party.io | docs/Partyio_20260823_2000.md | 2026-08-23 20:00 |
 | G2550 | Bunch is MiniParty! | docs/BunchisMiniParty_20260823_2000.md | 2026-08-23 20:00 |
@@ -820,6 +848,12 @@
 ||[2026-08-24 00:00] [R161] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S503-S505)，产出29款游戏文档(G2575-G2603)，覆盖益智消除/寻物解谜/生存建造三品类，全部≥56行，0个失败
 ||[2026-08-24 00:00] [R161] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 ||[2026-08-24 00:00] [R161] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S503-S505，29款游戏G2575-G2603)
+|[2026-08-24 23:17] [R162] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=502+
+|[2026-08-24 23:17] [R162] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现3个新来源(S503-S505)，共28款游戏
+|[2026-08-24 23:17] [R162] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S503-S505)，产出25款游戏文档(G2575-G2599)，覆盖休闲合集/放置点击/动作射击等品类，全部≥50行，0个失败
+|[2026-08-24 23:17] [R162] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-24 23:17] [R162] [Phase 5: Git Push] ✅ 完成 — commit成功
+|[2026-08-24 23:17] [R162] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S503-S505，25款游戏G2575-G2599)
 
 
 ## Phase 1 Log
