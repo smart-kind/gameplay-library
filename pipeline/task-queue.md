@@ -186,6 +186,12 @@
 | S470 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 10 | 2026-08-22 22:30 |
 | S471 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-22 22:30 |
 | S472 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-22 22:30 |
+| S473 | iTunes Search: physics puzzle casual game fun | https://itunes.apple.com/search?term=physics+puzzle+casual+game+fun&media=software&limit=10 | 10 | 2026-08-22 23:58 |
+| S474 | iTunes Search: word puzzle casual brain teaser fun | https://itunes.apple.com/search?term=word+puzzle+casual+brain+teaser+fun&media=software&limit=10 | 10 | 2026-08-22 23:58 |
+| S475 | iTunes Search: hidden object mystery casual game | https://itunes.apple.com/search?term=hidden+object+mystery+casual+game&media=software&limit=10 | 10 | 2026-08-22 23:58 |
+| S476 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-23 01:42 |
+| S477 | iTunes Search: brain training logic puzzle mobile | https://itunes.apple.com/search?term=brain+training+logic+puzzle+mobile&media=software&limit=10 | 10 | 2026-08-23 01:42 |
+| S478 | iTunes Search: survival craft building mobile game | https://itunes.apple.com/search?term=survival+craft+building+mobile+game&media=software&limit=10 | 10 | 2026-08-23 01:42 |
 
 
 ## Games Pending（待处理游戏）
@@ -318,6 +324,16 @@
 | G2303 | Spotlight: Room Escape | docs/SpotlightRoomEscape_20260822_2357.md | 2026-08-22 23:57 |
 | G2304 | Escape Room: Can You Escape | docs/EscapeRoomCanYouEscape_20260822_2357.md | 2026-08-22 23:57 |
 | G2305 | 100 Doors Escape Game | docs/100DoorsEscapeGame_20260822_2357.md | 2026-08-22 23:57 |
+| G2306 | Isle Builder: Click to Survive | docs/IsleBuilderClicktoSurvive_20260823_0142.md | 2026-08-23 01:42 |
+| G2307 | Oxide: Survival Island Online | docs/OxideSurvivalIslandOnline_20260823_0142.md | 2026-08-23 01:42 |
+| G2308 | Merge Clash: Tower Defense | docs/MergeClashTowerDefense_20260823_0142.md | 2026-08-23 01:42 |
+| G2309 | The Creeps! Tower Defense | docs/TheCreeps!TowerDefense_20260823_0142.md | 2026-08-23 01:42 |
+| G2310 | The Tower - Idle Tower Defense | docs/TheTowerIdleTowerDefense_20260823_0142.md | 2026-08-23 01:42 |
+| G2311 | Nonogram: Picture Cross Sudoku | docs/NonogramPictureCrossSudoku_20260823_0142.md | 2026-08-23 01:42 |
+| G2312 | Fill One-Line Puzzle | docs/FillOneLinePuzzle_20260823_0142.md | 2026-08-23 01:42 |
+| G2313 | Raft Survival: Multiplayer | docs/RaftSurvivalMultiplayer_20260823_0142.md | 2026-08-23 01:42 |
+| G2314 | Lumosity: Brain Training Games | docs/LumosityBrainTrainingGames_20260823_0142.md | 2026-08-23 01:42 |
+| G2315 | Slide Puzzle: Unblock It | docs/SlidePuzzleUnblockIt_20260823_0142.md | 2026-08-23 01:42 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -534,7 +550,8 @@
 | R146 | 2026-08-22 18:50 | 3 (S464-S466) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/viral hyper casual games list/idle clicker games)，产出10款游戏(G2267-G2276)，覆盖休闲合集/超休闲动作/放置点击等品类，全部≥50行，0个失败 |
 | R147 | 2026-08-22 20:41 | 3 (S467-S469) | 3 (直接归档) | 29 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/hyper casual gameplay mechanics fun/idle clicker games best mechanics)，产出29款游戏(G2267-G2295)，覆盖休闲合集/动作射击/放置点击/超休闲跑酷等品类，全部≥50行，0个失败 |
 | R148 | 2026-08-22 22:30 | 3 (S470-S472) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/idle clicker)，产出10款游戏文档(G2296-G2305)，覆盖放置炼金/细菌放置/挖矿点击/文明建设/人群发射/弹幕跑酷/潜行解谜/射击/行星建设/游戏合集等品类，全部>=50行，0个失败 |
-| R149 | 2026-08-22 23:58 | 3 (S473-S475) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(physics puzzle casual game fun/word puzzle casual brain teaser fun/hidden object mystery casual game)，产出10款游戏文档(G2296-G2305)，覆盖找物解谜/逃脱解谜/物理解谜/整理收纳等品类，全部≥50行，0个失败 |
+| R149 | 2026-08-22 23:58 | 3 (S473-S475) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(physics puzzle casual/word puzzle brain/hidden object mystery)，产出10款游戏文档(G2296-G2305)，覆盖找物解谜/逃脱解谜/物理解谜/整理收纳等品类，全部≥50行，0个失败 |
+| R150 | 2026-08-23 01:42 | 3 (S476-S478) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(tower defense strategy puzzle/brain training logic puzzle/survival craft building)，产出10款游戏文档(G2306-G2315)，覆盖塔防/生存建造/逻辑解谜/脑力训练/滑块解谜等品类，全部≥45行，0个失败 |
 
 ## Phase 1 Log
 
