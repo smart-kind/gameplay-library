@@ -117,6 +117,9 @@
 | S485 | iTunes Search: merge puzzle idle casual | https://itunes.apple.com/search?term=merge+puzzle+idle+casual&media=software&limit=10 | 10 | 2026-08-23 08:30 |
 | S486 | iTunes Search: tower defense strategy mobile | https://itunes.apple.com/search?term=tower+defense+strategy+mobile&media=software&limit=10 | 10 | 2026-08-23 08:30 |
 | S487 | iTunes Search: card battle deckbuilder mobile | https://itunes.apple.com/search?term=card+battle+deckbuilder+mobile&media=software&limit=10 | 10 | 2026-08-23 08:30 |
+| S491 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-23 10:00 |
+| S492 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-23 10:00 |
+| S493 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-23 10:00 |
 
 
 ## Sources Archived（历史累计）
@@ -432,6 +435,35 @@
 | G2402 | Legends of Runeterra | docs/LegendsofRuneterra_20260823_0830.md | 2026-08-23 08:30 |
 | G2403 | Epic Cards Battle (TCG) | docs/EpicCardsBattleTCG_20260823_0830.md | 2026-08-23 08:30 |
 | G2404 | Hearthstone | docs/Hearthstone_20260823_0830.md | 2026-08-23 08:30 |
+| G2405 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260823_1000.md | 2026-08-23 10:00 |
+| G2406 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260823_1000.md | 2026-08-23 10:00 |
+| G2407 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260823_1000.md | 2026-08-23 10:00 |
+| G2408 | Big Time Games | docs/BigTimeGames_20260823_1000.md | 2026-08-23 10:00 |
+| G2409 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260823_1000.md | 2026-08-23 10:00 |
+| G2410 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260823_1000.md | 2026-08-23 10:00 |
+| G2411 | 2 3 4 Player Games | docs/234PlayerGames_20260823_1000.md | 2026-08-23 10:00 |
+| G2412 | 2 Player Games : Offline Games | docs/2PlayerGamesOfflineGames_20260823_1000.md | 2026-08-23 10:00 |
+| G2413 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260823_1000.md | 2026-08-23 10:00 |
+| G2414 | Traffic Turn | docs/TrafficTurn_20260823_1000.md | 2026-08-23 10:00 |
+| G2415 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260823_1000.md | 2026-08-23 10:00 |
+| G2416 | Save the grandmother | docs/Savethegrandmother_20260823_1000.md | 2026-08-23 10:00 |
+| G2417 | Bullet Rush! | docs/BulletRush_20260823_1000.md | 2026-08-23 10:00 |
+| G2418 | Gun Sprint | docs/GunSprint_20260823_1000.md | 2026-08-23 10:00 |
+| G2419 | Squad Alpha - Action Shooting | docs/SquadAlphaActionShooting_20260823_1000.md | 2026-08-23 10:00 |
+| G2420 | Bubble Shooter Pop! | docs/BubbleShooterPop_20260823_1000.md | 2026-08-23 10:00 |
+| G2421 | Sneak Out 3D | docs/SneakOut3D_20260823_1000.md | 2026-08-23 10:00 |
+| G2422 | Hyper Arrow | docs/HyperArrow_20260823_1000.md | 2026-08-23 10:00 |
+| G2423 | Push Master | docs/PushMaster_20260823_1000.md | 2026-08-23 10:00 |
+| G2424 | Magic Mushrooms - Idle Game | docs/MagicMushroomsIdleGame_20260823_1000.md | 2026-08-23 10:00 |
+| G2425 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260823_1000.md | 2026-08-23 10:00 |
+| G2426 | Idle Sheep! | docs/IdleSheep_20260823_1000.md | 2026-08-23 10:00 |
+| G2427 | CivCrafter | docs/CivCrafter_20260823_1000.md | 2026-08-23 10:00 |
+| G2428 | Bacterial Takeover - Idle game | docs/BacterialTakeoverIdlegame_20260823_1000.md | 2026-08-23 10:00 |
+| G2429 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260823_1000.md | 2026-08-23 10:00 |
+| G2430 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260823_1000.md | 2026-08-23 10:00 |
+| G2431 | Idle Game 1 | docs/IdleGame1_20260823_1000.md | 2026-08-23 10:00 |
+| G2432 | Tap Tap Dig - Idle Clicker | docs/TapTapDigIdleClicker_20260823_1000.md | 2026-08-23 10:00 |
+| G2433 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260823_1000.md | 2026-08-23 10:00 |
 
 ## Games Archived（历史累计，最近100条）
 
