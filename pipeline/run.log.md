@@ -502,6 +502,10 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 
 ## 2026-08-23
 
+[2026-08-23 16:30] [R157] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=493+
+
+## 2026-08-23
+
 [2026-08-23 11:36] [R155] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=3(S491-S493), Processing=0, Archived=493+
 [2026-08-20 08:19] [R116] [Phase 2: Discover] ✅ 完成 — 搜索3组，发现3个新来源(S386-S388)
 [2026-08-20 08:20] [R116] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S386-S388)，产出11款游戏(G1735-G1745)，0个失败

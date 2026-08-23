@@ -124,7 +124,9 @@
 | S492 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-23 10:00 |
 | S493 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-23 10:00 |
 
-
+| S494 | iTunes Search: puzzle adventure casual mobile fun | https://itunes.apple.com/search?term=puzzle+adventure+casual+mobile+fun&media=software&limit=10 | 10 | 2026-08-23 14:59 |
+| S495 | iTunes Search: board game casual digital mobile | https://itunes.apple.com/search?term=board+game+casual+digital+mobile&media=software&limit=10 | 9 | 2026-08-23 14:59 |
+| S496 | iTunes Search: tycoon management casual idle | https://itunes.apple.com/search?term=tycoon+management+casual+idle&media=software&limit=10 | 10 | 2026-08-23 14:59 |
 ## Sources Archived（历史累计）
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
@@ -659,6 +661,12 @@
 | G1582 | Chess Master | docs/ChessMaster_20260819_0830.md | 2026-08-19 08:30 |
 
 ## Execution Log
+|[2026-08-23 14:59] [R157] [Phase 2: Discover] ✅ 完成 — 搜索3组，发现3个新来源(S494-S496)
+|[2026-08-23 14:59] [R157] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S494-S496)，产出29款游戏文档(G2463-G2491)，0个失败
+|[2026-08-23 14:59] [R157] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-23 14:59] [R157] [Phase 5: Git Push] ✅ 完成
+|[2026-08-23 14:59] [R157] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+
 | 2026-08-23 03:20 | R151 | 3 sources (S479-S481) | 30 games (G2316-G2345) | iTunes API | 0 failures | 30 docs |
 | 2026-08-23 05:02 | R152 | 3 sources (S482-S484) | 3 sources (S482-S484) | 29 games (G2346-G2374) | iTunes API | 0 failures | 29 docs |
 | 2026-08-23 08:30 | R153 | 3 sources (S485-S487) | 3 sources (S485-S487) | 30 games (G2375-G2404) | iTunes API | 0 failures | 30 docs |
