@@ -127,6 +127,9 @@
 | S494 | iTunes Search: puzzle adventure casual mobile fun | https://itunes.apple.com/search?term=puzzle+adventure+casual+mobile+fun&media=software&limit=10 | 10 | 2026-08-23 14:59 |
 | S495 | iTunes Search: board game casual digital mobile | https://itunes.apple.com/search?term=board+game+casual+digital+mobile&media=software&limit=10 | 9 | 2026-08-23 14:59 |
 | S496 | iTunes Search: tycoon management casual idle | https://itunes.apple.com/search?term=tycoon+management+casual+idle&media=software&limit=10 | 10 | 2026-08-23 14:59 |
+| S497 | iTunes Search: cooperative multiplayer puzzle casual | https://itunes.apple.com/search?term=cooperative+multiplayer+puzzle+casual&media=software&limit=10 | 10 | 2026-08-23 18:00 |
+| S498 | iTunes Search: escape puzzle adventure brain | https://itunes.apple.com/search?term=escape+puzzle+adventure+brain&media=software&limit=10 | 10 | 2026-08-23 18:00 |
+| S499 | iTunes Search: card roguelike deckbuilding mobile | https://itunes.apple.com/search?term=card+roguelike+deckbuilding+mobile&media=software&limit=10 | 10 | 2026-08-23 18:00 |
 ## Sources Archived（历史累计）
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
@@ -503,6 +506,36 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G2517 | iSlash | docs/iSlash_20260823_1800.md | 2026-08-23 18:00 |
+| G2518 | Block Away - Tap Out Puzzle | docs/BlockAway-TapOutPuzzle_20260823_1800.md | 2026-08-23 18:00 |
+| G2519 | Wooden Block - Party Game | docs/WoodenBlock-PartyGame_20260823_1800.md | 2026-08-23 18:00 |
+| G2520 | Tile Burst - Match Puzzle | docs/TileBurst-MatchPuzzle_20260823_1800.md | 2026-08-23 18:00 |
+| G2521 | Block Heads: Duel puzzle games | docs/BlockHeads-Duelpuzzlegames_20260823_1800.md | 2026-08-23 18:00 |
+| G2522 | Hole Rush Classic Game | docs/HoleRushClassicGame_20260823_1800.md | 2026-08-23 18:00 |
+| G2523 | Pentix - Block Puzzle PVP Game | docs/Pentix-BlockPuzzlePVPGame_20260823_1800.md | 2026-08-23 18:00 |
+| G2524 | Four Plus | docs/FourPlus_20260823_1800.md | 2026-08-23 18:00 |
+| G2525 | Cube Busters | docs/CubeBusters_20260823_1800.md | 2026-08-23 18:00 |
+| G2526 | Match Masters | docs/MatchMasters_20260823_1800.md | 2026-08-23 18:00 |
+| G2527 | Escape Door - Brain Puzzle Game | docs/EscapeDoor-brainpuzzlegame_20260823_1800.md | 2026-08-23 18:00 |
+| G2528 | Escape Time: Puzzle Brain Game | docs/EscapeTimePuzzleBrainGame_20260823_1800.md | 2026-08-23 18:00 |
+| G2529 | Point Out: Color Escape Puzzle | docs/PointOutColorEscapePuzzle_20260823_1800.md | 2026-08-23 18:00 |
+| G2530 | Shape Escape: Block Puzzle | docs/ShapeEscapeBlockPuzzle_20260823_1800.md | 2026-08-23 18:00 |
+| G2531 | Crowd Express: Boarding Puzzle | docs/CrowdExpressBoardingPuzzle_20260823_1800.md | 2026-08-23 18:00 |
+| G2532 | Drop Escape: Block Puzzle | docs/DropEscapeBlockPuzzle_20260823_1800.md | 2026-08-23 18:00 |
+| G2533 | Arrow Tap Out - Escape Puzzle | docs/ArrowTapOut-EscapePuzzle_20260823_1800.md | 2026-08-23 18:00 |
+| G2534 | Great Escapes | docs/GreatEscapes_20260823_1800.md | 2026-08-23 18:00 |
+| G2535 | 50 Tiny Room Escape | docs/50TinyRoomEscape_20260823_1800.md | 2026-08-23 18:00 |
+| G2536 | Amaze Escape: Tap Brain Puzzle | docs/AmazeEscapeTapBrainPuzzle_20260823_1800.md | 2026-08-23 18:00 |
+| G2537 | Ancient Gods: Deckbuilding RPG | docs/AncientGodsDeckbuildingRPG_20260823_1800.md | 2026-08-23 18:00 |
+| G2538 | Legend of the Cryptids | docs/LegendoftheCryptids_20260823_1800.md | 2026-08-23 18:00 |
+| G2539 | Slay the Spire | docs/SlaytheSpire_20260823_1800.md | 2026-08-23 18:00 |
+| G2540 | Lies Of Astaroth - Clash Games | docs/LiesOfAstarothClashGames_20260823_1800.md | 2026-08-23 18:00 |
+| G2541 | Balatro | docs/Balatro_20260823_1800.md | 2026-08-23 18:00 |
+| G2542 | Card Guardians - Deck Builder | docs/CardGuardiansDeckBuilder_20260823_1800.md | 2026-08-23 18:00 |
+| G2543 | Ascension: Deckbuilding Game | docs/AscensionDeckbuildingGame_20260823_1800.md | 2026-08-23 18:00 |
+| G2544 | Card Crusade | docs/CardCrusade_20260823_1800.md | 2026-08-23 18:00 |
+| G2545 | Card of Darkness | docs/CardofDarkness_20260823_1800.md | 2026-08-23 18:00 |
+| G2546 | Stormbound | docs/Stormbound_20260823_1800.md | 2026-08-23 18:00 |
 | G1708 | Brick Breaker Classic 2016 - Ultimate Revolution | docs/BrickBreakerClassic2016UltimateRevolution_20260820_0331.md | 2026-08-20 03:31 |
 | G1709 | Super Hero Classic Reborn | docs/SuperHeroClassicReborn_20260820_0331.md | 2026-08-20 03:31 |
 | G1710 | CivCrafter | docs/CivCrafter_20260820_0331.md | 2026-08-20 03:31 |
@@ -666,6 +699,12 @@
 |[2026-08-23 14:59] [R157] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 |[2026-08-23 14:59] [R157] [Phase 5: Git Push] ✅ 完成
 |[2026-08-23 14:59] [R157] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
+|[2026-08-23 18:00] [R159] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=499+
+|[2026-08-23 18:00] [R159] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现3个新来源(S497-S499)，共30款游戏
+|[2026-08-23 18:00] [R159] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S497-S499)，产出30款游戏文档(G2517-G2546)，覆盖方块益智/逃脱解谜/卡牌Roguelike三品类，全部≥50行，0个失败
+|[2026-08-23 18:00] [R159] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-23 18:00] [R159] [Phase 5: Git Push] ✅ 完成 — commit成功(32 files)
+|[2026-08-23 18:00] [R159] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3来源, 30款游戏G2517-G2546)
 
 | 2026-08-23 03:20 | R151 | 3 sources (S479-S481) | 30 games (G2316-G2345) | iTunes API | 0 failures | 30 docs |
 | 2026-08-23 05:02 | R152 | 3 sources (S482-S484) | 3 sources (S482-S484) | 29 games (G2346-G2374) | iTunes API | 0 failures | 29 docs |
@@ -729,6 +768,7 @@
 || R150 | 2026-08-23 01:42 | 3 (S476-S478) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(tower defense strategy puzzle/brain training logic puzzle/survival craft building)，产出10款游戏文档(G2306-G2315)，覆盖塔防/生存建造/逻辑解谜/脑力训练/滑块解谜等品类，全部≥45行，0个失败
 ||| R154 | 2026-08-23 09:30 | 3 (S488-S490) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/viral hyper casual games list/indie puzzle game popular gameplay loop)，产出10款游戏文档(G2405-G2414)，覆盖超休闲射击/社交休闲合集/毛线编织解谜/方块疏通/方块放置消除/竞技方块/逻辑连接/交通时机/俯视角射击/三消益智等品类，全部≥53行，0个失败
 || R155 | 2026-08-23 11:36 | 3 (S491-S493) | 3 (直接归档) | 29 | 0 | iTunes API搜索3组关键词(web browser mini games popular/indie puzzle game popular gameplay loop/idle clicker games best mechanics)，产出29款游戏文档(G2434-G2462)，覆盖休闲合集/益智解谜/放置点击/沙盒创造/Roguelike RPG等品类，全部≥59行，0个失败
+|| R159 | 2026-08-23 18:00 | 3 (S497-S499) | 3 (直接归档) | 30 | 0 | iTunes API搜索3组关键词(cooperative multiplayer puzzle/escape puzzle brain/card roguelike deckbuilding)，产出30款游戏文档(G2517-G2546)，覆盖方块益智/逃脱解谜/卡牌Roguelike三品类，全部≥50行，0个失败 |
 
 |[2026-08-23 16:35] [R158] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=496+, GamesArchived=2491
 |[2026-08-23 16:35] [R158] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现28款游戏(3来源)
