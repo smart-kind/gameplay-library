@@ -14,6 +14,9 @@
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S491 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-23 11:36 |
+| S492 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-23 11:36 |
+| S493 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-23 11:36 |
 | S377 | iTunes Search: flash games classic gameplay mechanics | https://itunes.apple.com/search?term=flash+games+classic+gameplay+mechanics&media=software&limit=10 | 10 | 2026-08-20 03:31 |
 | S378 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-20 03:31 |
 | S379 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 8 | 2026-08-20 03:31 |
@@ -216,6 +219,35 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G2434 | Offline Games - No Wifi Games | docs/OfflineGamesNoWifiGames_20260823_1136.md | 2026-08-23 11:36 |
+| G2435 | Big Time Games | docs/BigTimeGames_20260823_1136.md | 2026-08-23 11:36 |
+| G2436 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260823_1136.md | 2026-08-23 11:36 |
+| G2437 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260823_1136.md | 2026-08-23 11:36 |
+| G2438 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260823_1136.md | 2026-08-23 11:36 |
+| G2439 | Plato: Fun Multiplayer Games | docs/PlatoFunMultiplayerGames_20260823_1136.md | 2026-08-23 11:36 |
+| G2440 | Mini Games: Calm & Chill | docs/MiniGamesCalm&Chill_20260823_1136.md | 2026-08-23 11:36 |
+| G2441 | Mini World: CREATA | docs/MiniWorldCREATA_20260823_1136.md | 2026-08-23 11:36 |
+| G2442 | Playbite - Mobile Arcade | docs/Playbite-MobileArcade_20260823_1136.md | 2026-08-23 11:36 |
+| G2443 | Block Away - Tap Out Puzzle | docs/BlockAway-TapOutPuzzle_20260823_1136.md | 2026-08-23 11:36 |
+| G2444 | Woody Battle Block Puzzle Dual | docs/WoodyBattleBlockPuzzleDual_20260823_1136.md | 2026-08-23 11:36 |
+| G2445 | Shape Escape: Block Puzzle | docs/ShapeEscapeBlockPuzzle_20260823_1136.md | 2026-08-23 11:36 |
+| G2446 | Yarn Loop: Knit Puzzle | docs/YarnLoopKnitPuzzle_20260823_1136.md | 2026-08-23 11:36 |
+| G2447 | Block Jam - 3D Block Puzzle | docs/BlockJam-3DBlockPuzzle_20260823_1136.md | 2026-08-23 11:36 |
+| G2448 | Infinity Loop: Relaxing Puzzle | docs/InfinityLoopRelaxingPuzzle_20260823_1136.md | 2026-08-23 11:36 |
+| G2449 | Tile Block Jam - Puzzle Game | docs/TileBlockJam-PuzzleGame_20260823_1136.md | 2026-08-23 11:36 |
+| G2450 | Block Blitz: Skillz Puzzle Win | docs/BlockBlitzSkillzPuzzleWin_20260823_1136.md | 2026-08-23 11:36 |
+| G2451 | Block Jam Out: No Timer Puzzle | docs/BlockJamOutNoTimerPuzzle_20260823_1136.md | 2026-08-23 11:36 |
+| G2452 | Super Jigsaw - HD Puzzle Games | docs/SuperJigsaw-HDPuzzleGames_20260823_1136.md | 2026-08-23 11:36 |
+| G2453 | Magic Mushrooms - Idle Game | docs/MagicMushrooms-IdleGame_20260823_1136.md | 2026-08-23 11:36 |
+| G2454 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260823_1136.md | 2026-08-23 11:36 |
+| G2455 | Idle Sheep! | docs/IdleSheep_20260823_1136.md | 2026-08-23 11:36 |
+| G2456 | CivCrafter | docs/CivCrafter_20260823_1136.md | 2026-08-23 11:36 |
+| G2457 | Bacterial Takeover - Idle game | docs/BacterialTakeover-Idlegame_20260823_1136.md | 2026-08-23 11:36 |
+| G2458 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260823_1136.md | 2026-08-23 11:36 |
+| G2459 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260823_1136.md | 2026-08-23 11:36 |
+| G2460 | Idle Game 1 | docs/IdleGame1_20260823_1136.md | 2026-08-23 11:36 |
+| G2461 | Tap Tap Dig - Idle Clicker | docs/TapTapDig-IdleClicker_20260823_1136.md | 2026-08-23 11:36 |
+| G2462 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260823_1136.md | 2026-08-23 11:36 |
 | G2185 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260822_1209.md | 2026-08-22 12:09 |
 | G2186 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260822_1209.md | 2026-08-22 12:09 |
 | G2187 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260822_1209.md | 2026-08-22 12:09 |
@@ -686,7 +718,8 @@
 | R148 | 2026-08-22 22:30 | 3 (S470-S472) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/idle clicker)，产出10款游戏文档(G2296-G2305)，覆盖放置炼金/细菌放置/挖矿点击/文明建设/人群发射/弹幕跑酷/潜行解谜/射击/行星建设/游戏合集等品类，全部>=50行，0个失败 |
 || R149 | 2026-08-22 23:58 | 3 (S473-S475) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(physics puzzle casual/word puzzle brain/hidden object mystery)，产出10款游戏文档(G2296-G2305)，覆盖找物解谜/逃脱解谜/物理解谜/整理收纳等品类，全部≥50行，0个失败
 || R150 | 2026-08-23 01:42 | 3 (S476-S478) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(tower defense strategy puzzle/brain training logic puzzle/survival craft building)，产出10款游戏文档(G2306-G2315)，覆盖塔防/生存建造/逻辑解谜/脑力训练/滑块解谜等品类，全部≥45行，0个失败
-|| R154 | 2026-08-23 09:30 | 3 (S488-S490) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/viral hyper casual games list/indie puzzle game popular gameplay loop)，产出10款游戏文档(G2405-G2414)，覆盖超休闲射击/社交休闲合集/毛线编织解谜/方块疏通/方块放置消除/竞技方块/逻辑连接/交通时机/俯视角射击/三消益智等品类，全部≥53行，0个失败
+||| R154 | 2026-08-23 09:30 | 3 (S488-S490) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/viral hyper casual games list/indie puzzle game popular gameplay loop)，产出10款游戏文档(G2405-G2414)，覆盖超休闲射击/社交休闲合集/毛线编织解谜/方块疏通/方块放置消除/竞技方块/逻辑连接/交通时机/俯视角射击/三消益智等品类，全部≥53行，0个失败
+|| R155 | 2026-08-23 11:36 | 3 (S491-S493) | 3 (直接归档) | 29 | 0 | iTunes API搜索3组关键词(web browser mini games popular/indie puzzle game popular gameplay loop/idle clicker games best mechanics)，产出29款游戏文档(G2434-G2462)，覆盖休闲合集/益智解谜/放置点击/沙盒创造/Roguelike RPG等品类，全部≥59行，0个失败
 
 ## Phase 1 Log
 
