@@ -308,6 +308,16 @@
 | G2293 | Idle Game 1 | docs/IdleGame1_20260822_2041.md | 2026-08-22 20:41 |
 | G2294 | Tap Tap Dig - Idle Clicker | docs/TapTapDigIdleClicker_20260822_2041.md | 2026-08-22 20:41 |
 | G2295 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260822_2041.md | 2026-08-22 20:41 |
+| G2296 | Hidden Object Games: Seek It | docs/HiddenObjectGamesSeekIt_20260822_2355.md | 2026-08-22 23:58 |
+| G2297 | Hidden Objects: Mystery Crimes | docs/HiddenObjectsMysteryCrimes_20260822_2357.md | 2026-08-22 23:58 |
+| G2298 | Hidden Journey: Find Objects | docs/HiddenJourneyFindObjects_20260822_2357.md | 2026-08-22 23:58 |
+| G2299 | Tidy Master: Hidden Objects | docs/TidyMasterHiddenObjects_20260822_2357.md | 2026-08-22 23:58 |
+| G2300 | Escape Door: brain puzzle game | docs/EscapeDoorbrainpuzzlegame_20260822_2357.md | 2026-08-22 23:57 |
+| G2301 | 50 Tiny Room Escape | docs/50TinyRoomEscape_20260822_2357.md | 2026-08-22 23:57 |
+| G2302 | Screw Block Escape | docs/ScrewBlockEscape_20260822_2357.md | 2026-08-22 23:57 |
+| G2303 | Spotlight: Room Escape | docs/SpotlightRoomEscape_20260822_2357.md | 2026-08-22 23:57 |
+| G2304 | Escape Room: Can You Escape | docs/EscapeRoomCanYouEscape_20260822_2357.md | 2026-08-22 23:57 |
+| G2305 | 100 Doors Escape Game | docs/100DoorsEscapeGame_20260822_2357.md | 2026-08-22 23:57 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -524,6 +534,7 @@
 | R146 | 2026-08-22 18:50 | 3 (S464-S466) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/viral hyper casual games list/idle clicker games)，产出10款游戏(G2267-G2276)，覆盖休闲合集/超休闲动作/放置点击等品类，全部≥50行，0个失败 |
 | R147 | 2026-08-22 20:41 | 3 (S467-S469) | 3 (直接归档) | 29 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/hyper casual gameplay mechanics fun/idle clicker games best mechanics)，产出29款游戏(G2267-G2295)，覆盖休闲合集/动作射击/放置点击/超休闲跑酷等品类，全部≥50行，0个失败 |
 | R148 | 2026-08-22 22:30 | 3 (S470-S472) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/idle clicker)，产出10款游戏文档(G2296-G2305)，覆盖放置炼金/细菌放置/挖矿点击/文明建设/人群发射/弹幕跑酷/潜行解谜/射击/行星建设/游戏合集等品类，全部>=50行，0个失败 |
+| R149 | 2026-08-22 23:58 | 3 (S473-S475) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(physics puzzle casual game fun/word puzzle casual brain teaser fun/hidden object mystery casual game)，产出10款游戏文档(G2296-G2305)，覆盖找物解谜/逃脱解谜/物理解谜/整理收纳等品类，全部≥50行，0个失败 |
 
 ## Phase 1 Log
 
