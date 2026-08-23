@@ -108,6 +108,10 @@
 | S462 | iTunes Search: flash games best classic gameplay mechanics | https://itunes.apple.com/search?term=flash+games+best+classic+gameplay+mechanics&media=software&limit=10 | 8 | 2026-08-22 17:13 |
 | S463 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-22 17:13 |
 
+| S479 | iTunes Search: cooperative multiplayer puzzle casual | https://itunes.apple.com/search?term=cooperative+multiplayer+puzzle+casual&media=software&limit=10 | 10 | 2026-08-23 03:20 |
+| S480 | iTunes Search: escape puzzle adventure brain | https://itunes.apple.com/search?term=escape+puzzle+adventure+brain&media=software&limit=10 | 10 | 2026-08-23 03:20 |
+| S481 | iTunes Search: card roguelike deckbuilding mobile | https://itunes.apple.com/search?term=card+roguelike+deckbuilding+mobile&media=software&limit=10 | 10 | 2026-08-23 03:20 |
+
 
 ## Sources Archived（历史累计）
 
@@ -333,6 +337,36 @@
 | G2312 | Fill One-Line Puzzle | docs/FillOneLinePuzzle_20260823_0142.md | 2026-08-23 01:42 |
 | G2313 | Raft Survival: Multiplayer | docs/RaftSurvivalMultiplayer_20260823_0142.md | 2026-08-23 01:42 |
 | G2314 | Lumosity: Brain Training Games | docs/LumosityBrainTrainingGames_20260823_0142.md | 2026-08-23 01:42 |
+| G2316 | iSlash | docs/iSlash_20260823_0320.md | 2026-08-23 03:20 |
+| G2317 | Block Away - Tap Out Puzzle | docs/BlockAwayTapOutPuzzle_20260823_0320.md | 2026-08-23 03:20 |
+| G2318 | Tile Burst - Match Puzzle | docs/TileBurstMatchPuzzle_20260823_0320.md | 2026-08-23 03:20 |
+| G2319 | Block Heads: Duel puzzle games | docs/BlockHeadsDuelpuzzlegames_20260823_0320.md | 2026-08-23 03:20 |
+| G2320 | Hole Rush Classic Game | docs/HoleRushClassicGame_20260823_0320.md | 2026-08-23 03:20 |
+| G2321 | Pentix - Block Puzzle PVP Game | docs/PentixBlockPuzzlePVPGame_20260823_0320.md | 2026-08-23 03:20 |
+| G2322 | Four Plus | docs/FourPlus_20260823_0320.md | 2026-08-23 03:20 |
+| G2323 | Cube Busters | docs/CubeBusters_20260823_0320.md | 2026-08-23 03:20 |
+| G2324 | Block Jam - 3D Block Puzzle | docs/BlockJam3DBlockPuzzle_20260823_0320.md | 2026-08-23 03:20 |
+| G2325 | Tile Link - Match & Connect | docs/TileLinkMatchConnect_20260823_0320.md | 2026-08-23 03:20 |
+| G2326 | Escape Door- brain puzzle game | docs/EscapeDoorbrainpuzzlegame_20260823_0320.md | 2026-08-23 03:20 |
+| G2327 | Escape Time: Puzzle Brain Game | docs/EscapeTimePuzzleBrainGame_20260823_0320.md | 2026-08-23 03:20 |
+| G2328 | Point Out: Color Escape Puzzle | docs/PointOutColorEscapePuzzle_20260823_0320.md | 2026-08-23 03:20 |
+| G2329 | Shape Escape: Block Puzzle | docs/ShapeEscapeBlockPuzzle_20260823_0320.md | 2026-08-23 03:20 |
+| G2330 | Crowd Express: Boarding Puzzle | docs/CrowdExpressBoardingPuzzle_20260823_0320.md | 2026-08-23 03:20 |
+| G2331 | Drop Escape : Block Puzzle | docs/DropEscapeBlockPuzzle_20260823_0320.md | 2026-08-23 03:20 |
+| G2332 | Arrow Tap Out - Escape Puzzle | docs/ArrowTapOutEscapePuzzle_20260823_0320.md | 2026-08-23 03:20 |
+| G2333 | Great Escapes | docs/GreatEscapes_20260823_0320.md | 2026-08-23 03:20 |
+| G2334 | 50 Tiny Room Escape | docs/50TinyRoomEscape_20260823_0320.md | 2026-08-23 03:20 |
+| G2335 | Traffic Escape! | docs/TrafficEscape_20260823_0320.md | 2026-08-23 03:20 |
+| G2336 | Ancient Gods: Deckbuilding RPG | docs/AncientGodsDeckbuildingRPG_20260823_0320.md | 2026-08-23 03:20 |
+| G2337 | Legend of the Cryptids | docs/LegendoftheCryptids_20260823_0320.md | 2026-08-23 03:20 |
+| G2338 | Slay the Spire | docs/SlaytheSpire_20260823_0320.md | 2026-08-23 03:20 |
+| G2339 | Balatro | docs/Balatro_20260823_0320.md | 2026-08-23 03:20 |
+| G2340 | Card Guardians - Deck builder | docs/CardGuardiansDeckbuilder_20260823_0320.md | 2026-08-23 03:20 |
+| G2341 | Ascension: Deckbuilding Game | docs/AscensionDeckbuildingGame_20260823_0320.md | 2026-08-23 03:20 |
+| G2342 | Card Crusade | docs/CardCrusade_20260823_0320.md | 2026-08-23 03:20 |
+| G2343 | Card of Darkness | docs/CardofDarkness_20260823_0320.md | 2026-08-23 03:20 |
+| G2344 | Stormbound | docs/Stormbound_20260823_0320.md | 2026-08-23 03:20 |
+| G2345 | Lies Of Astaroth-Clash Games | docs/LiesOfAstarothClashGames_20260823_0320.md | 2026-08-23 03:20 |
 | G2315 | Slide Puzzle: Unblock It | docs/SlidePuzzleUnblockIt_20260823_0142.md | 2026-08-23 01:42 |
 
 ## Games Archived（历史累计，最近100条）
@@ -497,6 +531,8 @@
 | G1582 | Chess Master | docs/ChessMaster_20260819_0830.md | 2026-08-19 08:30 |
 
 ## Execution Log
+| 2026-08-23 03:20 | R151 | 3 sources (S479-S481) | 30 games (G2316-G2345) | iTunes API | 0 failures | 30 docs |
+
 
 | Run ID | 时间 | 发现来源 | 处理来源 | 产出游戏 | 失败 | 备注 |
 |---|---|---|---|---|---|---|
