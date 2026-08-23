@@ -114,6 +114,9 @@
 | S482 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best%20mini%20games%20mobile%20casual%202024%202025&media=software&limit=10 | 9 | 2026-08-23 05:02 |
 | S483 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper%20casual%20gameplay%20mechanics%20fun&media=software&limit=10 | 10 | 2026-08-23 05:02 |
 | S484 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle%20clicker%20games%20best%20mechanics&media=software&limit=10 | 10 | 2026-08-23 05:02 |
+| S485 | iTunes Search: merge puzzle idle casual | https://itunes.apple.com/search?term=merge+puzzle+idle+casual&media=software&limit=10 | 10 | 2026-08-23 08:30 |
+| S486 | iTunes Search: tower defense strategy mobile | https://itunes.apple.com/search?term=tower+defense+strategy+mobile&media=software&limit=10 | 10 | 2026-08-23 08:30 |
+| S487 | iTunes Search: card battle deckbuilder mobile | https://itunes.apple.com/search?term=card+battle+deckbuilder+mobile&media=software&limit=10 | 10 | 2026-08-23 08:30 |
 
 
 ## Sources Archived（历史累计）
@@ -399,6 +402,36 @@
 | G2372 | Tap Tap Dig - Idle Clicker | docs/TapTapDigIdleClicker_20260823_0502.md | 2026-08-23 05:02 |
 | G2373 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260823_0502.md | 2026-08-23 05:02 |
 | G2374 | Clicker Heroes - Idle Slayer | docs/ClickerHeroesIdleSlayer_20260823_0502.md | 2026-08-23 05:02 |
+| G2375 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260823_0830.md | 2026-08-23 08:30 |
+| G2376 | Merge Inn - Tasty Match Puzzle | docs/MergeInnTastyMatchPuzzle_20260823_0830.md | 2026-08-23 08:30 |
+| G2377 | Shoot n Merge | docs/ShootnMerge_20260823_0830.md | 2026-08-23 08:30 |
+| G2378 | Blast to Merge | docs/BlasttoMerge_20260823_0830.md | 2026-08-23 08:30 |
+| G2379 | Merge Block - Number Puzzle | docs/MergeBlockNumberPuzzle_20260823_0830.md | 2026-08-23 08:30 |
+| G2380 | Merge Mayor | docs/MergeMayor_20260823_0830.md | 2026-08-23 08:30 |
+| G2381 | Merge Plus 2:Adventure | docs/MergePlus2Adventure_20260823_0830.md | 2026-08-23 08:30 |
+| G2382 | Merge Away! - Puzzle Adventure | docs/MergeAwayPuzzleAdventure_20260823_0830.md | 2026-08-23 08:30 |
+| G2383 | Merge Topia-Screw Jam | docs/MergeTopiaScrewJam_20260823_0830.md | 2026-08-23 08:30 |
+| G2384 | Dice Merge by Staple Games | docs/DiceMergebyStapleGames_20260823_0830.md | 2026-08-23 08:30 |
+| G2385 | Raid Rush: Tower Defense TD | docs/RaidRushTowerDefenseTD_20260823_0830.md | 2026-08-23 08:30 |
+| G2386 | Kingdom Rush Tower Defense TD | docs/KingdomRushTowerDefenseTD_20260823_0830.md | 2026-08-23 08:30 |
+| G2387 | Royal Revolt 2: Tower Defense | docs/RoyalRevolt2TowerDefense_20260823_0830.md | 2026-08-23 08:30 |
+| G2388 | Kingdom Wars Defense! | docs/KingdomWarsDefense_20260823_0830.md | 2026-08-23 08:30 |
+| G2389 | Arcane Arena: Tower Defense TD | docs/ArcaneArenaTowerDefenseTD_20260823_0830.md | 2026-08-23 08:30 |
+| G2390 | Tower Conquest | docs/TowerConquest_20260823_0830.md | 2026-08-23 08:30 |
+| G2391 | The Creeps! Tower Defense | docs/TheCreepsTowerDefense_20260823_0830.md | 2026-08-23 08:30 |
+| G2392 | TowerMadness | docs/TowerMadness_20260823_0830.md | 2026-08-23 08:30 |
+| G2393 | iBomber Defense Pacific | docs/iBomberDefensePacific_20260823_0830.md | 2026-08-23 08:30 |
+| G2394 | The Tower - Idle Tower Defense | docs/TheTowerIdleTowerDefense_20260823_0830.md | 2026-08-23 08:30 |
+| G2395 | Stormbound | docs/Stormbound_20260823_0830.md | 2026-08-23 08:30 |
+| G2396 | Legend of the Cryptids | docs/LegendoftheCryptids_20260823_0830.md | 2026-08-23 08:30 |
+| G2397 | Cards, Universe & Everything | docs/CardsUniverseEverything_20260823_0830.md | 2026-08-23 08:30 |
+| G2398 | Honor-Bound TCG CCG Card Quest | docs/HonorBoundTCGCCGCardQuest_20260823_0830.md | 2026-08-23 08:30 |
+| G2399 | Lies Of Astaroth-Clash Games | docs/LiesOfAstarothClashGames_20260823_0830.md | 2026-08-23 08:30 |
+| G2400 | Magic: The Gathering Arena | docs/MagicTheGatheringArena_20260823_0830.md | 2026-08-23 08:30 |
+| G2401 | Yu-Gi-Oh! Master Duel | docs/YuGiOhMasterDuel_20260823_0830.md | 2026-08-23 08:30 |
+| G2402 | Legends of Runeterra | docs/LegendsofRuneterra_20260823_0830.md | 2026-08-23 08:30 |
+| G2403 | Epic Cards Battle (TCG) | docs/EpicCardsBattleTCG_20260823_0830.md | 2026-08-23 08:30 |
+| G2404 | Hearthstone | docs/Hearthstone_20260823_0830.md | 2026-08-23 08:30 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -564,6 +597,7 @@
 ## Execution Log
 | 2026-08-23 03:20 | R151 | 3 sources (S479-S481) | 30 games (G2316-G2345) | iTunes API | 0 failures | 30 docs |
 | 2026-08-23 05:02 | R152 | 3 sources (S482-S484) | 3 sources (S482-S484) | 29 games (G2346-G2374) | iTunes API | 0 failures | 29 docs |
+| 2026-08-23 08:30 | R153 | 3 sources (S485-S487) | 3 sources (S485-S487) | 30 games (G2375-G2404) | iTunes API | 0 failures | 30 docs |
 
 
 | Run ID | 时间 | 发现来源 | 处理来源 | 产出游戏 | 失败 | 备注 |
