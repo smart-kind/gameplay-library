@@ -652,8 +652,9 @@
 | R146 | 2026-08-22 18:50 | 3 (S464-S466) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/viral hyper casual games list/idle clicker games)，产出10款游戏(G2267-G2276)，覆盖休闲合集/超休闲动作/放置点击等品类，全部≥50行，0个失败 |
 | R147 | 2026-08-22 20:41 | 3 (S467-S469) | 3 (直接归档) | 29 | 0 | iTunes API搜索3组关键词(best mini games mobile casual 2024 2025/hyper casual gameplay mechanics fun/idle clicker games best mechanics)，产出29款游戏(G2267-G2295)，覆盖休闲合集/动作射击/放置点击/超休闲跑酷等品类，全部≥50行，0个失败 |
 | R148 | 2026-08-22 22:30 | 3 (S470-S472) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile/hyper casual gameplay/idle clicker)，产出10款游戏文档(G2296-G2305)，覆盖放置炼金/细菌放置/挖矿点击/文明建设/人群发射/弹幕跑酷/潜行解谜/射击/行星建设/游戏合集等品类，全部>=50行，0个失败 |
-| R149 | 2026-08-22 23:58 | 3 (S473-S475) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(physics puzzle casual/word puzzle brain/hidden object mystery)，产出10款游戏文档(G2296-G2305)，覆盖找物解谜/逃脱解谜/物理解谜/整理收纳等品类，全部≥50行，0个失败 |
-| R150 | 2026-08-23 01:42 | 3 (S476-S478) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(tower defense strategy puzzle/brain training logic puzzle/survival craft building)，产出10款游戏文档(G2306-G2315)，覆盖塔防/生存建造/逻辑解谜/脑力训练/滑块解谜等品类，全部≥45行，0个失败 |
+|| R149 | 2026-08-22 23:58 | 3 (S473-S475) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(physics puzzle casual/word puzzle brain/hidden object mystery)，产出10款游戏文档(G2296-G2305)，覆盖找物解谜/逃脱解谜/物理解谜/整理收纳等品类，全部≥50行，0个失败
+|| R150 | 2026-08-23 01:42 | 3 (S476-S478) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(tower defense strategy puzzle/brain training logic puzzle/survival craft building)，产出10款游戏文档(G2306-G2315)，覆盖塔防/生存建造/逻辑解谜/脑力训练/滑块解谜等品类，全部≥45行，0个失败
+|| R154 | 2026-08-23 09:30 | 3 (S488-S490) | 3 (直接归档) | 10 | 0 | iTunes API搜索3组关键词(best mini games mobile 2024 2025/viral hyper casual games list/indie puzzle game popular gameplay loop)，产出10款游戏文档(G2405-G2414)，覆盖超休闲射击/社交休闲合集/毛线编织解谜/方块疏通/方块放置消除/竞技方块/逻辑连接/交通时机/俯视角射击/三消益智等品类，全部≥53行，0个失败
 
 ## Phase 1 Log
 
