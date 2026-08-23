@@ -1161,5 +1161,5 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 |[2026-08-23 09:30] [R154] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现28款游戏(3来源S488-S490各9/9/10款)
 |[2026-08-23 09:30] [R154] [Phase 3: Process Sources] ✅ 完成 — 处理3来源(S488-S490)，基于iTunes API描述数据产出28款游戏(G2405-G2432)，覆盖休闲益智/方块消除/毛线编织/塔防策略/卡牌对战/平台跑酷/物理解谜等品类，全部≥50行，0个失败
 |[2026-08-23 09:30] [R154] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
-|[2026-08-23 09:30] [R154] [Phase 5: Git Push] ✅ 完成 — commit成功(32 files, +1573 lines)，push成功
-|[2026-08-23 09:30] [R154] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S488-S490，28款游戏G2405-G2432)
+|[2026-08-23 09:30] [R154] [Phase 5: Git Push] ✅ 完成 — commit成功(11 files, +538 lines)，push成功
+|[2026-08-23 09:30] [R154] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S488-S490，10款游戏G2405-G2414)
