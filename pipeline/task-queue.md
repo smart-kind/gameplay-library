@@ -14,9 +14,9 @@
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
-| S491 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-23 11:36 |
-| S492 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-23 11:36 |
-| S493 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-23 11:36 |
+| S491 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-23 13:18 |
+| S492 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-23 13:18 |
+| S493 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-23 13:18 |
 | S377 | iTunes Search: flash games classic gameplay mechanics | https://itunes.apple.com/search?term=flash+games+classic+gameplay+mechanics&media=software&limit=10 | 10 | 2026-08-20 03:31 |
 | S378 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-20 03:31 |
 | S379 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 8 | 2026-08-20 03:31 |
@@ -662,6 +662,7 @@
 | 2026-08-23 03:20 | R151 | 3 sources (S479-S481) | 30 games (G2316-G2345) | iTunes API | 0 failures | 30 docs |
 | 2026-08-23 05:02 | R152 | 3 sources (S482-S484) | 3 sources (S482-S484) | 29 games (G2346-G2374) | iTunes API | 0 failures | 29 docs |
 | 2026-08-23 08:30 | R153 | 3 sources (S485-S487) | 3 sources (S485-S487) | 30 games (G2375-G2404) | iTunes API | 0 failures | 30 docs |
+| 2026-08-23 13:18 | R156 | 3 sources (S491-S493) | 3 sources (S491-S493) | 10 games (G2463-G2472) | iTunes API | 0 failures | 10 docs |
 
 
 | Run ID | 时间 | 发现来源 | 处理来源 | 产出游戏 | 失败 | 备注 |
@@ -735,3 +736,9 @@
 |[2026-08-22 20:41] [R147] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 |[2026-08-22 20:41] [R147] [Phase 5: Git Push] ✅ 完成 — commit成功(30 files, +1746 lines)，push成功
 |[2026-08-22 20:41] [R147] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S467-S469，29款游戏G2267-G2295)
+|[2026-08-23 13:18] [R156] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=493+
+|[2026-08-23 13:18] [R156] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现3个新来源(S491-S493)，共28款游戏
+|[2026-08-23 13:18] [R156] [Phase 3: Process Sources] ✅ 完成 — 处理3来源(S491-S493)，基于iTunes API描述数据产出10款游戏文档(G2463-G2472)，全部≥50行，0个失败
+|[2026-08-23 13:18] [R156] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+|[2026-08-23 13:18] [R156] [Phase 5: Git Push] ⏭️ 待执行
+|[2026-08-23 13:18] [R156] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S491-S493，10款游戏G2463-G2472)
