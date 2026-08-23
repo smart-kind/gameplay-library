@@ -111,6 +111,9 @@
 | S479 | iTunes Search: cooperative multiplayer puzzle casual | https://itunes.apple.com/search?term=cooperative+multiplayer+puzzle+casual&media=software&limit=10 | 10 | 2026-08-23 03:20 |
 | S480 | iTunes Search: escape puzzle adventure brain | https://itunes.apple.com/search?term=escape+puzzle+adventure+brain&media=software&limit=10 | 10 | 2026-08-23 03:20 |
 | S481 | iTunes Search: card roguelike deckbuilding mobile | https://itunes.apple.com/search?term=card+roguelike+deckbuilding+mobile&media=software&limit=10 | 10 | 2026-08-23 03:20 |
+| S482 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best%20mini%20games%20mobile%20casual%202024%202025&media=software&limit=10 | 9 | 2026-08-23 05:02 |
+| S483 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper%20casual%20gameplay%20mechanics%20fun&media=software&limit=10 | 10 | 2026-08-23 05:02 |
+| S484 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle%20clicker%20games%20best%20mechanics&media=software&limit=10 | 10 | 2026-08-23 05:02 |
 
 
 ## Sources Archived（历史累计）
@@ -367,7 +370,35 @@
 | G2343 | Card of Darkness | docs/CardofDarkness_20260823_0320.md | 2026-08-23 03:20 |
 | G2344 | Stormbound | docs/Stormbound_20260823_0320.md | 2026-08-23 03:20 |
 | G2345 | Lies Of Astaroth-Clash Games | docs/LiesOfAstarothClashGames_20260823_0320.md | 2026-08-23 03:20 |
-| G2315 | Slide Puzzle: Unblock It | docs/SlidePuzzleUnblockIt_20260823_0142.md | 2026-08-23 01:42 |
+| G2346 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260823_0502.md | 2026-08-23 05:02 |
+| G2347 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260823_0502.md | 2026-08-23 05:02 |
+| G2348 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260823_0502.md | 2026-08-23 05:02 |
+| G2349 | Big Time Games | docs/BigTimeGames_20260823_0502.md | 2026-08-23 05:02 |
+| G2350 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260823_0502.md | 2026-08-23 05:02 |
+| G2351 | Mini Motor Racing | docs/MiniMotorRacing_20260823_0502.md | 2026-08-23 05:02 |
+| G2352 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260823_0502.md | 2026-08-23 05:02 |
+| G2353 | 2 3 4 Player Games | docs/234PlayerGames_20260823_0502.md | 2026-08-23 05:02 |
+| G2354 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260823_0502.md | 2026-08-23 05:02 |
+| G2355 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260823_0502.md | 2026-08-23 05:02 |
+| G2356 | Save the grandmother | docs/Savethegrandmother_20260823_0502.md | 2026-08-23 05:02 |
+| G2357 | Sneak Out 3D | docs/SneakOut3D_20260823_0502.md | 2026-08-23 05:02 |
+| G2358 | Bullet Rush! | docs/BulletRush_20260823_0502.md | 2026-08-23 05:02 |
+| G2359 | Gun Sprint | docs/GunSprint_20260823_0502.md | 2026-08-23 05:02 |
+| G2360 | Squad Alpha - Action Shooting | docs/SquadAlphaActionShooting_20260823_0502.md | 2026-08-23 05:02 |
+| G2361 | Hyper Arrow | docs/HyperArrow_20260823_0502.md | 2026-08-23 05:02 |
+| G2362 | Push Master | docs/PushMaster_20260823_0502.md | 2026-08-23 05:02 |
+| G2363 | Gun Head Run | docs/GunHeadRun_20260823_0502.md | 2026-08-23 05:02 |
+| G2364 | Agent Twist | docs/AgentTwist_20260823_0502.md | 2026-08-23 05:02 |
+| G2365 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260823_0502.md | 2026-08-23 05:02 |
+| G2366 | Idle Sheep! | docs/IdleSheep_20260823_0502.md | 2026-08-23 05:02 |
+| G2367 | CivCrafter | docs/CivCrafter_20260823_0502.md | 2026-08-23 05:02 |
+| G2368 | Bacterial Takeover - Idle game | docs/BacterialTakeoverIdlegame_20260823_0502.md | 2026-08-23 05:02 |
+| G2369 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260823_0502.md | 2026-08-23 05:02 |
+| G2370 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260823_0502.md | 2026-08-23 05:02 |
+| G2371 | Idle Game 1 | docs/IdleGame1_20260823_0502.md | 2026-08-23 05:02 |
+| G2372 | Tap Tap Dig - Idle Clicker | docs/TapTapDigIdleClicker_20260823_0502.md | 2026-08-23 05:02 |
+| G2373 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260823_0502.md | 2026-08-23 05:02 |
+| G2374 | Clicker Heroes - Idle Slayer | docs/ClickerHeroesIdleSlayer_20260823_0502.md | 2026-08-23 05:02 |
 
 ## Games Archived（历史累计，最近100条）
 
@@ -532,6 +563,7 @@
 
 ## Execution Log
 | 2026-08-23 03:20 | R151 | 3 sources (S479-S481) | 30 games (G2316-G2345) | iTunes API | 0 failures | 30 docs |
+| 2026-08-23 05:02 | R152 | 3 sources (S482-S484) | 3 sources (S482-S484) | 29 games (G2346-G2374) | iTunes API | 0 failures | 29 docs |
 
 
 | Run ID | 时间 | 发现来源 | 处理来源 | 产出游戏 | 失败 | 备注 |
