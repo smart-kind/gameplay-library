@@ -130,6 +130,9 @@
 | S497 | iTunes Search: cooperative multiplayer puzzle casual | https://itunes.apple.com/search?term=cooperative+multiplayer+puzzle+casual&media=software&limit=10 | 10 | 2026-08-23 18:00 |
 | S498 | iTunes Search: escape puzzle adventure brain | https://itunes.apple.com/search?term=escape+puzzle+adventure+brain&media=software&limit=10 | 10 | 2026-08-23 18:00 |
 | S499 | iTunes Search: card roguelike deckbuilding mobile | https://itunes.apple.com/search?term=card+roguelike+deckbuilding+mobile&media=software&limit=10 | 10 | 2026-08-23 18:00 |
+| S500 | iTunes Search: party game casual multiplayer mobile | https://itunes.apple.com/search?term=party+game+casual+multiplayer+mobile&media=software&limit=10 | 10 | 2026-08-23 20:00 |
+| S501 | iTunes Search: social detective casual story mobile | https://itunes.apple.com/search?term=social+detective+casual+story+mobile&media=software&limit=10 | 8 | 2026-08-23 20:00 |
+| S502 | iTunes Search: minigame collection arcade fun casual | https://itunes.apple.com/search?term=minigame+collection+arcade+fun+casual&media=software&limit=10 | 10 | 2026-08-23 20:00 |
 ## Sources Archived（历史累计）
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
@@ -506,6 +509,34 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G2547 | 2 3 4 Player Party Mini Games | docs/234PlayerPartyMiniGames_20260823_2000.md | 2026-08-23 20:00 |
+| G2548 | Stumble Guys | docs/StumbleGuys_20260823_2000.md | 2026-08-23 20:00 |
+| G2549 | Party.io | docs/Partyio_20260823_2000.md | 2026-08-23 20:00 |
+| G2550 | Bunch is MiniParty! | docs/BunchisMiniParty_20260823_2000.md | 2026-08-23 20:00 |
+| G2551 | 2 3 4 Player Games | docs/234PlayerGames_20260823_2000.md | 2026-08-23 20:00 |
+| G2552 | 2 Player Battle -No Wifi Games | docs/2PlayerBattleNoWifiGames_20260823_2000.md | 2026-08-23 20:00 |
+| G2553 | Soccer Stars: Football Games | docs/SoccerStarsFootballGames_20260823_2000.md | 2026-08-23 20:00 |
+| G2554 | Partybus · Party Games | docs/PartybusPartyGames_20260823_2000.md | 2026-08-23 20:00 |
+| G2555 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260823_2000.md | 2026-08-23 20:00 |
+| G2556 | Cheers - Party Games | docs/CheersPartyGames_20260823_2000.md | 2026-08-23 20:00 |
+| G2557 | Stalkie · Mobile Detective | docs/StalkieMobileDetective_20260823_2000.md | 2026-08-23 20:00 |
+| G2558 | Small Town Murders: Match 3 | docs/SmallTownMurdersMatch3_20260823_2000.md | 2026-08-23 20:00 |
+| G2559 | SpyDiva - phone detective | docs/SpyDivaphonedetective_20260823_2000.md | 2026-08-23 20:00 |
+| G2560 | Leaked · Mobile Detective | docs/LeakedMobileDetective_20260823_2000.md | 2026-08-23 20:00 |
+| G2561 | Detectea: Detective Game | docs/DetecteaDetectiveGame_20260823_2000.md | 2026-08-23 20:00 |
+| G2562 | Duskwood - Detective Story | docs/DuskwoodDetectiveStory_20260823_2000.md | 2026-08-23 20:00 |
+| G2563 | Hey Love Tim: Chat Story | docs/HeyLoveTimChatStory_20260823_2000.md | 2026-08-23 20:00 |
+| G2564 | Girl Sherlock Mobile Detective | docs/GirlSherlockMobileDetective_20260823_2000.md | 2026-08-23 20:00 |
+| G2565 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260823_2000.md | 2026-08-23 20:00 |
+| G2566 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260823_2000.md | 2026-08-23 20:00 |
+| G2567 | My Arcade Center | docs/MyArcadeCenter_20260823_2000.md | 2026-08-23 20:00 |
+| G2568 | Fancade: Simple Mini Games | docs/FancadeSimpleMiniGames_20260823_2000.md | 2026-08-23 20:00 |
+| G2569 | Pinball Arcade HD Collection | docs/PinballArcadeHDCollection_20260823_2000.md | 2026-08-23 20:00 |
+| G2570 | Leap On! | docs/LeapOn_20260823_2000.md | 2026-08-23 20:00 |
+| G2571 | Shooty Skies | docs/ShootySkies_20260823_2000.md | 2026-08-23 20:00 |
+| G2572 | Lucky Arcade: Mini Games | docs/LuckyArcadeMiniGames_20260823_2000.md | 2026-08-23 20:00 |
+| G2573 | Insanity! | docs/Insanity_20260823_2000.md | 2026-08-23 20:00 |
+| G2574 | My Arcade Center v2 | docs/MyArcadeCenterv2_20260823_2000.md | 2026-08-23 20:00 |
 | G2517 | iSlash | docs/iSlash_20260823_1800.md | 2026-08-23 18:00 |
 | G2518 | Block Away - Tap Out Puzzle | docs/BlockAway-TapOutPuzzle_20260823_1800.md | 2026-08-23 18:00 |
 | G2519 | Wooden Block - Party Game | docs/WoodenBlock-PartyGame_20260823_1800.md | 2026-08-23 18:00 |
@@ -776,6 +807,14 @@
 |[2026-08-23 16:35] [R158] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 |[2026-08-23 16:35] [R158] [Phase 5: Git Push] ✅ 完成
 |[2026-08-23 16:35] [R158] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3来源, 25款游戏G2492-G2516)
+
+
+||[2026-08-23 19:58] [R160] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=502+, GamesArchived=2546
+||[2026-08-23 19:58] [R160] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现3个新来源(S500-S502)，共28款游戏
+||[2026-08-23 19:58] [R160] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S500-S502)，产出28款游戏文档(G2547-G2574)，覆盖派对社交/侦探推理/街机合集三品类，全部≥50行，0个失败
+||[2026-08-23 19:58] [R160] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+||[2026-08-23 19:58] [R160] [Phase 5: Git Push] ✅ 完成
+||[2026-08-23 19:58] [R160] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S500-S502，28款游戏G2547-G2574)
 
 ## Phase 1 Log
 
