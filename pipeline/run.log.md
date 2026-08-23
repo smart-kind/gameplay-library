@@ -503,6 +503,11 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 ## 2026-08-23
 
 [2026-08-23 16:30] [R157] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=493+
+[2026-08-23 16:32] [R157] [Phase 2: Discover] ✅ 完成 — 搜索3组关键词(puzzle adventure/board game/tycoon management)，发现3个新来源(S494-S496)
+[2026-08-23 16:45] [R157] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S494-S496)，产出29款游戏文档(G2463-G2491)，0个失败
+[2026-08-23 16:45] [R157] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-23 16:48] [R157] [Phase 5: Git Push] ✅ 完成 — commit成功(29新文档+task-queue更新)，push成功
+[2026-08-23 16:48] [R157] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
 
 ## 2026-08-23
 
@@ -1191,3 +1196,9 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 [2026-08-23 13:18] [R156] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 [2026-08-23 13:18] [R156] [Phase 5: Git Push] ⏭️ 待执行
 [2026-08-23 13:18] [R156] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S491-S493，10款游戏G2463-G2472)
+[2026-08-23 16:35] [R158] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=496+, GamesArchived=2491
+[2026-08-23 16:35] [R158] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现28款游戏(3来源)
+[2026-08-23 16:35] [R158] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源，产出25款游戏文档(G2492-G2516)，覆盖休闲合集/放置点击/动作射击/社交游戏等品类，全部≥51行，0个失败
+[2026-08-23 16:35] [R158] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-23 16:35] [R158] [Phase 5: Git Push] ✅ 完成
+[2026-08-23 16:35] [R158] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新
