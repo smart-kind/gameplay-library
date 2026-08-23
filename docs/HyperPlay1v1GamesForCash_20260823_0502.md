@@ -47,3 +47,4 @@ All games are free (no ads). Play endlessly or compete with other players New ga
 
 - https://apps.apple.com/us/app/hyper-play-1v1-games-for-cash/id1631502021?uo=4
 - iTunes API 抓取（2026-08-23 05:02）
+

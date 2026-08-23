@@ -47,3 +47,4 @@ Rise through the political ranks one position at a time, gain endorsements from 
 
 - https://apps.apple.com/us/app/pocket-politics-idle-money/id1106002394?uo=4
 - iTunes API 抓取（2026-08-23 05:02）
+

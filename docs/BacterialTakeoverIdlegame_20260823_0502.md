@@ -47,3 +47,4 @@ Become tycoon of deadly bacteria and take over the Universe. This idle clicker g
 
 - https://apps.apple.com/us/app/bacterial-takeover-idle-game/id1217470965?uo=4
 - iTunes API 抓取（2026-08-23 05:02）
+

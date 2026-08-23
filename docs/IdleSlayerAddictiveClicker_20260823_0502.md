@@ -47,3 +47,4 @@ Step into a world where every monster you slay, every coin you earn, and every u
 
 - https://apps.apple.com/us/app/idle-slayer-addictive-clicker/id1526599527?uo=4
 - iTunes API 抓取（2026-08-23 05:02）
+
