@@ -14,6 +14,9 @@
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S506 | iTunes Search: cooperative multiplayer puzzle casual | https://itunes.apple.com/search?term=cooperative+multiplayer+puzzle+casual&media=software&limit=10 | 10 | 2026-08-24 00:51 |
+| S507 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-24 00:51 |
+| S508 | iTunes Search: social detective casual story mobile | https://itunes.apple.com/search?term=social+detective+casual+story+mobile&media=software&limit=10 | 8 | 2026-08-24 00:51 |
 | S491 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-23 13:18 |
 | S492 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-23 13:18 |
 | S493 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-23 13:18 |
@@ -230,6 +233,53 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G2604 | iSlash | docs/iSlash_20260824_0051.md | 2026-08-24 00:51 |
+| G2605 | Block Away - Tap Out Puzzle | docs/BlockAway-TapOutPuzzle_20260824_0051.md | 2026-08-24 00:51 |
+| G2606 | Wooden Block - Party Game | docs/WoodenBlock-PartyGame_20260824_0051.md | 2026-08-24 00:51 |
+| G2607 | Tile Burst - Match Puzzle | docs/TileBurst-MatchPuzzle_20260824_0051.md | 2026-08-24 00:51 |
+| G2608 | Block Heads: Duel puzzle games | docs/BlockHeadsDuelpuzzlegames_20260824_0051.md | 2026-08-24 00:51 |
+| G2609 | Hole Rush Classic Game | docs/HoleRushClassicGame_20260824_0051.md | 2026-08-24 00:51 |
+| G2610 | Pentix - Block Puzzle PVP Game | docs/Pentix-BlockPuzzlePVPGame_20260824_0051.md | 2026-08-24 00:51 |
+| G2611 | Four Plus | docs/FourPlus_20260824_0051.md | 2026-08-24 00:51 |
+| G2612 | Cube Busters | docs/CubeBusters_20260824_0051.md | 2026-08-24 00:51 |
+| G2613 | Match Masters | docs/MatchMasters_20260824_0051.md | 2026-08-24 00:51 |
+| G2614 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260824_0051.md | 2026-08-24 00:51 |
+| G2615 | CivCrafter | docs/CivCrafter_20260824_0051.md | 2026-08-24 00:51 |
+| G2616 | Bacterial Takeover - Idle game | docs/BacterialTakeover-Idlegame_20260824_0051.md | 2026-08-24 00:51 |
+| G2617 | Idle Sheep! | docs/IdleSheep!_20260824_0051.md | 2026-08-24 00:51 |
+| G2618 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260824_0051.md | 2026-08-24 00:51 |
+| G2619 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260824_0051.md | 2026-08-24 00:51 |
+| G2620 | Idle Game 1 | docs/IdleGame1_20260824_0051.md | 2026-08-24 00:51 |
+| G2621 | Tap Tap Dig - Idle Clicker | docs/TapTapDig-IdleClicker_20260824_0051.md | 2026-08-24 00:51 |
+| G2622 | Tiny Worlds: Dragon Idle games | docs/TinyWorldsDragonIdlegames_20260824_0051.md | 2026-08-24 00:51 |
+| G2623 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260824_0051.md | 2026-08-24 00:51 |
+| G2624 | Stalkie · Mobile Detective | docs/StalkieMobileDetective_20260824_0051.md | 2026-08-24 00:51 |
+| G2625 | Small Town Murders: Match 3 | docs/SmallTownMurdersMatch3_20260824_0051.md | 2026-08-24 00:51 |
+| G2626 | SpyDiva - phone detective | docs/SpyDiva-phonedetective_20260824_0051.md | 2026-08-24 00:51 |
+| G2627 | Leaked · Mobile Detective | docs/LeakedMobileDetective_20260824_0051.md | 2026-08-24 00:51 |
+| G2628 | Detectea: Detective Game | docs/DetecteaDetectiveGame_20260824_0051.md | 2026-08-24 00:51 |
+| G2629 | Duskwood - Detective Story | docs/Duskwood-DetectiveStory_20260824_0051.md | 2026-08-24 00:51 |
+| G2630 | Hey Love Tim: Chat Story | docs/HeyLoveTimChatStory_20260824_0051.md | 2026-08-24 00:51 |
+| G2631 | Girl Sherlock Mobile Detective | docs/GirlSherlockMobileDetective_20260824_0051.md | 2026-08-24 00:51 |
+| G2632 | Playbite - Mobile Arcade | docs/Playbite-MobileArcade_20260824_0051.md | 2026-08-24 00:51 |
+| G2633 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260824_0051.md | 2026-08-24 00:51 |
+| G2634 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_0051.md | 2026-08-24 00:51 |
+| G2635 | Big Time Games | docs/BigTimeGames_20260824_0051.md | 2026-08-24 00:51 |
+| G2636 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260824_0051.md | 2026-08-24 00:51 |
+| G2637 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle!_20260824_0051.md | 2026-08-24 00:51 |
+| G2638 | 2 3 4 Player Games | docs/234PlayerGames_20260824_0051.md | 2026-08-24 00:51 |
+| G2639 | 2 Player Games : Offline Games | docs/2PlayerGamesOfflineGames_20260824_0051.md | 2026-08-24 00:51 |
+| G2640 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260824_0051.md | 2026-08-24 00:51 |
+| G2641 | Bullet Rush! | docs/BulletRush!_20260824_0051.md | 2026-08-24 00:51 |
+| G2642 | Gun Head Run | docs/GunHeadRun_20260824_0051.md | 2026-08-24 00:51 |
+| G2643 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260824_0051.md | 2026-08-24 00:51 |
+| G2644 | Hyperball | docs/Hyperball_20260824_0051.md | 2026-08-24 00:51 |
+| G2645 | Save the grandmother | docs/Savethegrandmother_20260824_0051.md | 2026-08-24 00:51 |
+| G2646 | Gun Sprint | docs/GunSprint_20260824_0051.md | 2026-08-24 00:51 |
+| G2647 | Squad Alpha - Action Shooting | docs/SquadAlpha-ActionShooting_20260824_0051.md | 2026-08-24 00:51 |
+| G2648 | Sneak Out 3D | docs/SneakOut3D_20260824_0051.md | 2026-08-24 00:51 |
+| G2649 | Hyper Arrow | docs/HyperArrow_20260824_0051.md | 2026-08-24 00:51 |
+| G2650 | Push Master | docs/PushMaster_20260824_0051.md | 2026-08-24 00:51 |
 | G2434 | Offline Games - No Wifi Games | docs/OfflineGamesNoWifiGames_20260823_1136.md | 2026-08-23 11:36 |
 | G2435 | Big Time Games | docs/BigTimeGames_20260823_1136.md | 2026-08-23 11:36 |
 | G2436 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260823_1136.md | 2026-08-23 11:36 |
@@ -876,3 +926,18 @@
 |[2026-08-23 13:18] [R156] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 |[2026-08-23 13:18] [R156] [Phase 5: Git Push] ✅ 完成 — commit成功(12 files, +526 lines)，push成功
 |[2026-08-23 13:18] [R156] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S491-S493，10款游戏G2463-G2472)
+
+||[2026-08-24 00:51] [R163] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=505+
+||[2026-08-24 00:51] [R163] [Phase 2: Discover] ✅ 完成 — 搜索3组关键词，发现3个新来源(S506-S508)，共28款游戏
+||[2026-08-24 00:51] [R163] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S506-S508)，产出47款游戏文档(G2604-G2650)，覆盖方块益智/放置点击/社交推理/动作射击/休闲合集五品类，全部≥50行，0个失败
+||[2026-08-24 00:51] [R163] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+||[2026-08-24 00:51] [R163] [Phase 5: Git Push] ✅ 完成 — commit成功
+||[2026-08-24 00:51] [R163] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3来源, 47款游戏G2604-G2650)
+
+
+[2026-08-24 00:51] [R163] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=505+
+[2026-08-24 00:51] [R163] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现3个新来源(S506-S508)，共28款游戏
+[2026-08-24 00:51] [R163] [Phase 3: Process Sources] ✅ 完成 — 处理3来源(S506-S508)，基于iTunes API描述数据产出47款游戏文档(G2604-G2650)，全部≥50行，0个失败
+[2026-08-24 00:51] [R163] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-24 00:51] [R163] [Phase 5: Git Push] ✅ 完成 — commit成功
+[2026-08-24 00:51] [R163] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S506-S508，47款游戏G2604-G2650)
