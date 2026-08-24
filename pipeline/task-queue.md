@@ -17,7 +17,10 @@
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
-| S509 | iTunes Search: puzzle platformer casual mobile | https://itunes.apple.com/search?term=puzzle+platformer+casual+mobile&media=software&limit=10 | 10 | 2026-08-24 02:42 |
+| S521 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-24 12:30 |
+| S522 | iTunes Search: best small games app store hidden gems | https://itunes.apple.com/search?term=best+small+games+app+store+hidden+gems&media=software&limit=10 | 9 | 2026-08-24 12:30 |
+| S523 | iTunes Search: Nintendo Switch indie puzzle casual | https://itunes.apple.com/search?term=Nintendo+Switch+indie+puzzle+casual&media=software&limit=10 | 10 | 2026-08-24 12:30 |
+| S515 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-24 06:09 |
 | S510 | iTunes Search: card game casual strategy mobile | https://itunes.apple.com/search?term=card+game+casual+strategy+mobile&media=software&limit=10 | 10 | 2026-08-24 02:42 |
 | S511 | iTunes Search: word game casual brain training | https://itunes.apple.com/search?term=word+game+casual+brain+training&media=software&limit=10 | 10 | 2026-08-24 02:42 |
 | S512 | iTunes Search: casual mini game party multiplayer | https://itunes.apple.com/search?term=casual+mini+game+party+multiplayer&media=software&limit=10 | 10 | 2026-08-24 04:25 |
@@ -292,9 +295,38 @@
 | G2738 | String.io | docs/String_io_20260824_0930.md | 2026-08-24 09:30 |
 | G2739 | Ping.io | docs/Ping_io_20260824_0930.md | 2026-08-24 09:30 |
 | G2740 | Soul.io 3D - .io Games For Fun | docs/Soul_io3D-_ioGamesForFun_20260824_0930.md | 2026-08-24 09:30 |
-| G2741 | Do Not Fall .io | docs/DoNotFall_io_20260824_0930.md | 2026-08-24 09:30 |
-| G2742 | SmashKarts.io | docs/SmashKarts_io_20260824_0930.md | 2026-08-24 09:30 |
-| G2743 | Pac.io | docs/Pac_io_20260824_0930.md | 2026-08-24 09:30 |
+|| G2741 | Do Not Fall .io | docs/DoNotFall_io_20260824_0930.md | 2026-08-24 09:30 |
+|| G2742 | SmashKarts.io | docs/SmashKarts_io_20260824_0930.md | 2026-08-24 09:30 |
+|| G2743 | Pac.io | docs/Pac_io_20260824_0930.md | 2026-08-24 09:30 |
+|| G2744 | Big Time Games | docs/BigTimeGames_20260824_1230.md | 2026-08-24 12:30 |
+|| G2745 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_1230.md | 2026-08-24 12:30 |
+|| G2746 | Offline Games - No Wifi Games | docs/OfflineGames-NoWifiGames_20260824_1230.md | 2026-08-24 12:30 |
+|| G2747 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260824_1230.md | 2026-08-24 12:30 |
+|| G2748 | TopTop: Games & Party | docs/TopTopGames&Party_20260824_1230.md | 2026-08-24 12:30 |
+|| G2749 | Idol Mini Games: Finger Rush | docs/IdolMiniGamesFingerRush_20260824_1230.md | 2026-08-24 12:30 |
+|| G2750 | Apple Games | docs/AppleGames_20260824_1230.md | 2026-08-24 12:30 |
+|| G2751 | Playbite - Mobile Arcade | docs/Playbite-MobileArcade_20260824_1230.md | 2026-08-24 12:30 |
+|| G2752 | Bix Challenge | docs/BixChallenge_20260824_1230.md | 2026-08-24 12:30 |
+|| G2753 | Log Thrower | docs/LogThrower_20260824_1230.md | 2026-08-24 12:30 |
+|| G2754 | The Hidden Treasures・Mystery | docs/TheHiddenTreasuresMystery_20260824_1230.md | 2026-08-24 12:30 |
+|| G2755 | Find them all - Hidden Puzzle | docs/Findthemall-HiddenPuzzle_20260824_1230.md | 2026-08-24 12:30 |
+|| G2756 | Little Things™ Forever | docs/LittleThingsForever_20260824_1230.md | 2026-08-24 12:30 |
+|| G2757 | Apple Games | docs/AppleGames_20260824_1230.md | 2026-08-24 12:30 |
+|| G2758 | Find Em All! - Hidden Objects | docs/FindEmAll!-HiddenObjects_20260824_1230.md | 2026-08-24 12:30 |
+|| G2759 | Twin Moons® | docs/TwinMoons_20260824_1230.md | 2026-08-24 12:30 |
+|| G2760 | Little Things™ | docs/LittleThings_20260824_1230.md | 2026-08-24 12:30 |
+|| G2761 | Big Time Games | docs/BigTimeGames_20260824_1230.md | 2026-08-24 12:30 |
+|| G2762 | Find Fast:Hidden Objects | docs/FindFastHiddenObjects_20260824_1230.md | 2026-08-24 12:30 |
+|| G2763 | TENS! | docs/TENS!_20260824_1230.md | 2026-08-24 12:30 |
+|| G2764 | iSlash | docs/iSlash_20260824_1230.md | 2026-08-24 12:30 |
+|| G2765 | Block Away - Tap Out Puzzle | docs/BlockAway-TapOutPuzzle_20260824_1230.md | 2026-08-24 12:30 |
+|| G2766 | Lumino City | docs/LuminoCity_20260824_1230.md | 2026-08-24 12:30 |
+|| G2767 | High Rise - A Puzzle Cityscape | docs/HighRise-APuzzleCityscape_20260824_1230.md | 2026-08-24 12:30 |
+|| G2768 | Tile Burst - Match Puzzle | docs/TileBurst-MatchPuzzle_20260824_1230.md | 2026-08-24 12:30 |
+|| G2769 | Tile Scenery: Match Puzzle | docs/TileSceneryMatchPuzzle_20260824_1230.md | 2026-08-24 12:30 |
+|| G2770 | Block Jam - 3D Block Puzzle | docs/BlockJam-3DBlockPuzzle_20260824_1230.md | 2026-08-24 12:30 |
+|| G2771 | Puzzle to the Center of Earth | docs/PuzzletotheCenterofEarth_20260824_1230.md | 2026-08-24 12:30 |
+|| G2772 | Tile Block Jam - Puzzle Game | docs/TileBlockJam-PuzzleGame_20260824_1230.md | 2026-08-24 12:30 |
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
