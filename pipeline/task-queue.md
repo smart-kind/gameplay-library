@@ -157,6 +157,10 @@
 | S503 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-23 23:16 |
 | S504 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-23 23:16 |
 | S505 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-23 23:16 | https://itunes.apple.com/search?term=minigame+collection+arcade+fun+casual&media=software&limit=10 | 10 | 2026-08-23 20:00 |
+| S527 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-24 18:30 |
+| S528 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-24 18:30 |
+| S529 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-24 18:30 |
+
 ## Sources Archived（历史累计）
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
@@ -999,6 +1003,7 @@
 | G1582 | Chess Master | docs/ChessMaster_20260819_0830.md | 2026-08-19 08:30 |
 
 ## Execution Log
+|| 2026-08-24 18:30 | R168 | 3 sources (S527-S529) | 3 sources (S527-S529) | 28 games (G2801-G2828) | iTunes API | 0 failures | 28 docs |
 | 2026-08-24 06:09 | R166 | 3 sources (S515-S517) | 3 sources (S515-S517) | 28 games (G2691-G2718) | iTunes API | 0 failures | 28 docs |
 | 2026-08-24 09:30 | R167 | 3 sources (S518-S520) | 3 sources (S518-S520) | 25 games (G2719-G2743) | iTunes API | 0 failures | 25 docs |
 
@@ -1145,4 +1150,33 @@
 [2026-08-24 00:51] [R163] [Phase 3: Process Sources] ✅ 完成 — 处理3来源(S506-S508)，基于iTunes API描述数据产出47款游戏文档(G2604-G2650)，全部≥50行，0个失败
 [2026-08-24 00:51] [R163] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 [2026-08-24 00:51] [R163] [Phase 5: Git Push] ✅ 完成 — commit成功
-[2026-08-24 00:51] [R163] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S506-S508，47款游戏G2604-G2650)
+[2026-08-24 00:51] [R163] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S506-S508，47款游戏G2604-G2650)|||| G2801 | PlaybiteMobileArcade | docs/PlaybiteMobileArcade_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2802 | SuperMegaMiniParty | docs/SuperMegaMiniParty_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2803 | CrazyGamesPlay1500Games | docs/CrazyGamesPlay1500Games_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2804 | BigTimeGames | docs/BigTimeGames_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2805 | MiniGamesCalmChill | docs/MiniGamesCalmChill_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2806 | 2PlayerGamesOfflineGames | docs/2PlayerGamesOfflineGames_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2807 | MiniGolfStarsArenaBattle | docs/MiniGolfStarsArenaBattle_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2808 | 234PlayerGames | docs/234PlayerGames_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2809 | PlaygamaPlay2000Games | docs/PlaygamaPlay2000Games_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2810 | Cubic234PlayerGames | docs/Cubic234PlayerGames_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2811 | PushBattlecoolgame | docs/PushBattlecoolgame_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2812 | BlockAwayTapOutPuzzle | docs/BlockAwayTapOutPuzzle_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2813 | WoodyBattleBlockPuzzleDual | docs/WoodyBattleBlockPuzzleDual_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2814 | ShapeEscapeBlockPuzzle | docs/ShapeEscapeBlockPuzzle_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2815 | YarnLoopKnitPuzzle | docs/YarnLoopKnitPuzzle_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2816 | BlockJam3DBlockPuzzle | docs/BlockJam3DBlockPuzzle_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2817 | PencilLoop | docs/PencilLoop_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2818 | InfinityLoopRelaxingPuzzle | docs/InfinityLoopRelaxingPuzzle_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2819 | TileBlockJamPuzzleGame | docs/TileBlockJamPuzzleGame_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2820 | BlockJamOutNoTimerPuzzle | docs/BlockJamOutNoTimerPuzzle_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2821 | 15PuzzleChallenge | docs/15PuzzleChallenge_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2822 | HyperPlay1v1GamesForCash | docs/HyperPlay1v1GamesForCash_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2823 | FireBalls3D | docs/FireBalls3D_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2824 | TopTopGamesParty | docs/TopTopGamesParty_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2825 | AppleGames | docs/AppleGames_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2826 | PuzzletotheCenterofEarth | docs/PuzzletotheCenterofEarth_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2827 | SuperJigsawHDPuzzleGames | docs/SuperJigsawHDPuzzleGames_20260824_1830.md | 2026-08-24 18:30 |
+|||| G2828 | BubbleShooterClassicPuzzle | docs/BubbleShooterClassicPuzzle_20260824_1830.md | 2026-08-24 18:30 |
+
+
