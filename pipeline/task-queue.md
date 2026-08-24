@@ -11,6 +11,9 @@
 |---|---|---|---|---|
 
 ## Sources Archived（本轮新增）
+| S515 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-24 06:09 |
+| S516 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-24 06:09 |
+| S517 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-24 06:09 |
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
@@ -236,6 +239,34 @@
 |---|---|---|---|
 
 ## Games Archived（本轮新增）
+| G2691 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260824_0609.md | 2026-08-24 06:09 |
+| G2692 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260824_0609.md | 2026-08-24 06:09 |
+| G2693 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_0609.md | 2026-08-24 06:09 |
+| G2694 | Big Time Games | docs/BigTimeGames_20260824_0609.md | 2026-08-24 06:09 |
+| G2695 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260824_0609.md | 2026-08-24 06:09 |
+| G2696 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260824_0609.md | 2026-08-24 06:09 |
+| G2697 | 2 3 4 Player Games | docs/234PlayerGames_20260824_0609.md | 2026-08-24 06:09 |
+| G2698 | 2 Player Games : Offline Games | docs/2PlayerGamesOfflineGames_20260824_0609.md | 2026-08-24 06:09 |
+| G2699 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260824_0609.md | 2026-08-24 06:09 |
+| G2700 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_0609.md | 2026-08-24 06:09 |
+| G2701 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260824_0609.md | 2026-08-24 06:09 |
+| G2702 | Big Time Games | docs/BigTimeGames_20260824_0609.md | 2026-08-24 06:09 |
+| G2703 | Fire Balls 3D | docs/FireBalls3D_20260824_0609.md | 2026-08-24 06:09 |
+| G2704 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260824_0609.md | 2026-08-24 06:09 |
+| G2705 | TopTop: Games & Party | docs/TopTopGamesParty_20260824_0609.md | 2026-08-24 06:09 |
+| G2706 | Apple Games | docs/AppleGames_20260824_0609.md | 2026-08-24 06:09 |
+| G2707 | Squad Alpha - Action Shooting | docs/SquadAlphaActionShooting_20260824_0609.md | 2026-08-24 06:09 |
+| G2708 | Save the grandmother | docs/Savethegrandmother_20260824_0609.md | 2026-08-24 06:09 |
+| G2709 | Block Away - Tap Out Puzzle | docs/BlockAwayTapOutPuzzle_20260824_0609.md | 2026-08-24 06:09 |
+| G2710 | Woody Battle Block Puzzle Dual | docs/WoodyBattleBlockPuzzleDual_20260824_0609.md | 2026-08-24 06:09 |
+| G2711 | Shape Escape: Block Puzzle | docs/ShapeEscapeBlockPuzzle_20260824_0609.md | 2026-08-24 06:09 |
+| G2712 | Yarn Loop: Knit Puzzle | docs/YarnLoopKnitPuzzle_20260824_0609.md | 2026-08-24 06:09 |
+| G2713 | Block Jam - 3D Block Puzzle | docs/BlockJam3DBlockPuzzle_20260824_0609.md | 2026-08-24 06:09 |
+| G2714 | Infinity Loop: Relaxing Puzzle | docs/InfinityLoopRelaxingPuzzle_20260824_0609.md | 2026-08-24 06:09 |
+| G2715 | Tile Block Jam - Puzzle Game | docs/TileBlockJamPuzzleGame_20260824_0609.md | 2026-08-24 06:09 |
+| G2716 | Block Blitz: Skillz Puzzle Win | docs/BlockBlitzSkillzPuzzleWin_20260824_0609.md | 2026-08-24 06:09 |
+| G2717 | Block Jam Out: No Timer Puzzle | docs/BlockJamOutNoTimerPuzzle_20260824_0609.md | 2026-08-24 06:09 |
+| G2718 | Super Jigsaw - HD Puzzle Games | docs/SuperJigsawHDPuzzleGames_20260824_0609.md | 2026-08-24 06:09 |
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
@@ -849,6 +880,9 @@
 | G1582 | Chess Master | docs/ChessMaster_20260819_0830.md | 2026-08-19 08:30 |
 
 ## Execution Log
+| 2026-08-24 06:09 | R166 | 3 sources (S515-S517) | 3 sources (S515-S517) | 28 games (G2691-G2718) | iTunes API | 0 failures | 28 docs |
+
+
 |[2026-08-23 14:59] [R157] [Phase 2: Discover] ✅ 完成 — 搜索3组，发现3个新来源(S494-S496)
 | 2026-08-24 02:42 | R164 | 3 sources (S509-S511) | 3 sources (S509-S511) | 30 games (G2651-G2680) | iTunes API | 0 failures | 30 docs |
 |[2026-08-23 14:59] [R157] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S494-S496)，产出29款游戏文档(G2463-G2491)，0个失败
