@@ -14,6 +14,9 @@
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S509 | iTunes Search: puzzle platformer casual mobile | https://itunes.apple.com/search?term=puzzle+platformer+casual+mobile&media=software&limit=10 | 10 | 2026-08-24 02:42 |
+| S510 | iTunes Search: card game casual strategy mobile | https://itunes.apple.com/search?term=card+game+casual+strategy+mobile&media=software&limit=10 | 10 | 2026-08-24 02:42 |
+| S511 | iTunes Search: word game casual brain training | https://itunes.apple.com/search?term=word+game+casual+brain+training&media=software&limit=10 | 10 | 2026-08-24 02:42 |
 | S506 | iTunes Search: cooperative multiplayer puzzle casual | https://itunes.apple.com/search?term=cooperative+multiplayer+puzzle+casual&media=software&limit=10 | 10 | 2026-08-24 00:51 |
 | S507 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-24 00:51 |
 | S508 | iTunes Search: social detective casual story mobile | https://itunes.apple.com/search?term=social+detective+casual+story+mobile&media=software&limit=10 | 8 | 2026-08-24 00:51 |
@@ -233,6 +236,36 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
+| G2651 | Aerox | docs/Aerox_20260824_0242.md | 2026-08-24 02:42 |
+| G2652 | Black Deck - Card Battle TCG | docs/BlackDeckCardBattleTCG_20260824_0242.md | 2026-08-24 02:42 |
+| G2653 | Block Away - Tap Out Puzzle | docs/BlockAwayTapOutPuzzle_20260824_0242.md | 2026-08-24 02:42 |
+| G2654 | Block Jam - 3D Block Puzzle | docs/BlockJam3DBlockPuzzle_20260824_0242.md | 2026-08-24 02:42 |
+| G2655 | BrainBoom - Word Brain Games | docs/BrainBoomWordBrainGames_20260824_0242.md | 2026-08-24 02:42 |
+| G2656 | Brain Games - Left vs Right | docs/BrainGamesLeftvsRight_20260824_0242.md | 2026-08-24 02:42 |
+| G2657 | Draft Showdown | docs/DraftShowdown_20260824_0242.md | 2026-08-24 02:42 |
+| G2658 | FreeCell Classic :) | docs/FreeCellClassic_20260824_0242.md | 2026-08-24 02:42 |
+| G2659 | Go Escape! - Casual Ball Games | docs/GoEscapeCasualBallGames_20260824_0242.md | 2026-08-24 02:42 |
+| G2660 | Honor-Bound TCG CCG Card Quest | docs/HonorBoundTCGCCGCardQuest_20260824_0242.md | 2026-08-24 02:42 |
+| G2661 | Lies Of Astaroth-Clash Games | docs/LiesOfAstarothClashGames_20260824_0242.md | 2026-08-24 02:42 |
+| G2662 | OPA! Family Party Card Game | docs/OPAFamilyPartyCardGame_20260824_0242.md | 2026-08-24 02:42 |
+| G2663 | Otium Word: Relax Puzzle Game | docs/OtiumWordRelaxPuzzleGame_20260824_0242.md | 2026-08-24 02:42 |
+| G2664 | Phase 10: Casual Card Game | docs/Phase10CasualCardGame_20260824_0242.md | 2026-08-24 02:42 |
+| G2665 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260824_0242.md | 2026-08-24 02:42 |
+| G2666 | Pokémon TCG Pocket | docs/PokmonTCGPocket_20260824_0242.md | 2026-08-24 02:42 |
+| G2667 | Puzzle to the Center of Earth | docs/PuzzletotheCenterofEarth_20260824_0242.md | 2026-08-24 02:42 |
+| G2668 | Solitaire Card: Classic Game | docs/SolitaireCardClassicGame_20260824_0242.md | 2026-08-24 02:42 |
+| G2669 | Spades - Cards Game | docs/SpadesCardsGame_20260824_0242.md | 2026-08-24 02:42 |
+| G2670 | Tile Block Jam - Puzzle Game | docs/TileBlockJamPuzzleGame_20260824_0242.md | 2026-08-24 02:42 |
+| G2671 | Tile Scenery: Match Puzzle | docs/TileSceneryMatchPuzzle_20260824_0242.md | 2026-08-24 02:42 |
+| G2672 | Trace | docs/Trace_20260824_0242.md | 2026-08-24 02:42 |
+| G2673 | Vita Crossword - Word Games | docs/VitaCrosswordWordGames_20260824_0242.md | 2026-08-24 02:42 |
+| G2674 | Word Connect - Train Brain | docs/WordConnectTrainBrain_20260824_0242.md | 2026-08-24 02:42 |
+| G2675 | Word Jigsaw! | docs/WordJigsaw_20260824_0242.md | 2026-08-24 02:42 |
+| G2676 | Word Stacks | docs/WordStacks_20260824_0242.md | 2026-08-24 02:42 |
+| G2677 | Word Yatzy - Fun Word Puzzler | docs/WordYatzyFunWordPuzzler_20260824_0242.md | 2026-08-24 02:42 |
+| G2678 | Wordful: Word Connect Game | docs/WordfulWordConnectGame_20260824_0242.md | 2026-08-24 02:42 |
+| G2679 | Words Madness | docs/WordsMadness_20260824_0242.md | 2026-08-24 02:42 |
+| G2680 | circloO - Physics Platformer | docs/circloOPhysicsPlatformer_20260824_0242.md | 2026-08-24 02:42 |
 | G2604 | iSlash | docs/iSlash_20260824_0051.md | 2026-08-24 00:51 |
 | G2605 | Block Away - Tap Out Puzzle | docs/BlockAway-TapOutPuzzle_20260824_0051.md | 2026-08-24 00:51 |
 | G2606 | Wooden Block - Party Game | docs/WoodenBlock-PartyGame_20260824_0051.md | 2026-08-24 00:51 |
@@ -804,6 +837,7 @@
 
 ## Execution Log
 |[2026-08-23 14:59] [R157] [Phase 2: Discover] ✅ 完成 — 搜索3组，发现3个新来源(S494-S496)
+| 2026-08-24 02:42 | R164 | 3 sources (S509-S511) | 3 sources (S509-S511) | 30 games (G2651-G2680) | iTunes API | 0 failures | 30 docs |
 |[2026-08-23 14:59] [R157] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S494-S496)，产出29款游戏文档(G2463-G2491)，0个失败
 |[2026-08-23 14:59] [R157] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 |[2026-08-23 14:59] [R157] [Phase 5: Git Push] ✅ 完成
