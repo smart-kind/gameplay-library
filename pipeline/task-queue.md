@@ -122,6 +122,9 @@
 | S461 | iTunes Search: Nintendo Switch indie puzzle casual | https://itunes.apple.com/search?term=Nintendo+Switch+indie+puzzle+casual&media=software&limit=10 | 10 | 2026-08-22 17:13 |
 | S462 | iTunes Search: flash games best classic gameplay mechanics | https://itunes.apple.com/search?term=flash+games+best+classic+gameplay+mechanics&media=software&limit=10 | 8 | 2026-08-22 17:13 |
 | S463 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-22 17:13 |
+| S518 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-24 09:30 |
+| S519 | iTunes Search: web browser mini games popular addictive | https://itunes.apple.com/search?term=web+browser+mini+games+popular+addictive&media=software&limit=10 | 9 | 2026-08-24 09:30 |
+| S520 | iTunes Search: io games popular mechanics | https://itunes.apple.com/search?term=io+games+popular+mechanics&media=software&limit=10 | 9 | 2026-08-24 09:30 |
 
 | S479 | iTunes Search: cooperative multiplayer puzzle casual | https://itunes.apple.com/search?term=cooperative+multiplayer+puzzle+casual&media=software&limit=10 | 10 | 2026-08-23 03:20 |
 | S480 | iTunes Search: escape puzzle adventure brain | https://itunes.apple.com/search?term=escape+puzzle+adventure+brain&media=software&limit=10 | 10 | 2026-08-23 03:20 |
@@ -267,6 +270,31 @@
 | G2716 | Block Blitz: Skillz Puzzle Win | docs/BlockBlitzSkillzPuzzleWin_20260824_0609.md | 2026-08-24 06:09 |
 | G2717 | Block Jam Out: No Timer Puzzle | docs/BlockJamOutNoTimerPuzzle_20260824_0609.md | 2026-08-24 06:09 |
 | G2718 | Super Jigsaw - HD Puzzle Games | docs/SuperJigsawHDPuzzleGames_20260824_0609.md | 2026-08-24 06:09 |
+| G2719 | Bubble Shooter Classic Puzzle | docs/BubbleShooterClassicPuzzle_20260824_0930.md | 2026-08-24 09:30 |
+| G2720 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGames_Pop2025_20260824_0930.md | 2026-08-24 09:30 |
+| G2721 | Flower Games - Bubble Pop 2024 | docs/FlowerGames-BubblePop2024_20260824_0930.md | 2026-08-24 09:30 |
+| G2722 | Bejeweled Blitz | docs/BejeweledBlitz_20260824_0930.md | 2026-08-24 09:30 |
+| G2723 | Brick Game - Retro Games | docs/BrickGame-RetroGames_20260824_0930.md | 2026-08-24 09:30 |
+| G2724 | ProgressBar95 - retro arcade | docs/ProgressBar95-retroarcade_20260824_0930.md | 2026-08-24 09:30 |
+| G2725 | Gaming Room: Classic Games | docs/GamingRoom_ClassicGames_20260824_0930.md | 2026-08-24 09:30 |
+| G2726 | Offline Games - No Wifi Games | docs/OfflineGames-NoWifiGames_20260824_0930.md | 2026-08-24 09:30 |
+| G2727 | Big Time Games | docs/BigTimeGames_20260824_0930.md | 2026-08-24 09:30 |
+| G2728 | Puffin Cloud Browser | docs/PuffinCloudBrowser_20260824_0930.md | 2026-08-24 09:30 |
+| G2729 | CrazyGames: Play 1500+ Games | docs/CrazyGames_Play1500_Games_20260824_0930.md | 2026-08-24 09:30 |
+| G2730 | Opera GX | docs/OperaGX_20260824_0930.md | 2026-08-24 09:30 |
+| G2731 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260824_0930.md | 2026-08-24 09:30 |
+| G2732 | Playgama: Play 2,000+ Games | docs/Playgama_Play2_000_Games_20260824_0930.md | 2026-08-24 09:30 |
+| G2733 | Plato: Fun Multiplayer Games | docs/Plato_FunMultiplayerGames_20260824_0930.md | 2026-08-24 09:30 |
+| G2734 | Mini Games: Calm & Chill | docs/MiniGames_Calm_Chill_20260824_0930.md | 2026-08-24 09:30 |
+| G2735 | Soul.io | docs/Soul_io_20260824_0930.md | 2026-08-24 09:30 |
+| G2736 | Hexar.io - #1 in IO Games | docs/Hexar_io-_1inIOGames_20260824_0930.md | 2026-08-24 09:30 |
+| G2737 | Ladder.io | docs/Ladder_io_20260824_0930.md | 2026-08-24 09:30 |
+| G2738 | String.io | docs/String_io_20260824_0930.md | 2026-08-24 09:30 |
+| G2739 | Ping.io | docs/Ping_io_20260824_0930.md | 2026-08-24 09:30 |
+| G2740 | Soul.io 3D - .io Games For Fun | docs/Soul_io3D-_ioGamesForFun_20260824_0930.md | 2026-08-24 09:30 |
+| G2741 | Do Not Fall .io | docs/DoNotFall_io_20260824_0930.md | 2026-08-24 09:30 |
+| G2742 | SmashKarts.io | docs/SmashKarts_io_20260824_0930.md | 2026-08-24 09:30 |
+| G2743 | Pac.io | docs/Pac_io_20260824_0930.md | 2026-08-24 09:30 |
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
@@ -881,6 +909,7 @@
 
 ## Execution Log
 | 2026-08-24 06:09 | R166 | 3 sources (S515-S517) | 3 sources (S515-S517) | 28 games (G2691-G2718) | iTunes API | 0 failures | 28 docs |
+| 2026-08-24 09:30 | R167 | 3 sources (S518-S520) | 3 sources (S518-S520) | 25 games (G2719-G2743) | iTunes API | 0 failures | 25 docs |
 
 
 |[2026-08-23 14:59] [R157] [Phase 2: Discover] ✅ 完成 — 搜索3组，发现3个新来源(S494-S496)
