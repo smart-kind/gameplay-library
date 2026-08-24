@@ -17,6 +17,9 @@
 | S509 | iTunes Search: puzzle platformer casual mobile | https://itunes.apple.com/search?term=puzzle+platformer+casual+mobile&media=software&limit=10 | 10 | 2026-08-24 02:42 |
 | S510 | iTunes Search: card game casual strategy mobile | https://itunes.apple.com/search?term=card+game+casual+strategy+mobile&media=software&limit=10 | 10 | 2026-08-24 02:42 |
 | S511 | iTunes Search: word game casual brain training | https://itunes.apple.com/search?term=word+game+casual+brain+training&media=software&limit=10 | 10 | 2026-08-24 02:42 |
+| S512 | iTunes Search: casual mini game party multiplayer | https://itunes.apple.com/search?term=casual+mini+game+party+multiplayer&media=software&limit=10 | 10 | 2026-08-24 04:25 |
+| S513 | iTunes Search: puzzle match3 casual addictive mobile | https://itunes.apple.com/search?term=puzzle+match3+casual+addictive+mobile&media=software&limit=10 | 10 | 2026-08-24 04:25 |
+| S514 | iTunes Search: hyper casual arcade reaction reflex | https://itunes.apple.com/search?term=hyper+casual+arcade+reaction+reflex&media=software&limit=10 | 9 | 2026-08-24 04:25 |
 | S506 | iTunes Search: cooperative multiplayer puzzle casual | https://itunes.apple.com/search?term=cooperative+multiplayer+puzzle+casual&media=software&limit=10 | 10 | 2026-08-24 00:51 |
 | S507 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-24 00:51 |
 | S508 | iTunes Search: social detective casual story mobile | https://itunes.apple.com/search?term=social+detective+casual+story+mobile&media=software&limit=10 | 8 | 2026-08-24 00:51 |
@@ -266,6 +269,16 @@
 | G2678 | Wordful: Word Connect Game | docs/WordfulWordConnectGame_20260824_0242.md | 2026-08-24 02:42 |
 | G2679 | Words Madness | docs/WordsMadness_20260824_0242.md | 2026-08-24 02:42 |
 | G2680 | circloO - Physics Platformer | docs/circloOPhysicsPlatformer_20260824_0242.md | 2026-08-24 02:42 |
+| G2681 | Mini Militia - Doodle Army 2 | docs/MiniMilitiaDoodleArmy2_20260824_0425.md | 2026-08-24 04:25 |
+| G2682 | Stumble Guys | docs/StumbleGuys_20260824_0425.md | 2026-08-24 04:25 |
+| G2683 | Royal Match | docs/RoyalMatch_20260824_0425.md | 2026-08-24 04:25 |
+| G2684 | Match Masters | docs/MatchMasters_20260824_0425.md | 2026-08-24 04:25 |
+| G2685 | Jelly Splash: Fun Puzzle Game | docs/JellySplashFunPuzzleGame_20260824_0425.md | 2026-08-24 04:25 |
+| G2686 | Leap On! | docs/LeapOn_20260824_0425.md | 2026-08-24 04:25 |
+| G2687 | Laser Dodge: Retro Arcade | docs/LaserDodgeRetroArcade_20260824_0425.md | 2026-08-24 04:25 |
+| G2688 | Dare the Monkey: Go Bananas! | docs/DaretheMonkeyGoBananas_20260824_0425.md | 2026-08-24 04:25 |
+| G2689 | ArcadeBall: The Ramp Challenge | docs/ArcadeBallTheRampChallenge_20260824_0425.md | 2026-08-24 04:25 |
+| G2690 | Arcade Heaven | docs/ArcadeHeaven_20260824_0425.md | 2026-08-24 04:25 |
 | G2604 | iSlash | docs/iSlash_20260824_0051.md | 2026-08-24 00:51 |
 | G2605 | Block Away - Tap Out Puzzle | docs/BlockAway-TapOutPuzzle_20260824_0051.md | 2026-08-24 00:51 |
 | G2606 | Wooden Block - Party Game | docs/WoodenBlock-PartyGame_20260824_0051.md | 2026-08-24 00:51 |
@@ -939,6 +952,10 @@
 |[2026-08-24 23:17] [R162] [Phase 5: Git Push] ✅ 完成 — commit成功
 |[2026-08-24 23:17] [R162] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3新来源S503-S505，25款游戏G2575-G2599)
 
+
+|[2026-08-24 04:25] [R165] [Phase 2: Discover] ✅ 完成 — iTunes API搜索3组关键词，发现3个新来源(S512-S514)，共29款游戏
+|[2026-08-24 04:25] [R165] [Phase 3: Process Sources] ✅ 完成 — 处理3个来源(S512-S514)，产出10款游戏文档(G2681-G2690)，覆盖多人射击/派对竞技/三消解谜/街机生存/横版跑酷五品类，全部≥50行，0个失败
+|[2026-08-24 04:25] [R165] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
 
 ## Phase 1 Log
 
