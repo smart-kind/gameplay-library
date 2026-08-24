@@ -11,9 +11,9 @@
 |---|---|---|---|---|
 
 ## Sources Archived（本轮新增）
-| S515 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-24 06:09 |
-| S516 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-24 06:09 |
-| S517 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-24 06:09 |
+| S530 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-24 21:30 |
+| S531 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-24 21:30 |
+| S532 | iTunes Search: web browser mini games popular addictive | https://itunes.apple.com/search?term=web+browser+mini+games+popular+addictive&media=software&limit=10 | 9 | 2026-08-24 21:30 |
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
@@ -252,7 +252,10 @@
 |---|---|---|---|
 
 ## Games Archived（本轮新增）
-| G2691 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260824_0609.md | 2026-08-24 06:09 |
+| G2801 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260824_2130.md | 2026-08-24 21:30 |
+| G2802 | Merge Mayor | docs/MergeMayor_20260824_2130.md | 2026-08-24 21:30 |
+| G2803 | Bejeweled Blitz | docs/BejeweledBlitz_20260824_2130.md | 2026-08-24 21:30 |
+| G2804 | Progressbar95 - retro arcade | docs/Progressbar95-retroarcade_20260824_2130.md | 2026-08-24 21:30 |
 | G2692 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260824_0609.md | 2026-08-24 06:09 |
 | G2693 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_0609.md | 2026-08-24 06:09 |
 | G2694 | Big Time Games | docs/BigTimeGames_20260824_0609.md | 2026-08-24 06:09 |
