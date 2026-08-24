@@ -1,32 +1,25 @@
-# Bejeweled Blitz
+# TopTop: Games & Party
 
 - **类型**: 休闲合集
 - **平台**: Mobile (iOS+Android)
-- **开发商**: PopCap
-- **首次发布**: 2009
-- **一句话描述**: Fast-paced match-3 puzzle game from PopCap
+- **开发商**: MX INNOVATION PTE. LTD.
+- **首次发布**: 2025
+- **一句话描述**: Meet, play, and have fun with TopTop - the social gaming app
 
 ## 玩法规则
 
-在《Bejeweled Blitz》中，玩家通过触摸屏幕进行主要操作。
-游戏的核心交互方式为点击、拖拽和滑动，
-玩家需要在有限的空间或时间内做出策略性决策。
-每次操作都会直接影响游戏状态和得分。
+在《TopTop: Games & Party》中，玩家通过触摸屏幕进行主要操作。游戏的核心交互方式为点击和拖拽，
+玩家需要在有限的空间内做出策略性决策。每次操作都会直接影响游戏状态，
+玩家需要观察当前局面，评估可用选项，然后执行最佳操作。
 
-游戏界面清晰地展示了当前的游戏状态、得分和剩余资源。
-玩家可以看到游戏区域的整体布局，以及各个元素的位置关系和状态。
-操作的反馈是即时的，玩家能立即看到自己的操作带来的变化和结果。
-音效和视觉反馈增强了操作的满足感。
-
-随着游戏进程推进，难度逐步提升。新的元素和机制会逐步引入，
-要求玩家不断调整策略。每一局游戏都是独立的挑战，
-玩家需要根据当前局面做出最优判断。
+游戏界面清晰展示了当前状态和可用操作。玩家可以看到游戏区域的布局，
+以及各个元素的位置关系。操作的反馈是即时的，
+玩家能立即看到自己的操作带来的变化和结果。
 
 游戏目标是通过一系列策略性操作达成关卡要求或获得最高分数。
 当玩家无法继续有效操作或达到特定条件时，游戏会给出结算结果。
-结算后玩家可以选择再来一局或进入下一关卡。
 
-具体玩法详情：Fast-paced match-3 puzzle game from PopCap. Swap adjacent gems to create matches of 3 or more in a row or column. One-minute timer creates urgency. Chain reactions create cascading combos. Special gem
+具体来说：Meet, play, and have fun with TopTop - the social gaming app. Games include Toppy Park (2-8 player cooperative puzzle), Who's the Undercover (social deduction word game). Team up for chaos and cooperation. Voice rooms to chat with people from around the world. Real-time PK matches. Supports online a
 
 ## 核心循环
 
@@ -40,7 +33,7 @@
 
 ## 为什么好玩
 
-《Bejeweled Blitz》的乐趣来自于即时的操作反馈和逐步提升的挑战感。每次成功的操作都带来视觉和听觉上的满足感，而失败的挫折感又驱使玩家想再来一局尝试更好的策略。游戏在简单易学和难以精通之间找到了很好的平衡点。
+《TopTop: Games & Party》的乐趣来自于即时的操作反馈和逐步提升的挑战感。每次成功的操作都带来视觉和听觉上的满足感，而失败的挫折感又驱使玩家想再来一局尝试更好的策略。游戏在简单易学和难以精通之间找到了很好的平衡点。
 
 ## 粘性来源
 
@@ -56,5 +49,5 @@
 
 ## 来源
 
-- 抓取 URL: https://apps.apple.com/app/id469960709
+- 抓取 URL: https://apps.apple.com/app/id6748342498
 - 数据来源: iTunes Search API

@@ -1,32 +1,25 @@
-# Bejeweled Blitz
+# Block Jam Out: No Timer Puzzle
 
 - **类型**: 休闲合集
 - **平台**: Mobile (iOS+Android)
-- **开发商**: PopCap
-- **首次发布**: 2009
-- **一句话描述**: Fast-paced match-3 puzzle game from PopCap
+- **开发商**: PLAY2EVER GAMES LIMITED
+- **首次发布**: 2026
+- **一句话描述**: No timer
 
 ## 玩法规则
 
-在《Bejeweled Blitz》中，玩家通过触摸屏幕进行主要操作。
-游戏的核心交互方式为点击、拖拽和滑动，
-玩家需要在有限的空间或时间内做出策略性决策。
-每次操作都会直接影响游戏状态和得分。
+在《Block Jam Out: No Timer Puzzle》中，玩家通过触摸屏幕进行主要操作。游戏的核心交互方式为点击和拖拽，
+玩家需要在有限的空间内做出策略性决策。每次操作都会直接影响游戏状态，
+玩家需要观察当前局面，评估可用选项，然后执行最佳操作。
 
-游戏界面清晰地展示了当前的游戏状态、得分和剩余资源。
-玩家可以看到游戏区域的整体布局，以及各个元素的位置关系和状态。
-操作的反馈是即时的，玩家能立即看到自己的操作带来的变化和结果。
-音效和视觉反馈增强了操作的满足感。
-
-随着游戏进程推进，难度逐步提升。新的元素和机制会逐步引入，
-要求玩家不断调整策略。每一局游戏都是独立的挑战，
-玩家需要根据当前局面做出最优判断。
+游戏界面清晰展示了当前状态和可用操作。玩家可以看到游戏区域的布局，
+以及各个元素的位置关系。操作的反馈是即时的，
+玩家能立即看到自己的操作带来的变化和结果。
 
 游戏目标是通过一系列策略性操作达成关卡要求或获得最高分数。
 当玩家无法继续有效操作或达到特定条件时，游戏会给出结算结果。
-结算后玩家可以选择再来一局或进入下一关卡。
 
-具体玩法详情：Fast-paced match-3 puzzle game from PopCap. Swap adjacent gems to create matches of 3 or more in a row or column. One-minute timer creates urgency. Chain reactions create cascading combos. Special gem
+具体来说：No timer. No rush. Just blocks and pure logic. Drag blocks out from matching colored gates and fit them perfectly into limited board space. Hundreds of hand-designed levels with progressive spatial challenges. Smooth drag-and-drop controls. Strategic block planning with limited board space. Instant 
 
 ## 核心循环
 
@@ -35,12 +28,13 @@
 ## 核心机制
 
 - **三消/匹配机制**: 玩家通过交换或放置相同元素来形成匹配。匹配后元素消除，上方元素下落填补空缺，可能触发连锁反应。这种机制的核心在于空间规划和前瞻性思维。
+- **拖拽放置机制**: 玩家通过拖拽操作将游戏元素放置到目标位置。需要精确判断空间位置和旋转角度，放置错误的元素可能导致空间浪费。
 - **时间限制机制**: 游戏设置时间约束（如1分钟快速局或3分钟对战局），在有限时间内最大化操作效率。时间压力增加了紧张感和决策难度。
 - **逻辑解谜机制**: 需要玩家运用空间推理和逻辑思维来解决逐步增加难度的谜题。无时间限制的模式允许玩家以自己的节奏思考。
 
 ## 为什么好玩
 
-《Bejeweled Blitz》的乐趣来自于即时的操作反馈和逐步提升的挑战感。每次成功的操作都带来视觉和听觉上的满足感，而失败的挫折感又驱使玩家想再来一局尝试更好的策略。游戏在简单易学和难以精通之间找到了很好的平衡点。
+《Block Jam Out: No Timer Puzzle》的乐趣来自于即时的操作反馈和逐步提升的挑战感。每次成功的操作都带来视觉和听觉上的满足感，而失败的挫折感又驱使玩家想再来一局尝试更好的策略。游戏在简单易学和难以精通之间找到了很好的平衡点。
 
 ## 粘性来源
 
@@ -56,5 +50,5 @@
 
 ## 来源
 
-- 抓取 URL: https://apps.apple.com/app/id469960709
+- 抓取 URL: https://apps.apple.com/app/id6759782651
 - 数据来源: iTunes Search API

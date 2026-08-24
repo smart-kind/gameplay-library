@@ -1,14 +1,14 @@
-# Bejeweled Blitz
+# Mini Games: Calm & Chill
 
 - **类型**: 休闲合集
 - **平台**: Mobile (iOS+Android)
-- **开发商**: PopCap
-- **首次发布**: 2009
-- **一句话描述**: Fast-paced match-3 puzzle game from PopCap
+- **开发商**: CTC Technology Limited
+- **首次发布**: 2024
+- **一句话描述**: Dive into the world of excitement and fun with Mini Games: Calm & Chill
 
 ## 玩法规则
 
-在《Bejeweled Blitz》中，玩家通过触摸屏幕进行主要操作。
+在《Mini Games: Calm & Chill》中，玩家通过触摸屏幕进行主要操作。
 游戏的核心交互方式为点击、拖拽和滑动，
 玩家需要在有限的空间或时间内做出策略性决策。
 每次操作都会直接影响游戏状态和得分。
@@ -26,7 +26,7 @@
 当玩家无法继续有效操作或达到特定条件时，游戏会给出结算结果。
 结算后玩家可以选择再来一局或进入下一关卡。
 
-具体玩法详情：Fast-paced match-3 puzzle game from PopCap. Swap adjacent gems to create matches of 3 or more in a row or column. One-minute timer creates urgency. Chain reactions create cascading combos. Special gem
+具体玩法详情：Dive into the world of excitement and fun with Mini Games: Calm & Chill. Easy to learn, hard to master! Just tap, swipe, or use your voice to conquer each challenge. Master your reflexes and precision
 
 ## 核心循环
 
@@ -34,13 +34,12 @@
 
 ## 核心机制
 
-- **三消/匹配机制**: 玩家通过交换或放置相同元素来形成匹配。匹配后元素消除，上方元素下落填补空缺，可能触发连锁反应。这种机制的核心在于空间规划和前瞻性思维。
-- **时间限制机制**: 游戏设置时间约束（如1分钟快速局或3分钟对战局），在有限时间内最大化操作效率。时间压力增加了紧张感和决策难度。
-- **逻辑解谜机制**: 需要玩家运用空间推理和逻辑思维来解决逐步增加难度的谜题。无时间限制的模式允许玩家以自己的节奏思考。
+- **核心操作机制**: 通过触摸屏幕进行直观的点击、拖拽或滑动操作。操作设计简单易懂，但精通需要大量练习和策略思考。
+- **渐进难度机制**: 游戏难度随进程逐步提升，新的挑战和元素逐步引入，保持玩家的学习曲线和兴趣。
 
 ## 为什么好玩
 
-《Bejeweled Blitz》的乐趣来自于即时的操作反馈和逐步提升的挑战感。每次成功的操作都带来视觉和听觉上的满足感，而失败的挫折感又驱使玩家想再来一局尝试更好的策略。游戏在简单易学和难以精通之间找到了很好的平衡点。
+《Mini Games: Calm & Chill》的乐趣来自于即时的操作反馈和逐步提升的挑战感。每次成功的操作都带来视觉和听觉上的满足感，而失败的挫折感又驱使玩家想再来一局尝试更好的策略。游戏在简单易学和难以精通之间找到了很好的平衡点。
 
 ## 粘性来源
 
@@ -56,5 +55,5 @@
 
 ## 来源
 
-- 抓取 URL: https://apps.apple.com/app/id469960709
+- 抓取 URL: https://apps.apple.com/app/id6737214802
 - 数据来源: iTunes Search API

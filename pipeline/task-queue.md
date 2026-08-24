@@ -4,6 +4,7 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S536 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-24 21:30 |
 
 ## Sources Processing（处理中）
 
@@ -11,6 +12,9 @@
 |---|---|---|---|---|
 
 ## Sources Archived（本轮新增）
+| S533 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-24 21:30 |
+| S534 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-24 21:30 |
+| S535 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-24 21:30 |
 | S530 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-24 21:30 |
 | S531 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-24 21:30 |
 | S532 | iTunes Search: web browser mini games popular addictive | https://itunes.apple.com/search?term=web+browser+mini+games+popular+addictive&media=software&limit=10 | 9 | 2026-08-24 21:30 |
@@ -249,13 +253,45 @@
 ## Games Pending（待处理游戏）
 
 | ID | 游戏名 | 文档文件 | 来源 |
-|---|---|---|---|
 
-## Games Archived（本轮新增）
-| G2801 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260824_2130.md | 2026-08-24 21:30 |
-| G2802 | Merge Mayor | docs/MergeMayor_20260824_2130.md | 2026-08-24 21:30 |
-| G2803 | Bejeweled Blitz | docs/BejeweledBlitz_20260824_2130.md | 2026-08-24 21:30 |
-| G2804 | Progressbar95 - retro arcade | docs/Progressbar95-retroarcade_20260824_2130.md | 2026-08-24 21:30 |
+|| ID | 游戏名 | 文档文件 | 来源 |
+||---|---|---|---|
+|| G2854 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260824_2130.md | 2026-08-24 21:30 |
+|| G2855 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260824_2130.md | 2026-08-24 21:30 |
+|| G2856 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_2130.md | 2026-08-24 21:30 |
+|| G2857 | Big Time Games | docs/BigTimeGames_20260824_2130.md | 2026-08-24 21:30 |
+|| G2858 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260824_2130.md | 2026-08-24 21:30 |
+|| G2859 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260824_2130.md | 2026-08-24 21:30 |
+|| G2860 | 2 3 4 Player Games | docs/234PlayerGames_20260824_2130.md | 2026-08-24 21:30 |
+|| G2861 | 2 Player Games : Offline Games | docs/2PlayerGamesOfflineGames_20260824_2130.md | 2026-08-24 21:30 |
+|| G2862 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260824_2130.md | 2026-08-24 21:30 |
+|| G2863 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260824_2130.md | 2026-08-24 21:30 |
+|| G2864 | Fire Balls 3D | docs/FireBalls3D_20260824_2130.md | 2026-08-24 21:30 |
+|| G2865 | TopTop: Games & Party | docs/TopTopGamesParty_20260824_2130.md | 2026-08-24 21:30 |
+|| G2866 | Apple Games | docs/AppleGames_20260824_2130.md | 2026-08-24 21:30 |
+|| G2867 | Squad Alpha - Action Shooting | docs/SquadAlphaActionShooting_20260824_2130.md | 2026-08-24 21:30 |
+|| G2868 | Save the grandmother | docs/Savethegrandmother_20260824_2130.md | 2026-08-24 21:30 |
+|| G2869 | Block Away - Tap Out Puzzle | docs/BlockAwayTapOutPuzzle_20260824_2130.md | 2026-08-24 21:30 |
+|| G2870 | Woody Battle Block Puzzle Dual | docs/WoodyBattleBlockPuzzleDual_20260824_2130.md | 2026-08-24 21:30 |
+|| G2871 | Shape Escape: Block Puzzle | docs/ShapeEscapeBlockPuzzle_20260824_2130.md | 2026-08-24 21:30 |
+|| G2872 | Yarn Loop: Knit Puzzle | docs/YarnLoopKnitPuzzle_20260824_2130.md | 2026-08-24 21:30 |
+|| G2873 | Block Jam - 3D Block Puzzle | docs/BlockJam3DBlockPuzzle_20260824_2130.md | 2026-08-24 21:30 |
+|| G2874 | Infinity Loop: Relaxing Puzzle | docs/InfinityLoopRelaxingPuzzle_20260824_2130.md | 2026-08-24 21:30 |
+|| G2875 | Tile Block Jam - Puzzle Game | docs/TileBlockJamPuzzleGame_20260824_2130.md | 2026-08-24 21:30 |
+|| G2876 | Block Blitz: Skillz Puzzle Win | docs/BlockBlitzSkillzPuzzleWin_20260824_2130.md | 2026-08-24 21:30 |
+|| G2877 | Block Jam Out: No Timer Puzzle | docs/BlockJamOutNoTimerPuzzle_20260824_2130.md | 2026-08-24 21:30 |
+|| G2878 | Super Jigsaw - HD Puzzle Games | docs/SuperJigsawHDPuzzleGames_20260824_2130.md | 2026-08-24 21:30 |
+|| G2879 | Bubble Shooter Classic Puzzle | docs/BubbleShooterClassicPuzzle_20260824_2130.md | 2026-08-24 21:30 |
+|| G2880 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260824_2130.md | 2026-08-24 21:30 |
+|| G2881 | Flower Games - Bubble Pop 2024 | docs/FlowerGamesBubblePop2024_20260824_2130.md | 2026-08-24 21:30 |
+|| G2882 | Bejeweled Blitz | docs/BejeweledBlitz_20260824_2130.md | 2026-08-24 21:30 |
+|| G2883 | Brick Game - Retro Games | docs/BrickGameRetroGames_20260824_2130.md | 2026-08-24 21:30 |
+|| G2884 | ProgressBar95 - retro arcade | docs/ProgressBar95retroarcade_20260824_2130.md | 2026-08-24 21:30 |
+|| G2885 | Gaming Room: Classic Games | docs/GamingRoomClassicGames_20260824_2130.md | 2026-08-24 21:30 |
+|| G2801 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260824_2130.md | 2026-08-24 21:30 |
+|| G2802 | Merge Mayor | docs/MergeMayor_20260824_2130.md | 2026-08-24 21:30 |
+|| G2803 | Bejeweled Blitz | docs/BejeweledBlitz_20260824_2130.md | 2026-08-24 21:30 |
+|| G2804 | Progressbar95 - retro arcade | docs/Progressbar95-retroarcade_20260824_2130.md | 2026-08-24 21:30 |
 | G2692 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260824_0609.md | 2026-08-24 06:09 |
 | G2693 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_0609.md | 2026-08-24 06:09 |
 | G2694 | Big Time Games | docs/BigTimeGames_20260824_0609.md | 2026-08-24 06:09 |

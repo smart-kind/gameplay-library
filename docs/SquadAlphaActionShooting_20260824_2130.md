@@ -1,14 +1,14 @@
-# Bejeweled Blitz
+# Squad Alpha - Action Shooting
 
 - **类型**: 休闲合集
 - **平台**: Mobile (iOS+Android)
-- **开发商**: PopCap
-- **首次发布**: 2009
-- **一句话描述**: Fast-paced match-3 puzzle game from PopCap
+- **开发商**: SayGames LTD
+- **首次发布**: 2021
+- **一句话描述**: Top-down shooting game with intelligent mechanics, upgradeable guns, and addictive gameplay
 
 ## 玩法规则
 
-在《Bejeweled Blitz》中，玩家通过触摸屏幕进行主要操作。
+在《Squad Alpha - Action Shooting》中，玩家通过触摸屏幕进行主要操作。
 游戏的核心交互方式为点击、拖拽和滑动，
 玩家需要在有限的空间或时间内做出策略性决策。
 每次操作都会直接影响游戏状态和得分。
@@ -26,7 +26,7 @@
 当玩家无法继续有效操作或达到特定条件时，游戏会给出结算结果。
 结算后玩家可以选择再来一局或进入下一关卡。
 
-具体玩法详情：Fast-paced match-3 puzzle game from PopCap. Swap adjacent gems to create matches of 3 or more in a row or column. One-minute timer creates urgency. Chain reactions create cascading combos. Special gem
+具体玩法详情：Top-down shooting game with intelligent mechanics, upgradeable guns, and addictive gameplay. Over 200 unique levels requiring tactical approach. Nearly 20 different bosses. 30+ different guns to colle
 
 ## 核心循环
 
@@ -34,13 +34,12 @@
 
 ## 核心机制
 
-- **三消/匹配机制**: 玩家通过交换或放置相同元素来形成匹配。匹配后元素消除，上方元素下落填补空缺，可能触发连锁反应。这种机制的核心在于空间规划和前瞻性思维。
-- **时间限制机制**: 游戏设置时间约束（如1分钟快速局或3分钟对战局），在有限时间内最大化操作效率。时间压力增加了紧张感和决策难度。
-- **逻辑解谜机制**: 需要玩家运用空间推理和逻辑思维来解决逐步增加难度的谜题。无时间限制的模式允许玩家以自己的节奏思考。
+- **收集解锁机制**: 通过游戏进度解锁新的角色、皮肤、道具或关卡。收集系统提供了长期目标，激励玩家持续游玩。
+- **分数竞争机制**: 通过得分系统量化玩家表现，排行榜提供社交竞争动力。
 
 ## 为什么好玩
 
-《Bejeweled Blitz》的乐趣来自于即时的操作反馈和逐步提升的挑战感。每次成功的操作都带来视觉和听觉上的满足感，而失败的挫折感又驱使玩家想再来一局尝试更好的策略。游戏在简单易学和难以精通之间找到了很好的平衡点。
+《Squad Alpha - Action Shooting》的乐趣来自于即时的操作反馈和逐步提升的挑战感。每次成功的操作都带来视觉和听觉上的满足感，而失败的挫折感又驱使玩家想再来一局尝试更好的策略。游戏在简单易学和难以精通之间找到了很好的平衡点。
 
 ## 粘性来源
 
@@ -56,5 +55,5 @@
 
 ## 来源
 
-- 抓取 URL: https://apps.apple.com/app/id469960709
+- 抓取 URL: https://apps.apple.com/app/id1571487050
 - 数据来源: iTunes Search API
