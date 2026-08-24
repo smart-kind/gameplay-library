@@ -20,6 +20,9 @@
 | S521 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-24 12:30 |
 | S522 | iTunes Search: best small games app store hidden gems | https://itunes.apple.com/search?term=best+small+games+app+store+hidden+gems&media=software&limit=10 | 9 | 2026-08-24 12:30 |
 | S523 | iTunes Search: Nintendo Switch indie puzzle casual | https://itunes.apple.com/search?term=Nintendo+Switch+indie+puzzle+casual&media=software&limit=10 | 10 | 2026-08-24 12:30 |
+| S524 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-24 15:30 |
+| S525 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-24 15:30 |
+| S526 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-24 15:30 |
 | S515 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-24 06:09 |
 | S510 | iTunes Search: card game casual strategy mobile | https://itunes.apple.com/search?term=card+game+casual+strategy+mobile&media=software&limit=10 | 10 | 2026-08-24 02:42 |
 | S511 | iTunes Search: word game casual brain training | https://itunes.apple.com/search?term=word+game+casual+brain+training&media=software&limit=10 | 10 | 2026-08-24 02:42 |
@@ -327,6 +330,34 @@
 || G2770 | Block Jam - 3D Block Puzzle | docs/BlockJam-3DBlockPuzzle_20260824_1230.md | 2026-08-24 12:30 |
 || G2771 | Puzzle to the Center of Earth | docs/PuzzletotheCenterofEarth_20260824_1230.md | 2026-08-24 12:30 |
 || G2772 | Tile Block Jam - Puzzle Game | docs/TileBlockJam-PuzzleGame_20260824_1230.md | 2026-08-24 12:30 |
+||| G2773 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260824_1530.md | 2026-08-24 15:30 |
+||| G2774 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260824_1530.md | 2026-08-24 15:30 |
+||| G2775 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_1530.md | 2026-08-24 15:30 |
+||| G2776 | Big Time Games | docs/BigTimeGames_20260824_1530.md | 2026-08-24 15:30 |
+||| G2777 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260824_1530.md | 2026-08-24 15:30 |
+||| G2778 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260824_1530.md | 2026-08-24 15:30 |
+||| G2779 | 2 3 4 Player Games | docs/234PlayerGames_20260824_1530.md | 2026-08-24 15:30 |
+||| G2780 | 2 Player Games : Offline Games | docs/2PlayerGamesOfflineGames_20260824_1530.md | 2026-08-24 15:30 |
+||| G2781 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260824_1530.md | 2026-08-24 15:30 |
+||| G2782 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_1530.md | 2026-08-24 15:30 |
+||| G2783 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260824_1530.md | 2026-08-24 15:30 |
+||| G2784 | Big Time Games | docs/BigTimeGames_20260824_1530.md | 2026-08-24 15:30 |
+||| G2785 | Fire Balls 3D | docs/FireBalls3D_20260824_1530.md | 2026-08-24 15:30 |
+||| G2786 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260824_1530.md | 2026-08-24 15:30 |
+||| G2787 | TopTop: Games & Party | docs/TopTopGamesParty_20260824_1530.md | 2026-08-24 15:30 |
+||| G2788 | Apple Games | docs/AppleGames_20260824_1530.md | 2026-08-24 15:30 |
+||| G2789 | Squad Alpha - Action Shooting | docs/SquadAlphaActionShooting_20260824_1530.md | 2026-08-24 15:30 |
+||| G2790 | Save the grandmother | docs/Savethegrandmother_20260824_1530.md | 2026-08-24 15:30 |
+||| G2791 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260824_1530.md | 2026-08-24 15:30 |
+||| G2792 | Merge Inn - Tasty Match Puzzle | docs/MergeInnTastyMatchPuzzle_20260824_1530.md | 2026-08-24 15:30 |
+||| G2793 | Shoot n Merge | docs/ShootnMerge_20260824_1530.md | 2026-08-24 15:30 |
+||| G2794 | Merge Plus 2:Adventure | docs/MergePlus2Adventure_20260824_1530.md | 2026-08-24 15:30 |
+||| G2795 | Blast to Merge | docs/BlasttoMerge_20260824_1530.md | 2026-08-24 15:30 |
+||| G2796 | Merge Block - Number Puzzle | docs/MergeBlockNumberPuzzle_20260824_1530.md | 2026-08-24 15:30 |
+||| G2797 | Merge Plus | docs/MergePlus_20260824_1530.md | 2026-08-24 15:30 |
+||| G2798 | Merge Mayor | docs/MergeMayor_20260824_1530.md | 2026-08-24 15:30 |
+||| G2799 | Merge Dice - Puzzle Game 5x5 | docs/MergeDicePuzzleGame5x5_20260824_1530.md | 2026-08-24 15:30 |
+||| G2800 | Merge X3 | docs/MergeX3_20260824_1530.md | 2026-08-24 15:30 |
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 |---|---|---|---|
@@ -698,6 +729,34 @@
 ## Games Archived（历史累计，最近100条）
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
+|| G2773 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260824_1530.md | 2026-08-24 15:30 |
+|| G2774 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260824_1530.md | 2026-08-24 15:30 |
+|| G2775 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_1530.md | 2026-08-24 15:30 |
+|| G2776 | Big Time Games | docs/BigTimeGames_20260824_1530.md | 2026-08-24 15:30 |
+|| G2777 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260824_1530.md | 2026-08-24 15:30 |
+|| G2778 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260824_1530.md | 2026-08-24 15:30 |
+|| G2779 | 2 3 4 Player Games | docs/234PlayerGames_20260824_1530.md | 2026-08-24 15:30 |
+|| G2780 | 2 Player Games : Offline Games | docs/2PlayerGamesOfflineGames_20260824_1530.md | 2026-08-24 15:30 |
+|| G2781 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260824_1530.md | 2026-08-24 15:30 |
+|| G2782 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_1530.md | 2026-08-24 15:30 |
+|| G2783 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260824_1530.md | 2026-08-24 15:30 |
+|| G2784 | Big Time Games | docs/BigTimeGames_20260824_1530.md | 2026-08-24 15:30 |
+|| G2785 | Fire Balls 3D | docs/FireBalls3D_20260824_1530.md | 2026-08-24 15:30 |
+|| G2786 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260824_1530.md | 2026-08-24 15:30 |
+|| G2787 | TopTop: Games & Party | docs/TopTopGamesParty_20260824_1530.md | 2026-08-24 15:30 |
+|| G2788 | Apple Games | docs/AppleGames_20260824_1530.md | 2026-08-24 15:30 |
+|| G2789 | Squad Alpha - Action Shooting | docs/SquadAlphaActionShooting_20260824_1530.md | 2026-08-24 15:30 |
+|| G2790 | Save the grandmother | docs/Savethegrandmother_20260824_1530.md | 2026-08-24 15:30 |
+|| G2791 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260824_1530.md | 2026-08-24 15:30 |
+|| G2792 | Merge Inn - Tasty Match Puzzle | docs/MergeInnTastyMatchPuzzle_20260824_1530.md | 2026-08-24 15:30 |
+|| G2793 | Shoot n Merge | docs/ShootnMerge_20260824_1530.md | 2026-08-24 15:30 |
+|| G2794 | Merge Plus 2:Adventure | docs/MergePlus2Adventure_20260824_1530.md | 2026-08-24 15:30 |
+|| G2795 | Blast to Merge | docs/BlasttoMerge_20260824_1530.md | 2026-08-24 15:30 |
+|| G2796 | Merge Block - Number Puzzle | docs/MergeBlockNumberPuzzle_20260824_1530.md | 2026-08-24 15:30 |
+|| G2797 | Merge Plus | docs/MergePlus_20260824_1530.md | 2026-08-24 15:30 |
+|| G2798 | Merge Mayor | docs/MergeMayor_20260824_1530.md | 2026-08-24 15:30 |
+|| G2799 | Merge Dice - Puzzle Game 5x5 | docs/MergeDicePuzzleGame5x5_20260824_1530.md | 2026-08-24 15:30 |
+|| G2800 | Merge X3 | docs/MergeX3_20260824_1530.md | 2026-08-24 15:30 |
 |---|---|---|---|
 | G2547 | 2 3 4 Player Party Mini Games | docs/234PlayerPartyMiniGames_20260823_2000.md | 2026-08-23 20:00 |
 | G2575 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260823_2316.md | 2026-08-23 23:16 |
