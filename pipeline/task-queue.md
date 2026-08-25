@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3355 | 3355 | 2026-08-25 14:08 |
+| 3371 | 3371 | 2026-08-25 15:44 |
 
 ## Sources Pending（待探索来源）
 
@@ -29,6 +29,11 @@
 || S559 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 14:08 |
 || S560 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-25 14:08 |
 || S561 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-25 14:08 |
+|
+|## Sources Archived（本轮新增）
+|| S562 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 15:44 |
+|| S563 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-25 15:44 |
+|| S564 | iTunes Search: party minigame collection casual mobile | https://itunes.apple.com/search?term=party+minigame+collection+casual+mobile&media=software&limit=10 | 10 | 2026-08-25 15:44 |
 
 | S546 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 05:31 |
 | S547 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-25 05:31 |
