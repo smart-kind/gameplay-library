@@ -276,6 +276,42 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
+| G2930 | Bubble Shooter Classic Puzzle | docs/BubbleShooterClassicPuzzle_20260825_0830.md | 2026-08-25 08:30 |
+| G2931 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0830.md | 2026-08-25 08:30 |
+| G2932 | Flower Games - Bubble Pop 2024 | docs/FlowerGamesBubblePop2024_20260825_0830.md | 2026-08-25 08:30 |
+| G2933 | Bejeweled Blitz | docs/BejeweledBlitz_20260825_0830.md | 2026-08-25 08:30 |
+| G2934 | Brick Game - Retro Games | docs/BrickGameRetroGames_20260825_0830.md | 2026-08-25 08:30 |
+| G2935 | ProgressBar95 - retro arcade | docs/ProgressBar95retroarcade_20260825_0830.md | 2026-08-25 08:30 |
+| G2936 | Gaming Room: Classic Games | docs/GamingRoomClassicGames_20260825_0830.md | 2026-08-25 08:30 |
+| G2937 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260825_0830.md | 2026-08-25 08:30 |
+| G2938 | Big Time Games | docs/BigTimeGames_20260825_0830.md | 2026-08-25 08:30 |
+| G2939 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260825_0830.md | 2026-08-25 08:30 |
+| G2940 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260825_0830.md | 2026-08-25 08:30 |
+| G2941 | TopTop: Games & Party | docs/TopTopGamesParty_20260825_0830.md | 2026-08-25 08:30 |
+| G2942 | Apple Games | docs/AppleGames_20260825_0830.md | 2026-08-25 08:30 |
+| G2943 | Cubic 2 3 4 Player Games | docs/Cubic234PlayerGames_20260825_0830.md | 2026-08-25 08:30 |
+| G2944 | Push Battle ! - cool game | docs/PushBattlecoolgame_20260825_0830.md | 2026-08-25 08:30 |
+| G2945 | Squad Alpha - Action Shooting | docs/SquadAlphaActionShooting_20260825_0830.md | 2026-08-25 08:30 |
+| G2946 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260825_0830.md | 2026-08-25 08:30 |
+| G2947 | Merge Inn - Tasty Match Puzzle | docs/MergeInnTastyMatchPuzzle_20260825_0830.md | 2026-08-25 08:30 |
+| G2948 | Shoot n Merge | docs/ShootnMerge_20260825_0830.md | 2026-08-25 08:30 |
+| G2949 | Merge Plus 2:Adventure | docs/MergePlus2Adventure_20260825_0830.md | 2026-08-25 08:30 |
+| G2950 | Blast to Merge | docs/BlasttoMerge_20260825_0830.md | 2026-08-25 08:30 |
+| G2951 | Merge Block - Number Puzzle | docs/MergeBlockNumberPuzzle_20260825_0830.md | 2026-08-25 08:30 |
+| G2952 | Merge Plus | docs/MergePlus_20260825_0830.md | 2026-08-25 08:30 |
+| G2953 | Merge Mayor | docs/MergeMayor_20260825_0830.md | 2026-08-25 08:30 |
+| G2954 | Merge Dice - Puzzle Game 5x5 | docs/MergeDicePuzzleGame5x5_20260825_0830.md | 2026-08-25 08:30 |
+| G2955 | Merge X3 | docs/MergeX3_20260825_0830.md | 2026-08-25 08:30 |
+| G2956 | Partybus · Party Games | docs/PartybusPartyGames_20260825_0830.md | 2026-08-25 08:30 |
+| G2957 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260825_0830.md | 2026-08-25 08:30 |
+| G2958 | 2 3 4 Player Party Mini Games | docs/234PlayerPartyMiniGames_20260825_0830.md | 2026-08-25 08:30 |
+| G2959 | Bunch is MiniParty! | docs/BunchisMiniParty_20260825_0830.md | 2026-08-25 08:30 |
+| G2960 | Cheers - Party Games | docs/CheersPartyGames_20260825_0830.md | 2026-08-25 08:30 |
+| G2961 | Party Fowl | docs/PartyFowl_20260825_0830.md | 2026-08-25 08:30 |
+| G2962 | Boomit - Most Likely | docs/BoomitMostLikely_20260825_0830.md | 2026-08-25 08:30 |
+| G2963 | Fancade: Simple Mini Games | docs/FancadeSimpleMiniGames_20260825_0830.md | 2026-08-25 08:30 |
+| G2964 | Partymasters - Fun Idle Game | docs/PartymastersFunIdleGame_20260825_0830.md | 2026-08-25 08:30 |
+| G2965 | Minigame Party: Pocket Edition | docs/MinigamePartyPocketEdition_20260825_0830.md | 2026-08-25 08:30 |
 
 || ID | 游戏名 | 文档文件 | 来源 |
 ||---|---|---|---|
