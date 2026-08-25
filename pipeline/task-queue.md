@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3289 | 3289 | 2026-08-25 10:28 |
+| 3329 | 3329 | 2026-08-25 13:30 |
 
 ## Sources Pending（待探索来源）
 
@@ -20,9 +20,12 @@
 | S550 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-25 08:51 |
 | S551 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-25 08:51 |
 | S552 | iTunes Search: party minigame collection casual mobile | https://itunes.apple.com/search?term=party+minigame+collection+casual+mobile&media=software&limit=10 | 10 | 2026-08-25 08:51 |
-| S553 | iTunes Search: survival craft building mobile game | https://itunes.apple.com/search?term=survival+craft+building+mobile+game&media=software&limit=10 | 3 | 2026-08-25 08:54 |
-| S554 | iTunes Search: brain training logic puzzle mobile | https://itunes.apple.com/search?term=brain+training+logic+puzzle+mobile&media=software&limit=10 | 3 | 2026-08-25 08:54 |
-| S555 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 3 | 2026-08-25 08:54 |
+|| S553 | iTunes Search: survival craft building mobile game | https://itunes.apple.com/search?term=survival+craft+building+mobile+game&media=software&limit=10 | 3 | 2026-08-25 08:54 |
+|| S554 | iTunes Search: brain training logic puzzle mobile | https://itunes.apple.com/search?term=brain+training+logic+puzzle+mobile&media=software&limit=10 | 3 | 2026-08-25 08:54 |
+|| S555 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 3 | 2026-08-25 08:54 |
+|| S556 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-25 13:30 |
+|| S557 | iTunes Search: web browser mini games popular addictive | https://itunes.apple.com/search?term=web+browser+mini+games+popular+addictive&media=software&limit=10 | 9 | 2026-08-25 13:30 |
+|| S558 | iTunes Search: io games popular mechanics | https://itunes.apple.com/search?term=io+games+popular+mechanics&media=software&limit=10 | 9 | 2026-08-25 13:30 |
 
 | S546 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 05:31 |
 | S547 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-25 05:31 |
@@ -279,22 +282,7 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G2950 | Blast to Merge | docs/BlasttoMerge_20260825_0830.md | 2026-08-25 08:30 |
-| G2951 | Merge Block - Number Puzzle | docs/MergeBlockNumberPuzzle_20260825_0830.md | 2026-08-25 08:30 |
-| G2952 | Merge Plus | docs/MergePlus_20260825_0830.md | 2026-08-25 08:30 |
-| G2953 | Merge Mayor | docs/MergeMayor_20260825_0830.md | 2026-08-25 08:30 |
-| G2954 | Merge Dice - Puzzle Game 5x5 | docs/MergeDicePuzzleGame5x5_20260825_0830.md | 2026-08-25 08:30 |
-| G2955 | Merge X3 | docs/MergeX3_20260825_0830.md | 2026-08-25 08:30 |
-| G2956 | Partybus · Party Games | docs/PartybusPartyGames_20260825_0830.md | 2026-08-25 08:30 |
-| G2957 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260825_0830.md | 2026-08-25 08:30 |
-| G2958 | 2 3 4 Player Party Mini Games | docs/234PlayerPartyMiniGames_20260825_0830.md | 2026-08-25 08:30 |
-| G2959 | Bunch is MiniParty! | docs/BunchisMiniParty_20260825_0830.md | 2026-08-25 08:30 |
-| G2960 | Cheers - Party Games | docs/CheersPartyGames_20260825_0830.md | 2026-08-25 08:30 |
-| G2961 | Party Fowl | docs/PartyFowl_20260825_0830.md | 2026-08-25 08:30 |
-| G2962 | Boomit - Most Likely | docs/BoomitMostLikely_20260825_0830.md | 2026-08-25 08:30 |
-| G2963 | Fancade: Simple Mini Games | docs/FancadeSimpleMiniGames_20260825_0830.md | 2026-08-25 08:30 |
-| G2964 | Partymasters - Fun Idle Game | docs/PartymastersFunIdleGame_20260825_0830.md | 2026-08-25 08:30 |
-| G2965 | Minigame Party: Pocket Edition | docs/MinigamePartyPocketEdition_20260825_0830.md | 2026-08-25 08:30 |
+
 
 || ID | 游戏名 | 文档文件 | 来源 |
 ||---|---|---|---|
