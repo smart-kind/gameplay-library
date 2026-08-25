@@ -1068,6 +1068,7 @@
 | G2897 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0330.md | 2026-08-25 03:30 |
 
 ## Execution Log
+| 2026-08-25 02:07 | R174 | 3 sources (S543-S545) | 3 sources (S543-S545) | 10 games moved to Archived | iTunes API | 0 failures | 10 games Archived |
 | 2026-08-25 03:30 | R173 | 3 sources (S540-S542) | 3 sources (S540-S542) | 10 games (G2888-G2897) | iTunes API | 0 failures | 10 docs |
 || 2026-08-25 00:30 | R172 | 4 sources (S536-S539) | 4 sources (S536-S539) | 25 games | iTunes API | 0 failures | 25 docs + 4 games added to Pending |
 || 2026-08-24 18:30 | R168 | 3 sources (S527-S529) | 3 sources (S527-S529) | 28 games (G2801-G2828) | iTunes API | 0 failures | 28 docs |
