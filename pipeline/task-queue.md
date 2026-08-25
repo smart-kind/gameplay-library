@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3371 | 3371 | 2026-08-25 15:44 |
+| 3412 | 3412 | 2026-08-25 17:44 |
 
 ## Sources Pending（待探索来源）
 
@@ -11,6 +11,14 @@
 |---|---|---|---|---|
 
 ## Sources Processing（处理中）
+
+| ID | 类型 | 标题 | URL | 开始时间 |
+|---|---|---|---|---|
+
+## Sources Archived（本轮新增）
+| S568 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-25 17:44 |
+| S569 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-25 17:44 |
+| S570 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-25 17:44 |
 
 | ID | 类型 | 标题 | URL | 开始时间 |
 |---|---|---|---|---|
@@ -34,6 +42,9 @@
 || S562 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 15:44 |
 || S563 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-25 15:44 |
 || S564 | iTunes Search: party minigame collection casual mobile | https://itunes.apple.com/search?term=party+minigame+collection+casual+mobile&media=software&limit=10 | 10 | 2026-08-25 15:44 |
+|| S565 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-25 17:43 |
+|| S566 | iTunes Search: party minigame collection casual mobile | https://itunes.apple.com/search?term=party+minigame+collection+casual+mobile&media=software&limit=10 | 10 | 2026-08-25 17:43 |
+|| S567 | iTunes Search: survival craft building mobile game | https://itunes.apple.com/search?term=survival+craft+building+mobile+game&media=software&limit=10 | 10 | 2026-08-25 17:43 |
 
 | S546 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 05:31 |
 | S547 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-25 05:31 |
@@ -802,7 +813,35 @@
 ## Games Archived（历史累计，最近100条）
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
-|| G2940 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260825_1028.md | 2026-08-25 10:28 |
+|| G2966 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260825_1744.md | 2026-08-25 17:44 |
+| G2967 | Merge Inn - Tasty Match Puzzle | docs/MergeInnTastyMatchPuzzle_20260825_1744.md | 2026-08-25 17:44 |
+| G2968 | Merge Away! - Puzzle Adventure | docs/MergeAwayPuzzleAdventure_20260825_1744.md | 2026-08-25 17:44 |
+| G2969 | Shoot n Merge | docs/ShootnMerge_20260825_1744.md | 2026-08-25 17:44 |
+| G2970 | Merge Plus 2:Adventure | docs/MergePlus2Adventure_20260825_1744.md | 2026-08-25 17:44 |
+| G2971 | Blast to Merge | docs/BlasttoMerge_20260825_1744.md | 2026-08-25 17:44 |
+| G2972 | Merge Block - Number Puzzle | docs/MergeBlockNumberPuzzle_20260825_1744.md | 2026-08-25 17:44 |
+| G2973 | Merge Plus | docs/MergePlus_20260825_1744.md | 2026-08-25 17:44 |
+| G2974 | Merge Mayor | docs/MergeMayor_20260825_1744.md | 2026-08-25 17:44 |
+| G2975 | Merge Dice - Puzzle Game 5x5 | docs/MergeDicePuzzleGame5x5_20260825_1744.md | 2026-08-25 17:44 |
+| G2976 | Merge Clash: Tower Defense | docs/MergeClashTowerDefense_20260825_1744.md | 2026-08-25 17:44 |
+| G2977 | The Creeps! Tower Defense | docs/TheCreepsTowerDefense_20260825_1744.md | 2026-08-25 17:44 |
+| G2978 | Tower Conquest | docs/TowerConquest_20260825_1744.md | 2026-08-25 17:44 |
+| G2979 | TowerMadness | docs/TowerMadness_20260825_1744.md | 2026-08-25 17:44 |
+| G2980 | Age of Origins:Tower Defense | docs/AgeofOriginsTowerDefense_20260825_1744.md | 2026-08-25 17:44 |
+| G2981 | Siege Hero | docs/SiegeHero_20260825_1744.md | 2026-08-25 17:44 |
+| G2982 | Zombie Tower Shooting Defense | docs/ZombieTowerShootingDefense_20260825_1744.md | 2026-08-25 17:44 |
+| G2983 | Merge Defense 3D! | docs/MergeDefense3D_20260825_1744.md | 2026-08-25 17:44 |
+| G2984 | TowerMadness Zero | docs/TowerMadnessZero_20260825_1744.md | 2026-08-25 17:44 |
+| G2985 | Tower Clash | docs/TowerClash_20260825_1744.md | 2026-08-25 17:44 |
+| G2986 | Bubble Shooter Classic Puzzle | docs/BubbleShooterClassicPuzzle_20260825_1744.md | 2026-08-25 17:44 |
+| G2987 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_1744.md | 2026-08-25 17:44 |
+| G2988 | Bejeweled Blitz | docs/BejeweledBlitz_20260825_1744.md | 2026-08-25 17:44 |
+| G2989 | ProgressBar95 - retro arcade | docs/ProgressBar95retroarcade_20260825_1744.md | 2026-08-25 17:44 |
+| G2990 | Gaming Room: Classic Games | docs/GamingRoomClassicGames_20260825_1744.md | 2026-08-25 17:44 |
+| G2991 | Classic Bubble Pop-Ball Games | docs/ClassicBubblePopBallGames_20260825_1744.md | 2026-08-25 17:44 |
+| G2992 | Brick Game - Retro Games | docs/BrickGameRetroGames_20260825_1744.md | 2026-08-25 17:44 |
+
+| G2940 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260825_1028.md | 2026-08-25 10:28 |
 || G2941 | TopTop: Games & Party | docs/TopTopGamesParty_20260825_1028.md | 2026-08-25 10:28 |
 || G2942 | Apple Games | docs/AppleGames_20260825_1028.md | 2026-08-25 10:28 |
 || G2943 | Cubic 2 3 4 Player Games | docs/Cubic234PlayerGames_20260825_1028.md | 2026-08-25 10:28 |
