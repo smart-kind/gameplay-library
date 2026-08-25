@@ -1,5 +1,10 @@
 # Gameplay Discovery Pipeline - Task Queue
 
+## Summary（每轮更新）
+| 总游戏数 | 总文档数 | 最后更新 |
+|---|---|---|
+| 2897 | 3144 | 2026-08-25 03:45 |
+
 ## Sources Pending（待探索来源）
 
 | ID | 类型 | 标题 | URL | 发现时间 |
