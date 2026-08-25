@@ -3,12 +3,16 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3198 | 3198 | 2026-08-25 05:31 |
+| 3234 | 3234 | 2026-08-25 08:30 |
 
 ## Sources Pending（待探索来源）
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S549 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-25 08:30 |
+| S550 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-25 08:30 |
+| S551 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-25 08:30 |
+| S552 | iTunes Search: party minigame collection casual mobile | https://itunes.apple.com/search?term=party+minigame+collection+casual+mobile&media=software&limit=10 | 10 | 2026-08-25 08:30 |
 
 
 ## Sources Processing（处理中）
