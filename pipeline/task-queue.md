@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3435 | 3435 | 2026-08-25 19:30 |
+| 3456 | 3456 | 2026-08-25 21:30 |
 
 ## Sources Pending（待探索来源）
 
@@ -22,6 +22,11 @@
 || S571 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-25 19:30 |
 || S572 | iTunes Search: nintendo switch indie puzzle casual | https://itunes.apple.com/search?term=nintendo+switch+indie+puzzle+casual&media=software&limit=10 | 10 | 2026-08-25 19:30 |
 || S573 | iTunes Search: flash games best classic gameplay mechanics | https://itunes.apple.com/search?term=flash+games+best+classic+gameplay+mechanics&media=software&limit=10 | 7 | 2026-08-25 19:30 |
+
+|| S574 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-25 21:30 |
+|| S575 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 8 | 2026-08-25 21:30 |
+|| S576 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-25 21:30 |
+
 
 || ID | 类型 | 标题 | URL | 开始时间 |
 ||---|---|---|---|---|
