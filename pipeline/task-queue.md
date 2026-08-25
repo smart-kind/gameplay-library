@@ -3,17 +3,15 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3234 | 3234 | 2026-08-25 08:30 |
+| 3279 | 3279 | 2026-08-25 08:51 |
 
 ## Sources Pending（待探索来源）
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S549 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-25 08:30 |
-| S550 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-25 08:30 |
-| S551 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-25 08:30 |
-| S552 | iTunes Search: party minigame collection casual mobile | https://itunes.apple.com/search?term=party+minigame+collection+casual+mobile&media=software&limit=10 | 10 | 2026-08-25 08:30 |
-
+| S553 | iTunes Search: survival craft building mobile game | https://itunes.apple.com/search?term=survival+craft+building+mobile+game&media=software&limit=10 | 3 | 2026-08-25 08:54 |
+| S554 | iTunes Search: brain training logic puzzle mobile | https://itunes.apple.com/search?term=brain+training+logic+puzzle+mobile&media=software&limit=10 | 3 | 2026-08-25 08:54 |
+| S555 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 3 | 2026-08-25 08:54 |
 
 ## Sources Processing（处理中）
 
@@ -21,6 +19,11 @@
 |---|---|---|---|---|
 
 ## Sources Archived（本轮新增）
+| S549 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 6 | 2026-08-25 08:51 |
+| S550 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-25 08:51 |
+| S551 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-25 08:51 |
+| S552 | iTunes Search: party minigame collection casual mobile | https://itunes.apple.com/search?term=party+minigame+collection+casual+mobile&media=software&limit=10 | 10 | 2026-08-25 08:51 |
+
 | S546 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 05:31 |
 | S547 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-25 05:31 |
 | S548 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-25 05:31 |
@@ -276,16 +279,6 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G2930 | Bubble Shooter Classic Puzzle | docs/BubbleShooterClassicPuzzle_20260825_0830.md | 2026-08-25 08:30 |
-| G2931 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0830.md | 2026-08-25 08:30 |
-| G2932 | Flower Games - Bubble Pop 2024 | docs/FlowerGamesBubblePop2024_20260825_0830.md | 2026-08-25 08:30 |
-| G2933 | Bejeweled Blitz | docs/BejeweledBlitz_20260825_0830.md | 2026-08-25 08:30 |
-| G2934 | Brick Game - Retro Games | docs/BrickGameRetroGames_20260825_0830.md | 2026-08-25 08:30 |
-| G2935 | ProgressBar95 - retro arcade | docs/ProgressBar95retroarcade_20260825_0830.md | 2026-08-25 08:30 |
-| G2936 | Gaming Room: Classic Games | docs/GamingRoomClassicGames_20260825_0830.md | 2026-08-25 08:30 |
-| G2937 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260825_0830.md | 2026-08-25 08:30 |
-| G2938 | Big Time Games | docs/BigTimeGames_20260825_0830.md | 2026-08-25 08:30 |
-| G2939 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260825_0830.md | 2026-08-25 08:30 |
 | G2940 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260825_0830.md | 2026-08-25 08:30 |
 | G2941 | TopTop: Games & Party | docs/TopTopGamesParty_20260825_0830.md | 2026-08-25 08:30 |
 | G2942 | Apple Games | docs/AppleGames_20260825_0830.md | 2026-08-25 08:30 |
