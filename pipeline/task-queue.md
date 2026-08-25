@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3329 | 3329 | 2026-08-25 13:30 |
+| 3355 | 3355 | 2026-08-25 14:08 |
 
 ## Sources Pending（待探索来源）
 
@@ -26,6 +26,9 @@
 || S556 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-25 13:30 |
 || S557 | iTunes Search: web browser mini games popular addictive | https://itunes.apple.com/search?term=web+browser+mini+games+popular+addictive&media=software&limit=10 | 9 | 2026-08-25 13:30 |
 || S558 | iTunes Search: io games popular mechanics | https://itunes.apple.com/search?term=io+games+popular+mechanics&media=software&limit=10 | 9 | 2026-08-25 13:30 |
+|| S559 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 14:08 |
+|| S560 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-25 14:08 |
+|| S561 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-25 14:08 |
 
 | S546 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 05:31 |
 | S547 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-25 05:31 |
@@ -1095,6 +1098,7 @@
 | G2897 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0330.md | 2026-08-25 03:30 |
 
 ## Execution Log
+|| 2026-08-25 14:08 | R181 | 3 sources (S559-S561) | 3 sources (S559-S561) | 26 games | iTunes API | 0 failures | 26 docs |
 | 2026-08-25 05:31 | R176 | 3 sources (S546-S548) | 3 sources (S546-S548) | 29 games (G2901-G2929) | iTunes API | 0 failures | 29 docs |
 | 2026-08-25 03:51 | R175 | 3 sources (S543-S545) | 3 sources (S543-S545) | 25 games (G2898-G2922) | iTunes API | 0 failures | 25 docs |
 | 2026-08-25 02:07 | R174 | 3 sources (S543-S545) | 3 sources (S543-S545) | 10 games moved to Archived | iTunes API | 0 failures | 10 games Archived |
