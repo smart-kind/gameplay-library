@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3412 | 3412 | 2026-08-25 17:44 |
+| 3435 | 3435 | 2026-08-25 19:30 |
 
 ## Sources Pending（待探索来源）
 
@@ -16,12 +16,15 @@
 |---|---|---|---|---|
 
 ## Sources Archived（本轮新增）
-| S568 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-25 17:44 |
-| S569 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-25 17:44 |
-| S570 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-25 17:44 |
+|| S568 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-25 17:44 |
+|| S569 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-25 17:44 |
+|| S570 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-25 17:44 |
+|| S571 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-25 19:30 |
+|| S572 | iTunes Search: nintendo switch indie puzzle casual | https://itunes.apple.com/search?term=nintendo+switch+indie+puzzle+casual&media=software&limit=10 | 10 | 2026-08-25 19:30 |
+|| S573 | iTunes Search: flash games best classic gameplay mechanics | https://itunes.apple.com/search?term=flash+games+best+classic+gameplay+mechanics&media=software&limit=10 | 7 | 2026-08-25 19:30 |
 
-| ID | 类型 | 标题 | URL | 开始时间 |
-|---|---|---|---|---|
+|| ID | 类型 | 标题 | URL | 开始时间 |
+||---|---|---|---|---|
 
 ## Sources Archived（本轮新增）
 | S549 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 6 | 2026-08-25 08:51 |
@@ -1142,7 +1145,8 @@
 | G2897 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0330.md | 2026-08-25 03:30 |
 
 ## Execution Log
-|| 2026-08-25 14:08 | R181 | 3 sources (S559-S561) | 3 sources (S559-S561) | 26 games | iTunes API | 0 failures | 26 docs |
+| 2026-08-25 19:30 | R184 | 3 sources (S571-S573) | 3 sources (S571-S573) | 23 games | iTunes API | 0 failures | 23 docs |
+||| 2026-08-25 14:08 | R181 | 3 sources (S559-S561) | 3 sources (S559-S561) | 26 games | iTunes API | 0 failures | 26 docs |
 | 2026-08-25 05:31 | R176 | 3 sources (S546-S548) | 3 sources (S546-S548) | 29 games (G2901-G2929) | iTunes API | 0 failures | 29 docs |
 | 2026-08-25 03:51 | R175 | 3 sources (S543-S545) | 3 sources (S543-S545) | 25 games (G2898-G2922) | iTunes API | 0 failures | 25 docs |
 | 2026-08-25 02:07 | R174 | 3 sources (S543-S545) | 3 sources (S543-S545) | 10 games moved to Archived | iTunes API | 0 failures | 10 games Archived |
