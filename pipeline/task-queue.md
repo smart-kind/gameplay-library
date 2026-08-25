@@ -17,6 +17,9 @@
 |---|---|---|---|---|
 
 ## Sources Archived（本轮新增）
+| S546 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 05:31 |
+| S547 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-25 05:31 |
+| S548 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-25 05:31 |
 | S540 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 03:30 |
 | S541 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-25 03:30 |
 | S542 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-25 03:30 |
@@ -1071,6 +1074,7 @@
 | G2897 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0330.md | 2026-08-25 03:30 |
 
 ## Execution Log
+| 2026-08-25 05:31 | R176 | 3 sources (S546-S548) | 3 sources (S546-S548) | 29 games (G2901-G2929) | iTunes API | 0 failures | 29 docs |
 | 2026-08-25 03:51 | R175 | 3 sources (S543-S545) | 3 sources (S543-S545) | 25 games (G2898-G2922) | iTunes API | 0 failures | 25 docs |
 | 2026-08-25 02:07 | R174 | 3 sources (S543-S545) | 3 sources (S543-S545) | 10 games moved to Archived | iTunes API | 0 failures | 10 games Archived |
 | 2026-08-25 03:30 | R173 | 3 sources (S540-S542) | 3 sources (S540-S542) | 10 games (G2888-G2897) | iTunes API | 0 failures | 10 docs |
