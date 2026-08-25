@@ -11,7 +11,10 @@
 |---|---|---|---|---|
 
 ## Sources Archived（本轮新增）
-| S537 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 6 | 2026-08-25 00:30 |
+| S540 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 03:30 |
+| S541 | iTunes Search: hyper casual gameplay mechanics fun | https://itunes.apple.com/search?term=hyper+casual+gameplay+mechanics+fun&media=software&limit=10 | 10 | 2026-08-25 03:30 |
+| S542 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-25 03:30 |
+| S537 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-25 00:30 |
 | S538 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 00:30 |
 | S539 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-25 00:30 |
 | S536 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-24 21:30 |
@@ -257,10 +260,18 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-| G2886 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0030.md | 2026-08-25 00:30 |
-| G2887 | Classic Bubble Pop-Ball Games | docs/ClassicBubblePopBallGames_20260825_0030.md | 2026-08-25 00:30 |
-| G2888 | PAC-MAN Party Royale | docs/PACMANPartyRoyale_20260825_0030.md | 2026-08-25 00:30 |
-| G2889 | Homescapes: Match 3 Games | docs/HomescapesMatch3Games_20260825_0030.md | 2026-08-25 00:30 |
+|| G2886 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0030.md | 2026-08-25 00:30 |
+|| G2887 | Classic Bubble Pop-Ball Games | docs/ClassicBubblePopBallGames_20260825_0030.md | 2026-08-25 00:30 |
+|| G2888 | PAC-MAN Party Royale | docs/PACMANPartyRoyale_20260825_0330.md | 2026-08-25 03:30 |
+|| G2889 | Homescapes: Match 3 Games | docs/HomescapesMatch3Games_20260825_0330.md | 2026-08-25 03:30 |
+|| G2890 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260825_0330.md | 2026-08-25 03:30 |
+|| G2891 | Bullet Rush! | docs/BulletRush_20260825_0330.md | 2026-08-25 03:30 |
+|| G2892 | Fair Shot! | docs/FairShot_20260825_0330.md | 2026-08-25 03:30 |
+|| G2893 | Hyper Arrow | docs/HyperArrow_20260825_0330.md | 2026-08-25 03:30 |
+|| G2894 | Push Master | docs/PushMaster_20260825_0330.md | 2026-08-25 03:30 |
+|| G2895 | Idle Universe | docs/IdleUniverse_20260825_0330.md | 2026-08-25 03:30 |
+|| G2896 | Bacterial Takeover - Idle game | docs/BacterialTakeoverIdlegame_20260825_0330.md | 2026-08-25 03:30 |
+|| G2897 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0330.md | 2026-08-25 03:30 |
 
 || ID | 游戏名 | 文档文件 | 来源 |
 ||---|---|---|---|
@@ -1049,7 +1060,19 @@
 | G1581 | Sudoku Challenge | docs/SudokuChallenge_20260819_0830.md | 2026-08-19 08:30 |
 | G1582 | Chess Master | docs/ChessMaster_20260819_0830.md | 2026-08-19 08:30 |
 
+| G2888 | PAC-MAN Party Royale | docs/PACMANPartyRoyale_20260825_0330.md | 2026-08-25 03:30 |
+| G2889 | Homescapes: Match 3 Games | docs/HomescapesMatch3Games_20260825_0330.md | 2026-08-25 03:30 |
+| G2890 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260825_0330.md | 2026-08-25 03:30 |
+| G2891 | Bullet Rush! | docs/BulletRush_20260825_0330.md | 2026-08-25 03:30 |
+| G2892 | Fair Shot! | docs/FairShot_20260825_0330.md | 2026-08-25 03:30 |
+| G2893 | Hyper Arrow | docs/HyperArrow_20260825_0330.md | 2026-08-25 03:30 |
+| G2894 | Push Master | docs/PushMaster_20260825_0330.md | 2026-08-25 03:30 |
+| G2895 | Idle Universe | docs/IdleUniverse_20260825_0330.md | 2026-08-25 03:30 |
+| G2896 | Bacterial Takeover - Idle game | docs/BacterialTakeoverIdlegame_20260825_0330.md | 2026-08-25 03:30 |
+| G2897 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0330.md | 2026-08-25 03:30 |
+
 ## Execution Log
+| 2026-08-25 03:30 | R173 | 3 sources (S540-S542) | 3 sources (S540-S542) | 10 games (G2888-G2897) | iTunes API | 0 failures | 10 docs |
 || 2026-08-25 00:30 | R172 | 4 sources (S536-S539) | 4 sources (S536-S539) | 25 games | iTunes API | 0 failures | 25 docs + 4 games added to Pending |
 || 2026-08-24 18:30 | R168 | 3 sources (S527-S529) | 3 sources (S527-S529) | 28 games (G2801-G2828) | iTunes API | 0 failures | 28 docs |
 | 2026-08-24 06:09 | R166 | 3 sources (S515-S517) | 3 sources (S515-S517) | 28 games (G2691-G2718) | iTunes API | 0 failures | 28 docs |
