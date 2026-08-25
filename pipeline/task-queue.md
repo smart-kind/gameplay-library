@@ -4,6 +4,9 @@
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S543 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 02:05 |
+| S544 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-25 02:05 |
+| S545 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-25 02:05 |
 
 ## Sources Processing（处理中）
 
@@ -27,6 +30,9 @@
 
 | ID | 标题 | URL | 产出游戏数 | 完成时间 |
 |---|---|---|---|---|
+| S543 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-25 02:06 |
+| S544 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-25 02:06 |
+| S545 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-25 02:06 |
 | S521 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-24 12:30 |
 | S522 | iTunes Search: best small games app store hidden gems | https://itunes.apple.com/search?term=best+small+games+app+store+hidden+gems&media=software&limit=10 | 9 | 2026-08-24 12:30 |
 | S523 | iTunes Search: Nintendo Switch indie puzzle casual | https://itunes.apple.com/search?term=Nintendo+Switch+indie+puzzle+casual&media=software&limit=10 | 10 | 2026-08-24 12:30 |
@@ -260,29 +266,9 @@
 
 | ID | 游戏名 | 文档文件 | 来源 |
 |---|---|---|---|
-|| G2886 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0030.md | 2026-08-25 00:30 |
-|| G2887 | Classic Bubble Pop-Ball Games | docs/ClassicBubblePopBallGames_20260825_0030.md | 2026-08-25 00:30 |
-|| G2888 | PAC-MAN Party Royale | docs/PACMANPartyRoyale_20260825_0330.md | 2026-08-25 03:30 |
-|| G2889 | Homescapes: Match 3 Games | docs/HomescapesMatch3Games_20260825_0330.md | 2026-08-25 03:30 |
-|| G2890 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260825_0330.md | 2026-08-25 03:30 |
-|| G2891 | Bullet Rush! | docs/BulletRush_20260825_0330.md | 2026-08-25 03:30 |
-|| G2892 | Fair Shot! | docs/FairShot_20260825_0330.md | 2026-08-25 03:30 |
-|| G2893 | Hyper Arrow | docs/HyperArrow_20260825_0330.md | 2026-08-25 03:30 |
-|| G2894 | Push Master | docs/PushMaster_20260825_0330.md | 2026-08-25 03:30 |
-|| G2895 | Idle Universe | docs/IdleUniverse_20260825_0330.md | 2026-08-25 03:30 |
-|| G2896 | Bacterial Takeover - Idle game | docs/BacterialTakeoverIdlegame_20260825_0330.md | 2026-08-25 03:30 |
-|| G2897 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0330.md | 2026-08-25 03:30 |
 
 || ID | 游戏名 | 文档文件 | 来源 |
 ||---|---|---|---|
-|| G2854 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260824_2130.md | 2026-08-24 21:30 |
-|| G2855 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260824_2130.md | 2026-08-24 21:30 |
-|| G2856 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260824_2130.md | 2026-08-24 21:30 |
-|| G2857 | Big Time Games | docs/BigTimeGames_20260824_2130.md | 2026-08-24 21:30 |
-|| G2858 | Mini Games: Calm & Chill | docs/MiniGamesCalmChill_20260824_2130.md | 2026-08-24 21:30 |
-|| G2859 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260824_2130.md | 2026-08-24 21:30 |
-|| G2860 | 2 3 4 Player Games | docs/234PlayerGames_20260824_2130.md | 2026-08-24 21:30 |
-|| G2861 | 2 Player Games : Offline Games | docs/2PlayerGamesOfflineGames_20260824_2130.md | 2026-08-24 21:30 |
 || G2862 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260824_2130.md | 2026-08-24 21:30 |
 || G2863 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260824_2130.md | 2026-08-24 21:30 |
 || G2864 | Fire Balls 3D | docs/FireBalls3D_20260824_2130.md | 2026-08-24 21:30 |
@@ -820,6 +806,16 @@
 || G2799 | Merge Dice - Puzzle Game 5x5 | docs/MergeDicePuzzleGame5x5_20260824_1530.md | 2026-08-24 15:30 |
 || G2800 | Merge X3 | docs/MergeX3_20260824_1530.md | 2026-08-24 15:30 |
 |---|---|---|---|
+
+
+
+
+
+
+
+
+
+
 | G2547 | 2 3 4 Player Party Mini Games | docs/234PlayerPartyMiniGames_20260823_2000.md | 2026-08-23 20:00 |
 | G2575 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260823_2316.md | 2026-08-23 23:16 |
 | G2576 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260823_2316.md | 2026-08-23 23:16 |
