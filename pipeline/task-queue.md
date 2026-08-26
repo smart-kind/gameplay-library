@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3482 | 3482 | 2026-08-26 00:27 |
+| 3510 | 3510 | 2026-08-26 02:08 |
 
 ## Sources Pending（待探索来源）
 
@@ -31,6 +31,10 @@
 ||| S578 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-26 00:27 |
 
 ||| S579 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-26 00:27 |
+||| S580 | iTunes Search: casual puzzle game match relaxing | https://itunes.apple.com/search?term=casual+puzzle+game+match+relaxing&media=software&limit=10 | 10 | 2026-08-26 02:08 |
+||| S581 | iTunes Search: arcade action runner reflex mobile game | https://itunes.apple.com/search?term=arcade+action+runner+reflex+mobile+game&media=software&limit=10 | 8 | 2026-08-26 02:08 |
+||| S582 | iTunes Search: party board game multiplayer casual fun | https://itunes.apple.com/search?term=party+board+game+multiplayer+casual+fun&media=software&limit=10 | 10 | 2026-08-26 02:08 |
+
 || ID | 类型 | 标题 | URL | 开始时间 |
 ||---|---|---|---|---|
 
