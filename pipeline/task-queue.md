@@ -3,18 +3,12 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3594 | 3594 | 2026-08-26 07:07 |
+| 3649 | 3649 | 2026-08-26 08:40 |
 
 ## Sources Pending（待探索来源）
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S589 | iTunes Search | hidden object mystery casual game | https://itunes.apple.com/search?term=hidden+object+mystery+casual+game&media=software&limit=10 | 2026-08-26 07:07 |
-| S590 | iTunes Search | escape room puzzle adventure brain | https://itunes.apple.com/search?term=escape+room+puzzle+adventure+brain&media=software&limit=10 | 2026-08-26 07:07 |
-| S591 | iTunes Search | card battle strategy deckbuilder | https://itunes.apple.com/search?term=card+battle+strategy+deckbuilder&media=software&limit=10 | 2026-08-26 07:07 |
-| S586 | iTunes Search | survival craft building mobile game casual | https://itunes.apple.com/search?term=survival+craft+building+mobile+game+casual&media=software&limit=10 | 2026-08-26 05:16 |
-| S587 | iTunes Search | idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 2026-08-26 05:16 |
-| S588 | iTunes Search | PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 2026-08-26 05:16 |
 
 ## Sources Processing（处理中）
 
@@ -840,8 +834,62 @@
 ## Games Archived（历史累计，最近100条）
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
-|| G2966 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260825_1744.md | 2026-08-25 17:44 |
-|| G3457 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260826_0027.md | 2026-08-26 00:27 |
+||| G3649 | TidyMaster:HiddenObjects | docs/TidyMasterHiddenObjects_20260826_0840.md | 2026-08-26 08:40 |
+||| G3648 | TapTapDig-IdleClicker | docs/TapTapDigIdleClicker_20260826_0840.md | 2026-08-26 08:40 |
+||| G3647 | TapCraft:IdleMineSimulator | docs/TapCraftIdleMineSimulator_20260826_0840.md | 2026-08-26 08:40 |
+||| G3646 | SurvivalGames-Questopia | docs/SurvivalGamesQuestopia_20260826_0840.md | 2026-08-26 08:40 |
+||| G3645 | Stormbound | docs/Stormbound_20260826_0840.md | 2026-08-26 08:40 |
+||| G3644 | ShapeEscape:BlockPuzzle | docs/ShapeEscapeBlockPuzzle_20260826_0840.md | 2026-08-26 08:40 |
+||| G3643 | RoguewiththeDead:IdleRPG | docs/RoguewiththeDeadIdleRPG_20260826_0840.md | 2026-08-26 08:40 |
+||| G3642 | RealmCraft:mine&craftworld | docs/RealmCraftminecraftworld_20260826_0840.md | 2026-08-26 08:40 |
+||| G3641 | PointOut:ColorEscapePuzzle | docs/PointOutColorEscapePuzzle_20260826_0840.md | 2026-08-26 08:40 |
+||| G3640 | PocketPolitics:IdleMoney | docs/PocketPoliticsIdleMoney_20260826_0840.md | 2026-08-26 08:40 |
+||| G3639 | PlanetEvolution:IdleClicker | docs/PlanetEvolutionIdleClicker_20260826_0840.md | 2026-08-26 08:40 |
+||| G3638 | Oxide:SurvivalIslandOnline | docs/OxideSurvivalIslandOnline_20260826_0840.md | 2026-08-26 08:40 |
+||| G3637 | MysteryMatch | docs/MysteryMatch_20260826_0840.md | 2026-08-26 08:40 |
+||| G3636 | MightyParty:BattleHeroes | docs/MightyPartyBattleHeroes_20260826_0840.md | 2026-08-26 08:40 |
+||| G3635 | Magic:TheGatheringArena | docs/MagicTheGatheringArena_20260826_0840.md | 2026-08-26 08:40 |
+||| G3634 | LiesOfAstaroth-ClashGames | docs/LiesOfAstarothClashGames_20260826_0840.md | 2026-08-26 08:40 |
+||| G3633 | LegendsofRuneterra | docs/LegendsofRuneterra_20260826_0840.md | 2026-08-26 08:40 |
+||| G3632 | KawaiiPlanetCraft | docs/KawaiiPlanetCraft_20260826_0840.md | 2026-08-26 08:40 |
+||| G3631 | KARDS-TheWW2CardGame | docs/KARDSTheWW2CardGame_20260826_0840.md | 2026-08-26 08:40 |
+||| G3630 | IdleSlayer:AddictiveClicker | docs/IdleSlayerAddictiveClicker_20260826_0840.md | 2026-08-26 08:40 |
+||| G3629 | IdleSheep! | docs/IdleSheep_20260826_0840.md | 2026-08-26 08:40 |
+||| G3628 | IdleGame1 | docs/IdleGame1_20260826_0840.md | 2026-08-26 08:40 |
+||| G3627 | IcyVillage:SurvivalIdle | docs/IcyVillageSurvivalIdle_20260826_0840.md | 2026-08-26 08:40 |
+||| G3626 | HiddenObjects:Seek&FindIt | docs/HiddenObjectsSeekFindIt_20260826_0840.md | 2026-08-26 08:40 |
+||| G3625 | HiddenObjects:PuzzleGames | docs/HiddenObjectsPuzzleGames_20260826_0840.md | 2026-08-26 08:40 |
+||| G3624 | HiddenObjects:MysteryCrimes | docs/HiddenObjectsMysteryCrimes_20260826_0840.md | 2026-08-26 08:40 |
+||| G3623 | HiddenObjectGames:SeekIt | docs/HiddenObjectGamesSeekIt_20260826_0840.md | 2026-08-26 08:40 |
+||| G3622 | HiddenJourney:FindObjects | docs/HiddenJourneyFindObjects_20260826_0840.md | 2026-08-26 08:40 |
+||| G3621 | Hearthstone | docs/Hearthstone_20260826_0840.md | 2026-08-26 08:40 |
+||| G3620 | GunsRoyale:MobileTeamPvP | docs/GunsRoyaleMobileTeamPvP_20260826_0840.md | 2026-08-26 08:40 |
+||| G3619 | GreatEscapes | docs/GreatEscapes_20260826_0840.md | 2026-08-26 08:40 |
+||| G3618 | GamingRoom:ClassicGames | docs/GamingRoomClassicGames_20260826_0840.md | 2026-08-26 08:40 |
+||| G3617 | FindNSeek:SpyHiddenObject | docs/FindNSeekSpyHiddenObject_20260826_0840.md | 2026-08-26 08:40 |
+||| G3616 | FindJourneyHiddenObjects | docs/FindJourneyHiddenObjects_20260826_0840.md | 2026-08-26 08:40 |
+||| G3615 | EscapeTime:PuzzleBrainGame | docs/EscapeTimePuzzleBrainGame_20260826_0840.md | 2026-08-26 08:40 |
+||| G3614 | EscapeRooms:RoomEscape | docs/EscapeRoomsRoomEscape_20260826_0840.md | 2026-08-26 08:40 |
+||| G3613 | EscapeRoomCollection | docs/EscapeRoomCollection_20260826_0840.md | 2026-08-26 08:40 |
+||| G3612 | EscapeRoom!! | docs/EscapeRoom_20260826_0840.md | 2026-08-26 08:40 |
+||| G3611 | EscapeDoor-brainpuzzlegame | docs/EscapeDoorbrainpuzzlegame_20260826_0840.md | 2026-08-26 08:40 |
+||| G3610 | EpicCardsBattle(TCG) | docs/EpicCardsBattleTCG_20260826_0840.md | 2026-08-26 08:40 |
+||| G3609 | DayRPremium:SurvivalRPG | docs/DayRPremiumSurvivalRPG_20260826_0840.md | 2026-08-26 08:40 |
+||| G3608 | CrowdExpress:BoardingPuzzle | docs/CrowdExpressBoardingPuzzle_20260826_0840.md | 2026-08-26 08:40 |
+||| G3607 | ClickerHeroes-IdleSlayer | docs/ClickerHeroesIdleSlayer_20260826_0840.md | 2026-08-26 08:40 |
+||| G3606 | ClassicBubblePop-BallGames | docs/ClassicBubblePopBallGames_20260826_0840.md | 2026-08-26 08:40 |
+||| G3605 | ClashRoyale | docs/ClashRoyale_20260826_0840.md | 2026-08-26 08:40 |
+||| G3604 | CivCrafter | docs/CivCrafter_20260826_0840.md | 2026-08-26 08:40 |
+||| G3603 | CastleCrafterSurvivalCraft | docs/CastleCrafterSurvivalCraft_20260826_0840.md | 2026-08-26 08:40 |
+||| G3602 | Cards,Universe&Everything | docs/CardsUniverseEverything_20260826_0840.md | 2026-08-26 08:40 |
+||| G3601 | BubbleShooterGames:Pop2025 | docs/BubbleShooterGamesPop2025_20260826_0840.md | 2026-08-26 08:40 |
+||| G3600 | BubbleShooterClassicPuzzle | docs/BubbleShooterClassicPuzzle_20260826_0840.md | 2026-08-26 08:40 |
+||| G3599 | BrickGame-RetroGames | docs/BrickGameRetroGames_20260826_0840.md | 2026-08-26 08:40 |
+||| G3598 | BrickBreakerClassic2016-UltimateRevolution | docs/BrickBreakerClassic2016UltimateRevolution_20260826_0840.md | 2026-08-26 08:40 |
+||| G3597 | BejeweledBlitz | docs/BejeweledBlitz_20260826_0840.md | 2026-08-26 08:40 |
+||| G3596 | BacterialTakeover-Idlegame | docs/BacterialTakeoverIdlegame_20260826_0840.md | 2026-08-26 08:40 |
+||| G3595 | 50TinyRoomEscape | docs/50TinyRoomEscape_20260826_0840.md | 2026-08-26 08:40 |
+||| G3457 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260826_0027.md | 2026-08-26 00:27 |
 | G2967 | Merge Inn - Tasty Match Puzzle | docs/MergeInnTastyMatchPuzzle_20260825_1744.md | 2026-08-25 17:44 |
 || G3458 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260826_0027.md | 2026-08-26 00:27 |
 | G2968 | Merge Away! - Puzzle Adventure | docs/MergeAwayPuzzleAdventure_20260825_1744.md | 2026-08-25 17:44 |

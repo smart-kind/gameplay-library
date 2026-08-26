@@ -1,0 +1,60 @@
+# Find Journey：Hidden Objects
+
+- **类型**: 寻物解谜
+- **平台**: Mobile (iOS)
+- **开发商**: New Story Inc. (Apps)
+- **首次发布**: 2023
+- **价格**: Free
+- **用户评分**: 4.64/5 (81716 评价)
+- **一句话描述**: Have you ever dreamed of being a detective, uncovering hidden treasures and clues to solve mind-bend...
+
+## 玩法规则
+
+游戏展示一幅精心绘制的精美场景图，其中隐藏了若干需要找到的物品。
+玩家需要在屏幕上逐一点击找到列表中的隐藏物品。物品可能巧妙地融入背景中，
+有些以剪影形式出现，有些则与周围环境高度融合，考验玩家的观察力。
+游戏会给出物品清单（文字或剪影），玩家需要在规定时间内找齐所有物品才能过关。
+部分关卡还包含隐藏章节，找到特定线索后可解锁额外的剧情或奖励场景。
+
+根据开发者描述：Have you ever dreamed of being a detective, uncovering hidden treasures and clues to solve mind-bending mysteries? 
+Do you like "Where's wally?" and geocaching game?
+Look no further than "Find Journey", the innovative game that will redefine your search for fun.
+
+
+
+In this game, you take on the role of a prop hunter, seeking out treasure, stuff, and other elusive objects hidden across beautifully
+
+## 核心循环
+
+观察场景找物品 → 找齐获得分数/解锁剧情 → 进入下一个场景继续寻物
+
+## 核心机制
+
+- 寻物解谜：玩家需要在精心绘制的场景中寻找隐藏的物品，考验观察力和耐心
+
+## 为什么好玩
+
+寻物游戏的乐趣在于「找到了！」的瞬间快感。每个场景都是精心设计的视觉谜题，
+从看似杂乱的画面中准确找到目标物品时的成就感让人上瘾。
+精美的场景插画本身就是一种视觉享受。
+
+## 粘性来源
+
+- **关卡推进**：每个场景都是独立挑战，通关一个自然想玩下一个
+- **收集要素**：隐藏的额外物品和成就系统鼓励反复探索
+- **视觉享受**：精美的场景插画本身就是吸引力，玩家为了欣赏新场景而持续游玩
+
+## Meta 系统
+
+包含收集册系统（收集所有场景的隐藏物品）、剧情解锁、装饰购买等外围内容。
+部分版本设有每日任务和限时活动来维持活跃度。
+
+## 实现难度
+
+中 — 技术实现不难但内容创作成本高。
+最大难点：场景美术设计和物品布局（需要大量精美插画和巧妙的隐藏设计）。
+
+## 来源
+
+- iTunes API: https://apps.apple.com/us/app/find-journey-hidden-objects/id6458692386?uo=4
+- 搜索来源: https://itunes.apple.com/search?term=hidden+object+mystery+casual+game&media=software&limit=10
