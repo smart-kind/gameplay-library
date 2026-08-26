@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3727 | 3727 | 2026-08-26 13:54 |
+| 3756 | 3756 | 2026-08-26 15:37 |
 
 ## Sources Pending（待探索来源）
 
@@ -322,8 +322,11 @@
 | S593 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-26 10:23 |
 | S594 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-26 10:23 |
 | S598 | iTunes Search: merge puzzle idle casual game | https://itunes.apple.com/search?term=merge+puzzle+idle+casual+game&media=software&limit=10 | 10 | 2026-08-26 13:54 |
-| S599 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-26 13:54 |
-| S600 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-26 13:54 |
+|| S599 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-26 13:54 |
+|| S600 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-26 13:54 |
+|| S602 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-26 15:35 |
+|| S603 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-26 15:35 |
+|| S604 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-26 15:35 |
 
 
 ## Games Pending（待处理游戏）
@@ -1503,3 +1506,6 @@
 
 ## Execution Log (R194)
 | R194 | 2026-08-26 13:54 | 3 sources (S598-S600) | 3 sources (S598-S600) | 27 games (G3704-G3730) | iTunes API | 0 failures | 27 docs |
+
+## Execution Log (R195)
+| R195 | 2026-08-26 15:37 | 3 sources (S602-S604) | 3 sources (S602-S604) | 29 games (G3731-G3759) | iTunes API | 0 failures | 29 docs |
