@@ -3,15 +3,15 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3841 | 3841 | 2026-08-26 20:40 |
+| 3871 | 3871 | 2026-08-26 22:30 |
 
 ## Sources Pending（待探索来源）
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
-| S611 | iTunes Search | best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 2026-08-26 20:40 |
-| S612 | iTunes Search | viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 2026-08-26 20:40 |
-| S613 | iTunes Search | indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 2026-08-26 20:40 |
+| S614 | iTunes Search | casual puzzle game match relaxing | https://itunes.apple.com/search?term=casual+puzzle+game+match+relaxing&media=software&limit=10 | 2026-08-26 22:30 |
+| S615 | iTunes Search | best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 2026-08-26 22:30 |
+| S616 | iTunes Search | viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 2026-08-26 22:30 |
 
 ## Sources Processing（处理中）
 
@@ -1547,5 +1547,9 @@
 
 ## Execution Log (R197)
 | R197 | 2026-08-26 18:56 | 3 sources (S608-S610) | 3 sources (S608-S610) | 29 games (G3790-G3818) | iTunes API | 0 failures | 29 docs |
+
 ## Execution Log (R198)
 | R198 | 2026-08-26 20:40 | 3 sources (S611-S613) | 3 sources (S611-S613) | 26 games (G3819-G3844) | iTunes API | 0 failures | 26 docs |
+
+## Execution Log (R199)
+| R199 | 2026-08-26 22:30 | 3 sources (S614-S616) | 3 sources (S611-S613) | 28 games (G3845-G3872) | iTunes API | 0 failures | 28 docs |
