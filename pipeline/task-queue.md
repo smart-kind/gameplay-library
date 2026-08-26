@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3756 | 3756 | 2026-08-26 15:37 |
+| 3815 | 3815 | 2026-08-26 18:56 |
 
 ## Sources Pending（待探索来源）
 
@@ -325,8 +325,11 @@
 || S599 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-26 13:54 |
 || S600 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-26 13:54 |
 || S602 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-26 15:35 |
-|| S603 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-26 15:35 |
-|| S604 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-26 15:35 |
+||| S603 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-26 15:35 |
+||| S604 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-26 15:35 |
+||| S608 | iTunes Search: io games popular mechanics | https://itunes.apple.com/search?term=io+games+popular+mechanics&media=software&limit=10 | 9 | 2026-08-26 18:56 |
+||| S609 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 10 | 2026-08-26 18:56 |
+||| S610 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-26 18:56 |
 
 
 ## Games Pending（待处理游戏）
@@ -1494,8 +1497,37 @@
 |||| G3699 | Pencil Loop! | docs/Pencil_Loop_20260826_1218.md | 2026-08-26 12:19 |
 |||| G3700 | Infinity Loop: Relaxing Puzzle | docs/Infinity_Loop_Relaxing_Puzzle_20260826_1218.md | 2026-08-26 12:19 |
 |||| G3701 | Tile Block Jam - Puzzle Game | docs/Tile_Block_Jam_-_Puzzle_Game_20260826_1218.md | 2026-08-26 12:19 |
-|||| G3702 | Block Jam Out: No Timer Puzzle | docs/Block_Jam_Out_No_Timer_Puzzle_20260826_1218.md | 2026-08-26 12:19 |
-|||| G3703 | 15 Puzzle Challenge. | docs/15_Puzzle_Challenge_20260826_1218.md | 2026-08-26 12:19 |
+||||| G3702 | Block Jam Out: No Timer Puzzle | docs/Block_Jam_Out_No_Timer_Puzzle_20260826_1218.md | 2026-08-26 12:19 |
+||||| G3703 | 15 Puzzle Challenge. | docs/15_Puzzle_Challenge_20260826_1218.md | 2026-08-26 12:19 |
+||||| G3790 | Soul.io | docs/Soul_io_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3791 | Bear Party | docs/Bear_Party_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3792 | Hexar.io - #1 in IO Games | docs/Hexar_io____1_in_IO_Games_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3793 | Ladder.io | docs/Ladder_io_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3794 | String.io | docs/String_io_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3795 | Ping.io | docs/Ping_io_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3796 | Soul.io 3D - .io Games For Fun | docs/Soul_io_3D____io_Games_For_Fun_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3797 | Do Not Fall .io | docs/Do_Not_Fall__io_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3798 | SmashKarts.io | docs/SmashKarts_io_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3799 | Playbite - Mobile Arcade | docs/Playbite___Mobile_Arcade_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3800 | Trigger Heroes | docs/Trigger_Heroes_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3801 | Rogue Legend - Roguelike RPG | docs/Rogue_Legend___Roguelike_RPG_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3802 | The Way Home: Pixel Roguelike | docs/The_Way_Home__Pixel_Roguelike_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3803 | Guidus | docs/Guidus_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3804 | Heroll : Dice Roguelike | docs/Heroll___Dice_Roguelike_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3805 | Mini World: CREATA | docs/Mini_World__CREATA_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3806 | Endless Wander - Roguelike RPG | docs/Endless_Wander___Roguelike_RPG_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3807 | Elona Mobile | docs/Elona_Mobile_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3808 | Tomb of the Mask: Pixel Maze | docs/Tomb_of_the_Mask__Pixel_Maze_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3809 | Pocket Politics: Idle Money | docs/Pocket_Politics__Idle_Money_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3810 | Idle Sheep! | docs/Idle_Sheep_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3811 | CivCrafter | docs/CivCrafter_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3812 | Bacterial Takeover - Idle game | docs/Bacterial_Takeover___Idle_game_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3813 | Idle Slayer: Addictive Clicker | docs/Idle_Slayer__Addictive_Clicker_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3814 | Planet Evolution: Idle Clicker | docs/Planet_Evolution__Idle_Clicker_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3815 | Idle Game 1 | docs/Idle_Game_1_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3816 | Rogue with the Dead: Idle RPG | docs/Rogue_with_the_Dead__Idle_RPG_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3817 | Tap Tap Dig - Idle Clicker | docs/Tap_Tap_Dig___Idle_Clicker_20260826_1856.md | 2026-08-26 18:56 |
+||||| G3818 | Clicker Heroes - Idle Slayer | docs/Clicker_Heroes___Idle_Slayer_20260826_1856.md | 2026-08-26 18:56 |
 
 
 ## Execution Log (R189)
@@ -1509,3 +1541,6 @@
 
 ## Execution Log (R195)
 | R195 | 2026-08-26 15:37 | 3 sources (S602-S604) | 3 sources (S602-S604) | 29 games (G3731-G3759) | iTunes API | 0 failures | 29 docs |
+
+## Execution Log (R197)
+| R197 | 2026-08-26 18:56 | 3 sources (S608-S610) | 3 sources (S608-S610) | 29 games (G3790-G3818) | iTunes API | 0 failures | 29 docs |
