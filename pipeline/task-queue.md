@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3674 | 3674 | 2026-08-26 10:23 |
+| 3700 | 3700 | 2026-08-26 12:19 |
 
 ## Sources Pending（待探索来源）
 
@@ -1464,6 +1464,36 @@
 ||| G3565 | Classic Bubble Pop-Ball Games | docs/ClassicBubblePop-BallGames_20260826_0516.md | 2026-08-26 05:16 |
 ||| G3566 | Brick Game - Retro Games | docs/BrickGame-RetroGames_20260826_0516.md | 2026-08-26 05:16 |
 
+|||| G3678 | Playbite - Mobile Arcade | docs/Playbite_-_Mobile_Arcade_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3679 | Super Mega Mini Party | docs/Super_Mega_Mini_Party_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3680 | CrazyGames: Play 1500+ Games | docs/CrazyGames_Play_1500_Games_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3681 | Big Time Games | docs/Big_Time_Games_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3682 | Mini Games: Calm & Chill | docs/Mini_Games_Calm_&_Chill_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3683 | 2 Player Games : Offline Games | docs/2_Player_Games__Offline_Games_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3684 | Mini Motor Racing | docs/Mini_Motor_Racing_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3685 | Mini Golf Stars: Arena Battle! | docs/Mini_Golf_Stars_Arena_Battle_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3686 | 2 3 4 Player Games | docs/2_3_4_Player_Games_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3687 | Hyper: Play 1v1 Games For Cash | docs/Hyper_Play_1v1_Games_For_Cash_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3688 | Fire Balls 3D | docs/Fire_Balls_3D_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3689 | Playgama: Play 2,000+ Games | docs/Playgama_Play_2000_Games_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3690 | TopTop: Games & Party | docs/TopTop_Games_&_Party_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3691 | Apple Games | docs/Apple_Games_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3692 | Cubic 2 3 4 Player Games | docs/Cubic_2_3_4_Player_Games_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3693 | Push Battle ! - cool game | docs/Push_Battle__-_cool_game_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3694 | Block Away - Tap Out Puzzle | docs/Block_Away_-_Tap_Out_Puzzle_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3695 | Woody Battle Block Puzzle Dual | docs/Woody_Battle_Block_Puzzle_Dual_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3696 | Shape Escape: Block Puzzle | docs/Shape_Escape_Block_Puzzle_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3697 | Yarn Loop: Knit Puzzle | docs/Yarn_Loop_Knit_Puzzle_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3698 | Block Jam - 3D Block Puzzle | docs/Block_Jam_-_3D_Block_Puzzle_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3699 | Pencil Loop! | docs/Pencil_Loop_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3700 | Infinity Loop: Relaxing Puzzle | docs/Infinity_Loop_Relaxing_Puzzle_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3701 | Tile Block Jam - Puzzle Game | docs/Tile_Block_Jam_-_Puzzle_Game_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3702 | Block Jam Out: No Timer Puzzle | docs/Block_Jam_Out_No_Timer_Puzzle_20260826_1218.md | 2026-08-26 12:19 |
+|||| G3703 | 15 Puzzle Challenge. | docs/15_Puzzle_Challenge_20260826_1218.md | 2026-08-26 12:19 |
+
 
 ## Execution Log (R189)
 | R189 | 2026-08-26 05:16 | 3 sources (S586-S588) | 3 sources (S586-S588) | 26 games (G3541-G3566) | iTunes API | 0 failures | 26 docs |
+
+## Execution Log (R193)
+|| R193 | 2026-08-26 12:19 | 3 sources (S595-S597) | 3 sources (S595-S597) | 26 games (G3678-G3703) | iTunes API | 0 failures | 26 docs |
