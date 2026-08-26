@@ -3,12 +3,15 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3540 | 3540 | 2026-08-26 03:42 |
+| 3565 | 3565 | 2026-08-26 05:16 |
 
 ## Sources Pending（待探索来源）
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S586 | iTunes Search | survival craft building mobile game casual | https://itunes.apple.com/search?term=survival+craft+building+mobile+game+casual&media=software&limit=10 | 2026-08-26 05:16 |
+| S587 | iTunes Search | idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 2026-08-26 05:16 |
+| S588 | iTunes Search | PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 2026-08-26 05:16 |
 
 ## Sources Processing（处理中）
 
@@ -32,8 +35,14 @@
 
 ||| S579 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-26 00:27 |
 ||| S580 | iTunes Search: casual puzzle game match relaxing | https://itunes.apple.com/search?term=casual+puzzle+game+match+relaxing&media=software&limit=10 | 10 | 2026-08-26 02:08 |
-||| S581 | iTunes Search: arcade action runner reflex mobile game | https://itunes.apple.com/search?term=arcade+action+runner+reflex+mobile+game&media=software&limit=10 | 8 | 2026-08-26 02:08 |
-||| S582 | iTunes Search: party board game multiplayer casual fun | https://itunes.apple.com/search?term=party+board+game+multiplayer+casual+fun&media=software&limit=10 | 10 | 2026-08-26 02:08 |
+|||| S581 | iTunes Search: arcade action runner reflex mobile game | https://itunes.apple.com/search?term=arcade+action+runner+reflex+mobile+game&media=software&limit=10 | 8 | 2026-08-26 02:08 |
+|||| S582 | iTunes Search: party board game multiplayer casual fun | https://itunes.apple.com/search?term=party+board+game+multiplayer+casual+fun&media=software&limit=10 | 10 | 2026-08-26 02:08 |
+|||| S583 | iTunes Search: casual strategy board | https://itunes.apple.com/search?term=casual+strategy+board&media=software&limit=10 | 10 | 2026-08-26 03:42 |
+|||| S584 | iTunes Search: physics puzzle logic | https://itunes.apple.com/search?term=physics+puzzle+logic&media=software&limit=10 | 10 | 2026-08-26 03:42 |
+|||| S585 | iTunes Search: survival craft building | https://itunes.apple.com/search?term=survival+craft+building&media=software&limit=10 | 10 | 2026-08-26 03:42 |
+|||| S586 | iTunes Search: survival craft building mobile game casual | https://itunes.apple.com/search?term=survival+craft+building+mobile+game+casual&media=software&limit=10 | 9 | 2026-08-26 05:16 |
+|||| S587 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-26 05:16 |
+|||| S588 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-26 05:16 |
 
 || ID | 类型 | 标题 | URL | 开始时间 |
 ||---|---|---|---|---|
@@ -1369,3 +1378,36 @@
 |||| G2828 | BubbleShooterClassicPuzzle | docs/BubbleShooterClassicPuzzle_20260824_1830.md | 2026-08-24 18:30 |
 
 
+
+
+## New Games (R189)
+||| G3541 | Survival Games - Questopia | docs/SurvivalGamesQuestopia_20260826_0516.md | 2026-08-26 05:16 |
+||| G3542 | Castle Crafter Survival Craft | docs/CastleCrafterSurvivalCraft_20260826_0516.md | 2026-08-26 05:16 |
+||| G3543 | Tap Craft: Idle Mine Simulator | docs/TapCraftIdleMineSimulator_20260826_0516.md | 2026-08-26 05:16 |
+||| G3544 | Isle Builder: Click to Survive | docs/IsleBuilderClicktoSurvive_20260826_0516.md | 2026-08-26 05:16 |
+||| G3545 | Oxide: Survival Island Online | docs/OxideSurvivalIslandOnline_20260826_0516.md | 2026-08-26 05:16 |
+||| G3546 | Guns Royale: Mobile Team PvP | docs/GunsRoyaleMobileTeamPvP_20260826_0516.md | 2026-08-26 05:16 |
+||| G3547 | Icy Village: Survival Idle | docs/IcyVillageSurvivalIdle_20260826_0516.md | 2026-08-26 05:16 |
+||| G3548 | RealmCraft: mine and craft world | docs/RealmCraftminecraftworld_20260826_0516.md | 2026-08-26 05:16 |
+||| G3549 | Day R Premium: Survival RPG | docs/DayRPremiumSurvivalRPG_20260826_0516.md | 2026-08-26 05:16 |
+||| G3550 | Idle Sheep! | docs/IdleSheep_20260826_0516.md | 2026-08-26 05:16 |
+||| G3551 | CivCrafter | docs/CivCrafter_20260826_0516.md | 2026-08-26 05:16 |
+||| G3552 | Bacterial Takeover - Idle game | docs/BacterialTakeover-Idlegame_20260826_0516.md | 2026-08-26 05:16 |
+||| G3553 | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260826_0516.md | 2026-08-26 05:16 |
+||| G3554 | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260826_0516.md | 2026-08-26 05:16 |
+||| G3555 | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260826_0516.md | 2026-08-26 05:16 |
+||| G3556 | Idle Game 1 | docs/IdleGame1_20260826_0516.md | 2026-08-26 05:16 |
+||| G3557 | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260826_0516.md | 2026-08-26 05:16 |
+||| G3558 | Clicker Heroes - Idle Slayer | docs/ClickerHeroes-IdleSlayer_20260826_0516.md | 2026-08-26 05:16 |
+||| G3559 | Idle Planet Miner | docs/IdlePlanetMiner_20260826_0516.md | 2026-08-26 05:16 |
+||| G3560 | Bubble Shooter Classic Puzzle | docs/BubbleShooterClassicPuzzle_20260826_0516.md | 2026-08-26 05:16 |
+||| G3561 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260826_0516.md | 2026-08-26 05:16 |
+||| G3562 | Bejeweled Blitz | docs/BejeweledBlitz_20260826_0516.md | 2026-08-26 05:16 |
+||| G3563 | ProgressBar95 - retro arcade | docs/ProgressBar95-retroarcade_20260826_0516.md | 2026-08-26 05:16 |
+||| G3564 | Gaming Room: Classic Games | docs/GamingRoomClassicGames_20260826_0516.md | 2026-08-26 05:16 |
+||| G3565 | Classic Bubble Pop-Ball Games | docs/ClassicBubblePop-BallGames_20260826_0516.md | 2026-08-26 05:16 |
+||| G3566 | Brick Game - Retro Games | docs/BrickGame-RetroGames_20260826_0516.md | 2026-08-26 05:16 |
+
+
+## Execution Log (R189)
+| R189 | 2026-08-26 05:16 | 3 sources (S586-S588) | 3 sources (S586-S588) | 26 games (G3541-G3566) | iTunes API | 0 failures | 26 docs |
