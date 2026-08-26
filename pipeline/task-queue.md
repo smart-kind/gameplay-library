@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3456 | 3456 | 2026-08-25 21:30 |
+| 3482 | 3482 | 2026-08-26 00:27 |
 
 ## Sources Pending（待探索来源）
 
@@ -26,8 +26,11 @@
 || S574 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-25 21:30 |
 || S575 | iTunes Search: roguelike mini games mobile simple | https://itunes.apple.com/search?term=roguelike+mini+games+mobile+simple&media=software&limit=10 | 8 | 2026-08-25 21:30 |
 || S576 | iTunes Search: Google Play trending casual games | https://itunes.apple.com/search?term=Google+Play+trending+casual+games&media=software&limit=10 | 10 | 2026-08-25 21:30 |
+||| S577 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-26 00:27 |
 
+||| S578 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-26 00:27 |
 
+||| S579 | iTunes Search: idle merge puzzle game casual simple | https://itunes.apple.com/search?term=idle+merge+puzzle+game+casual+simple&media=software&limit=10 | 10 | 2026-08-26 00:27 |
 || ID | 类型 | 标题 | URL | 开始时间 |
 ||---|---|---|---|---|
 
@@ -822,31 +825,57 @@
 
 | ID | 游戏名 | 文档文件 | 归档时间 |
 || G2966 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260825_1744.md | 2026-08-25 17:44 |
+|| G3457 | Playbite - Mobile Arcade | docs/PlaybiteMobileArcade_20260826_0027.md | 2026-08-26 00:27 |
 | G2967 | Merge Inn - Tasty Match Puzzle | docs/MergeInnTastyMatchPuzzle_20260825_1744.md | 2026-08-25 17:44 |
+|| G3458 | Super Mega Mini Party | docs/SuperMegaMiniParty_20260826_0027.md | 2026-08-26 00:27 |
 | G2968 | Merge Away! - Puzzle Adventure | docs/MergeAwayPuzzleAdventure_20260825_1744.md | 2026-08-25 17:44 |
+|| G3459 | CrazyGames: Play 1500+ Games | docs/CrazyGamesPlay1500Games_20260826_0027.md | 2026-08-26 00:27 |
 | G2969 | Shoot n Merge | docs/ShootnMerge_20260825_1744.md | 2026-08-25 17:44 |
+|| G3460 | Big Time Games | docs/BigTimeGames_20260826_0027.md | 2026-08-26 00:27 |
 | G2970 | Merge Plus 2:Adventure | docs/MergePlus2Adventure_20260825_1744.md | 2026-08-25 17:44 |
+|| G3461 | Mini Games: Calm & Chill | docs/MiniGamesCalmAndChill_20260826_0027.md | 2026-08-26 00:27 |
 | G2971 | Blast to Merge | docs/BlasttoMerge_20260825_1744.md | 2026-08-25 17:44 |
+|| G3462 | 2 Player Games : Offline Games | docs/2PlayerGamesOfflineGames_20260826_0027.md | 2026-08-26 00:27 |
 | G2972 | Merge Block - Number Puzzle | docs/MergeBlockNumberPuzzle_20260825_1744.md | 2026-08-25 17:44 |
+|| G3463 | Mini Motor Racing | docs/MiniMotorRacing_20260826_0027.md | 2026-08-26 00:27 |
 | G2973 | Merge Plus | docs/MergePlus_20260825_1744.md | 2026-08-25 17:44 |
+|| G3464 | Mini Golf Stars: Arena Battle! | docs/MiniGolfStarsArenaBattle_20260826_0027.md | 2026-08-26 00:27 |
 | G2974 | Merge Mayor | docs/MergeMayor_20260825_1744.md | 2026-08-25 17:44 |
+|| G3465 | 2 3 4 Player Games | docs/234PlayerGames_20260826_0027.md | 2026-08-26 00:27 |
 | G2975 | Merge Dice - Puzzle Game 5x5 | docs/MergeDicePuzzleGame5x5_20260825_1744.md | 2026-08-25 17:44 |
+|| G3466 | Hyper: Play 1v1 Games For Cash | docs/HyperPlay1v1GamesForCash_20260826_0027.md | 2026-08-26 00:27 |
 | G2976 | Merge Clash: Tower Defense | docs/MergeClashTowerDefense_20260825_1744.md | 2026-08-25 17:44 |
+|| G3467 | Traffic Turn | docs/TrafficTurn_20260826_0027.md | 2026-08-26 00:27 |
 | G2977 | The Creeps! Tower Defense | docs/TheCreepsTowerDefense_20260825_1744.md | 2026-08-25 17:44 |
+|| G3468 | Fire Balls 3D | docs/FireBalls3D_20260826_0027.md | 2026-08-26 00:27 |
 | G2978 | Tower Conquest | docs/TowerConquest_20260825_1744.md | 2026-08-25 17:44 |
+|| G3469 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260826_0027.md | 2026-08-26 00:27 |
 | G2979 | TowerMadness | docs/TowerMadness_20260825_1744.md | 2026-08-25 17:44 |
+|| G3470 | TopTop: Games & Party | docs/TopTopGamesAndParty_20260826_0027.md | 2026-08-26 00:27 |
 | G2980 | Age of Origins:Tower Defense | docs/AgeofOriginsTowerDefense_20260825_1744.md | 2026-08-25 17:44 |
+|| G3471 | Apple Games | docs/AppleGames_20260826_0027.md | 2026-08-26 00:27 |
 | G2981 | Siege Hero | docs/SiegeHero_20260825_1744.md | 2026-08-25 17:44 |
+|| G3472 | Push Battle! - cool game | docs/PushBattle_20260826_0027.md | 2026-08-26 00:27 |
 | G2982 | Zombie Tower Shooting Defense | docs/ZombieTowerShootingDefense_20260825_1744.md | 2026-08-25 17:44 |
+|| G3473 | Merge Inn - Tasty Match Puzzle | docs/MergeInnTastyMatchPuzzle_20260826_0027.md | 2026-08-26 00:27 |
 | G2983 | Merge Defense 3D! | docs/MergeDefense3D_20260825_1744.md | 2026-08-25 17:44 |
+|| G3474 | Chef Merge - Fun Match Puzzle | docs/ChefMergeFunMatchPuzzle_20260826_0027.md | 2026-08-26 00:27 |
 | G2984 | TowerMadness Zero | docs/TowerMadnessZero_20260825_1744.md | 2026-08-25 17:44 |
+|| G3475 | Shoot n Merge | docs/ShootnMerge_20260826_0027.md | 2026-08-26 00:27 |
 | G2985 | Tower Clash | docs/TowerClash_20260825_1744.md | 2026-08-25 17:44 |
+|| G3476 | Merge Plus 2:Adventure | docs/MergePlus2Adventure_20260826_0027.md | 2026-08-26 00:27 |
 | G2986 | Bubble Shooter Classic Puzzle | docs/BubbleShooterClassicPuzzle_20260825_1744.md | 2026-08-25 17:44 |
+|| G3477 | Blast to Merge | docs/BlasttoMerge_20260826_0027.md | 2026-08-26 00:27 |
 | G2987 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_1744.md | 2026-08-25 17:44 |
+|| G3478 | Merge Block - Number Puzzle | docs/MergeBlockNumberPuzzle_20260826_0027.md | 2026-08-26 00:27 |
 | G2988 | Bejeweled Blitz | docs/BejeweledBlitz_20260825_1744.md | 2026-08-25 17:44 |
+|| G3479 | Merge Plus | docs/MergePlus_20260826_0027.md | 2026-08-26 00:27 |
 | G2989 | ProgressBar95 - retro arcade | docs/ProgressBar95retroarcade_20260825_1744.md | 2026-08-25 17:44 |
+|| G3480 | Merge Mayor | docs/MergeMayor_20260826_0027.md | 2026-08-26 00:27 |
 | G2990 | Gaming Room: Classic Games | docs/GamingRoomClassicGames_20260825_1744.md | 2026-08-25 17:44 |
+|| G3481 | Merge Dice - Puzzle Game 5x5 | docs/MergeDicePuzzleGame5x5_20260826_0027.md | 2026-08-26 00:27 |
 | G2991 | Classic Bubble Pop-Ball Games | docs/ClassicBubblePopBallGames_20260825_1744.md | 2026-08-25 17:44 |
+|| G3482 | Merge X3 | docs/MergeX3_20260826_0027.md | 2026-08-26 00:27 |
 | G2992 | Brick Game - Retro Games | docs/BrickGameRetroGames_20260825_1744.md | 2026-08-25 17:44 |
 
 | G2940 | Playgama: Play 2,000+ Games | docs/PlaygamaPlay2000Games_20260825_1028.md | 2026-08-25 10:28 |
@@ -1150,6 +1179,8 @@
 | G2897 | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260825_0330.md | 2026-08-25 03:30 |
 
 ## Execution Log
+
+| 2026-08-26 00:27 | R186 | 3 sources (S577-S579) | 3 sources (S577-S579) | 26 games (G3457-G3482) | iTunes API | 0 failures | 26 docs |
 | 2026-08-25 19:30 | R184 | 3 sources (S571-S573) | 3 sources (S571-S573) | 23 games | iTunes API | 0 failures | 23 docs |
 ||| 2026-08-25 14:08 | R181 | 3 sources (S559-S561) | 3 sources (S559-S561) | 26 games | iTunes API | 0 failures | 26 docs |
 | 2026-08-25 05:31 | R176 | 3 sources (S546-S548) | 3 sources (S546-S548) | 29 games (G2901-G2929) | iTunes API | 0 failures | 29 docs |
