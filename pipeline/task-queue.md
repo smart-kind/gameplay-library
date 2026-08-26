@@ -3,12 +3,15 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3565 | 3565 | 2026-08-26 05:16 |
+| 3594 | 3594 | 2026-08-26 07:07 |
 
 ## Sources Pending（待探索来源）
 
 | ID | 类型 | 标题 | URL | 发现时间 |
 |---|---|---|---|---|
+| S589 | iTunes Search | hidden object mystery casual game | https://itunes.apple.com/search?term=hidden+object+mystery+casual+game&media=software&limit=10 | 2026-08-26 07:07 |
+| S590 | iTunes Search | escape room puzzle adventure brain | https://itunes.apple.com/search?term=escape+room+puzzle+adventure+brain&media=software&limit=10 | 2026-08-26 07:07 |
+| S591 | iTunes Search | card battle strategy deckbuilder | https://itunes.apple.com/search?term=card+battle+strategy+deckbuilder&media=software&limit=10 | 2026-08-26 07:07 |
 | S586 | iTunes Search | survival craft building mobile game casual | https://itunes.apple.com/search?term=survival+craft+building+mobile+game+casual&media=software&limit=10 | 2026-08-26 05:16 |
 | S587 | iTunes Search | idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 2026-08-26 05:16 |
 | S588 | iTunes Search | PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 2026-08-26 05:16 |
