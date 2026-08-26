@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3700 | 3700 | 2026-08-26 12:19 |
+| 3727 | 3727 | 2026-08-26 13:54 |
 
 ## Sources Pending（待探索来源）
 
@@ -321,6 +321,9 @@
 | S592 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-26 10:23 |
 | S593 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-26 10:23 |
 | S594 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-26 10:23 |
+| S598 | iTunes Search: merge puzzle idle casual game | https://itunes.apple.com/search?term=merge+puzzle+idle+casual+game&media=software&limit=10 | 10 | 2026-08-26 13:54 |
+| S599 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-26 13:54 |
+| S600 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 7 | 2026-08-26 13:54 |
 
 
 ## Games Pending（待处理游戏）
@@ -1497,3 +1500,6 @@
 
 ## Execution Log (R193)
 || R193 | 2026-08-26 12:19 | 3 sources (S595-S597) | 3 sources (S595-S597) | 26 games (G3678-G3703) | iTunes API | 0 failures | 26 docs |
+
+## Execution Log (R194)
+| R194 | 2026-08-26 13:54 | 3 sources (S598-S600) | 3 sources (S598-S600) | 27 games (G3704-G3730) | iTunes API | 0 failures | 27 docs |
