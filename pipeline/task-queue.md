@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3649 | 3649 | 2026-08-26 08:40 |
+| 3674 | 3674 | 2026-08-26 10:23 |
 
 ## Sources Pending（待探索来源）
 
@@ -316,6 +316,11 @@
 | S476 | iTunes Search: tower defense strategy puzzle mobile game | https://itunes.apple.com/search?term=tower+defense+strategy+puzzle+mobile+game&media=software&limit=10 | 10 | 2026-08-23 01:42 |
 | S477 | iTunes Search: brain training logic puzzle mobile | https://itunes.apple.com/search?term=brain+training+logic+puzzle+mobile&media=software&limit=10 | 10 | 2026-08-23 01:42 |
 | S478 | iTunes Search: survival craft building mobile game | https://itunes.apple.com/search?term=survival+craft+building+mobile+game&media=software&limit=10 | 10 | 2026-08-23 01:42 |
+
+
+| S592 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-26 10:23 |
+| S593 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-26 10:23 |
+| S594 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-26 10:23 |
 
 
 ## Games Pending（待处理游戏）
