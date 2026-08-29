@@ -1574,3 +1574,8 @@ Each line: `[timestamp] [run_id] [phase] [status] [detail]`
 ## 2026-08-29
 
 [2026-08-29 12:00] [R202] [Phase 1: Read State] ✅ 完成 — 来源分布: Pending=0, Processing=0, Archived=619+, GamesArchived=3897
+[2026-08-29 12:00] [R202] [Phase 2: Discover] ✅ 完成 — 搜索3组关键词(casual puzzle match/arcade platformer retro/hidden object mystery)，发现30款候选游戏(3来源S620-S622)
+[2026-08-29 12:00] [R202] [Phase 3: Process Sources] ✅ 完成 — 处理3来源(S620-S622)，基于iTunes API描述数据产出15款新游戏文档，覆盖三消匹配/横版平台/单指跳跃/无尽跳跃/合作平台/寻物解谜等品类，全部≥53行，0个失败
+[2026-08-29 12:00] [R202] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-29 12:00] [R202] [Phase 5: Git Push] ✅ 完成 — commit成功(15新docs +799 lines)，push成功
+[2026-08-29 12:00] [R202] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3来源S620-S622归档，15款新文档，总游戏数3897→3912)
