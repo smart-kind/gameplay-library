@@ -3,7 +3,7 @@
 ## Summary（每轮更新）
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
-| 3898 | 3898 | 2026-08-29 06:00 |
+| 3895 | 3895 | 2026-08-29 06:00 |
 
 ## Sources Pending（待探索来源）
 
@@ -1552,7 +1552,7 @@
 | R199 | 2026-08-26 22:30 | 3 sources (S614-S616) | 3 sources (S611-S613) | 28 games (G3845-G3872) | iTunes API | 0 failures | 28 docs |
 
 ## Execution Log (R200)
-| R200 | 2026-08-29 06:00 | 3 sources (S614-S616) | 3 sources (S614-S616) | 27 games (G3872-G3898) | iTunes API | 0 failures | 27 docs |
+| R200 | 2026-08-29 06:00 | 3 sources (S614-S616) | 3 sources (S614-S616) | 24 new games (G3872-G3895, 3 duplicates) | iTunes API | 0 failures | 24 docs |
 
 
 ## 2026-08-29
@@ -1561,3 +1561,5 @@
 [2026-08-29 06:00] [R200] [Phase 2: Discover] ⏭️ 跳过 — Pending Sources ≥ 3 (已有3个待处理来源)
 [2026-08-29 06:00] [R200] [Phase 3: Process Sources] ✅ 完成 — 处理3来源(S614-S616)，基于iTunes API描述数据产出27款游戏文档(G3872-G3898)，覆盖休闲解谜/小游戏合集/竞速/多人派对/放置点击等品类，全部≥54行，0个失败
 [2026-08-29 06:00] [R200] [Phase 4: Process Games] ⏭️ 跳过 — Games文档已由Phase 3直接生成
+[2026-08-29 06:00] [R200] [Phase 5: Git Push] ✅ 完成 — commit成功(24新docs + pipeline脚本)，push成功
+[2026-08-29 06:00] [R200] [Phase 6: Update Log] ✅ 完成 — task-queue.md已更新(3来源S614-S616归档，27款游戏G3872-G3898产出24新文档因3重复，总游戏数3871→3895)
