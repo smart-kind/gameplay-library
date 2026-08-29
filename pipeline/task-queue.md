@@ -4,7 +4,7 @@
 | 总游戏数 | 总文档数 | 最后更新 |
 |---|---|---|
 | 3897 | 3910 | 2026-08-29 09:00 |
-| 3912 | 3925 | 2026-08-29 12:00 |
+| 3938 | 3951 | 2026-08-29 10:39 |
 
 ## Sources Pending（待探索来源）
 
@@ -233,6 +233,10 @@
 | S527 | iTunes Search: best mini games mobile casual 2024 2025 | https://itunes.apple.com/search?term=best+mini+games+mobile+casual+2024+2025&media=software&limit=10 | 9 | 2026-08-24 18:30 |
 | S528 | iTunes Search: viral hyper casual games list gameplay mechanics | https://itunes.apple.com/search?term=viral+hyper+casual+games+list+gameplay+mechanics&media=software&limit=10 | 9 | 2026-08-24 18:30 |
 | S529 | iTunes Search: indie puzzle game popular gameplay loop | https://itunes.apple.com/search?term=indie+puzzle+game+popular+gameplay+loop&media=software&limit=10 | 10 | 2026-08-24 18:30 |
+
+| S617 | iTunes Search: survival craft building mobile game | https://itunes.apple.com/search?term=survival+craft+building+mobile+game&media=software&limit=10 | 10 | 2026-08-29 10:39 |
+| S618 | iTunes Search: idle clicker games best mechanics | https://itunes.apple.com/search?term=idle+clicker+games+best+mechanics&media=software&limit=10 | 10 | 2026-08-29 10:39 |
+| S619 | iTunes Search: PopCap classic games list mechanics | https://itunes.apple.com/search?term=PopCap+classic+games+list+mechanics&media=software&limit=10 | 6 | 2026-08-29 10:39 |
 
 ## Sources Archived（历史累计）
 
@@ -1531,6 +1535,32 @@
 ||||| G3818 | Clicker Heroes - Idle Slayer | docs/Clicker_Heroes___Idle_Slayer_20260826_1856.md | 2026-08-26 18:56 |
 
 
+| G??? | Isle Builder: Click to Survive | docs/IsleBuilderClicktoSurvive_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | RealmCraft: mine & craft world | docs/RealmCraftminecraftworld_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | PrimalСraft 3D: Block Building | docs/PrimalСraft3DBlockBuilding_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Craft World 3D: Sandbox Games | docs/CraftWorld3DSandboxGames_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | MultiCraft — Build and Mine! | docs/MultiCraftBuildandMine_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Castle Crafter Survival Craft | docs/CastleCrafterSurvivalCraft_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Oxide: Survival Island Online | docs/OxideSurvivalIslandOnline_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Build World: Sandbox Survival | docs/BuildWorldSandboxSurvival_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Raft® Survival: Multiplayer | docs/RaftSurvivalMultiplayer_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Survival Games - Questopia | docs/SurvivalGamesQuestopia_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Idle Light City | docs/IdleLightCity_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Pocket Politics: Idle Money | docs/PocketPoliticsIdleMoney_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Rogue with the Dead: Idle RPG | docs/RoguewiththeDeadIdleRPG_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Idle Sheep! | docs/IdleSheep_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | CivCrafter | docs/CivCrafter_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Idle Stickman | docs/IdleStickman_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Bacterial Takeover - Idle game | docs/BacterialTakeoverIdlegame_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Idle Universe | docs/IdleUniverse_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Idle Slayer: Addictive Clicker | docs/IdleSlayerAddictiveClicker_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Planet Evolution: Idle Clicker | docs/PlanetEvolutionIdleClicker_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Classic Bubble Pop-Ball Games | docs/ClassicBubblePopBallGames_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Bubble Shooter Games: Pop 2025 | docs/BubbleShooterGamesPop2025_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Bejeweled Blitz | docs/BejeweledBlitz_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | ProgressBar95 - retro arcade | docs/ProgressBar95retroarcade_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Brick Game - Retro Games | docs/BrickGameRetroGames_20260829_1039.md | 2026-08-29 10:39 |
+| G??? | Brick Breaker Classic 2016 - Ultimate Revolution | docs/BrickBreakerClassic2016UltimateRevolution_20260829_1039.md | 2026-08-29 10:39 |
 ## Execution Log (R189)
 | R189 | 2026-08-26 05:16 | 3 sources (S586-S588) | 3 sources (S586-S588) | 26 games (G3541-G3566) | iTunes API | 0 failures | 26 docs |
 
@@ -1550,7 +1580,8 @@
 | R198 | 2026-08-26 20:40 | 3 sources (S611-S613) | 3 sources (S611-S613) | 26 games (G3819-G3844) | iTunes API | 0 failures | 26 docs |
 
 ## Execution Log (R199)
-| R199 | 2026-08-26 22:30 | 3 sources (S614-S616) | 3 sources (S611-S613) | 28 games (G3845-G3872) | iTunes API | 0 failures | 28 docs |
+| R203 | 2026-08-29 10:39 | 3 sources | 3 sources | 26 games | iTunes API | 0 failures | 26 docs |
+| R199 | 2026-08-26 22:30 | 3 sources (S614-S616) | 3 sources (S614-S616) | 28 games (G3845-G3872) | iTunes API | 0 failures | 28 docs |
 
 ## Execution Log (R200)
 | R200 | 2026-08-29 06:00 | 3 sources (S614-S616) | 3 sources (S614-S616) | 24 new games (G3872-G3895, 3 duplicates) | iTunes API | 0 failures | 24 docs |
