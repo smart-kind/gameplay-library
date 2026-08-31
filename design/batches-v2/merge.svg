@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="640" viewBox="0 0 360 640">
+  <rect width="360" height="640" fill="#1a1a2e"/>
+  <rect x="0" y="0" width="360" height="40" fill="#16213e"/>
+  <text x="180" y="26" text-anchor="middle" fill="#eee" font-size="14" font-family="sans-serif">波次 2/5 | 金币 340 | ❤❤❤</text>
+  <rect x="0" y="40" width="360" height="70" fill="#0f3460"/>
+  <text x="180" y="55" text-anchor="middle" fill="#aaa" font-size="10">敌人从顶部3条路径进攻</text>
+  <line x1="60" y1="70" x2="60" y2="110" stroke="#e94560" stroke-width="2" stroke-dasharray="4"/>
+  <line x1="180" y1="70" x2="180" y2="110" stroke="#e94560" stroke-width="2" stroke-dasharray="4"/>
+  <line x1="300" y1="70" x2="300" y2="110" stroke="#e94560" stroke-width="2" stroke-dasharray="4"/>
+  <circle cx="60" cy="80" r="8" fill="#ff6b6b"/>
+  <circle cx="180" cy="85" r="8" fill="#ff6b6b"/>
+  <circle cx="300" cy="75" r="8" fill="#ff6b6b"/>
+  <line x1="0" y1="110" x2="360" y2="110" stroke="#e94560" stroke-width="3"/>
+  <text x="180" y="125" text-anchor="middle" fill="#e94560" font-size="10">防御线</text>
+  <rect x="20" y="140" width="320" height="320" fill="#16213e" rx="8"/>
+  <text x="180" y="135" text-anchor="middle" fill="#888" font-size="10">滑动合并区域 (4×4)</text>
+  <g stroke="#0f3460" stroke-width="1"><line x1="20" y1="220" x2="340" y2="220"/><line x1="20" y1="300" x2="340" y2="300"/><line x1="20" y1="380" x2="340" y2="380"/><line x1="100" y1="140" x2="100" y2="460"/><line x1="180" y1="140" x2="180" y2="460"/><line x1="260" y1="140" x2="260" y2="460"/></g>
+  <rect x="25" y="145" width="70" height="70" fill="#4ecca3" rx="6"/><text x="60" y="188" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold">1</text>
+  <rect x="185" y="145" width="70" height="70" fill="#4ecca3" rx="6"/><text x="220" y="188" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold">1</text>
+  <rect x="105" y="225" width="70" height="70" fill="#f9a825" rx="6"/><text x="140" y="268" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold">2</text>
+  <rect x="265" y="305" width="70" height="70" fill="#ab47bc" rx="6"/><text x="300" y="348" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold">4</text>
+  <rect x="25" y="385" width="70" height="70" fill="#26c6da" rx="6"/><text x="60" y="428" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold">2</text>
+  <rect x="0" y="470" width="360" height="90" fill="#16213e"/>
+  <text x="180" y="485" text-anchor="middle" fill="#aaa" font-size="10">波次结束 - 选择一张增益卡</text>
+  <rect x="30" y="495" width="90" height="55" fill="#533483" rx="6"/><text x="75" y="520" text-anchor="middle" fill="#fff" font-size="11">攻速+20%</text>
+  <rect x="135" y="495" width="90" height="55" fill="#533483" rx="6"/><text x="180" y="520" text-anchor="middle" fill="#fff" font-size="11">射程+1</text>
+  <rect x="240" y="495" width="90" height="55" fill="#533483" rx="6"/><text x="285" y="520" text-anchor="middle" fill="#fff" font-size="11">冰冻</text>
+  <rect x="0" y="560" width="360" height="80" fill="#0f3460"/>
+  <rect x="20" y="570" width="100" height="40" fill="#e94560" rx="6"/><text x="70" y="595" text-anchor="middle" fill="#fff" font-size="12">刷新 50G</text>
+  <rect x="130" y="570" width="100" height="40" fill="#e94560" rx="6"/><text x="180" y="595" text-anchor="middle" fill="#fff" font-size="12">自动合并</text>
+  <rect x="240" y="570" width="100" height="40" fill="#e94560" rx="6"/><text x="290" y="595" text-anchor="middle" fill="#fff" font-size="12">技能</text>
+</svg>

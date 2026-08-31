@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="640" viewBox="0 0 360 640">
+  <rect width="360" height="640" fill="#1a1a2e"/>
+  <rect x="0" y="0" width="360" height="40" fill="#16213e"/>
+  <text x="180" y="26" text-anchor="middle" fill="#eee" font-size="14" font-family="sans-serif">合并守卫者 (Merge Defender)</text>
+  <rect x="20" y="60" width="320" height="320" fill="#16213e" rx="8"/>
+<g stroke="#0f3460" stroke-width="1"><line x1="20" y1="140" x2="340" y2="140"/><line x1="20" y1="220" x2="340" y2="220"/><line x1="20" y1="300" x2="340" y2="300"/><line x1="100" y1="60" x2="100" y2="380"/><line x1="180" y1="60" x2="180" y2="380"/><line x1="260" y1="60" x2="260" y2="380"/></g>
+<rect x="25" y="65" width="70" height="70" fill="#4ecca3" rx="6"/><text x="60" y="108" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold">1</text>
+<rect x="185" y="65" width="70" height="70" fill="#4ecca3" rx="6"/><text x="220" y="108" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold">1</text>
+<rect x="105" y="145" width="70" height="70" fill="#f9a825" rx="6"/><text x="140" y="188" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold">2</text>
+<rect x="265" y="225" width="70" height="70" fill="#ab47bc" rx="6"/><text x="300" y="268" text-anchor="middle" fill="#fff" font-size="28" font-weight="bold">4</text>
+<rect x="0" y="400" width="360" height="100" fill="#0f3460"/>
+<text x="180" y="420" text-anchor="middle" fill="#aaa" font-size="12">敌人进攻路径（3条）</text>
+<line x1="60" y1="440" x2="60" y2="490" stroke="#e94560" stroke-width="2" stroke-dasharray="4"/>
+<line x1="180" y1="440" x2="180" y2="490" stroke="#e94560" stroke-width="2" stroke-dasharray="4"/>
+<line x1="300" y1="440" x2="300" y2="490" stroke="#e94560" stroke-width="2" stroke-dasharray="4"/>
+<circle cx="60" cy="450" r="8" fill="#ff6b6b"/><circle cx="180" cy="465" r="8" fill="#ff6b6b"/><circle cx="300" cy="455" r="8" fill="#ff6b6b"/>
+<rect x="0" y="510" width="360" height="130" fill="#16213e"/>
+<text x="180" y="530" text-anchor="middle" fill="#aaa" font-size="10">增益卡选择区</text>
+<rect x="30" y="540" width="90" height="50" fill="#533483" rx="6"/><text x="75" y="570" text-anchor="middle" fill="#fff" font-size="11">攻速+20%</text>
+<rect x="135" y="540" width="90" height="50" fill="#533483" rx="6"/><text x="180" y="570" text-anchor="middle" fill="#fff" font-size="11">射程+1</text>
+<rect x="240" y="540" width="90" height="50" fill="#533483" rx="6"/><text x="285" y="570" text-anchor="middle" fill="#fff" font-size="11">冰冻</text>
+</svg>

@@ -1,4 +1,19 @@
-.DS_Store
-graphify-out/
+# Dependencies
+node_modules/
+package-lock.json
 
+# Docgraph local
+.docgraph/
 
+# Generated PNGs (SVG source is tracked)
+*.png
+
+# Test files
+test-*
+embed*.py
+generate*.py
+svg*.js
+
+# Status trigger files
+trigger-batch.sh
+generate-batch.sh

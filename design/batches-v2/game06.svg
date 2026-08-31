@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="640" viewBox="0 0 360 640">
+  <rect width="360" height="640" fill="#1a1a2e"/>
+  <rect x="0" y="0" width="360" height="40" fill="#16213e"/>
+  <text x="180" y="26" text-anchor="middle" fill="#eee" font-size="14" font-family="sans-serif">点击帝国 (Click Empire)</text>
+  <rect x="20" y="80" width="320" height="400" fill="#16213e" rx="8"/>
+    <text x="180" y="200" text-anchor="middle" fill="#4ecca3" font-size="20" font-family="sans-serif">点击帝国</text>
+    <text x="180" y="240" text-anchor="middle" fill="#aaa" font-size="14" font-family="sans-serif">点击收集 + 放置经营</text>
+    <text x="180" y="300" text-anchor="middle" fill="#f9a825" font-size="36" font-weight="bold" font-family="sans-serif">4.19</text>
+    <text x="180" y="340" text-anchor="middle" fill="#888" font-size="12" font-family="sans-serif">预估总分</text>
+    <rect x="40" y="400" width="280" height="60" fill="#533483" rx="8"/>
+    <text x="180" y="435" text-anchor="middle" fill="#fff" font-size="12" font-family="sans-serif">疯狂点击收集资源，建设自动产出建筑。</text>
+</svg>
