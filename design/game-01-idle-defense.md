@@ -7,95 +7,133 @@
 
 ## 一、界面布局
 
+**整体结构**：
+- 顶部：状态栏（常驻）
+- 中间 75%：战场（路径 + 塔位）
+- 底部：波次间隙才出现操作按钮，平时 clean
+
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="640" viewBox="0 0 360 640">
   <!-- 背景 -->
   <rect width="360" height="640" fill="#1a1a2e"/>
   
   <!-- 顶部状态栏 -->
-  <rect x="0" y="0" width="360" height="40" fill="#16213e"/>
-  <text x="180" y="26" text-anchor="middle" fill="#eee" font-size="14" font-family="sans-serif">波次 5  |  金币 12.5K  |  ❤❤❤</text>
+  <rect x="0" y="0" width="360" height="36" fill="#16213e"/>
+  <text x="60" y="24" text-anchor="middle" fill="#ffd700" font-size="13" font-family="sans-serif">💰 12.5K</text>
+  <text x="180" y="24" text-anchor="middle" fill="#eee" font-size="13" font-family="sans-serif">波次 5/10</text>
+  <text x="300" y="24" text-anchor="middle" fill="#ff6b6b" font-size="13" font-family="sans-serif">❤️ 8/10</text>
   
-  <!-- 敌人路径区 -->
-  <rect x="0" y="40" width="360" height="80" fill="#0f3460"/>
-  <text x="180" y="55" text-anchor="middle" fill="#aaa" font-size="10">敌人进攻路径（3条）</text>
-  <line x1="60" y1="65" x2="60" y2="115" stroke="#e94560" stroke-width="2" stroke-dasharray="4"/>
-  <line x1="180" y1="65" x2="180" y2="115" stroke="#e94560" stroke-width="2" stroke-dasharray="4"/>
-  <line x1="300" y1="65" x2="300" y2="115" stroke="#e94560" stroke-width="2" stroke-dasharray="4"/>
-  <circle cx="60" cy="75" r="6" fill="#ff6b6b"/>
-  <circle cx="180" cy="85" r="6" fill="#ff6b6b"/>
-  <circle cx="300" cy="70" r="6" fill="#ff6b6b"/>
-  <line x1="0" y1="115" x2="360" y2="115" stroke="#e94560" stroke-width="3"/>
-  <text x="180" y="130" text-anchor="middle" fill="#e94560" font-size="10">防御线</text>
+  <!-- ====== 主战场区域 ====== -->
+  <!-- 路径1：左上到左下 -->
+  <rect x="40" y="45" width="80" height="540" fill="#0f3460" rx="4" opacity="0.6"/>
+  <text x="80" y="65" text-anchor="middle" fill="#aaa" font-size="9">路径 ①</text>
   
-  <!-- 塔防区域 -->
-  <rect x="20" y="140" width="320" height="200" fill="#16213e" rx="8"/>
-  <text x="180" y="135" text-anchor="middle" fill="#888" font-size="10">防御塔布局（可放置 6 座塔）</text>
+  <!-- 路径2：中上到中下 -->
+  <rect x="140" y="45" width="80" height="540" fill="#0f3460" rx="4" opacity="0.6"/>
+  <text x="180" y="65" text-anchor="middle" fill="#aaa" font-size="9">路径 ②</text>
   
-  <!-- 塔位 -->
-  <circle cx="80" cy="180" r="25" fill="#4ecca3" opacity="0.8"/>
-  <text x="80" y="186" text-anchor="middle" fill="#fff" font-size="12" font-weight="bold">箭塔</text>
-  <text x="80" y="200" text-anchor="middle" fill="#aaa" font-size="9">Lv.12</text>
+  <!-- 路径3：右上到右下 -->
+  <rect x="240" y="45" width="80" height="540" fill="#0f3460" rx="4" opacity="0.6"/>
+  <text x="280" y="65" text-anchor="middle" fill="#aaa" font-size="9">路径 ③</text>
   
-  <circle cx="180" cy="180" r="25" fill="#f9a825" opacity="0.8"/>
-  <text x="180" y="186" text-anchor="middle" fill="#fff" font-size="12" font-weight="bold">法塔</text>
-  <text x="180" y="200" text-anchor="middle" fill="#aaa" font-size="9">Lv.8</text>
+  <!-- 塔位：路径两侧的空位（左侧） -->
+  <rect x="10" y="120" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
+  <rect x="10" y="200" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
+  <rect x="10" y="320" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
+  <rect x="10" y="440" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
   
-  <circle cx="280" cy="180" r="25" fill="#e94560" opacity="0.8"/>
-  <text x="280" y="186" text-anchor="middle" fill="#fff" font-size="12" font-weight="bold">炮塔</text>
-  <text x="280" y="200" text-anchor="middle" fill="#aaa" font-size="9">Lv.15</text>
+  <!-- 塔位：路径之间的空位 -->
+  <rect x="128" y="160" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
+  <rect x="128" y="280" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
+  <rect x="128" y="400" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
   
-  <circle cx="80" cy="260" r="25" fill="#ab47bc" opacity="0.5"/>
-  <text x="80" y="266" text-anchor="middle" fill="#fff" font-size="10">空位</text>
+  <rect x="210" y="160" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
+  <rect x="210" y="280" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
+  <rect x="210" y="400" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
   
-  <circle cx="180" cy="260" r="25" fill="#ab47bc" opacity="0.5"/>
-  <text x="180" y="266" text-anchor="middle" fill="#fff" font-size="10">空位</text>
+  <!-- 塔位：路径右侧的空位 -->
+  <rect x="328" y="120" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
+  <rect x="328" y="200" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
+  <rect x="328" y="320" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
+  <rect x="328" y="440" width="22" height="22" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-dasharray="3" rx="3"/>
   
-  <circle cx="280" cy="260" r="25" fill="#ab47bc" opacity="0.5"/>
-  <text x="280" y="266" text-anchor="middle" fill="#fff" font-size="10">空位</text>
+  <!-- 已放置的塔 -->
+  <!-- 左侧路径旁：箭塔 Lv.8 -->
+  <circle cx="21" cy="211" r="14" fill="#4ecca3"/>
+  <text x="21" y="216" text-anchor="middle" fill="#fff" font-size="9">🏹</text>
+  <text x="21" y="200" text-anchor="middle" fill="#aaa" font-size="7">Lv.8</text>
   
-  <!-- 离线收益提示 -->
-  <rect x="20" y="350" width="320" height="50" fill="#533483" rx="8"/>
-  <text x="180" y="370" text-anchor="middle" fill="#fff" font-size="11">⏱️ 离线 2 小时收益：+3,240 金币</text>
-  <text x="180" y="388" text-anchor="middle" fill="#ffd700" font-size="10">点击领取</text>
+  <!-- 路径1-2之间：法塔 Lv.5 -->
+  <circle cx="139" cy="291" r="14" fill="#ab47bc"/>
+  <text x="139" y="296" text-anchor="middle" fill="#fff" font-size="9">🔮</text>
+  <text x="139" y="280" text-anchor="middle" fill="#aaa" font-size="7">Lv.5</text>
   
-  <!-- 底部操作区 -->
-  <rect x="0" y="410" width="360" height="230" fill="#0f3460"/>
+  <!-- 路径2-3之间：炮塔 Lv.12 -->
+  <circle cx="221" cy="171" r="14" fill="#e94560"/>
+  <text x="221" y="176" text-anchor="middle" fill="#fff" font-size="9">💣</text>
+  <text x="221" y="160" text-anchor="middle" fill="#aaa" font-size="7">Lv.12</text>
   
-  <!-- 升级按钮 -->
-  <rect x="20" y="425" width="100" height="45" fill="#4ecca3" rx="6"/>
-  <text x="70" y="445" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">升级箭塔</text>
-  <text x="70" y="460" text-anchor="middle" fill="#16213e" font-size="9">500 金币</text>
+  <!-- 右侧路径旁：箭塔 Lv.6 -->
+  <circle cx="339" cy="331" r="14" fill="#4ecca3"/>
+  <text x="339" y="336" text-anchor="middle" fill="#fff" font-size="9">🏹</text>
+  <text x="339" y="320" text-anchor="middle" fill="#aaa" font-size="7">Lv.6</text>
   
-  <rect x="130" y="425" width="100" height="45" fill="#f9a825" rx="6"/>
-  <text x="180" y="445" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">升级法塔</text>
-  <text x="180" y="460" text-anchor="middle" fill="#16213e" font-size="9">800 金币</text>
+  <!-- 敌人：在路径上移动 -->
+  <!-- 路径1：小兵 -->
+  <circle cx="80" cy="100" r="8" fill="#ff6b6b"/>
+  <text x="80" y="104" text-anchor="middle" fill="#fff" font-size="8">👾</text>
+  <circle cx="80" cy="160" r="8" fill="#ff6b6b"/>
+  <text x="80" y="164" text-anchor="middle" fill="#fff" font-size="8">👾</text>
+  <circle cx="80" cy="250" r="10" fill="#ff9800"/>
+  <text x="80" y="254" text-anchor="middle" fill="#fff" font-size="8">🐢</text>
   
-  <rect x="240" y="425" width="100" height="45" fill="#e94560" rx="6"/>
-  <text x="290" y="445" text-anchor="middle" fill="#fff" font-size="11" font-weight="bold">升级炮塔</text>
-  <text x="290" y="460" text-anchor="middle" fill="#16213e" font-size="9">1,200 金币</text>
+  <!-- 路径2：快速兵+Boss -->
+  <circle cx="180" cy="85" r="7" fill="#ff6b6b"/>
+  <text x="180" y="89" text-anchor="middle" fill="#fff" font-size="7">⚡</text>
+  <circle cx="180" cy="130" r="7" fill="#ff6b6b"/>
+  <text x="180" y="134" text-anchor="middle" fill="#fff" font-size="7">⚡</text>
+  <circle cx="180" cy="210" r="16" fill="#d32f2f"/>
+  <text x="180" y="216" text-anchor="middle" fill="#fff" font-size="10">👹</text>
   
-  <!-- 技能按钮 -->
-  <rect x="20" y="480" width="155" height="40" fill="#533483" rx="6"/>
-  <text x="97" y="505" text-anchor="middle" fill="#fff" font-size="12">🔥 火焰风暴（冷却中）</text>
+  <!-- 路径3：小兵 -->
+  <circle cx="280" cy="120" r="8" fill="#ff6b6b"/>
+  <text x="280" y="124" text-anchor="middle" fill="#fff" font-size="8">👾</text>
   
-  <rect x="185" y="480" width="155" height="40" fill="#533483" rx="6"/>
-  <text x="262" y="505" text-anchor="middle" fill="#fff" font-size="12">❄️ 冰冻领域（就绪）</text>
+  <!-- 防御线（底部红线） -->
+  <line x1="0" y1="590" x2="360" y2="590" stroke="#e94560" stroke-width="4"/>
+  <text x="180" y="585" text-anchor="middle" fill="#e94560" font-size="10">🛡️ 防御线</text>
   
-  <!-- 加速/挂机按钮 -->
-  <rect x="20" y="530" width="100" height="40" fill="#26c6da" rx="6"/>
-  <text x="70" y="555" text-anchor="middle" fill="#fff" font-size="11">⚡ 2x 加速</text>
+  <!-- ====== 底部：波次间隙才出现的按钮 ====== -->
+  <!-- "下一波"按钮（只在波次间隙显示） -->
+  <rect x="110" y="600" width="140" height="32" fill="#4ecca3" rx="16" opacity="0.9"/>
+  <text x="180" y="620" text-anchor="middle" fill="#16213e" font-size="12" font-weight="bold">▶ 开始第 6 波</text>
   
-  <rect x="130" y="530" width="100" height="40" fill="#ab47bc" rx="6"/>
-  <text x="180" y="555" text-anchor="middle" fill="#fff" font-size="11">🛡️ 自动战斗</text>
+  <!-- ====== 点击塔后弹出的升级对话框（覆盖层示例） ====== -->
+  <rect x="40" y="200" width="280" height="200" fill="#16213e" rx="12" stroke="#4ecca3" stroke-width="2" opacity="0.95"/>
+  <text x="180" y="225" text-anchor="middle" fill="#fff" font-size="14" font-weight="bold">🏹 箭塔 Lv.8 → Lv.9</text>
+  <text x="180" y="250" text-anchor="middle" fill="#aaa" font-size="11">攻击 120 → 144 (+20%)</text>
+  <text x="180" y="270" text-anchor="middle" fill="#aaa" font-size="11">射程 2格 → 2格</text>
+  <rect x="70" y="290" width="100" height="36" fill="#4ecca3" rx="6"/>
+  <text x="120" y="312" text-anchor="middle" fill="#16213e" font-size="12" font-weight="bold">💰 500 升级</text>
+  <rect x="190" y="290" width="100" height="36" fill="#666" rx="6"/>
+  <text x="240" y="312" text-anchor="middle" fill="#fff" font-size="12">❌ 关闭</text>
+  <text x="180" y="370" text-anchor="middle" fill="#ffd700" font-size="10">已攻击 1,240 次，消灭 586 敌人</text>
   
-  <rect x="240" y="530" width="100" height="40" fill="#ffd700" rx="6"/>
-  <text x="290" y="555" text-anchor="middle" fill="#16213e" font-size="11">📺 双倍收益</text>
+  <!-- ====== 技能按钮（右下角小圆，只在可释放时高亮） ====== -->
+  <circle cx="330" cy="555" r="20" fill="#e94560" opacity="0.8"/>
+  <text x="330" y="560" text-anchor="middle" fill="#fff" font-size="14">🔥</text>
   
-  <!-- 波次进度 -->
-  <rect x="20" y="580" width="320" height="10" fill="#16213e" rx="5"/>
-  <rect x="20" y="580" width="200" height="10" fill="#4ecca3" rx="5"/>
-  <text x="180" y="600" text-anchor="middle" fill="#aaa" font-size="10">波次进度：5/10</text>
+  <circle cx="330" cy="510" r="20" fill="#26c6da" opacity="0.4"/>
+  <text x="330" y="515" text-anchor="middle" fill="#fff" font-size="14">❄️</text>
 </svg>
+
+**界面说明**：
+- **中间大片区域** = 战场，3 条垂直路径从上到下
+- **路径两侧小方框** = 塔位（虚线 = 空位，实心圆 = 有塔）
+- **路径上的 emoji** = 正在移动的敌人（👾 小兵 / ⚡ 快速兵 / 🐢 坦克 / 👹 Boss）
+- **底部红线** = 防御线，敌人到达这里扣生命
+- **"下一波"按钮** = 只在波次间隙出现，平时不显示
+- **点击塔后弹出对话框** = 显示升级选项，不是常驻按钮
+- **右下角小圆** = 技能按钮，冷却中时变暗
 
 ---
 
@@ -116,12 +154,20 @@
 
 ### 3.1 玩家输入
 
+**常驻界面（战斗时）**：
 | 操作 | 区域 | 反馈 |
 |------|------|------|
-| **点击建造/升级塔** | 塔位区域 | 塔升级，数值提升，金币扣除 |
-| **点击技能** | 底部技能区 | 全屏特效，敌人减速/伤害 |
-| **点击领取离线收益** | 离线提示区 | 金币飞入，数字跳动 |
-| **切换自动/手动** | 底部操作区 | 自动战斗时塔自行攻击，手动可放技能 |
+| **点击空塔位** | 路径旁的虚线方框 | 弹出"建造菜单"：选择箭塔/法塔/炮塔 |
+| **点击已有塔** | 塔图标 | 弹出"升级对话框"：显示当前属性+升级后属性+花费 |
+| **点击技能图标** | 右下角小圆 | 释放技能（火焰风暴/冰冻领域） |
+| **点击"下一波"** | 底部中央（仅波次间隙显示） | 立即开始下一波敌人 |
+| **点击领取离线收益** | 顶部弹出的提示条（上线时） | 金币飞入，数字跳动 |
+
+**对话框交互**：
+- 升级对话框：显示 `Lv.X → Lv.X+1` 的属性对比 + 💰 花费按钮 + ❌ 关闭按钮
+- 建造菜单：显示 3 种塔图标 + 攻击/射程/成本的简要对比
+
+**无操作时**：塔自动攻击范围内敌人，无需玩家干预。
 
 ### 3.2 游戏实体
 
@@ -150,13 +196,16 @@
 ### 3.4 核心循环（单局内）
 
 ```
-Step 1: 观察当前波次敌人类型
-Step 2: 点击升级对应塔（如快速兵多→升级箭塔攻速）
-Step 3: 塔自动攻击范围内敌人
-Step 4: 敌人被消灭→掉落金币（自动收集）
-Step 5: 波次间隙（10秒）→可建造新塔或放技能
-Step 6: 进入下一波，敌人类型变化
+Step 1: 观察敌人走到哪条路径、什么类型
+Step 2: 点击路径旁的空塔位 → 选择建造箭塔/法塔/炮塔
+Step 3: 塔自动攻击射程内的敌人（弹道从塔飞向敌人）
+Step 4: 敌人被消灭 → 掉落金币（自动收集，顶部金币数字跳动）
+Step 5: 本波敌人清空 → 底部出现"▶ 开始下一波"按钮
+Step 6: 点击按钮 → 下一波更强的敌人出现
+Step 7: 波次间隙可点击已有塔 → 弹出升级对话框，花费金币升级
 ```
+
+**放置核心**：空位有限（每关固定 8-12 个），选择在哪里建什么塔是主要策略。
 
 ---
 
