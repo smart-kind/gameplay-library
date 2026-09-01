@@ -1,0 +1,65 @@
+---
+title: Mini Games Calm & Chill
+original_filename: Mini_Games_Calm_&_Chill_20260826_1218
+date: 2026-08-26
+time: 12:18
+source: gameplay-library
+---
+
+# Mini Games: Calm & Chill
+
+- **类型**: 解谜
+- **平台**: Mobile (iOS)
+- **开发商**: CTC TECHNOLOGY LIMITED
+- **首次发布**: 2024
+- **用户评分**: 4.68/5.0
+- **游戏分类**: Games / Puzzle / Entertainment
+- **一句话描述**: Dive into the world of excitement and fun with Mini Games: Calm & Chill — the ultimate mini-games collection that brings the hottest trends and addictive gameplay right to your fingertips!  HOW TO PLAY:  - Easy to learn, hard to master! Just tap, swipe, or use your voice to conquer each challenge.
+
+## 玩法规则
+
+玩家打开游戏后，进入解谜类型的主界面，屏幕上展示核心游戏区域。
+
+玩家通过**点击/轻触屏幕**进行主要操作。每次点击触发游戏内的核心动作——可能是放置方块、发射子弹、选择目标或移动角色。
+
+玩家通过**滑动手势**操控游戏中的元素。左右滑动切换选项，上下滑动调整参数或移动角色位置。
+
+游戏的核心目标因模式而异：在解谜模式中是清理所有方块或达成特定条件；在竞技模式中是击败对手或获得更高排名；在休闲模式中是获得更高的个人分数。
+
+当玩家完成关卡目标（清除所有方块/达到目标分数/击败对手）时即获得胜利，可以进入下一关或解锁新内容。部分游戏包含无限模式，挑战玩家的最高分记录。
+
+## 核心循环
+
+进行核心操作 → 获得分数/资源 → 解锁新内容或通关 → 挑战更高难度
+
+## 核心机制
+
+- **游戏类型驱动**: 作为解谜类型游戏（分类：Games / Puzzle / Entertainment），采用该品类成熟的操作范式设计，降低玩家学习成本
+- **渐进难度曲线**: 关卡从简单教程逐步过渡到复杂挑战，每关引入新元素或机制变化，维持'心流'状态
+- **即时操作反馈**: 每次操作都有视觉/动画/数值反馈，形成清晰的'操作→结果→满足感'正反馈循环
+
+## 为什么好玩
+
+作为一款解谜类型游戏，其核心魅力在于**简洁但有深度的玩法设计**。操作门槛极低（通常只需点触或滑动），但策略空间丰富。每次成功操作带来的即时视觉和数值反馈，配合精心调教的难度曲线，让玩家在'差一点就成功'的微妙状态下产生'再来一局'的冲动。
+
+Games / Puzzle / Entertainment品类的天然优势是碎片时间友好——一局游戏只需几分钟，但庞大的关卡数量（通常数百到数千关）保证了长期的游玩价值。
+
+## 粘性来源
+
+- **即时满足感**: 每次操作都有明确的视觉和数值反馈
+- **渐进式成长**: 解锁新关卡/元素提供持续的进度感
+- **心流体验**: 难度与技能匹配，让玩家进入专注的沉浸状态
+
+## Meta 系统
+
+- **基础关卡系统**: 通过完成关卡解锁后续内容，部分游戏可能包含每日挑战或特别活动
+
+## 实现难度
+
+**低** — 核心循环简单，主要工作量在内容量的填充和UI/UX的打磨。
+最大技术难点是操作手感的精细调校，确保'点下去的感觉'令人愉悦。
+
+## 来源
+
+- https://apps.apple.com/us/app/mini-games-calm-chill/id6737214802?uo=4
+- iTunes Search API (R193)

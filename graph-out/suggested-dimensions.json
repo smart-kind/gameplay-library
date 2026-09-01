@@ -1,0 +1,724 @@
+{
+  "entity_types": [
+    {
+      "type": "game",
+      "label": "游戏",
+      "description": "游戏名称",
+      "examples": [
+        "ProgressBar95 - retro arcade",
+        "小巫师（Wiz Kid Jr.）",
+        "Gun Sprint",
+        "动作射击",
+        "**自动射击**：武器自动发射，玩家只需控制射击时机和方向",
+        "Rally-X Rumble",
+        "Janksy",
+        "道具放置解谜：有限道具下设计可行路径",
+        "多种道具类型：平台、弹跳板、传送门等各有功能",
+        "物理模拟：角色移动受重力和物理规则影响"
+      ],
+      "variant_clusters": [
+        {
+          "canonical": "Arcade",
+          "variants": [
+            "ProgressBar95 - retro arcade"
+          ]
+        },
+        {
+          "canonical": "动作",
+          "variants": [
+            "动作射击",
+            "动作冒险",
+            "街机清版动作",
+            "动作Roguelike",
+            "横版动作",
+            "射击动作"
+          ]
+        },
+        {
+          "canonical": "平台跳跃",
+          "variants": [
+            "平台",
+            "多种道具类型：平台、弹跳板、传送门等各有功能",
+            "多平台复刻",
+            "**横版卷轴**：经典横版平台跳跃玩法",
+            "主机全平台"
+          ]
+        },
+        {
+          "canonical": "解谜",
+          "variants": [
+            "道具放置解谜：有限道具下设计可行路径",
+            "益智解谜",
+            "物理解谜",
+            "寻物解谜",
+            "瓷砖解谜",
+            "合并解谜",
+            "三消解谜",
+            "物理益智解谜",
+            "卸下螺栓：螺丝解谜（Take Off Bolts: Screw Puzzle）",
+            "螺丝解谜",
+            "文字解谜",
+            "潜行解谜",
+            "路径规划解谜",
+            "逻辑连接解谜",
+            "排序解谜",
+            "无计时解谜",
+            "解谜元素",
+            "解谜逃脱",
+            "视觉解谜"
+          ]
+        },
+        {
+          "canonical": "物理",
+          "variants": [
+            "物理模拟：角色移动受重力和物理规则影响",
+            "模拟"
+          ]
+        },
+        {
+          "canonical": "基础玩法：根据游戏类型提供核心交互方式",
+          "variants": [
+            "游戏",
+            "增量游戏",
+            "**短局设计**：每局游戏时长可控，适合碎片化时间游玩",
+            "基于游戏类型的核心机制",
+            "**关卡/进度系统**: 通过游戏进程逐步解锁新内容",
+            "**奖励反馈**: 完成游戏目标后获得视觉和数值反馈",
+            "关卡/模式系统：提供多样化的游戏内容",
+            "进度系统：保存游戏进度，允许随时继续",
+            "**排行榜**:  各小游戏设有排行榜，激发竞争心理",
+            "双人离线游戏（2 Player Games : Offline Games）",
+            "**核心操作**：通过触控进行游戏交互，操作简单直观。",
+            "积分排行榜：各小游戏的得分汇总为总排名，激发竞争欲",
+            "小岛建造：合并游戏（Island Building : Merge Games）"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "game_genre",
+      "label": "游戏类型",
+      "description": "玩法类型/游戏类别",
+      "examples": [
+        "动作",
+        "塔防",
+        "Roguelike",
+        "放置",
+        "卡牌",
+        "休闲",
+        "策略"
+      ],
+      "variant_clusters": [
+        {
+          "canonical": "基础玩法：根据游戏类型提供核心交互方式",
+          "variants": [
+            "游戏",
+            "增量游戏",
+            "**短局设计**：每局游戏时长可控，适合碎片化时间游玩",
+            "基于游戏类型的核心机制",
+            "**关卡/进度系统**: 通过游戏进程逐步解锁新内容",
+            "**奖励反馈**: 完成游戏目标后获得视觉和数值反馈",
+            "关卡/模式系统：提供多样化的游戏内容",
+            "进度系统：保存游戏进度，允许随时继续",
+            "**排行榜**:  各小游戏设有排行榜，激发竞争心理",
+            "双人离线游戏（2 Player Games : Offline Games）",
+            "**核心操作**：通过触控进行游戏交互，操作简单直观。",
+            "积分排行榜：各小游戏的得分汇总为总排名，激发竞争欲",
+            "小岛建造：合并游戏（Island Building : Merge Games）"
+          ]
+        },
+        {
+          "canonical": "放置点击",
+          "variants": [
+            "放置",
+            "点击"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "game_mechanic",
+      "label": "游戏机制",
+      "description": "核心游戏机制",
+      "examples": [
+        "随机地图生成",
+        "永久死亡",
+        "技能树",
+        "连击系统",
+        "波次递增"
+      ],
+      "variant_clusters": []
+    },
+    {
+      "type": "platform",
+      "label": "平台",
+      "description": "游戏发布平台",
+      "examples": [
+        "Mobile",
+        "iOS",
+        "Android",
+        "PC",
+        "PSP",
+        "Steam"
+      ],
+      "variant_clusters": [
+        {
+          "canonical": "Mobile (iOS)",
+          "variants": [
+            "Mobile (iOS",
+            "Mobile",
+            "iOS",
+            "IO"
+          ]
+        },
+        {
+          "canonical": "平台跳跃",
+          "variants": [
+            "平台",
+            "多种道具类型：平台、弹跳板、传送门等各有功能",
+            "多平台复刻",
+            "**横版卷轴**：经典横版平台跳跃玩法",
+            "主机全平台"
+          ]
+        },
+        {
+          "canonical": "Mobile (iOS+Android)",
+          "variants": [
+            "Android)",
+            "Mobile (iOS + Android)",
+            "Android"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "developer",
+      "label": "开发商",
+      "description": "游戏开发商/发行商",
+      "examples": [],
+      "variant_clusters": []
+    },
+    {
+      "type": "meta_system",
+      "label": "Meta系统",
+      "description": "外围系统",
+      "examples": [
+        "排行榜",
+        "成就系统",
+        "赛季",
+        "公会"
+      ],
+      "variant_clusters": []
+    }
+  ],
+  "relation_types": [
+    {
+      "type": "has_genre",
+      "label": "属于类型",
+      "direction": "directed"
+    },
+    {
+      "type": "has_mechanic",
+      "label": "包含机制",
+      "direction": "directed"
+    },
+    {
+      "type": "on_platform",
+      "label": "发布于",
+      "direction": "directed"
+    },
+    {
+      "type": "developed_by",
+      "label": "由开发",
+      "direction": "directed"
+    },
+    {
+      "type": "inspired_by",
+      "label": "启发自",
+      "direction": "directed"
+    },
+    {
+      "type": "same_genre",
+      "label": "同类型",
+      "direction": "undirected"
+    },
+    {
+      "type": "hybrid_of",
+      "label": "融合",
+      "direction": "undirected"
+    },
+    {
+      "type": "shares_mechanic",
+      "label": "共享机制",
+      "direction": "undirected"
+    }
+  ],
+  "structure_patterns": [
+    {
+      "pattern": "玩法规则 > 核心循环 > 核心机制 > 为什么好玩 > 粘性来源 > Meta系统 > 实现难度 > 来源",
+      "count": 178
+    },
+    {
+      "pattern": "玩法规则 > 核心循环 > 核心机制 > 为什么好玩 > 粘性来源 > Meta系统 > 来源",
+      "count": 7
+    },
+    {
+      "pattern": "玩法规则 > 游戏画面 > 核心操作 > 操作效果 > 游戏目标 > 游戏结束 > 核心循环 > 核心机制 > 为什么好玩 > 粘性来源 > Meta系统 > 实现难度 > 来源",
+      "count": 3
+    },
+    {
+      "pattern": "玩法规则 > 核心循环 > 核心机制 > 为什么好玩 > 粘性来源 > Meta系统 > 实现难度 > 变体设计 > 来源",
+      "count": 1
+    },
+    {
+      "pattern": "玩法规则 > 核心循环 > 核心机制 > 数值成长曲线 > 自动化策略 > 里程碑与成就系统 > 为什么好玩 > 粘性来源 > Meta系统 > 实现难度 > 来源",
+      "count": 1
+    },
+    {
+      "pattern": "玩法规则 > 核心循环 > 核心机制 > 为什么好玩 > 粘性来源 > 游戏详细分析 > 玩法规则 > 视觉与音效 > 玩家体验 > 适用人群 > 游戏时长 > Meta系统 > 实现难度 > 来源",
+      "count": 1
+    },
+    {
+      "pattern": "玩法规则 > 画面与UI > 操作方式 > 游戏目标 > 过关/结束条件 > 核心循环 > 核心机制 > 为什么好玩 > 粘性来源 > Meta系统 > 实现难度 > 来源",
+      "count": 1
+    },
+    {
+      "pattern": "玩法规则 > 核心循环 > 核心机制 > 资源管理系统 > 建造与防御 > 探索与发现 > 为什么好玩 > 粘性来源 > Meta系统 > 实现难度 > 来源",
+      "count": 1
+    },
+    {
+      "pattern": "玩法规则 > 核心循环 > 核心机制 > 为什么好玩 > 粘性来源 > Meta系统 > 实现难度 > 适合人群 > 同类游戏对比 > 来源",
+      "count": 1
+    },
+    {
+      "pattern": "玩法规则 > 核心循环 > 核心机制 > 为什么好玩 > 粘性来源 > Meta系统 > 实现难度 > 实现难度 > 来源",
+      "count": 1
+    }
+  ],
+  "term_variants": [
+    {
+      "canonical": "Arcade",
+      "variants": [
+        "ProgressBar95 - retro arcade"
+      ]
+    },
+    {
+      "canonical": "休闲",
+      "variants": [
+        "休闲合集",
+        "休闲放松",
+        "休闲益智",
+        "超休闲",
+        "超大型休闲游戏合集",
+        "休闲竞速",
+        "合并休闲",
+        "超休闲射击",
+        "ASMR休闲",
+        "超休闲时机判断"
+      ]
+    },
+    {
+      "canonical": "Mobile (iOS)",
+      "variants": [
+        "Mobile (iOS",
+        "Mobile",
+        "iOS",
+        "IO"
+      ]
+    },
+    {
+      "canonical": "动作",
+      "variants": [
+        "动作射击",
+        "动作冒险",
+        "街机清版动作",
+        "动作Roguelike",
+        "横版动作",
+        "射击动作"
+      ]
+    },
+    {
+      "canonical": "冒险",
+      "variants": [
+        "点击冒险",
+        "琼的旅程：寻物冒险（June's Journey: Hidden Objects）",
+        "冒险解谜",
+        "解谜冒险"
+      ]
+    },
+    {
+      "canonical": "平台跳跃",
+      "variants": [
+        "平台",
+        "多种道具类型：平台、弹跳板、传送门等各有功能",
+        "多平台复刻",
+        "**横版卷轴**：经典横版平台跳跃玩法",
+        "主机全平台"
+      ]
+    },
+    {
+      "canonical": "解谜",
+      "variants": [
+        "道具放置解谜：有限道具下设计可行路径",
+        "益智解谜",
+        "物理解谜",
+        "寻物解谜",
+        "瓷砖解谜",
+        "合并解谜",
+        "三消解谜",
+        "物理益智解谜",
+        "卸下螺栓：螺丝解谜（Take Off Bolts: Screw Puzzle）",
+        "螺丝解谜",
+        "文字解谜",
+        "潜行解谜",
+        "路径规划解谜",
+        "逻辑连接解谜",
+        "排序解谜",
+        "无计时解谜",
+        "解谜元素",
+        "解谜逃脱",
+        "视觉解谜"
+      ]
+    },
+    {
+      "canonical": "Mobile (iOS+Android)",
+      "variants": [
+        "Android)",
+        "Mobile (iOS + Android)",
+        "Android"
+      ]
+    },
+    {
+      "canonical": "益智",
+      "variants": [
+        "物理益智"
+      ]
+    },
+    {
+      "canonical": "物理",
+      "variants": [
+        "物理模拟：角色移动受重力和物理规则影响",
+        "模拟"
+      ]
+    },
+    {
+      "canonical": "PC",
+      "variants": [
+        "Lux DLX 3 - Map Conquest Game"
+      ]
+    },
+    {
+      "canonical": "策略",
+      "variants": [
+        "策略棋盘",
+        "棋盘"
+      ]
+    },
+    {
+      "canonical": "Small World - The Board Game",
+      "variants": [
+        "Board"
+      ]
+    },
+    {
+      "canonical": "街机",
+      "variants": [
+        "街机驾驶"
+      ]
+    },
+    {
+      "canonical": "Block Away - Tap Out Puzzle",
+      "variants": [
+        "Puzzle",
+        "Super Jigsaw - HD Puzzle Games",
+        "Block Blitz: Skillz Puzzle Win（Block Blitz: Skillz Puzzle Win）",
+        "Secret Puzzle Society",
+        "Tile Block Jam（Tile Block Jam - Puzzle Game）",
+        "Merge Block - Number Puzzle",
+        "Find them all - Hidden Puzzle",
+        "Puzzle to the Center of Earth",
+        "Shape Escape: Block Puzzle",
+        "Merge Inn - Tasty Match Puzzle",
+        "High Rise - A Puzzle Cityscape",
+        "Infinity Loop: Relaxing Puzzle",
+        "Bubble Shooter Classic（Bubble Shooter Classic Puzzle）",
+        "Traffic Puzzle: Car Jam Escape",
+        "Block Jam Out: No Timer Puzzle",
+        "Hidden Objects: Puzzle Games",
+        "无限循环：放松谜题（Infinity Loop: Relaxing Puzzle）",
+        "隐藏寻物大挑战（Find them all - Hidden Puzzle）",
+        "15 Puzzle Challenge.",
+        "Block Jam Out（Block Jam Out: No Timer Puzzle）",
+        "Prison Escape Puzzle Adventure",
+        "Jigsaw Puzzle Art: Relax Book"
+      ]
+    },
+    {
+      "canonical": "合并消除",
+      "variants": [
+        "合并"
+      ]
+    },
+    {
+      "canonical": "扑克牌Roguelike，用各种Joker牌组建高分牌组（Balatro）",
+      "variants": [
+        "Balatro"
+      ]
+    },
+    {
+      "canonical": "基础玩法：根据游戏类型提供核心交互方式",
+      "variants": [
+        "游戏",
+        "增量游戏",
+        "**短局设计**：每局游戏时长可控，适合碎片化时间游玩",
+        "基于游戏类型的核心机制",
+        "**关卡/进度系统**: 通过游戏进程逐步解锁新内容",
+        "**奖励反馈**: 完成游戏目标后获得视觉和数值反馈",
+        "关卡/模式系统：提供多样化的游戏内容",
+        "进度系统：保存游戏进度，允许随时继续",
+        "**排行榜**:  各小游戏设有排行榜，激发竞争心理",
+        "双人离线游戏（2 Player Games : Offline Games）",
+        "**核心操作**：通过触控进行游戏交互，操作简单直观。",
+        "积分排行榜：各小游戏的得分汇总为总排名，激发竞争欲",
+        "小岛建造：合并游戏（Island Building : Merge Games）"
+      ]
+    },
+    {
+      "canonical": "Baseball",
+      "variants": [
+        "Baseball Superstars 2013"
+      ]
+    },
+    {
+      "canonical": "Adventure",
+      "variants": [
+        "eBoo Space Adventures"
+      ]
+    },
+    {
+      "canonical": "RPG",
+      "variants": [
+        "像素 RPG",
+        "肉鸽RPG",
+        "Stick RPG（Stick RPG）",
+        "策略RPG",
+        "弹射 RPG",
+        "Rogue with the Dead: Idle RPG"
+      ]
+    },
+    {
+      "canonical": "放置点击",
+      "variants": [
+        "放置",
+        "点击"
+      ]
+    },
+    {
+      "canonical": "Roguelike",
+      "variants": [
+        "回家之路（The Way Home: Pixel Roguelike）",
+        "Roguelike 地牢探索",
+        "Roguelike随机性：每局Joker和牌出现随机",
+        "The Way Home: Pixel Roguelike"
+      ]
+    },
+    {
+      "canonical": "**战术部署**: 在战场上布置单位和防御工事",
+      "variants": [
+        "战术"
+      ]
+    },
+    {
+      "canonical": "Switch",
+      "variants": [
+        "Nintendo Switch"
+      ]
+    },
+    {
+      "canonical": "PlayStation",
+      "variants": [
+        "PlayStation Portable"
+      ]
+    },
+    {
+      "canonical": "Xbox",
+      "variants": [
+        "Xbox Live Arcade"
+      ]
+    },
+    {
+      "canonical": "体育竞技",
+      "variants": [
+        "体育"
+      ]
+    },
+    {
+      "canonical": "**多环境**：不同关卡有不同风格的保龄球道和环境",
+      "variants": [
+        "保龄球"
+      ]
+    },
+    {
+      "canonical": "迷宫追逐",
+      "variants": [
+        "迷宫"
+      ]
+    },
+    {
+      "canonical": "跑酷",
+      "variants": [
+        "街机跑酷",
+        "**跑酷操作**：跳跃/滑铲的时机判断，考验反应速度"
+      ]
+    },
+    {
+      "canonical": "卡牌",
+      "variants": [
+        "卡牌构建",
+        "卡牌对战",
+        "Joker系统：独特效果的可叠加卡牌"
+      ]
+    },
+    {
+      "canonical": "Nintendo 3DS",
+      "variants": [
+        "Nintendo DS"
+      ]
+    },
+    {
+      "canonical": "Hidden Object",
+      "variants": [
+        "Find Journey：Hidden Objects"
+      ]
+    },
+    {
+      "canonical": "派对",
+      "variants": [
+        "**派对模式**：支持多人组队游玩"
+      ]
+    },
+    {
+      "canonical": "Games",
+      "variants": [
+        "CrazyGames: Play 1500+ Games",
+        "CrazyGames: Play 1500+ Games（CrazyGames: Play 1500+ Games）"
+      ]
+    },
+    {
+      "canonical": "成长系统：通过收集或击败对手变强",
+      "variants": [
+        "收集",
+        "**现金收集**：在关卡中收集尽可能多的现金",
+        "收集要素",
+        "照片收集",
+        "**收集系统**：照片图鉴收集，记录发现的各种场景和事件"
+      ]
+    },
+    {
+      "canonical": "生存",
+      "variants": [
+        "多人生存",
+        "生存创造",
+        "弹幕生存"
+      ]
+    },
+    {
+      "canonical": "建造",
+      "variants": [
+        "海上建造",
+        "放置建造"
+      ]
+    },
+    {
+      "canonical": "action",
+      "variants": [
+        "Squad Alpha - Action Shooting",
+        "Action"
+      ]
+    },
+    {
+      "canonical": "隐藏物品寻物",
+      "variants": [
+        "隐藏物品"
+      ]
+    },
+    {
+      "canonical": "弹球",
+      "variants": [
+        "物理反弹：墙壁反弹增加策略深度——可以故意反弹球改变路线"
+      ]
+    },
+    {
+      "canonical": "Sneak Out 3D",
+      "variants": [
+        "悄悄溜走3D（Sneak Out 3D）"
+      ]
+    },
+    {
+      "canonical": "Web",
+      "variants": [
+        "Web (Flash)",
+        "Web (HTML5)",
+        "Web (Flash",
+        "Web（浏览器）",
+        "Web (浏览器)"
+      ]
+    },
+    {
+      "canonical": "赛车",
+      "variants": [
+        "僵尸赛车2（Zombie Derby 2）",
+        "Head2Head 3D赛车（Head2Head 3D Racing）"
+      ]
+    },
+    {
+      "canonical": "评分系统",
+      "variants": [
+        "**评分系统**: 平均评分4.19817（656次评价）"
+      ]
+    },
+    {
+      "canonical": "Tycoon",
+      "variants": [
+        "Airport BillionAir Idle Tycoon"
+      ]
+    },
+    {
+      "canonical": "**当前版本**: 6.8.6",
+      "variants": [
+        "**当前版本**: 2.8.1"
+      ]
+    },
+    {
+      "canonical": "**回合制4X循环**: 探索→扩张→开发→征服的经典循环",
+      "variants": [
+        "4X"
+      ]
+    },
+    {
+      "canonical": "物理弹射",
+      "variants": [
+        "弹射"
+      ]
+    },
+    {
+      "canonical": "Mac",
+      "variants": [
+        "机械迷城（Machinarium）",
+        "Mac)"
+      ]
+    },
+    {
+      "canonical": "PC (Linux",
+      "variants": [
+        "Linux"
+      ]
+    },
+    {
+      "canonical": "Soccer",
+      "variants": [
+        "Mini Soccer Star 2026"
+      ]
+    }
+  ]
+}

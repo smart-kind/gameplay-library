@@ -1,0 +1,74 @@
+---
+title: Super Mega Mini Party
+original_filename: SuperMegaMiniParty_20260825_1408
+date: 2026-08-25
+time: 14:08
+source: gameplay-library
+---
+
+# Super Mega Mini Party（Games）
+
+- **类型**: Games
+- **平台**: Mobile (iOS)
+- **开发商**: RED GAMES CO, LLC
+- **首次发布**: 2019
+- **一句话描述**: Compete with players from around the world in hyper casual competitive mini-games or throw a Super Mega Mini Party with 
+
+## 玩法规则
+
+Compete with players from around the world in hyper casual competitive mini-games or throw a Super Mega Mini Party with friends!  - 20 challenging multiplayer mini-games. - Perfect your skills and ear
+
+**画面与UI布局**：
+- 主界面为游戏选择大厅，展示可选的多个小游戏
+- 支持选择参与人数（2-4人）和游戏模式
+- 每个小游戏有独立的规则说明
+- 游戏过程中屏幕分为多个触控区域
+
+**操作方式**：
+- 多名玩家在同一台设备上对战
+- 每人使用屏幕的一部分作为触控区域
+- 单指操作：点击、滑动、长按、拖拽
+
+**游戏目标**：
+- 每款小游戏有独立的胜利条件
+- 多轮累计总分最高者获胜
+- 淘汰制模式每轮淘汰最后一名
+
+**游戏结束条件**：
+- 完成预设轮数 → 显示最终排名
+- 淘汰制只剩一人 → 获胜
+
+## 核心循环
+
+选择小游戏 → 多人同屏对战 → 获得本轮积分 → 轮换下一个小游戏 → 累计总分排名 → 不服输再来一局
+
+## 核心机制
+
+- **随机游戏轮换**：每轮随机选择小游戏，保持不可预测性和新鲜感
+- **本地多人同屏**：2-4人在同一设备对战，物理距离的亲近感增强社交互动
+- **单指极简操作**：所有小游戏只需一根手指，确保任何年龄/经验玩家都能参与
+- **即时排名反馈**：每局后立即显示排名，激发竞争欲和'再来一局'冲动
+
+## 为什么好玩
+
+社交互动是最大乐趣——和朋友面对面一起玩的欢声笑语是单机游戏无法提供的。多种小游戏轮换确保不会单调，操作简单意味着任何人都能参与，不需要教程不需要练习，打开就能玩。
+
+## 粘性来源
+
+- **社交竞争**：面对面战是最强粘性来源，竞争本能和'不服输'心理
+- **随机性**：小游戏轮换的不确定性，'下一把玩什么'的好奇心
+- **碎片化体验**：每局几分钟，随时可开始结束，'再玩一把'门槛极低
+
+## Meta 系统
+
+- **成就系统**：完成特定小游戏或排名解锁成就
+- **游戏解锁**：游玩积累逐步解锁新小游戏
+- **统计面板**：记录历史胜率、最佳成绩
+
+## 实现难度
+
+中 — 单个小游戏实现不难（几百行代码），但需设计大量不同玩法（通常20-50款），工作量在内容量非技术难度。本地多人输入处理（多触控区域独立识别、误触过滤）需额外关注。
+
+## 来源
+
+- 抓取 URL: https://apps.apple.com/us/app/super-mega-mini-party/id1465985511?uo=4

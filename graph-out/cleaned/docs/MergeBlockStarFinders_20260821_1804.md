@@ -1,0 +1,63 @@
+---
+title: Merge Block Star Finders
+original_filename: MergeBlockStarFinders_20260821_1804
+date: 2026-08-21
+time: 18:04
+source: gameplay-library
+---
+
+# Merge Block: Star Finders
+
+- **类型**: 合并消除
+- **平台**: Mobile (iOS+Android)
+- **开发商**: Puzzle1Studio,inc.
+- **首次发布**: 2019
+- **版本号**: 2606.0.4
+- **一句话描述**: Merge the Number blocks to score high!
+
+## 玩法规则
+
+Merge the Number blocks to score high!
+Add even more excitement to the puzzle game by enabling the block to remove with stars!
+Merge Block: Star Finder is a simple, classic puzzle game that can be enjoyed by everyone in the family!
+
+HOW TO PLAY
+1. Just drag the block onto another one with the same n
+
+游戏画面简洁直观，主界面通常展示当前关卡或等级信息，以及核心游戏区域。玩家通过触摸屏幕进行直接操作：
+- **点击/拖拽**：根据具体机制，玩家点击或拖拽游戏元素（如字母方块、物理球体、合并方块等）来完成目标
+- **滑动**：部分操作支持滑动来调整位置或方向
+- **长按**：某些场景下长按触发特殊效果或预览
+
+游戏目标是在有限的操作次数或时间内，完成当前关卡的挑战。随着关卡推进，难度逐步提升，引入新的元素和限制条件。过关条件通常包括清除特定目标、达到分数阈值或在步数耗尽前完成布局。
+
+## 核心循环
+
+操作消除/合并 → 获得分数/能量 → 解锁新关卡或升级道具 → 继续挑战更高难度
+
+## 核心机制
+
+- **核心消除/合并机制**：合并消除玩法的核心是识别可操作元素并执行操作。玩家需要判断哪些元素可以组合、消除或合并，产生连锁反应。这种判断过程带来持续的认知挑战。
+- **关卡进度系统**：游戏采用关卡制推进，每个关卡有独特布局和条件。失败后可无限重试，降低挫败感。
+- **连击/连锁反馈**：连续成功操作触发视觉和分数奖励，强化"再来一次"的冲动。
+- **有限步数/时间约束**：每关有操作上限，迫使玩家在"快速行动"和"谨慎规划"之间做取舍。
+
+## 为什么好玩
+
+Merge Block: Star Finders的核心吸引力在于"简单上手、难以精通"的设计哲学。每次操作都产生即时视觉反馈，连击效果带来爽感。关卡设计的渐进难度曲线让玩家持续感受到"差一点就过关"的张力，驱动反复尝试。
+
+## 粘性来源
+
+粘性来自三个机制层面：(1) **即时反馈**——每次操作都有视觉/音效响应，多巴胺循环紧密；(2) **进度驱动**——关卡编号和星级评价构成明确的成长轨迹；(3) **随机性+技能混合**——部分运气元素让失败归因于"差点就好"而非"我不行"，降低放弃率。
+
+## Meta 系统
+
+外围成长系统：部分版本包含每日任务、成就系统和排行榜。玩家通过完成日常挑战获得奖励，排行榜提供社交竞争维度。这些外围系统不影响核心玩法，但增加了长期参与的动力。
+
+## 实现难度
+
+低 — 需要处理物理引擎和碰撞检测，或复杂的合并逻辑。最大难点在于合并规则的边界条件和动画流畅度
+
+## 来源
+
+- iTunes API: https://apps.apple.com/us/app/merge-block-star-finders/id1477796104?uo=4

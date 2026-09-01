@@ -1,0 +1,73 @@
+---
+title: Realm Craftminecraftworld
+original_filename: RealmCraftminecraftworld_20260824_0000
+date: 2026-08-24
+time: 00:00
+source: gameplay-library
+---
+
+# RealmCraft: mine & craft world
+
+- **类型**: 生存建造 / 沙盒
+- **平台**: Mobile (iOS)
+- **开发商**: Tellurion Mobile
+- **首次发布**: 2016
+- **一句话描述**: Welcome to RealmCraft Free Block Building and Survival Game. Explore cube worlds, fight with aggressive…
+
+## 玩法规则
+
+Welcome to RealmCraft Free Block Building and Survival Game. 
+Explore cube worlds, fight with aggressive mobs, destroy caves and build.
+
+Features of RealmCraft Game
+~ Fascinating open block world in which everything consists of 3D cubes.
+
+~ Worlds creating. Destroy blocks and cubes, collect blocks, build blocks, move them as you like and create your own cube world; 
+Cut wood, break stones, mine blocks and create out of them building and worlds of your dreams!
+
+~ Blocks crafting. RealmCraft game 
+
+游戏的核心操作围绕屏幕触控展开：
+
+1. **观察阶段**：玩家进入关卡后，首先需要观察整体布局。游戏会呈现一个包含各种元素的场景，包括可交互的对象、障碍物和目标区域。玩家需要理解当前关卡的结构和可用资源。
+
+2. **操作阶段**：根据游戏类型，玩家通过点击、拖拽或滑动来执行操作。在消除类游戏中，玩家点击匹配相同类型的方块来清除它们；在寻物游戏中，玩家需要在复杂场景中找出隐藏的物品；在生存建造类游戏中，玩家需要收集资源、建造设施并管理生存指标。
+
+3. **反馈阶段**：每次操作后，游戏会给予即时视觉和音效反馈。成功的操作会清除方块、获得分数或推进进度；失败的操作可能导致游戏结束或资源浪费。
+
+4. **目标达成**：每个关卡都有明确的通关条件——可能是达到目标分数、清除特定数量的方块、在限定时间内完成任务，或存活到特定阶段。达成目标后解锁新关卡或获得奖励。
+
+## 核心循环
+
+观察局面 → 执行操作消除/收集 → 获得分数/资源 → 解锁新关卡/升级能力
+
+## 核心机制
+
+- **关卡递进机制**：游戏采用循序渐进的难度设计，每个新关卡引入新的元素或挑战。初期关卡用于教学，让玩家熟悉基本操作；中期开始加入时间限制、特殊障碍或组合目标；后期关卡需要玩家综合运用多种策略才能通关。
+- **即时反馈机制**：每次操作都伴随视觉特效（方块碎裂动画、分数弹出、连击提示）和音效，给玩家强烈的成就感和操作确认感。连续成功操作会触发连击加成，分数倍增。
+- **资源管理/道具系统**：游戏中可能包含各种道具（炸弹、重置、提示等），帮助玩家在困难关卡中突破。道具的获取和使用时机是策略的重要部分。
+
+## 为什么好玩
+
+游戏的吸引力来自于操作的即时爽感——无论是消除方块时的碎裂动画，还是发现隐藏物品时的"找到了"的惊喜感，都提供了明确的正向反馈。关卡设计的循序渐进让玩家始终保持"再试一次"的冲动。
+
+## 粘性来源
+
+- **关卡推进欲**：每个关卡都是新的挑战，玩家想知道下一个关卡是什么样子
+- **分数/排名驱动**：如果能超越自己的最高分或朋友的分数，会激发重复游玩的动力
+- **"差一点就通关"效应**：在即将成功时失败，会让人产生强烈的再来一次的欲望
+
+## Meta 系统
+
+外围成长系统因具体游戏而异：
+- 消除类：通过关卡获得星星，解锁新区域或特殊能力
+- 寻物类：收集物品解锁新场景和剧情
+- 生存类：资源积累用于升级工具和建筑
+
+## 实现难度
+
+低-中 + 核心玩法（消除/寻物/建造）逻辑清晰，最大技术难点在于关卡设计的平衡性和内容的持续更新
+
+## 来源
+
+- https://apps.apple.com/us/app/realmcraft-mine-craft-world/id1102415991?uo=4

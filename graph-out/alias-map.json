@@ -1,0 +1,4689 @@
+{
+  "game:2048_2048": [
+    "2048"
+  ],
+  "game:2_3_4_player_games_2_3_4_player_games": [
+    "2 3 4 Player Games"
+  ],
+  "game:agent_twist_agent_twist": [
+    "Agent Twist"
+  ],
+  "game:angry_birds_friends_愤怒的小鸟_好友": [
+    "Angry Birds Friends"
+  ],
+  "game:apparatus_apparatus": [
+    "Apparatus"
+  ],
+  "game:apple_games_apple_games": [
+    "Apple Games"
+  ],
+  "game:攻击洞洞_attack_hole": [
+    "Attack Hole"
+  ],
+  "game:扑克牌roguelike_用各种joker牌组建高分牌组_balatro": [
+    "Balatro"
+  ],
+  "game:bejeweled_bejeweled": [
+    "Bejeweled"
+  ],
+  "game:大时间游戏_big_time_games": [
+    "Big Time Games",
+    "大时代游戏（Big Time Games）",
+    "大时光游戏合集（Big Time Games）"
+  ],
+  "game:bix_挑战_bix_challenge": [
+    "Bix Challenge"
+  ],
+  "game:block_blast_方块爆破": [
+    "Block Blast"
+  ],
+  "game:brickzors_brickzors": [
+    "Brickzors"
+  ],
+  "game:bubble_shooter_classic_bubble_shooter_classic_puzzle": [
+    "Bubble Shooter Classic Puzzle",
+    "Bubble Shooter"
+  ],
+  "game:汉堡猫_burger_cat_cat_burger_simulator": [
+    "Burger Cat"
+  ],
+  "game:经典三消游戏_匹配糖果完成关卡目标_candy_crush_saga": [
+    "Candy Crush Saga"
+  ],
+  "game:car_match_traffic_puzzle_car_match_traffic_puzzle": [
+    "Car Match - Traffic Puzzle"
+  ],
+  "game:castle_crafter_survival_craft_castle_crafter_survival_craft": [
+    "Castle Crafter Survival Craft"
+  ],
+  "game:部落冲突_皇室战争_clash_royale": [
+    "Clash Royale"
+  ],
+  "game:color_slide_hexa_puzzle_color_slide_hexa_puzzle": [
+    "Color Slide - Hexa Puzzle"
+  ],
+  "game:critter_crunch_iphone": [
+    "Critter Crunch"
+  ],
+  "game:龙之焰_dragon_fire": [
+    "Dragon Fire"
+  ],
+  "game:杜卡迪摩托_ducati_moto": [
+    "Ducati Moto"
+  ],
+  "game:dude_perfect_dude_perfect": [
+    "Dude Perfect"
+  ],
+  "game:伊洛纳移动版_elona_mobile": [
+    "Elona Mobile"
+  ],
+  "game:史诗点击者_epic_clickers": [
+    "Epic Clickers",
+    "史诗点击（Epic Clickers）"
+  ],
+  "game:小游戏合集_游戏创作平台_fancade": [
+    "Fancade"
+  ],
+  "game:farty_pants_farty_pants": [
+    "Farty Pants"
+  ],
+  "game:fmx_iv_pro_fmx_iv_pro": [
+    "Fmx Iv Pro"
+  ],
+  "game:前线塔防_frontier_tower_defense": [
+    "Frontier Tower Defense"
+  ],
+  "game:游戏开发物语_game_dev_story": [
+    "Game Dev Story"
+  ],
+  "game:gear_jack_gear_jack": [
+    "Gear Jack"
+  ],
+  "game:genshin_impact_原神": [
+    "Genshin Impact"
+  ],
+  "game:吉度斯_guidus": [
+    "Guidus"
+  ],
+  "game:gun_sprint_枪械冲刺": [
+    "Gun Sprint",
+    "Gun Sprint (枪弹冲刺)"
+  ],
+  "game:hades_黑帝斯": [
+    "Hades"
+  ],
+  "game:hambo_hambo": [
+    "Hambo"
+  ],
+  "game:helix_jump_helix_jump": [
+    "Helix Jump"
+  ],
+  "game:hertz_smasher_hertz_smasher": [
+    "Hertz Smasher"
+  ],
+  "game:hyper_arrow_超级箭头": [
+    "Hyper Arrow"
+  ],
+  "game:hyperball_超级球": [
+    "Hyperball"
+  ],
+  "game:idle_miner_tycoon_idle_miner_tycoon": [
+    "Idle Miner Tycoon"
+  ],
+  "game:星球矿工_放置_idle_planet_miner": [
+    "Idle Planet Miner"
+  ],
+  "game:idle_universe_idle_universe": [
+    "Idle Universe"
+  ],
+  "game:ionocraft_racing_ionocraft_racing": [
+    "Ionocraft Racing"
+  ],
+  "game:kale_in_dinoland_kale_in_dinoland": [
+    "Kale In Dinoland"
+  ],
+  "game:kenny_vs_spenny_kenny_vs_spenny": [
+    "Kenny vs Spenny"
+  ],
+  "game:王国保卫战_kingdom_rush_tower_defense_td": [
+    "Kingdom Rush Tower Defense TD"
+  ],
+  "game:kingdom_rush_kingdom_rush": [
+    "Kingdom Rush"
+  ],
+  "game:地狱边境_limbo": [
+    "Limbo"
+  ],
+  "game:log_thrower_log_thrower": [
+    "Log Thrower"
+  ],
+  "game:lumino_city_光影之城": [
+    "Lumino City"
+  ],
+  "game:消除大师_match_masters": [
+    "Match Masters"
+  ],
+  "game:match_triple_ball_match_triple_ball": [
+    "Match Triple Ball"
+  ],
+  "game:mega_bloks_builder_mega_bloks_builder": [
+    "Mega Bloks Builder"
+  ],
+  "game:合并市长_merge_mayor": [
+    "Merge Mayor"
+  ],
+  "game:merge_plus_games": [
+    "Merge Plus"
+  ],
+  "game:merge_x3_games": [
+    "Merge X3"
+  ],
+  "game:mini_metro_mini_metro": [
+    "Mini Metro"
+  ],
+  "game:迷你赛车_mini_motor_racing": [
+    "Mini Motor Racing"
+  ],
+  "game:my_little_city_my_little_city": [
+    "My Little City"
+  ],
+  "game:orbital_defender_orbital_defender": [
+    "Orbital Defender",
+    "Orbital"
+  ],
+  "game:party_fowl_派对闯关_party_fowl": [
+    "Party Fowl"
+  ],
+  "game:playbite_mobile_arcade_playbite_mobile_arcade": [
+    "Playbite - Mobile Arcade"
+  ],
+  "game:推挤大师_push_master": [
+    "Push Master"
+  ],
+  "game:quell_reflect_quell_reflect": [
+    "Quell Reflect"
+  ],
+  "game:三消_城堡装修_帮助国王robert装修城堡_royal_match": [
+    "Royal Match"
+  ],
+  "game:siege_hero_siege_hero": [
+    "Siege Hero"
+  ],
+  "game:slay_the_spire_杀戮尖塔": [
+    "Slay the Spire"
+  ],
+  "game:speedthru_potzols_puzzle_speedthru_potzols_puzzle": [
+    "Speedthru Potzols Puzzle"
+  ],
+  "game:拼字魔法_spellwood": [
+    "Spellwood"
+  ],
+  "game:极速逃脱_sprint_escape": [
+    "Sprint Escape"
+  ],
+  "game:stardew_valley_stardew_valley": [
+    "Stardew Valley"
+  ],
+  "game:风暴对决_stormbound": [
+    "Stormbound"
+  ],
+  "game:移动端糖豆人_多人闯关淘汰赛_stumble_guys": [
+    "Stumble Guys"
+  ],
+  "game:经典无尽跑酷游戏_在铁轨上躲避警察和障碍_subway_surfers": [
+    "Subway Surfers"
+  ],
+  "game:超级迷你派对_super_mega_mini_party": [
+    "Super Mega Mini Party",
+    "超级大型迷你派对（Super Mega Mini Party）"
+  ],
+  "game:泰拉瑞亚_terraria": [
+    "Terraria"
+  ],
+  "game:多托邦之战_the_battle_of_polytopia": [
+    "The Battle of Polytopia"
+  ],
+  "game:the_great_jitters_pudding_panic_the_great_jitters_pudding_panic": [
+    "The Great Jitters Pudding Panic"
+  ],
+  "game:tile_match_triple_puzzle_game_tile_match_triple_puzzle_game": [
+    "Tile Match -Triple puzzle game"
+  ],
+  "game:tomb_of_the_mask_面具之墓": [
+    "Tomb of the Mask"
+  ],
+  "game:交通转向_traffic_turn": [
+    "Traffic Turn"
+  ],
+  "game:traffic_wonder_hd_traffic_wonder_hd": [
+    "Traffic Wonder HD"
+  ],
+  "game:触发英雄_trigger_heroes": [
+    "Trigger Heroes"
+  ],
+  "game:twingo_twingo": [
+    "Twingo"
+  ],
+  "game:twist_pilot_twist_pilot": [
+    "Twist Pilot"
+  ],
+  "game:反向弹幕射击_自动攻击_走位躲避海量敌人_vampire_survivors": [
+    "Vampire Survivors"
+  ],
+  "game:wavelength_波长猜测_wavelength": [
+    "Wavelength"
+  ],
+  "game:woody_battle_block_puzzle_dual_woody_battle_block_puzzle_dual": [
+    "Woody Battle Block Puzzle Dual"
+  ],
+  "game:射击消除游戏_用彩球消除轨道上的球链_zuma": [
+    "Zuma"
+  ],
+  "game:微光_hyperlight": [
+    "Hyperlight"
+  ],
+  "game:简易物理_simplephysics": [
+    "SimplePhysics"
+  ],
+  "game:纪念碑谷3_monument_valley_3": [
+    "纪念碑谷 3（Monument Valley 3）"
+  ],
+  "game:playgama游戏平台_playgama_play_2_000_games": [
+    "Playgama 游戏平台（Playgama: Play 2,000+ Games）"
+  ],
+  "game:潜行逃脱3d_sneak_out_3d": [
+    "潜行逃脱 3D（Sneak Out 3D）"
+  ],
+  "game:toptop游戏派对_toptop_games_party": [
+    "TopTop 游戏派对（TopTop: Games & Party）",
+    "TopTop：游戏与派对（TopTop: Games & Party）"
+  ],
+  "mechanic:boss_战": [
+    "Boss战",
+    "Boss 战：阶段性目标",
+    "Boss战：每关末尾有Boss战斗",
+    "Boss 战：每关末尾有 Boss 战，Boss 有特殊攻击模式",
+    "Boss 战模式",
+    "Boss 战：高难度挑战",
+    "Boss 战模式切换",
+    "Boss战机制：每三关出现一个Boss，拥有独特攻击模式，需要躲避和反击",
+    "多区域Boss战",
+    "Boss战弹幕躲避",
+    "Boss 战：与标志性 TMNT 反派的高难度对决，需要模式识别",
+    "Boss战机制",
+    "阶段Boss战"
+  ],
+  "genre:放置_rpg": [
+    "放置RPG"
+  ],
+  "genre:io竞技": [
+    "io 竞技"
+  ],
+  "genre:策略rpg": [
+    "策略 RPG"
+  ],
+  "genre:动作_rpg": [
+    "动作RPG"
+  ],
+  "genre:回合制_rpg": [
+    "回合制RPG"
+  ],
+  "genre:地牢探索rpg": [
+    "地牢探索 RPG"
+  ],
+  "genre:动作roguelike": [
+    "动作 Roguelike"
+  ],
+  "genre:开放世界动作rpg": [
+    "开放世界动作 RPG"
+  ],
+  "dev:say_games": [
+    "SayGames"
+  ],
+  "dev:megacrit": [
+    "Mega Crit",
+    "MegaCrit (Balor Games 移动端移植)",
+    "Humble Bundle (原 MegaCrit)"
+  ],
+  "game:hyper_1v1竞技游戏_hyper_play_1v1_games_for_cash": [
+    "Hyper 1v1 竞技游戏（Hyper: Play 1v1 Games For Cash）",
+    "Hyper 1v1竞技平台（Hyper: Play 1v1 Games For Cash）"
+  ],
+  "game:cubic_多人游戏合集_cubic_2_3_4_player_games": [
+    "Cubic 多人小游戏合集（Cubic 2 3 4 Player Games）"
+  ],
+  "game:骰子合成_dice_merge_by_staple_games": [
+    "骰子合并（Dice Merge by Staple Games）",
+    "Dice Merge by Staple Games"
+  ],
+  "game:点击挖掘_tap_tap_dig_idle_clicker": [
+    "点点挖掘（Tap Tap Dig - Idle Clicker）"
+  ],
+  "game:拯救老奶奶_save_the_grandmother": [
+    "拯救奶奶（Save the grandmother）"
+  ],
+  "mechanic:pocket_gamer_给出了_8_10_的评测分数": [
+    "Pocket Gamer 给出了 6/10 的评测分数",
+    "Pocket Gamer 给出了 7/10 的评测分数",
+    "Pocket Gamer 给出了 9/10 的评测分数"
+  ],
+  "game:monkey_island_tales_4_hd_monkey_island_tales_4_hd": [
+    "Monkey Island Tales 5 HD（Monkey Island Tales 5 HD）"
+  ],
+  "game:火焰球3d_fire_balls_3d": [
+    "火球3D（Fire Balls 3D）",
+    "Fire Balls 3D"
+  ],
+  "game:放置宇宙_idle_universe": [
+    "闲置宇宙（Idle Universe）"
+  ],
+  "game:亡灵肉鸽_放置rpg_rogue_with_the_dead_idle_rpg": [
+    "亡者肉鸽 放置RPG（Rogue with the Dead: Idle RPG）"
+  ],
+  "mechanic:装备系统_不同武器和装甲改变战斗风格": [
+    "装备系统：不同武器和盔甲改变战斗风格",
+    "装备系统"
+  ],
+  "game:双人离线游戏_2_player_games_offline_games": [
+    "双人离线游戏合集（2 Player Games : Offline Games）"
+  ],
+  "game:点击英雄_放置猎手_clicker_heroes_idle_slayer": [
+    "点击英雄 放置猎杀（Clicker Heroes - Idle Slayer）",
+    "点击英雄：放置杀手（Clicker Heroes - Idle Slayer）"
+  ],
+  "game:放置游戏1_idle_game_1": [
+    "放置游戏1号（Idle Game 1）"
+  ],
+  "game:放置猎人_idle_slayer_addictive_clicker": [
+    "放置猎杀者（Idle Slayer: Addictive Clicker）"
+  ],
+  "game:merge_plus_2_games": [
+    "Merge Plus（Games）"
+  ],
+  "dev:by_aliens_l_l_c_f_z": [
+    "By Aliens L.L.C-FZ"
+  ],
+  "dev:the_pok_mon_company": [
+    "The Pokemon Company"
+  ],
+  "game:星球进化_planet_evolution_idle_clicker": [
+    "行星进化（Planet Evolution: Idle Clicker）"
+  ],
+  "game:细菌征服_bacterial_takeover_idle_game": [
+    "细菌接管（Bacterial Takeover - Idle game）"
+  ],
+  "game:cubic_多人迷你游戏_cubic_2_3_4_player_games": [
+    "Cubic多人游戏（Cubic 2 3 4 Player Games）",
+    "Cubic 多人游戏合集（Cubic 2 3 4 Player Games）"
+  ],
+  "game:迷你游戏_平静放松_mini_games_calm_chill": [
+    "迷你游戏：放松（Mini Games: Calm & Chill）"
+  ],
+  "game:迷你游戏平静与放松_mini_games_calm_relax": [
+    "迷你游戏 - 平静放松（Mini Games: Calm & Relax）"
+  ],
+  "game:游戏创意方案_第一批_8个": [
+    "游戏创意方案 — 第二批（8个）"
+  ],
+  "dev:首次发布_2014": [
+    "- **首次发布**: 2013"
+  ],
+  "game:行星进化_放置点击_planet_evolution_idle_clicker": [
+    "星球进化 放置点击（Planet Evolution: Idle Clicker）"
+  ],
+  "game:playgama_play_2000_games_playgama_play_2000_games": [
+    "Playgama: Play 2,000+ Games (Playgama: Play 2,000+ Games)"
+  ],
+  "dev:dan_paladin_the_behemoth": [
+    "Dan Paladin（The Behemoth 成员）"
+  ],
+  "game:234人游戏_2_3_4_player_games": [
+    "234人游戏合集（2 3 4 Player Games）"
+  ],
+  "game:双人游戏_离线游戏_2_player_games_offline_games": [
+    "双人离线游戏（2 Player Games : Offline Games）"
+  ],
+  "mechanic:区域解锁_逐步探索新世界": [
+    "领域解锁：逐步探索新世界",
+    "区域解锁"
+  ],
+  "game:闲置杀手_idle_slayer_addictive_clicker": [
+    "放置猎人（Idle Slayer: Addictive Clicker）"
+  ],
+  "platform:nintendo_ds": [
+    "Nintendo 3DS",
+    "Nintendo DSi",
+    "DS"
+  ],
+  "platform:mobile_移植版": [
+    "Mobile (移植)"
+  ],
+  "game:迷你游戏_放松与冷静_mini_games_calm_chill": [
+    "迷你游戏：放松解压（Mini Games: Calm & Chill）"
+  ],
+  "game:彩棱碰碰_prism_pop_核心玩法逻辑": [
+    "彩棱碰碰 (Prism Pop) - 核心玩法总结",
+    "彩棱碰碰 (Prism Pop)"
+  ],
+  "game:2_3_4_player_games_games": [
+    "2 Player Games（Games）",
+    "Cubic 2 3 4 Player Games（Games）"
+  ],
+  "game:合并旅馆_merge_inn_tasty_match_puzzle": [
+    "合成客栈（Merge Inn - Tasty Match Puzzle）"
+  ],
+  "game:crazygames_crazygames_play_1500_games": [
+    "CrazyGames 游戏平台（CrazyGames: Play 1500+ Games）"
+  ],
+  "game:迷你高尔夫明星_竞技场对战_mini_golf_stars_arena_battle": [
+    "迷你高尔夫之星：竞技场（Mini Golf Stars: Arena Battle!）"
+  ],
+  "game:核心玩法设计": [
+    "策划文档：彩棱碰碰核心玩法设计"
+  ],
+  "game:prism_pop_彩棱碰碰_设计文档": [
+    "PRISM"
+  ],
+  "game:2_4_1_galaxian_galaga": [
+    "Galaxian",
+    "2-4-1 Stuntman Ignition & Juiced Eliminator",
+    "20Q Mind Reader",
+    "AMA Dress to Impress",
+    "AMA Love Test",
+    "AMA Pulling Power",
+    "AMA Truth or Dare",
+    "Aqua Driller",
+    "Aqua Forest",
+    "Cafe Hangman",
+    "Catan: The First Island",
+    "Command & Conquer",
+    "Curry in a Hurry",
+    "Disney's Pixar Selection",
+    "Don't Pull",
+    "Escape Hockey",
+    "James Bond: Top Agent",
+    "Jewel Quest II 3D",
+    "Julia Channel Exposed",
+    "Kula World",
+    "Magic Sword",
+    "Midnight Play Pack",
+    "Milk Empire 2",
+    "MiniLympics",
+    "My Bridezilla",
+    "Nell McAndrews Body Fitness",
+    "Pang 3",
+    "Peach Sexagon",
+    "Penthouse Slot Machine",
+    "Pokemon Ranger",
+    "Predator: The Duel",
+    "Sand Storm Revelation",
+    "Sex on the Floor",
+    "Shopping Madness",
+    "SonSon",
+    "SpongeBob SquarePants: Paparazzi Parade",
+    "Street Sk8er",
+    "Stress Attack",
+    "Tamagotchi Monster",
+    "The Club",
+    "The Escape",
+    "The Oregon Trail",
+    "The Weakest Link: Movies & TV",
+    "Treasure Arm",
+    "Vampire's Dawn: Battle Towers",
+    "Victoria's Dirty Amateurs",
+    "Wordoku"
+  ],
+  "game:2_3_4_player_party_mini_games": [
+    "多人派对小游戏合集（2 3 4 Player Party Mini Games）"
+  ],
+  "game:2_player_games_offline_games": [
+    "双人游戏：离线游戏（2 Player Games : Offline Games）",
+    "2 Player Games : Offline Games（2 Player Games : Offline Games）"
+  ],
+  "game:50_tiny_room_escape": [
+    "50个小房间逃脱（50 Tiny Room Escape）"
+  ],
+  "game:ac_dc弹珠台_ac_dc_pinball_rocks_hd": [
+    "Pinball Rocks HD"
+  ],
+  "game:agar_io": [
+    "Agar.io（Agar.io）"
+  ],
+  "game:alto_s_odyssey_the_lost_city": [
+    "Alto",
+    "阿尔托的奥德赛：失落的城市（Alto's Odyssey: The Lost City）"
+  ],
+  "game:arcane_arena_arcane_arena_tower_defense_td": [
+    "Arcane Arena: Tower Defense TD"
+  ],
+  "game:arc_the_lad_ii": [
+    "Arc the Lad II（Arc the Lad II）",
+    "Lock 'n' Load",
+    "Saving Private Sheep 2",
+    "Wrath of the Titans"
+  ],
+  "game:arkanoid_vs_space_invaders": [
+    "Space Invaders"
+  ],
+  "game:arrow_tap_out_escape_puzzle": [
+    "Arrow"
+  ],
+  "game:箭头迷宫逃脱_arrows_puzzle_escape_arrows_puzzle_escape": [
+    "Arrows"
+  ],
+  "game:auto_brawl_chess_battle_royale": [
+    "自动格斗象棋：大逃杀（Auto Brawl Chess: Battle Royale）"
+  ],
+  "game:bacterial_takeover_idle_game": [
+    "Bacterial Takeover - Idle Game（Bacterial Takeover）",
+    "细菌征服（Bacterial Takeover - Idle Game）",
+    "细菌占领 - 放置游戏（Bacterial Takeover - Idle game）",
+    "Bacterial Takeover",
+    "细菌大作战：放置游戏（Bacterial Takeover - Idle Game）"
+  ],
+  "game:bejeweled_stars_match_3_game": [
+    "宝石之星（Bejeweled Stars: Match 3 Game）"
+  ],
+  "game:blacksmith_merge_idle_rpg": [
+    "Blacksmith（Blacksmith - Merge Idle RPG）"
+  ],
+  "game:爆破合并_blast_to_merge": [
+    "Blast to Merge"
+  ],
+  "game:block_away_tap_out_puzzle": [
+    "Block Away - Tap Out Puzzle（Block Away - Tap Out Puzzle）",
+    "Block Away（Block Away - Tap Out Puzzle）",
+    "方块消除（Block Away）（Block Away - Tap Out Puzzle）"
+  ],
+  "game:方块闪电战_block_blitz_skillz_puzzle_win": [
+    "Block Blitz: Skillz Puzzle Win"
+  ],
+  "game:block_jam_3d_block_puzzle": [
+    "Block Jam - 3D Block Puzzle（Block Jam - 3D Block Puzzle）",
+    "Block Jam 3D（Block Jam - 3D Block Puzzle）",
+    "Block Jam - 3D Block Puzzle（方块堵塞3D）"
+  ],
+  "game:block_jam_out_no_timer_puzzle": [
+    "方块疏通：无计时器谜题（Block Jam Out: No Timer Puzzle）",
+    "Block Jam Out: No Timer Puzzle（Block Jam Out: No Timer Puzzle）",
+    "Block Jam Out（Block Jam Out: No Timer Puzzle）"
+  ],
+  "game:猴子塔防系列第六作_用猴子炮塔阻止气球前进_bloons_td_6": [
+    "Bloons"
+  ],
+  "game:boomit_most_likely": [
+    "Boomit 最可能投票（Boomit - Most Likely）"
+  ],
+  "game:brain_it_on_brain_it_on": [
+    "Brain It On!"
+  ],
+  "game:breaker_fun": [
+    "Containment: The Zombie Puzzler (Breaker Fun 2 - Zombie Games)"
+  ],
+  "game:brick_breaker_classic_2016_ultimate_revolution": [
+    "Brick Breaker"
+  ],
+  "game:bullet_rush": [
+    "Bullet Rush! (子弹冲刺)",
+    "Bullet Rush!（Bullet Rush!）",
+    "子弹冲刺（Bullet Rush!）"
+  ],
+  "game:bunch_is_miniparty": [
+    "Bunch 迷你派对（Bunch is MiniParty!）"
+  ],
+  "game:墨西哥卷饼野牛_自由发射_burrito_bison_launcha_libre": [
+    "Iso"
+  ],
+  "game:busted": [
+    "Busted!（Busted!）"
+  ],
+  "game:cell_hd": [
+    "细胞HD（Cell HD）"
+  ],
+  "game:cheers_party_games": [
+    "Cheers 派对游戏（Cheers - Party Games）"
+  ],
+  "game:chef_merge_fun_match_puzzle": [
+    "Chef Merge（Chef Merge - Fun Match Puzzle）",
+    "大厨合并（Chef Merge - Fun Match Puzzle）",
+    "Chef Merge - Fun Match Puzzle（Chef Merge）",
+    "Merge Inn - Tasty Match Puzzle"
+  ],
+  "game:chessplode_爆裂象棋": [
+    "Splode"
+  ],
+  "game:civcrafter": [
+    "CivCrafter（CivCrafter）",
+    "文明工匠（CivCrafter）"
+  ],
+  "game:clicker_heroes_idle_slayer": [
+    "点击英雄 - 放置猎手（Clicker Heroes - Idle Slayer）",
+    "点击英雄（Clicker Heroes - Idle Slayer）",
+    "Clicker Heroes",
+    "Idle Slayer"
+  ],
+  "game:clumsy_ninja": [
+    "Lums"
+  ],
+  "game:combat_of_giants_dinosaurs_3d": [
+    "巨人战斗：恐龙3D（Combat of Giants: Dinosaurs 3D）"
+  ],
+  "game:combos_games_friends": [
+    "Combos: Games & Friends（Combos: Games & Friends）"
+  ],
+  "game:coolmath_games_趣味小游戏合集_coolmath_games_fun_mini_games": [
+    "Coolmath Games: Fun Mini Games"
+  ],
+  "game:crazygames_play_1500_games": [
+    "疯狂游戏（CrazyGames: Play 1500+ Games）",
+    "疯狂游戏 - 1500+游戏（CrazyGames: Play 1500+ Games）",
+    "CrazyGames: Play 1500+ Games（CrazyGames: Play 1500+ Games）",
+    "CrazyGames（CrazyGames: Play 1500+ Games）",
+    "疯狂游戏合集（CrazyGames）（CrazyGames: Play 1500+ Games）"
+  ],
+  "game:cubic_2_3_4_player_games_cubic_2_3_4_player_games": [
+    "Cubic 2 3 4 Player Games"
+  ],
+  "game:djmax_technika_tune_djmax_炫音律动": [
+    "DJMax Technika Tune"
+  ],
+  "game:danger_mouse": [
+    "神探鼠标（Danger Mouse）"
+  ],
+  "game:毁灭人类_克里普多闯拉斯维加斯_destroy_all_humans_crypto_does_vegas": [
+    "Destroy All Humans! Crypto Does Vegas"
+  ],
+  "game:diep_io": [
+    "坦克大作战（Diep.io）"
+  ],
+  "game:disco_elysium_the_final_cut": [
+    "Disco Elysium"
+  ],
+  "game:don_t_fall_in_the_hole_paper_io_2": [
+    "Paper.io 2"
+  ],
+  "game:doodle_train": [
+    "涂鸦列车（Doodle Train）"
+  ],
+  "game:drop_the_chicken": [
+    "放下那只鸡（Drop the Chicken）"
+  ],
+  "game:endless_wander_roguelike_rpg": [
+    "Endless Wander",
+    "无尽漫游（Endless Wander - Roguelike RPG）"
+  ],
+  "game:enigmo_enigmo": [
+    "Enigmo"
+  ],
+  "game:erase_games_brain_tricky_test": [
+    "Erase Games 脑力 tricky 测试（Erase Games: Brain Tricky Test）"
+  ],
+  "game:escape_door_brain_puzzle_game": [
+    "逃离之门：脑力解谜（Escape Door- brain puzzle game）"
+  ],
+  "game:fancade_simple_mini_games": [
+    "Fancade 迷你游戏创作（Fancade: Simple Mini Games）"
+  ],
+  "game:final_fantasy_vii_ever_crisis": [
+    "最终幻想 VII：永恒危机（Final Fantasy VII Ever Crisis）"
+  ],
+  "game:find_em_all_hidden_objects": [
+    "Find Em All! - Hidden Objects (Find Em All! - Hidden Objects)",
+    "Find Em All!（Find Em All! - Hidden Objects）"
+  ],
+  "game:find_fast_hidden_objects_find_fast_hidden_objects": [
+    "Find Fast:Hidden Objects"
+  ],
+  "game:find_them_all_hidden_puzzle_find_them_all_hidden_puzzle": [
+    "Find them all - Hidden Puzzle"
+  ],
+  "game:forge_of_empires_build_a_city": [
+    "Forge of Empires"
+  ],
+  "game:冰冻_freeze": [
+    "Freeze!"
+  ],
+  "game:幽灵赛车手_ghost_racer": [
+    "Trace"
+  ],
+  "game:hardwood_spades": [
+    "Spades"
+  ],
+  "game:hearthstone_heroes_of_warcraft": [
+    "Hearthstone"
+  ],
+  "game:hero_roll_骰子roguelike_heroll_dice_roguelike": [
+    "Heroll : Dice Roguelike"
+  ],
+  "game:hidden_journey_find_objects": [
+    "神秘之旅：寻物冒险（Hidden Journey: Find Objects）",
+    "Hidden Objects: Puzzle Games"
+  ],
+  "game:hidden_object_games_seek_it": [
+    "隐藏物品探索（Hidden Object Games: Seek It）"
+  ],
+  "game:hidden_objects_mystery_crimes": [
+    "神秘物品：犯罪谜案（Hidden Objects: Mystery Crimes）"
+  ],
+  "game:hidden_objects_seek_find_it": [
+    "隐藏物品：寻找与发现（Hidden Objects: Seek & Find It）"
+  ],
+  "game:the_hidden_treasures_mystery_the_hidden_treasures_mystery": [
+    "The Hidden Treasures・Mystery"
+  ],
+  "game:homescapes_match_3_games": [
+    "梦幻家园（Homescapes: Match 3 Games）"
+  ],
+  "game:honkai_star_rail": [
+    "Honkai: Star Rail（崩坏：星穹铁道）",
+    "崩坏：星穹铁道（Honkai: Star Rail）"
+  ],
+  "game:honor_bound_tcg_ccg_card_quest": [
+    "Honor Bound 卡牌任务（Honor-Bound TCG CCG Card Quest）"
+  ],
+  "game:hyper_play_1v1_games_for_cash": [
+    "Hyper: Play 1v1 Games For Cash（Hyper: Play 1v1 Games For Cash）",
+    "Hyper - 1v1现金对战（Hyper: Play 1v1 Games For Cash）",
+    "Hyper：1v1竞技游戏（Hyper: Play 1v1 Games For Cash）",
+    "Hyper（Hyper: Play 1v1 Games For Cash）"
+  ],
+  "game:冰河世纪_猛犸象大逃亡_ice_age_mammoth_mayhem": [
+    "Mayhem"
+  ],
+  "game:idle_game_1": [
+    "放置游戏1（Idle Game 1）"
+  ],
+  "game:idle_sheep": [
+    "Idle Sheep!（Idle Sheep!）",
+    "放置绵羊（Idle Sheep!）",
+    "闲置羊场（Idle Sheep!）",
+    "放置羊群（Idle Sheep!）"
+  ],
+  "game:idle_slayer_addictive_clicker": [
+    "放置猎手 - 上瘾点击（Idle Slayer: Addictive Clicker）",
+    "闲置杀手（Idle Slayer: Addictive Clicker）",
+    "空闲猎人：放置点击（Idle Slayer: Addictive Clicker）"
+  ],
+  "game:idol_mini_games_finger_rush_idol_mini_games_finger_rush": [
+    "Idol Mini Games: Finger Rush"
+  ],
+  "game:inazuma_eleven_2_firestorm_blizzard": [
+    "Inazuma Eleven"
+  ],
+  "game:infinity_loop_relaxing_puzzle_infinity_loop": [
+    "Infinity Loop: Relaxing Puzzle"
+  ],
+  "game:iootp_baseball_2012_edition_iootp_baseball_2012_edition": [
+    "Iootp Baseball 2012 Edition"
+  ],
+  "game:小岛建造_合并游戏_island_building_merge_games": [
+    "Island Building : Merge Games"
+  ],
+  "game:岛屿建造者_点击求生_isle_builder_click_to_survive": [
+    "Isle Builder: Click to Survive"
+  ],
+  "game:jelly_splash_jelly_splash_fun_puzzle_game": [
+    "Jelly Splash: Fun Puzzle Game"
+  ],
+  "game:jewel_quest_ii_3d": [
+    "Jewel Quest"
+  ],
+  "game:knock_out_physics_puzzle_knock_out_physics_puzzle": [
+    "Knock Out : Physics Puzzle"
+  ],
+  "game:krunker_io": [
+    "克伦克射击（Krunker.io）"
+  ],
+  "game:梯子赛跑_ladder_io": [
+    "Ladder.io"
+  ],
+  "game:little_things_forever_little_things_forever": [
+    "Little Things™ Forever",
+    "Little Things™"
+  ],
+  "game:lock_n_load": [
+    "Lock 'n' Load（Lock 'n' Load）"
+  ],
+  "game:lost_island_blast_adventure_lost_island_blast_adventure": [
+    "Lost Island: Blast Adventure"
+  ],
+  "game:lost_jewels_match_3_puzzle": [
+    "Lost Jewels - Match 3 Puzzle（失落的宝石）"
+  ],
+  "game:magic_mushrooms_idle_game": [
+    "Magic Mushrooms - Idle Game（Magic Mushrooms）",
+    "魔法蘑菇放置游戏（Magic Mushrooms - Idle Game）"
+  ],
+  "game:magic_tiles_3_piano_game": [
+    "Magic Tiles 3"
+  ],
+  "game:matchland_quest_matchland_quest": [
+    "Matchland Quest"
+  ],
+  "game:matchstick_wars": [
+    "Stick War"
+  ],
+  "game:merge_away_puzzle_adventure": [
+    "Merge Away（Merge Away! - Puzzle Adventure）"
+  ],
+  "game:merge_block_number_puzzle": [
+    "合并方块 - 数字谜题（Merge Block - Number Puzzle）"
+  ],
+  "game:合并塔防_冲突_merge_clash_tower_defense": [
+    "Merge Clash: Tower Defense"
+  ],
+  "game:merge_inn_tasty_match_puzzle": [
+    "Merge Inn（Merge Inn - Tasty Match Puzzle）",
+    "合并旅馆（Merge Inn - Tasty Match Puzzle）"
+  ],
+  "game:merge_plus_2_adventure": [
+    "合并加2：冒险（Merge Plus 2: Adventure）"
+  ],
+  "game:minecraft_play_with_friends": [
+    "Minecraft"
+  ],
+  "game:minesweeper": [
+    "僵尸扫雷 (Zombie Minesweeper)"
+  ],
+  "game:mini_games_calm_chill": [
+    "Mini Games: Calm & Chill（Mini Games: Calm & Chill）",
+    "Mini Games: Calm & Chill（轻松休闲小游戏合集）",
+    "迷你游戏：平静放松（Mini Games: Calm & Chill）",
+    "迷你游戏 - 放松舒缓（Mini Games: Calm & Chill）",
+    "迷你游戏：放松与冷静（Mini Games: Calm & Chill）"
+  ],
+  "game:mini_games_calm_relax_mini_games_calm_relax": [
+    "Mini Games: Calm & Relax"
+  ],
+  "game:mini_golf_stars_arena_battle": [
+    "Mini Golf Stars: Arena Battle!（Mini Golf Stars）",
+    "迷你高尔夫明星 - 竞技场对战（Mini Golf Stars: Arena Battle!）",
+    "Mini Golf Stars: Arena Battle!（Mini Golf Stars: Arena Battle!）"
+  ],
+  "game:mini_world_creata": [
+    "迷你世界：创造（Mini World: CREATA）"
+  ],
+  "game:minigame_party_pocket_edition": [
+    "口袋版迷你派对（Minigame Party: Pocket Edition）"
+  ],
+  "game:mobile_legends_bang_bang": [
+    "决胜巅峰（Mobile Legends: Bang Bang）"
+  ],
+  "game:monument_valley_2_monument_valley_2": [
+    "Monument Valley"
+  ],
+  "game:monument_valley_3": [
+    "纪念碑谷3（Monument Valley 3）"
+  ],
+  "game:吃豆小姐_ms_pac_man": [
+    "Pac-Man"
+  ],
+  "game:my_arcade_center": [
+    "My Arcade Center v2"
+  ],
+  "game:number_match_2048_puzzle": [
+    "Number Match: 2048 Puzzle（Number Match: 2048 Puzzle）"
+  ],
+  "game:opa_家庭派对卡牌游戏_opa_family_party_card_game": [
+    "OPA! Family Party Card Game"
+  ],
+  "game:oddworld_abe_s_oddysee": [
+    "Oddworld: Abe's Oddysee（Oddworld: Abe's Oddysee）"
+  ],
+  "game:offline_games_no_wifi_games": [
+    "离线游戏合集（Offline Games - No Wifi Games）",
+    "Offline Games - No Wifi Games（Offline Games）"
+  ],
+  "game:otium_word_relax_puzzle_game": [
+    "Otium Word: Relax Puzzle Game（Otium Word: Relax Puzzle Game）"
+  ],
+  "game:oxide_survival_island_online": [
+    "氧化物：多人荒岛求生（Oxide: Survival Island Online）"
+  ],
+  "game:pubg_mobile_绝地求生手游": [
+    "PUBG Mobile"
+  ],
+  "game:partymasters_fun_idle_game": [
+    "派对大师 放置游戏（Partymasters - Fun Idle Game）"
+  ],
+  "game:pencil_loop": [
+    "Pencil Loop 铅笔环解谜（Pencil Loop!）",
+    "Pencil Loop（Pencil Loop!）"
+  ],
+  "game:phase_10_casual_card_game": [
+    "Phase 10 休闲卡牌（Phase 10: Casual Card Game）"
+  ],
+  "game:planet_evolution_idle_clicker": [
+    "行星进化 - 放置点击（Planet Evolution: Idle Clicker）",
+    "星球进化（Planet Evolution: Idle Clicker）"
+  ],
+  "game:plato_多人游戏平台_plato_fun_multiplayer_games": [
+    "Plato: Fun Multiplayer Games"
+  ],
+  "game:playgama_play_2_000_games": [
+    "Playgama游戏平台（Playgama: Play 2,000+ Games）",
+    "Playgama - 2000+游戏（Playgama: Play 2,000+ Games）",
+    "Playgama（Playgama: Play 2,000+ Games）"
+  ],
+  "game:pocket_politics_idle_money": [
+    "口袋政治 - 放置金钱（Pocket Politics: Idle Money）",
+    "口袋政治（Pocket Politics: Idle Money）",
+    "口袋政治：金钱放置（Pocket Politics: Idle Money）"
+  ],
+  "game:push_battle": [
+    "Push Battle ! - cool game",
+    "Push Battle（Push Battle ! - cool game）",
+    "推挤大战（Push Battle ! - cool game）",
+    "Push Battle !（Games）"
+  ],
+  "game:puzzle_to_the_center_of_earth": [
+    "Puzzle to the Center of Earth（Puzzle to the Center of Earth）"
+  ],
+  "game:raid_rush_raid_rush_tower_defense_td": [
+    "Raid Rush: Tower Defense TD"
+  ],
+  "game:raw_or_roasted": [
+    "生吃还是烤熟（Raw or Roasted）"
+  ],
+  "game:王权_超越_reigns_beyond": [
+    "Reigns"
+  ],
+  "game:rogue_legend_roguelike_rpg": [
+    "Rogue Legend",
+    "Rogue Legend（Rogue Legend - Roguelike RPG）"
+  ],
+  "game:僵尸生存_放置rpg_rogue_with_the_dead_idle_rpg": [
+    "Rogue with the Dead: Idle RPG",
+    "Rogue with the Dead",
+    "亡灵肉鸽：放置RPG（Rogue with the Dead: Idle RPG）"
+  ],
+  "game:royal_smash_physics_puzzle_royal_smash": [
+    "Royal Smash! - Physics Puzzle"
+  ],
+  "game:save_the_grandmother": [
+    "Save the grandmother (拯救奶奶)",
+    "拯救老奶奶（Save the grandmother）",
+    "Save the grandmother（Save the grandmother）"
+  ],
+  "game:saving_private_sheep_2": [
+    "Saving Private Sheep 2（Saving Private Sheep 2）"
+  ],
+  "game:scrabble": [
+    "拼字游戏：混音版（Scrabble Remix）",
+    "Scrabble Smartphone"
+  ],
+  "game:shape_escape_block_puzzle": [
+    "形状逃脱：方块谜题（Shape Escape: Block Puzzle）",
+    "Shape Escape: Block Puzzle（Shape Escape: Block Puzzle）",
+    "Shape Escape（Shape Escape: Block Puzzle）"
+  ],
+  "game:射击合并_shoot_n_merge": [
+    "Shoot n Merge"
+  ],
+  "game:skribbl_io": [
+    "Skribbl.io（Skribbl.io）"
+  ],
+  "game:slither_io": [
+    "Slither.io（Slither.io）"
+  ],
+  "game:smash_karts": [
+    "SmashKarts.io"
+  ],
+  "game:snake_reloaded": [
+    "Snake"
+  ],
+  "game:sneak_out_3d_潜行逃脱3d": [
+    "Sneak Out 3D"
+  ],
+  "game:灵魂对决_soul_io": [
+    "Soul.io"
+  ],
+  "game:squad_alpha_action_shooting": [
+    "Squad Alpha - Action Shooting (阿尔法小队)",
+    "Squad Alpha - Action Shooting（Squad Alpha）",
+    "阿尔法小队 - 动作射击（Squad Alpha - Action Shooting）",
+    "Squad Alpha - Action Shooting（Squad Alpha - Action Shooting）",
+    "Alpha小队 动作射击（Squad Alpha - Action Shooting）",
+    "精英小队 动作射击（Squad Alpha - Action Shooting）"
+  ],
+  "game:stormshot_isle_of_adventure_stormshot_isle_of_adventure": [
+    "Stormshot: Isle of Adventure"
+  ],
+  "game:绳索圈地_string_io": [
+    "String.io"
+  ],
+  "game:super_jigsaw_hd_puzzle_games": [
+    "Super Jigsaw - HD Puzzle Games（Super Jigsaw - HD Puzzle Games）",
+    "Super Jigsaw（Super Jigsaw - HD Puzzle Games）"
+  ],
+  "game:survival_games_questopia": [
+    "Survival Games - Questopia (Questopia: Island Survival Games)"
+  ],
+  "game:tetris_block_party": [
+    "Tetris"
+  ],
+  "game:tactical_soldier_undead_rising": [
+    "战术士兵：不死崛起（Tactical Soldier: Undead Rising）"
+  ],
+  "game:tap_tap_dig_idle_clicker": [
+    "点击挖掘（Tap Tap Dig - Idle Clicker）"
+  ],
+  "game:怪物来袭_塔防_the_creeps_tower_defense": [
+    "The Creeps! Tower Defense"
+  ],
+  "game:the_room_old_sins": [
+    "迷室：旧罪的迷宫（The Room: Old Sins）",
+    "The Room"
+  ],
+  "game:the_tower_the_tower_idle_tower_defense": [
+    "The Tower - Idle Tower Defense"
+  ],
+  "game:回家之路_the_way_home_pixel_roguelike": [
+    "The Way Home: Pixel Roguelike"
+  ],
+  "game:tidy_master_hidden_objects": [
+    "整理大师：隐藏物品（Tidy Master: Hidden Objects）"
+  ],
+  "game:tile_block_jam_puzzle_game": [
+    "方块积木消除（Tile Block Jam - Puzzle Game）",
+    "Tile Block Jam - Puzzle Game（Tile Block Jam - Puzzle Game）",
+    "Tile Block Jam（Tile Block Jam - Puzzle Game）"
+  ],
+  "game:tile_garden_relaxing_puzzle": [
+    "Tile Garden: Relaxing Puzzle（Tile Garden: Relaxing Puzzle）"
+  ],
+  "game:tile_link_match_connect": [
+    "Tile Link - Match & Connect（Tile Link - Match & Connect）"
+  ],
+  "game:tile_scenery_match_puzzle": [
+    "风景方块消除（Tile Scenery）（Tile Scenery: Match Puzzle）"
+  ],
+  "game:tile_star_match_puzzle_game": [
+    "Tile Star: Match Puzzle Game（Tile Star: Match Puzzle Game）"
+  ],
+  "game:tile_voyage_match_puzzle": [
+    "Tile Voyage: Match Puzzle（Tile Voyage: Match Puzzle）"
+  ],
+  "game:tiny_run_3d_迷你跑酷": [
+    "Tiny Run 3D"
+  ],
+  "game:toptop_社交游戏平台_toptop_games_party": [
+    "TopTop: Games & Party",
+    "TopTop游戏派对（TopTop: Games & Party）"
+  ],
+  "game:towermadness_zero": [
+    "TowerMadness",
+    "Zombie Tower Shooting Defense"
+  ],
+  "game:trial_xtreme_2_winter_edition_trial_xtreme_2_winter_edition": [
+    "Trial Xtreme 2"
+  ],
+  "game:双月之谜_twin_moons": [
+    "Twin Moons®"
+  ],
+  "game:wind_up_knight": [
+    "Wind-up Knight 2"
+  ],
+  "game:wiz_kid_jr": [
+    "小巫师（Wiz Kid Jr.）"
+  ],
+  "game:wordbrain_wordbrain_classic_word_puzzle": [
+    "WordBrain: classic word puzzle"
+  ],
+  "game:world_conqueror_1945": [
+    "世界征服者1945（World Conqueror 1945）"
+  ],
+  "game:wrath_of_the_titans": [
+    "Wrath of the Titans（Wrath of the Titans）"
+  ],
+  "game:yarn_loop_knit_puzzle_yarn_loop_knit_puzzle": [
+    "Yarn Loop: Knit Puzzle"
+  ],
+  "game:yu_gi_oh_bam_pocket_yu_gi_oh_master_duel": [
+    "Yu-Gi-Oh! Master Duel"
+  ],
+  "game:circloo_physics_platformer": [
+    "circloO - Physics Platformer（circloO）"
+  ],
+  "game:gameplay_discovery_pipeline": [
+    "Gameplay Discovery Pipeline - Task Queue"
+  ],
+  "mechanic:波次递增": [
+    "关卡波次递增",
+    "波次递增机制"
+  ],
+  "mechanic:连击系统": [
+    "多连击系统",
+    "连击系统：连续命中对手获得连击加成，打断对手动作",
+    "连击系统：连续切割多个水果获得额外分数",
+    "连击系统：一次滑动切开3+个水果获得额外分数奖励",
+    "时间压力与连击系统"
+  ],
+  "mechanic:策略决策": [
+    "卡牌随机性（RNG）+策略决策",
+    "策略决策：在随机加成之间做最优选择"
+  ],
+  "mechanic:最少步数挑战": [
+    "步数挑战"
+  ],
+  "mechanic:道具辅助系统": [
+    "道具辅助系统：清洁剂、加速器等道具可以帮助玩家更高效地完成清洁任务",
+    "道具辅助系统：弹簧、气球、磁铁等道具在关键时刻提供救命机会，增加运气和策略元素",
+    "道具辅助"
+  ],
+  "mechanic:关卡递进设计": [
+    "关卡递进"
+  ],
+  "mechanic:核心操作": [
+    "核心操作机制",
+    "核心操作：根据游戏类型进行触控或键鼠操作",
+    "核心操作：触控/点击操作",
+    "核心操作反馈",
+    "设施建设与升级：核心操作，投入资源提升设施等级以增加产出"
+  ],
+  "mechanic:目标系统": [
+    "步数限制与目标系统",
+    "目标系统：完成关卡/任务目标",
+    "关卡目标系统",
+    "目标系统：完成关卡目标",
+    "多样化目标系统",
+    "关卡目标系统：每关有明确的建设目标和时间/预算限制",
+    "装饰目标系统",
+    "星级目标系统",
+    "任务/目标系统",
+    "轮子-星星目标系统",
+    "进度机制"
+  ],
+  "mechanic:触控操作": [
+    "直观触控操作",
+    "触控操作：基于iOS设备的触摸交互，单指即可完成主要操作",
+    "单指触控操作",
+    "DS双屏设计：上屏显示主场景和对话，下屏显示笔记本（线索整理）、地图和触控操作",
+    "简单触控操作",
+    "简单直观的触控操作",
+    "触控操作机制"
+  ],
+  "mechanic:渐进难度": [
+    "渐进难度曲线",
+    "渐进难度机制",
+    "渐进难度曲线：从简单到复杂的平滑过渡，让玩家在不知不觉中提升技能",
+    "渐进难度设计",
+    "渐进难度：前期让玩家快速获得成就感，后期通过微妙变化提升挑战性",
+    "渐进难度：游戏内容逐步增加复杂度，保持挑战性",
+    "渐进难度系统",
+    "渐进难度：每款游戏内关卡逐渐增加难度",
+    "渐进难度：游戏通过逐步增加复杂度来维持挑战性，从简单规则开始逐渐引入新元素",
+    "渐进难度：芯片种类和数量逐渐增加",
+    "渐进难度：绳索数量和固定节点逐渐增加",
+    "渐进难度：关卡难度缓慢递增，在玩家掌握当前难度后引入新元素",
+    "渐进难度曲线：敌人从少到多、从弱到强，玩家在不断失败中追求更远的距离记录",
+    "渐进难度加速：所有小游戏同步提速，玩家需要在手忙脚乱中找到节奏",
+    "关卡渐进难度",
+    "渐进难度曲线：球速随回合逐步增加，从悠闲到极快，考验的是反应速度的极限。",
+    "渐进难度曲线：从简单几何图形到复杂插画，难度平滑上升"
+  ],
+  "mechanic:即时反馈": [
+    "即时反馈机制",
+    "即时反馈系统",
+    "即时反馈：操作即时的视觉和音效反馈",
+    "即时反馈系统：每次操作都有明确的视觉和音效反馈，强化操作与结果的关联",
+    "即时反馈：每次操作都有视觉和听觉的正反馈（粒子特效、音效等），强化爽感",
+    "即时反馈：每次操作都有视觉和音效反馈，增强操作手感",
+    "即时反馈循环",
+    "即时反馈：操作后立即看到结果，让玩家能够快速调整策略",
+    "即时反馈：操作后立刻看到结果，形成强烈的因果联系",
+    "奖金赛制: 玩家可以参与有奖励的比赛（免费或付费入场），输赢都有即时反馈。"
+  ],
+  "mechanic:游戏类型": [
+    "游戏类型驱动",
+    "基础玩法：根据游戏类型提供核心交互方式",
+    "基于游戏类型的核心机制",
+    "多样化游戏类型",
+    "多种游戏类型",
+    "核心机制根据具体游戏类型有所不同",
+    "多样化小游戏库：覆盖多种游戏类型，确保不同兴趣的玩家都能找到喜欢的内容。",
+    "当前版本",
+    "即时操作反馈",
+    "分数/目标驱动"
+  ],
+  "mechanic:操作方式": [
+    "移动优化：专为触屏设备设计的操作方式",
+    "触屏交互：针对移动设备设计的操作方式",
+    "多样化小游戏集合：每个小游戏有不同的操作方式和规则，保持新鲜感",
+    "虚拟按键/触控：模拟经典游戏手柄的操作方式，部分支持重力感应",
+    "多模式切换：5种不同解谜模式在一款游戏中，每种有不同的核心规则和操作方式",
+    "极简操作：每个游戏通常只需要一种操作方式（点击或滑动），零学习成本"
+  ],
+  "mechanic:评分系统": [
+    "评分系统：根据玩家表现给出量化评分",
+    "连击/评分系统：通过连续命中或高效通关获得额外评分，激励玩家提升操作水平",
+    "星级评分系统",
+    "连击评分系统",
+    "潜行评分系统",
+    "\"Kaizen\"评分系统",
+    "杆数评分系统",
+    "时间压力与评分系统"
+  ],
+  "mechanic:多人互动": [
+    "多人互动机制"
+  ],
+  "mechanic:分数_目标驱动": [
+    "目标驱动"
+  ],
+  "mechanic:即时操作反馈": [
+    "操作反馈"
+  ],
+  "mechanic:多人联机": [
+    "多人联机+用户创作",
+    "多人联机：与朋友一起建造和冒险"
+  ],
+  "mechanic:核心玩法": [
+    "核心玩法：基于游戏描述，提供独特的游戏体验",
+    "核心玩法机制",
+    "Casual核心玩法",
+    "Board核心玩法",
+    "Entertainment核心玩法",
+    "Strategy核心玩法",
+    "无尽跳跃机制：核心玩法是持续在平台间跳跃求生，每次跳跃的方向和力度选择决定生死",
+    "Adventure核心玩法",
+    "Roleplaying核心玩法",
+    "竞速核心玩法"
+  ],
+  "mechanic:进度系统": [
+    "关卡/进度系统",
+    "关卡进度系统",
+    "分数/进度系统",
+    "进度系统：保存游戏进度，允许随时继续",
+    "独立进度系统",
+    "装备驱动：更好的装备直接提升战斗力。装备收集和升级是核心进度系统。",
+    "城镇建造进度系统",
+    "统一进度系统",
+    "RPG 进度系统",
+    "代币进度系统",
+    "分层进度系统 — 从基础铜工具到困难模式的终极装备，每一层都有明确的目标和奖励"
+  ],
+  "mechanic:俯视角射击系统": [
+    "俯视角射击"
+  ],
+  "mechanic:任务多样化系统": [
+    "任务多样化"
+  ],
+  "mechanic:武器升级系统": [
+    "升级系统",
+    "武器升级"
+  ],
+  "mechanic:随机生成": [
+    "障碍随机生成",
+    "随机生成系统",
+    "机制2：随机生成：关卡/赛道每次不同，增加重复可玩性",
+    "永久死亡+随机生成",
+    "随机性元素 — 卡牌的随机生成效果（如发现机制随机三选一）增加变数和趣味性",
+    "随机生成机制",
+    "随机生成机制：每次游戏的障碍和敌人布局不同，确保每局都是新的挑战，防止背板",
+    "无尽跑酷机制：随机生成的障碍物和金币分布，每次奔跑体验不同",
+    "随机房间布局：每层房间随机生成"
+  ],
+  "mechanic:空间管理": [
+    "棋盘空间管理",
+    "网格空间管理",
+    "空间管理博弈",
+    "空间管理挑战",
+    "空间管理机制",
+    "合并升级机制"
+  ],
+  "mechanic:连锁反应潜力": [
+    "连锁反应"
+  ],
+  "mechanic:时间管理系统": [
+    "时间管理",
+    "时间管理系统：每位客人有耐心倒计时，需要高效安排服务流程"
+  ],
+  "mechanic:资源分配": [
+    "策略管理：资源分配和英雄搭配",
+    "效率优化：资源分配策略",
+    "优化策略：资源分配最大化利润",
+    "实时出兵机制：消耗资源生成兵种，考验资源分配和时机判断"
+  ],
+  "mechanic:环境探索": [
+    "黑暗环境探索"
+  ],
+  "mechanic:进度反馈机制": [
+    "反馈机制"
+  ],
+  "mechanic:难度递增机制": [
+    "难度递增"
+  ],
+  "mechanic:单指极简操作": [
+    "极简操作",
+    "随机游戏轮换"
+  ],
+  "mechanic:多样化迷你游戏轮换": [
+    "多样化迷你游戏",
+    "迷你游戏"
+  ],
+  "mechanic:统一操作机制": [
+    "操作机制"
+  ],
+  "mechanic:游戏合集架构": [
+    "游戏合集",
+    "多游戏合集架构",
+    "简单操作设计",
+    "多样化品类"
+  ],
+  "mechanic:简单操作设计": [
+    "简单操作"
+  ],
+  "mechanic:基础操作": [
+    "点击伤害：基础操作产生递增数值"
+  ],
+  "mechanic:奖励反馈": [
+    "奖励反馈机制"
+  ],
+  "mechanic:实时对战": [
+    "多人实时对战",
+    "实时对战系统",
+    "实时对战 (Real-time PvP)",
+    "实时对战：3 分钟限时 + 加时赛，紧张刺激",
+    "1v1实时对战",
+    "1v1实时对战：匹配系统连接水平相近的玩家",
+    "实时对战三消",
+    "多人实时对战：1v1匹配，增加竞技性"
+  ],
+  "mechanic:游戏合集模式": [
+    "多游戏合集模式"
+  ],
+  "mechanic:每日挑战": [
+    "每日挑战赛",
+    "社交竞争：好友排行榜和每日挑战增加竞争动力",
+    "每日挑战和每周主题：保持内容更新",
+    "任务与每日挑战系统"
+  ],
+  "mechanic:物理引擎": [
+    "物理引擎的精确性",
+    "物理引擎：真实的碰撞、漂移和赛道物理",
+    "简化物理引擎",
+    "物理引擎驱动",
+    "机制2：物理引擎：利用物理模拟实现真实的碰撞和运动效果，增加策略深度",
+    "物理交互谜题：利用帽子抓取和投掷物体，通过物理引擎解决关卡中的谜题",
+    "物理引擎解谜 — 重力、浮力、惯性等真实物理规律作为谜题基础",
+    "物理引擎模拟",
+    "真实物理引擎：球的反弹、滚动、减速遵循真实物理规则",
+    "真实物理引擎",
+    "物理切割系统：手指滑动切割冰块，物理引擎模拟真实效果"
+  ],
+  "mechanic:多人同屏": [
+    "本地多人同屏",
+    "多人同屏/联机",
+    "多人同屏或在线",
+    "多人同屏竞技",
+    "多人同屏社交"
+  ],
+  "mechanic:快速对局": [
+    "快速对局机制"
+  ],
+  "mechanic:多样玩法": [
+    "多样玩法：多款不同类型小游戏覆盖不同放松需求"
+  ],
+  "mechanic:快速匹配_大部分小游戏支持秒开局_无需加载等待": [
+    "快速匹配"
+  ],
+  "mechanic:进度追踪": [
+    "进度追踪机制",
+    "进度追踪图表"
+  ],
+  "mechanic:快节奏战斗": [
+    "快节奏",
+    "节奏战斗",
+    "自动射击/瞄准"
+  ],
+  "mechanic:自动射击_瞄准": [
+    "自动射击"
+  ],
+  "mechanic:关卡推进": [
+    "关卡推进：多个主题关卡，场景和敌人种类各异",
+    "分数/奖励系统"
+  ],
+  "mechanic:触屏交互_支持_ios_设备的触摸操作_适配移动平台": [
+    "触屏交互"
+  ],
+  "mechanic:一键操作": [
+    "一键操作机制"
+  ],
+  "mechanic:渐进式难度曲线": [
+    "渐进式难度",
+    "渐进式难度曲线：谜题从简单到复杂逐步递进"
+  ],
+  "mechanic:触屏瞄准射击": [
+    "瞄准射击",
+    "波次敌人系统",
+    "战利品掉落"
+  ],
+  "mechanic:多人对战_multiplayer_pvp": [
+    "多人对战"
+  ],
+  "mechanic:成就与收集系统_完成特定条件解锁成就徽章_收集稀有物品提供额外奖励和炫耀价值": [
+    "收集系统"
+  ],
+  "mechanic:道具系统": [
+    "资源管理/道具系统",
+    "道具系统：击碎特定砖块掉落道具（扩大挡板、多球、激光等），增加策略维度",
+    "道具系统：炸弹、雷电等强力道具辅助通关",
+    "道具系统：激光、炸弹、克隆器等道具为传统消除增加变数",
+    "特殊道具系统",
+    "辅助道具系统",
+    "经典三消+道具系统",
+    "赛道道具系统",
+    "道具系统：赛道上随机出现加速、护盾等道具",
+    "道具系统：比赛中获取和使用道具攻击对手",
+    "三道具系统",
+    "道具系统：磁铁、弹簧鞋、喷气背包、双倍分数",
+    "道具系统：磁铁自动收集金币、喷气背包进入高空收集区、分数倍增器放大得分",
+    "道具系统：磁铁吸金币、隐身（无敌）、加速",
+    "道具系统：数百种道具改变角色能力",
+    "道具系统：收集赛道上的道具，用于攻击对手或获得加速",
+    "特工道具系统"
+  ],
+  "mechanic:多人模式": [
+    "单设备多人模式",
+    "多人模式：本地分屏和在线对战",
+    "合作多人模式：与其他玩家组队挑战 Boss",
+    "多人模式：支持本地多人和在线多人",
+    "多人对战：支持本地和在线多人模式，体验真实的摔跤对抗"
+  ],
+  "mechanic:关卡系统_精心设计的渐进式关卡": [
+    "关卡系统",
+    "渐进式关卡"
+  ],
+  "mechanic:本地多人竞技_2_4人在同一设备上游玩_轮流或同时操作_天然适合聚会场景": [
+    "多人竞技",
+    "本地多人",
+    "快速回合制：每个小游戏1-3分钟一局，节奏快，不会因为单一游戏太长而无聊",
+    "积分排行榜：各小游戏的得分汇总为总排名，激发竞争欲"
+  ],
+  "mechanic:积分排行榜_各小游戏的得分汇总为总排名_激发竞争欲": [
+    "排行榜"
+  ],
+  "mechanic:短局设计": [
+    "短局设计：每局几分钟，快速重开",
+    "短局设计：每局游戏只需几分钟，适合碎片化时间"
+  ],
+  "mechanic:机制1": [
+    "核心机制1",
+    "机制1：触屏操控：通过触摸屏直接控制角色或环境，提供直观的交互体验",
+    "机制1：指数增长机制：每次升级都让资源产出呈指数级增长，给玩家持续的正反馈",
+    "机制1：核心交互：基于休闲类型的标准操作模式，通过触屏完成游戏目标",
+    "机制1：资源采集与制作：不同资源组合可制作不同工具和物品，形成制作树",
+    "机制1：名称 + 详细描述（怎么运作，为什么有效）",
+    "机制2",
+    "机制3"
+  ],
+  "mechanic:机制2": [
+    "核心机制2",
+    "机制2：离线收益：即使关闭游戏，后台仍按最后已知速率积累资源，鼓励定期回游",
+    "机制2：反馈循环：每次操作都有即时的视觉和音效反馈，增强操作满足感",
+    "机制2：环境生存：饥饿、温度、昼夜交替等环境变量增加策略维度",
+    "机制2：潜行系统：玩家需要在不被发现的情况下完成任务，利用阴影和环境掩护",
+    "机制2：动物收集——每种动物有独特外观和栖息地需求，收集全部动物是长线目标",
+    "机制2：名称 + 详细描述"
+  ],
+  "mechanic:机制3": [
+    "核心机制3",
+    "机制3：渐进式建造：从简陋庇护所到完善基地的视觉成长带来成就感",
+    "机制3：在线排行榜：与全球玩家竞争最高分，提供持续挑战动力",
+    "机制3：步数限制——不是无限消除，而是有步数约束的优化问题，需要规划而非运气",
+    "机制3：精神控制：特殊能力允许玩家控制敌人，将劣势转化为优势",
+    "机制3：自由落体球——少数关卡底部有\"自由球\"可以接住重新发射，增加策略性",
+    "机制3：低惩罚重试——失败无成本，随时可以重来，保持轻松节奏",
+    "机制3：如果有，继续"
+  ],
+  "mechanic:小游戏合集机制": [
+    "小游戏合集"
+  ],
+  "mechanic:合并机制": [
+    "核心消除/合并机制",
+    "数字合并机制",
+    "骰子合并机制",
+    "射击式合并机制",
+    "Merge-2合并机制",
+    "相同合并机制",
+    "单触操作"
+  ],
+  "mechanic:无限关卡_无尽模式": [
+    "无尽模式"
+  ],
+  "mechanic:点击操作": [
+    "经典点击操作"
+  ],
+  "mechanic:社交互动问答": [
+    "社交互动"
+  ],
+  "mechanic:快速一局": [
+    "快速一局：每款游戏30-60秒，节奏明快",
+    "快速一局：1-2分钟一局，节奏紧凑"
+  ],
+  "mechanic:迷你游戏合集": [
+    "迷你游戏合集轮换",
+    "多人迷你游戏合集"
+  ],
+  "mechanic:难度自适应_根据玩家表现自动调整难度_确保各水平玩家都能享受乐趣": [
+    "难度自适应"
+  ],
+  "mechanic:局外成长系统": [
+    "成长系统"
+  ],
+  "mechanic:武器系统多样性_不同武器有不同的射速_伤害_精准度和弹药容量_适合不同场景": [
+    "武器系统"
+  ],
+  "mechanic:掩体利用系统_场景中的掩体可以躲避敌人火力_增加了战术层面的策略性": [
+    "掩体利用"
+  ],
+  "mechanic:积分解锁系统": [
+    "解锁系统"
+  ],
+  "mechanic:三消匹配_match_3": [
+    "三消匹配"
+  ],
+  "mechanic:匹配消除": [
+    "匹配消除机制",
+    "方块匹配消除",
+    "颜色匹配消除",
+    "匹配消除机制：三个或以上相同宝石连成一线自动消除，是游戏最基础的交互方式"
+  ],
+  "mechanic:派对游戏": [
+    "多种派对游戏"
+  ],
+  "mechanic:收集要素": [
+    "收集要素（Collectibles）"
+  ],
+  "mechanic:收集解锁机制": [
+    "收集解锁"
+  ],
+  "mechanic:多人社交": [
+    "多人社交互动"
+  ],
+  "mechanic:放置点击": [
+    "放置点击 (Idle/Clicker)",
+    "放置点击循环"
+  ],
+  "mechanic:连锁消除系统": [
+    "连锁消除"
+  ],
+  "mechanic:提示系统": [
+    "渐进式提示系统",
+    "提示系统：当卡住时可以使用提示功能，揭示个别字母或完整单词，平衡了难度和体验",
+    "提示系统：可以用硬币获取提示"
+  ],
+  "mechanic:分数_奖励系统": [
+    "奖励系统",
+    "失败重试"
+  ],
+  "mechanic:路径连线消除": [
+    "路径连线"
+  ],
+  "mechanic:特殊道具": [
+    "特殊道具：火箭、炸弹、彩虹球"
+  ],
+  "mechanic:progression": [
+    "升级成长 (Progression)",
+    "能力锁（Metroidvania Progression）",
+    "剧情推进（Story Progression）"
+  ],
+  "mechanic:碎片化叙事": [
+    "碎片化叙事：通过文件、照片和环境细节拼凑故事"
+  ],
+  "mechanic:紧凑关卡设计": [
+    "关卡设计"
+  ],
+  "mechanic:空间推理机制": [
+    "空间推理",
+    "即时视觉反馈"
+  ],
+  "mechanic:即时视觉反馈": [
+    "视觉反馈"
+  ],
+  "mechanic:逻辑谜题_密码锁_机关触发_物品组合等多种谜题类型_需要观察力和逻辑推理能力": [
+    "逻辑推理",
+    "物品组合",
+    "逻辑谜题"
+  ],
+  "mechanic:逻辑解谜_需要运用空间推理和逻辑思维来解开逐步增加难度的谜题": [
+    "逻辑解谜"
+  ],
+  "mechanic:物理模拟_真实的台球碰撞和反弹物理": [
+    "物理模拟"
+  ],
+  "mechanic:球杆系统_不同球杆有不同属性_升级提升能力": [
+    "球杆系统"
+  ],
+  "mechanic:多种模式_1v1_锦标赛_8人赛": [
+    "多种模式",
+    "锦标赛"
+  ],
+  "mechanic:触屏操作机制": [
+    "触屏操作",
+    "评分/评级系统"
+  ],
+  "mechanic:深度科技树": [
+    "科技树"
+  ],
+  "mechanic:资源管理": [
+    "波次战斗系统：敌人分多波出现，每波难度递增，考验玩家的资源管理能力",
+    "法力资源管理：每回合有限的法力点数需要在攻击、防御和技能之间做出取舍",
+    "资源管理：有限的资源需要在不同用途之间分配",
+    "栏位资源管理",
+    "时间压力资源管理",
+    "资源管理系统：平衡金钱、建材和工人三种资源",
+    "资源管理：燃料、健康、轮胎的战术选择",
+    "多维资源管理",
+    "资源管理：多种资源类型，各自有不同的用途和重要性",
+    "圣水资源管理",
+    "资源管理：有限的工作台位和菜品需要合理分配，最大化服务效率",
+    "资源管理：木材、石材、食物三种核心资源，需要平衡分配",
+    "资源管理系统",
+    "梯子资源管理",
+    "时机与资源管理",
+    "能量附着攻击：攻击需要给宝可梦附上对应类型的能量卡牌，资源管理是战斗的核心",
+    "球资源管理",
+    "资源管理：燃料、补给、船员理智的平衡",
+    "资源管理：平衡食物、木材等资源维持氏族运转",
+    "空管资源管理",
+    "有限资源管理"
+  ],
+  "mechanic:弹道物理": [
+    "弹道物理计算"
+  ],
+  "mechanic:自动战斗_离线获得资源": [
+    "自动战斗"
+  ],
+  "mechanic:放置收益_离线奖励": [
+    "放置收益"
+  ],
+  "mechanic:评价系统": [
+    "关卡星级评价系统",
+    "星级评价系统：每关根据表现给予1-3星评价，追求全三星驱动反复挑战",
+    "星级评价系统"
+  ],
+  "mechanic:拖拽_旋转交互": [
+    "拖拽+旋转"
+  ],
+  "mechanic:环境细节": [
+    "叙事驱动探索：通过环境细节和对话推进故事，没有文字量的堆砌而是通过视觉叙事"
+  ],
+  "mechanic:波次设计": [
+    "敌人波次设计",
+    "波次设计 — 每关多波敌人，难度递增，最后一波通常有 Boss"
+  ],
+  "mechanic:叙事解谜_谜题与故事紧密结合_解谜即理解故事": [
+    "叙事解谜"
+  ],
+  "mechanic:持续加速机制_速度不是固定的而是不断递增_玩家需要在越来越快的节奏中保持冷静": [
+    "加速机制"
+  ],
+  "mechanic:即时死亡判定_碰到障碍立即结束_零容错率让每次飞行都充满紧张感": [
+    "即时死亡"
+  ],
+  "mechanic:全球排行榜竞争_实时排名系统让每次游玩都变成与他人比较": [
+    "排行榜竞争",
+    "全球排行榜竞争"
+  ],
+  "mechanic:自动产出_每个生意自动产生收入": [
+    "自动产出"
+  ],
+  "mechanic:多区域探索": [
+    "多区域探索：多个区域和 Boss 等待挑战"
+  ],
+  "mechanic:迷宫探索": [
+    "迷宫探索：每关的迷宫布局由程序生成，部分砖块下隐藏着过关所需的出口或强力道具。"
+  ],
+  "mechanic:跟随系统": [
+    "宠物跟随系统"
+  ],
+  "mechanic:实时多人_在同一服务器中与其他玩家竞争": [
+    "实时多人"
+  ],
+  "mechanic:即时反应判定": [
+    "即时反应"
+  ],
+  "mechanic:时间压力": [
+    "无时间压力设计",
+    "时间压力：倒计时制造紧迫感，不能无限期地谨慎探索",
+    "无时间压力",
+    "时间压力机制：限定时间内完成清洁任务，增加游戏的紧张感和刺激感",
+    "无计时器休闲设计：没有时间压力，适合休闲玩家从容思考",
+    "自由节奏：无时间压力，按自己节奏建设",
+    "时间压力管理",
+    "时间压力：订单有倒计时，考验手速和记忆力",
+    "时间压力：每个游戏有倒计时，增加紧张感",
+    "时间压力：火车持续前进，需要快速决策",
+    "时间压力（Time Pressure）",
+    "Boss 限时挑战：时间压力增加紧张感",
+    "时间压力：限定时间内最大化得分，制造'最后10秒我还能再冲一次'的紧张感"
+  ],
+  "mechanic:连锁效应": [
+    "道具连锁效应"
+  ],
+  "mechanic:机器人干扰_机器人在棋盘上占据空间并阻碍匹配_数量随关卡递增而增加": [
+    "关卡递增"
+  ],
+  "mechanic:关卡多样性": [
+    "事件关卡多样性",
+    "进度奖励系统"
+  ],
+  "mechanic:奖励机制_完成目标后给予正向反馈": [
+    "奖励机制"
+  ],
+  "mechanic:地形互动_坡度加速_热气流升空_水面滑行": [
+    "地形互动"
+  ],
+  "mechanic:特技系统_后空翻成功获得额外分数和连续加成": [
+    "特技系统"
+  ],
+  "mechanic:核心交互机制": [
+    "核心交互"
+  ],
+  "mechanic:单指操作_点击跳跃_长按后空翻_极简但精确": [
+    "单指操作"
+  ],
+  "mechanic:后空翻加分_成功着陆后空翻获得额外分数": [
+    "后空翻加分"
+  ],
+  "mechanic:连锁技巧_连续完成后空翻获得连击加分": [
+    "连击加分"
+  ],
+  "mechanic:惯性滑动": [
+    "惯性滑动移动",
+    "惯性滑动系统"
+  ],
+  "mechanic:渐进复杂度": [
+    "渐进复杂度：谜题难度逐步提升"
+  ],
+  "mechanic:多难度系统": [
+    "多难度系统：每首曲目有 Easy/Normal/Hard 三种难度"
+  ],
+  "mechanic:像素美术": [
+    "复古像素风格：采用经典像素美术风格，唤起怀旧情怀",
+    "暗黑像素美术风格"
+  ],
+  "mechanic:永久死亡惩罚": [
+    "永久死亡"
+  ],
+  "mechanic:任务系统_船员需要完成各种小游戏式任务_进度条满则船员阵营获胜": [
+    "任务系统"
+  ],
+  "mechanic:小鸟特殊能力": [
+    "特殊能力"
+  ],
+  "mechanic:道具_特殊元素系统": [
+    "特殊元素系统"
+  ],
+  "mechanic:单手滑动操作": [
+    "滑动操作"
+  ],
+  "mechanic:道具收集加成": [
+    "道具收集"
+  ],
+  "mechanic:核心匹配_操作机制": [
+    "核心匹配"
+  ],
+  "mechanic:分数竞争": [
+    "分数竞争机制"
+  ],
+  "mechanic:轮流机制": [
+    "多人轮流机制",
+    "多样小游戏",
+    "积分排名",
+    "社交分享"
+  ],
+  "mechanic:积分排名": [
+    "积分排名系统"
+  ],
+  "mechanic:社交分享": [
+    "社交分享：彩色方块网格方便社交媒体分享"
+  ],
+  "mechanic:即点即玩": [
+    "即点即玩（Instant Play）"
+  ],
+  "mechanic:持续更新": [
+    "内容持续更新",
+    "持续更新：开发团队承诺添加更多游戏",
+    "持续更新：超过 10 年的免费内容更新"
+  ],
+  "mechanic:个性化推荐_基于游玩历史和偏好推荐新游戏_提高发现效率": [
+    "个性化推荐"
+  ],
+  "mechanic:多人竞争": [
+    "多人竞争/排行",
+    "即时多人竞争"
+  ],
+  "mechanic:赛道多样性": [
+    "赛道多样性： diverse 极限环境，各有独特障碍"
+  ],
+  "mechanic:自动加速加平衡控制": [
+    "自动加速"
+  ],
+  "mechanic:合并升级机制": [
+    "合并升级",
+    "塔防路线规划",
+    "永久升级系统"
+  ],
+  "mechanic:塔防路线规划": [
+    "路线规划"
+  ],
+  "mechanic:永久升级系统": [
+    "永久升级"
+  ],
+  "mechanic:职业系统": [
+    "多职业系统：剑士、弓箭手、侏儒、巫师等不同兵种组合策略"
+  ],
+  "mechanic:故事驱动": [
+    "故事驱动：涵盖 FFVII 三部曲的叙事",
+    "故事驱动：有轻奇幻风格的故事背景和幽默对白"
+  ],
+  "mechanic:实时竞争_计时_部分游戏支持多人对战或限时挑战_增加紧张感和竞技性": [
+    "限时挑战",
+    "实时竞争",
+    "连锁消除：一次消除可能引发连锁反应，带来额外的分数奖励和视觉满足感。"
+  ],
+  "mechanic:车辆多样性_多种越野车型_各有不同操控特性": [
+    "车辆多样性"
+  ],
+  "mechanic:实时动作战斗_快节奏的攻击_闪避和技能释放": [
+    "技能释放"
+  ],
+  "mechanic:技能树系统_构建独特的角色能力": [
+    "角色能力"
+  ],
+  "mechanic:道具升级系统": [
+    "道具升级"
+  ],
+  "mechanic:收集驱动": [
+    "收集驱动的路径选择"
+  ],
+  "mechanic:技能升级树_通过战斗获得技能点_分配到不同技能路线_形成独特的战斗风格": [
+    "技能升级"
+  ],
+  "mechanic:物理弹射机制": [
+    "物理弹射"
+  ],
+  "mechanic:物理交互": [
+    "物理交互谜题：点击、拖动、旋转、滑动操作真实机械装置"
+  ],
+  "mechanic:场景多样性": [
+    "世界穿越叙事：秘密组织可以穿越不同世界的设定为场景多样性提供了故事合理性"
+  ],
+  "mechanic:卡牌对战_石头剪刀布": [
+    "卡牌对战"
+  ],
+  "mechanic:环境叙事": [
+    "环境叙事：通过物品和细节发现故事"
+  ],
+  "mechanic:角色收集_通过完成小游戏解锁可爱角色_驱动持续游玩": [
+    "角色收集"
+  ],
+  "mechanic:反应力挑战_限时操作要求玩家快速判断和执行": [
+    "反应力挑战"
+  ],
+  "mechanic:合成升级": [
+    "合成升级链",
+    "合成升级机制"
+  ],
+  "mechanic:分支任务与道德选择": [
+    "道德选择"
+  ],
+  "mechanic:装备收集与强化": [
+    "装备收集"
+  ],
+  "mechanic:属性克制_五行属性相克系统_策略体现在属性搭配": [
+    "属性相克系统",
+    "属性相克"
+  ],
+  "mechanic:回合制战斗_选择妖怪行动_使用技能或攻击": [
+    "回合制战斗"
+  ],
+  "mechanic:基础交互机制": [
+    "基础交互"
+  ],
+  "mechanic:核心机制": [
+    "目镜透视系统 — 通过特殊视角发现隐藏线索，是解谜的核心机制"
+  ],
+  "mechanic:策略规划": [
+    "波次策略规划",
+    "反馈系统"
+  ],
+  "mechanic:反馈系统": [
+    "反馈系统：视觉+音效反馈",
+    "反馈系统：操作后立即获得视觉和数值反馈，强化玩家的行为认知",
+    "即时物理反馈系统",
+    "幽默反馈系统",
+    "三色反馈系统：绿/黄/灰三色提供渐进式信息",
+    "三色反馈系统"
+  ],
+  "mechanic:多层升级系统": [
+    "多层升级"
+  ],
+  "mechanic:离线收益计算": [
+    "离线收益"
+  ],
+  "mechanic:环境互动适应": [
+    "环境互动"
+  ],
+  "mechanic:放置_离线收益机制": [
+    "离线收益机制",
+    "指数级升级系统"
+  ],
+  "mechanic:指数增长反馈": [
+    "指数增长",
+    "自动化升级链"
+  ],
+  "mechanic:自动化生产机制": [
+    "自动化生产"
+  ],
+  "mechanic:科技树解锁": [
+    "科技树解锁系统"
+  ],
+  "mechanic:阶段解锁机制": [
+    "阶段解锁"
+  ],
+  "mechanic:实时对抗_进化": [
+    "实时对抗",
+    "渐进式成长",
+    "随机性与策略组合"
+  ],
+  "mechanic:渐进式成长": [
+    "渐进式成长系统"
+  ],
+  "mechanic:随机性与策略组合": [
+    "随机性与策略"
+  ],
+  "mechanic:roguelike随机性_每局joker和牌出现随机": [
+    "Roguelike随机",
+    "Roguelike随机性"
+  ],
+  "mechanic:协同效应_joker_之间组合产生指数级增长": [
+    "指数级增长"
+  ],
+  "mechanic:弹射物理": [
+    "弹射物理（Fling Physics）",
+    "弹射物理系统：拖拽弹射的抛物线飞行和碰撞检测，需要精确的角度和力度控制",
+    "弹射物理系统"
+  ],
+  "mechanic:角色卡牌收集": [
+    "卡牌收集"
+  ],
+  "mechanic:剧情模式": [
+    "剧情模式：跟随原作故事线的单人战役"
+  ],
+  "mechanic:轨道设计": [
+    "多轨道设计"
+  ],
+  "mechanic:倾斜操控": [
+    "物理倾斜操控"
+  ],
+  "mechanic:自动射击系统": [
+    "战术自动射击系统"
+  ],
+  "mechanic:军队训练": [
+    "军队训练：消耗资源训练不同兵种，兵种有相克关系"
+  ],
+  "mechanic:联盟系统": [
+    "联盟系统：加入联盟与其他玩家合作攻城略地"
+  ],
+  "mechanic:物理碰撞系统": [
+    "物理碰撞"
+  ],
+  "mechanic:派对模式": [
+    "多人派对模式"
+  ],
+  "mechanic:多样化小游戏": [
+    "多样化小游戏库"
+  ],
+  "mechanic:防御与反击_完美防御后可以进行反击_造成大量伤害": [
+    "防御与反击"
+  ],
+  "mechanic:必杀技系统_积攒能量条后释放强力必杀技": [
+    "必杀技系统"
+  ],
+  "mechanic:特殊方块": [
+    "特殊方块生成"
+  ],
+  "mechanic:步数限制": [
+    "步数限制：限定操作步数，鼓励玩家找到最优解而非蛮力尝试",
+    "能量/步数限制",
+    "步数限制系统",
+    "步数限制：需要在有限步数内达成目标，增加策略思考",
+    "无步数限制的合成",
+    "三消核心：交换相邻方块形成匹配，步数限制增加策略性",
+    "步数限制与星级评价",
+    "步数限制：需要在限定步数内完成"
+  ],
+  "mechanic:关卡目标机制": [
+    "关卡目标",
+    "连锁反应机制",
+    "星级评价"
+  ],
+  "mechanic:连锁反应机制": [
+    "连锁反应机制：消除后宝石下落可能形成新的匹配，产生连续得分"
+  ],
+  "mechanic:星级评价": [
+    "星级评价体系",
+    "星级评价：每个关卡1到3星，追求完美通关",
+    "星级评价：三星系统鼓励玩家追求完美表现",
+    "星级评价机制"
+  ],
+  "mechanic:弹道瞄准": [
+    "弹道瞄准系统",
+    "弹道瞄准机制",
+    "连消消除",
+    "天花板逼近"
+  ],
+  "mechanic:特殊宝石_火焰_星星_超魔方块_产生连锁消除效果": [
+    "特殊宝石"
+  ],
+  "mechanic:收集系统_游戏包含丰富的可收集元素_玩家通过持续游玩收集完整图鉴或卡牌库": [
+    "收集元素"
+  ],
+  "mechanic:经典三消_交换相邻宝石完成3_连珠": [
+    "经典三消"
+  ],
+  "mechanic:连锁反应_消除后下落可能触发自动消除": [
+    "连锁反应：消除后下落可能触发自动消除，形成爽快感"
+  ],
+  "mechanic:环境解谜": [
+    "环境解谜战斗"
+  ],
+  "mechanic:探索驱动": [
+    "探索驱动：在赛博朋克城市中自由探索"
+  ],
+  "mechanic:隐藏区域": [
+    "地图探索：解谜和隐藏区域",
+    "隐藏路径和秘密：多层探索发现隐藏区域"
+  ],
+  "mechanic:多游戏合集": [
+    "多游戏合集：15款不同类型的游戏满足各种偏好"
+  ],
+  "mechanic:离线支持": [
+    "离线支持：无需网络即可游玩大部分游戏"
+  ],
+  "mechanic:放松体验": [
+    "无失败压力：没有死亡或时间限制，玩家可以悠闲地观察和思考，适合放松体验",
+    "低压力设计：没有强制倒计时或失败惩罚，主打放松体验"
+  ],
+  "mechanic:解谜元素": [
+    "解谜元素：关卡中包含需要利用球体特性解决的谜题"
+  ],
+  "mechanic:即时游玩": [
+    "即时游玩：无需下载安装，点击即玩，降低尝试门槛",
+    "即时游玩机制",
+    "即时游玩：无需下载安装，降低尝试门槛"
+  ],
+  "mechanic:卡包收集": [
+    "卡包收集系统"
+  ],
+  "mechanic:联赛排名系统": [
+    "联赛排名"
+  ],
+  "mechanic:抽卡系统": [
+    "品种繁殖抽卡系统",
+    "抽卡系统：消耗钻石或金币抽取英雄卡牌"
+  ],
+  "mechanic:快速反应标记": [
+    "快速反应"
+  ],
+  "mechanic:像素风格_简洁可爱的视觉": [
+    "像素风格"
+  ],
+  "mechanic:渐进空间压缩": [
+    "空间压缩"
+  ],
+  "mechanic:战术部署_在有限的行动机会中选择最优的执行顺序": [
+    "战术部署"
+  ],
+  "mechanic:信息不对称_在多人对战中需要预判对手的意图": [
+    "信息不对称"
+  ],
+  "mechanic:物品收集": [
+    "物品收集与组合"
+  ],
+  "mechanic:手牌管理": [
+    "手牌管理机制：需要在出牌时考虑保留哪些牌、优先出哪些牌，考验策略性思考"
+  ],
+  "mechanic:辅助道具": [
+    "辅助道具：使用提示、撤销等道具帮助通过难关"
+  ],
+  "mechanic:装饰_建造系统": [
+    "建造系统"
+  ],
+  "mechanic:行列消除": [
+    "行列消除反馈"
+  ],
+  "mechanic:连击奖励": [
+    "连击奖励机制：连续击杀提高神力威力，鼓励玩家保持攻击节奏",
+    "连击奖励：连续正确完成获得额外金币",
+    "连击奖励机制"
+  ],
+  "mechanic:排行榜_锦标赛_leaderboard_tournament": [
+    "排行榜/锦标赛"
+  ],
+  "mechanic:三消匹配机制": [
+    "三消匹配机制：三个及以上相同颜色球体连接在一起触发消除，这是核心消除逻辑"
+  ],
+  "mechanic:步数压力": [
+    "步数压力机制"
+  ],
+  "mechanic:拖拽放置玩法": [
+    "放置玩法"
+  ],
+  "mechanic:英雄系统_独立的英雄单位_随回合数自动升级_提供强大的全局效果": [
+    "英雄系统"
+  ],
+  "mechanic:路径优化": [
+    "收集元素与路径优化"
+  ],
+  "mechanic:花园装饰系统": [
+    "装饰系统"
+  ],
+  "mechanic:多模式系统": [
+    "多模式系统：陶艺、蛋糕装饰等多种制作模式"
+  ],
+  "mechanic:资源收集与制作": [
+    "资源收集",
+    "资源采集与制作"
+  ],
+  "mechanic:实时策略进攻": [
+    "实时策略"
+  ],
+  "mechanic:路径规划_需要规划收集宝石的顺序和路径_确保不被困在死胡同或被岩石压到": [
+    "路径规划"
+  ],
+  "mechanic:三角色切换": [
+    "角色切换"
+  ],
+  "mechanic:极简规则约束": [
+    "规则约束",
+    "极简规则"
+  ],
+  "mechanic:限时压力测试_多数测试有严格时间限制_训练玩家在压力下的决策速度和准确性": [
+    "限时压力"
+  ],
+  "mechanic:多层谜题嵌套": [
+    "多层谜题"
+  ],
+  "mechanic:英雄多样性": [
+    "英雄多样性：独特能力和升级",
+    "英雄多样性与克制关系"
+  ],
+  "mechanic:特殊砖块机制_不同颜色砖块有不同强度_掉落道具提供临时增益": [
+    "特殊砖块"
+  ],
+  "mechanic:反弹角度控制": [
+    "角度控制"
+  ],
+  "mechanic:多球模式": [
+    "多球模式（Multiball）"
+  ],
+  "mechanic:速度递增_每款游戏的难度随关卡增加": [
+    "速度递增"
+  ],
+  "mechanic:怀旧界面": [
+    "怀旧界面：Windows 95风格的UI和HDD音效"
+  ],
+  "mechanic:弹球物理_真实的弹球反弹和碰撞": [
+    "弹球物理"
+  ],
+  "mechanic:材料经济系统": [
+    "经济系统"
+  ],
+  "mechanic:颜色匹配搭桥": [
+    "颜色匹配"
+  ],
+  "mechanic:多武器系统": [
+    "多武器系统：数十种武器各有独特手感和战术定位"
+  ],
+  "mechanic:属性成长": [
+    "角色属性成长"
+  ],
+  "mechanic:社区关卡系统": [
+    "社区关卡"
+  ],
+  "mechanic:重力下落机制": [
+    "重力下落"
+  ],
+  "mechanic:房产经济循环": [
+    "经济循环"
+  ],
+  "mechanic:合成系统": [
+    "链式合成系统",
+    "元素合成系统",
+    "装饰/建造反馈"
+  ],
+  "mechanic:自动射击_手动移动": [
+    "自动射击+手动移动：降低操作门槛，专注于走位和躲避"
+  ],
+  "mechanic:渐进挑战": [
+    "渐进挑战：随着游戏推进，难度缓慢但持续地增加"
+  ],
+  "mechanic:弹幕躲避": [
+    "弹幕躲避：玩家需要在密集的攻击中穿梭，考验反应速度和走位能力",
+    "弹幕躲避机制"
+  ],
+  "mechanic:弹幕密度递增": [
+    "弹幕密度"
+  ],
+  "mechanic:多种小游戏": [
+    "迷你游戏系统：拼图、分类、记忆配对等多种小游戏为寻物玩法增加变化",
+    "迷你游戏轮换：多种小游戏随机出现，考验反应速度"
+  ],
+  "mechanic:机关互动": [
+    "机关互动系统",
+    "机关互动：传送门、障碍、移动平台等增加挑战"
+  ],
+  "mechanic:金币升级循环_每次飞行收集的金币用于强化下一次飞行_形成渐进成长感": [
+    "升级循环"
+  ],
+  "mechanic:角色解锁系统_不同角色有不同的特殊能力和外观_提供收集和尝试的动力": [
+    "角色解锁"
+  ],
+  "mechanic:程序化生成赛道": [
+    "程序化生成"
+  ],
+  "mechanic:试错机制": [
+    "预览与试错机制：允许玩家在不计次数的情况下预览弹道，降低试错成本"
+  ],
+  "mechanic:罚分控制机制_玩家需要巧妙出牌避免收取红心和黑桃q_考验风险评估和策略思考": [
+    "风险评估"
+  ],
+  "mechanic:程序化关卡生成": [
+    "程序化关卡"
+  ],
+  "mechanic:单键操作": [
+    "简单单键操作：只需跳跃一个操作，但时机判断需要精准",
+    "单键操作：只需点击/长按即可完成所有操作，极简设计"
+  ],
+  "mechanic:距离_分数系统": [
+    "分数系统"
+  ],
+  "mechanic:关卡目标多样化_分数_果冻清除_成分收集等不同机制保持新鲜感": [
+    "目标多样",
+    "关卡目标多样化"
+  ],
+  "mechanic:关卡目标多样性": [
+    "目标多样性",
+    "关卡目标多样性：不同关卡有不同的标准杆数和隐藏目标，鼓励玩家尝试最优解"
+  ],
+  "mechanic:卡组构建": [
+    "卡组构建(Carding)"
+  ],
+  "mechanic:回合制对战": [
+    "多人回合制对战"
+  ],
+  "mechanic:漂移加速系统": [
+    "加速系统"
+  ],
+  "mechanic:角色差异化": [
+    "角色差异化: 不同角色有不同质量、速度和特殊技能，影响推撞策略。",
+    "角色差异",
+    "恐龙角色差异化系统"
+  ],
+  "mechanic:兵种搭配": [
+    "兵种相克系统：不同兵种之间存在克制关系，策略体现在兵种搭配"
+  ],
+  "mechanic:金币经济": [
+    "金币经济系统"
+  ],
+  "mechanic:rpg成长": [
+    "RPG 成长系统：角色升级提升基础属性"
+  ],
+  "mechanic:设施升级_提升产出效率": [
+    "设施升级"
+  ],
+  "mechanic:道具吸引力系统": [
+    "吸引力系统"
+  ],
+  "mechanic:场景切换": [
+    "场景切换机制"
+  ],
+  "mechanic:精准操作": [
+    "时机判定系统：起跳、转向、投掷等关键时刻需要精准操作，考验反应和节奏感"
+  ],
+  "mechanic:ai_难度分级": [
+    "难度分级"
+  ],
+  "mechanic:角色互动": [
+    "角色互动系统",
+    "多角色互动"
+  ],
+  "mechanic:渐进加速": [
+    "渐进加速：障碍物出现频率和奔跑速度同步提升，后期几乎需要肌肉记忆"
+  ],
+  "mechanic:模式识别": [
+    "弹幕模式识别"
+  ],
+  "mechanic:短小赛道_紧凑的赛道设计考验精确驾驶": [
+    "赛道设计"
+  ],
+  "mechanic:叙事分支": [
+    "叙事分支：关键对话选择影响故事走向"
+  ],
+  "mechanic:单位类型差异": [
+    "单位类型"
+  ],
+  "mechanic:建筑系统": [
+    "建筑系统：在每个地产上建造和升级建筑",
+    "建筑系统：大量方块和装饰建造城镇",
+    "建筑系统：自由建造各种结构"
+  ],
+  "mechanic:等级系统": [
+    "彩色等级系统",
+    "体型等级系统",
+    "等级系统：通过战斗获得经验值，升级解锁新内容"
+  ],
+  "mechanic:点击收集机制": [
+    "收集机制"
+  ],
+  "mechanic:自动生产_建筑自动产出资源_放置玩法": [
+    "自动生产"
+  ],
+  "mechanic:生产链_不同设施之间形成依赖关系_上游设施产出作为下游设施的原料": [
+    "生产链"
+  ],
+  "mechanic:随机事件_不可预测的事件增加了变数和重玩价值": [
+    "随机事件"
+  ],
+  "mechanic:圣水管理_每秒回复的资源系统_需要精确计算投入产出": [
+    "圣水管理"
+  ],
+  "mechanic:卡牌升级_提升卡牌等级增强属性": [
+    "卡牌升级"
+  ],
+  "mechanic:部落战和锦标赛_社交竞技玩法": [
+    "社交竞技"
+  ],
+  "mechanic:物理反弹": [
+    "物理反弹：墙壁反弹增加策略深度——可以故意反弹球改变路线",
+    "物理反弹机制"
+  ],
+  "mechanic:点击战斗_手动点击攻击怪物_是基础交互方式": [
+    "点击攻击"
+  ],
+  "mechanic:氏族系统_组队挑战不朽者boss的多人合作玩法": [
+    "多人合作"
+  ],
+  "mechanic:英雄雇佣_自动攻击怪物": [
+    "英雄雇佣"
+  ],
+  "mechanic:多英雄系统_不同英雄有不同_dps_和特殊技能_英雄搭配策略增加深度": [
+    "多英雄系统",
+    "英雄搭配",
+    "特殊技能"
+  ],
+  "mechanic:自动战斗系统": [
+    "战斗系统"
+  ],
+  "mechanic:马戏团主题多样性": [
+    "主题多样性"
+  ],
+  "mechanic:双视角切换": [
+    "视角切换"
+  ],
+  "mechanic:叙事驱动": [
+    "叙事驱动探索",
+    "叙事驱动：每次死亡推进故事，角色对话丰富",
+    "叙事驱动推进",
+    "叙事驱动机制",
+    "叙事驱动：通过物品了解主人公故事"
+  ],
+  "mechanic:声望系统_prestige": [
+    "声望系统"
+  ],
+  "mechanic:自由建造": [
+    "自由建造系统",
+    "星球自定义：自由建造和装饰，创造独特星球"
+  ],
+  "mechanic:平台跳跃_精确的跳跃时机要求_部分平台是移动或会消失的_考验反应速度": [
+    "平台跳跃"
+  ],
+  "mechanic:关卡_波次推进": [
+    "波次推进"
+  ],
+  "mechanic:海量游戏库": [
+    "海量游戏",
+    "海量游戏库：2000+款游戏，几乎不会玩腻"
+  ],
+  "mechanic:多品类覆盖": [
+    "多品类覆盖机制",
+    "多品类覆盖：20+款不同类型小游戏，满足不同需求"
+  ],
+  "mechanic:即开即玩": [
+    "即开即玩: 无需注册登录，打开游戏即可开始，适合聚会场景快速上手。",
+    "即开即玩：无需等待加载、无需管理金币或资源"
+  ],
+  "mechanic:智能推荐": [
+    "智能推荐：根据游玩历史推荐相似游戏",
+    "智能推荐：基于游玩历史推荐"
+  ],
+  "mechanic:星星收集加速_收集星星可以加速完成比赛": [
+    "星星收集"
+  ],
+  "mechanic:坦克移动": [
+    "俯视角坦克操控：2D俯视视角下控制坦克移动和射击，需要考虑地形遮挡和弹道轨迹"
+  ],
+  "mechanic:动态障碍": [
+    "动态障碍物"
+  ],
+  "mechanic:角度力度控制": [
+    "力度控制",
+    "角度与力度控制"
+  ],
+  "mechanic:多层迷宫": [
+    "多层迷宫结构"
+  ],
+  "mechanic:敌人多样性": [
+    "敌人多样性：不同类型敌人需要不同应对策略"
+  ],
+  "mechanic:同屏多人机制_一台设备多人同时玩_无需联网": [
+    "同屏多人机制"
+  ],
+  "mechanic:时机判定_需要在正确时刻切割_有时需要快速连续切割多根绳子": [
+    "时机判定"
+  ],
+  "mechanic:道具互动": [
+    "赛道道具互动",
+    "道具互动：可以使用道具如烟雾弹、干扰器等暂时消除威胁"
+  ],
+  "mechanic:连招系统": [
+    "连招系统：格斗游戏式的连续技，需要精确的按键时机"
+  ],
+  "mechanic:赛道记忆系统": [
+    "赛道记忆"
+  ],
+  "mechanic:寿司店经营_菜单管理_员工雇佣_设施升级": [
+    "员工雇佣"
+  ],
+  "mechanic:装备升级_氧气量_鱼叉威力_潜水速度等属性的逐步提升": [
+    "装备升级"
+  ],
+  "mechanic:制作系统_利用找到的材料制作药品_食物_武器": [
+    "制作系统"
+  ],
+  "mechanic:车辆升级": [
+    "车辆升级：引擎（速度）、轮胎（抓地力）、悬挂（减震）、四驱（爬坡能力）",
+    "车辆升级系统：速度、装甲、武器三个维度升级，每次升级直接影响下一次的表现"
+  ],
+  "mechanic:rpg融合": [
+    "三消RPG融合"
+  ],
+  "mechanic:武器切换系统": [
+    "武器切换",
+    "多武器切换系统"
+  ],
+  "mechanic:生命_弹药管理": [
+    "弹药管理"
+  ],
+  "mechanic:侦探推理": [
+    "手机侦探推理 (Phone Investigation)"
+  ],
+  "mechanic:四角色系统": [
+    "角色系统"
+  ],
+  "mechanic:障碍物系统_岩石_冰块_藤蔓等需要多次消除才能清除_增加策略深度": [
+    "障碍物系统"
+  ],
+  "mechanic:场景互动元素_弹簧_风扇_移动平台等辅助或干扰元素_增加关卡的变化性和策略性": [
+    "场景互动"
+  ],
+  "mechanic:倾斜控制": [
+    "倾斜控制：通过倾斜iPhone控制赛车转向，手感可管理但需要适应"
+  ],
+  "mechanic:跳跃机制": [
+    "平台跳跃机制：精确的跳跃手感是核心，包含二段跳、蹬墙跳等技巧",
+    "按住跳跃机制"
+  ],
+  "mechanic:多人实时竞技": [
+    "实时竞技"
+  ],
+  "mechanic:障碍物模式化": [
+    "障碍物模式"
+  ],
+  "mechanic:双路线选择": [
+    "路线选择"
+  ],
+  "mechanic:逐步解锁": [
+    "逐步解锁的元件库",
+    "渐进解锁：随着城市等级提升，逐步解锁更多建筑类型和装饰选项，保持长期的新鲜感"
+  ],
+  "mechanic:氮气加速_nos": [
+    "氮气加速"
+  ],
+  "mechanic:环境谜题系统": [
+    "环境谜题"
+  ],
+  "mechanic:波次递进": [
+    "丧尸波次递进",
+    "波次递进设计",
+    "波次递进与僵尸多样性"
+  ],
+  "mechanic:主题关卡": [
+    "多主题关卡"
+  ],
+  "mechanic:基于现有信息_该游戏属于rpg_地牢探索类型": [
+    "地牢探索"
+  ],
+  "mechanic:永久死亡机制": [
+    "永久死亡机制：死亡后失去所有进度，但可解锁新角色"
+  ],
+  "mechanic:开放世界探索": [
+    "开放世界探索：城市环境可自由移动，包含多种任务和活动",
+    "开放世界探索：攀爬、滑翔、游泳、骑马的自由移动"
+  ],
+  "mechanic:道具旋转系统": [
+    "旋转系统"
+  ],
+  "mechanic:回合制策略": [
+    "回合制策略战斗"
+  ],
+  "mechanic:寻物解谜_玩家需要在精心绘制的场景中寻找隐藏的物品_考验观察力和耐心": [
+    "寻物解谜"
+  ],
+  "mechanic:随机化收集品放置_每次游戏钱袋位置不同_但房子布局固定_要求玩家每次重新探索": [
+    "收集品"
+  ],
+  "mechanic:自动化流水线_传送带_组装机_冶炼炉构建生产链": [
+    "自动化流水线"
+  ],
+  "mechanic:物理抓取投掷": [
+    "物理抓取"
+  ],
+  "mechanic:事件系统": [
+    "天体组合事件系统",
+    "GM随机事件系统",
+    "随机事件系统：新物种发现、自然灾害、游客投诉等事件增加游戏的变化性和挑战性"
+  ],
+  "mechanic:经济管理": [
+    "经济管理系统"
+  ],
+  "mechanic:拼图收集奖励": [
+    "收集奖励"
+  ],
+  "mechanic:难度递进": [
+    "逐步难度递进"
+  ],
+  "mechanic:手绘美术": [
+    "手绘美术风格"
+  ],
+  "mechanic:能力升级": [
+    "能力升级：提升魔法力量"
+  ],
+  "mechanic:物理投掷": [
+    "物理投掷：水果以不同速度、角度和旋转抛出，需要判断轨迹"
+  ],
+  "mechanic:检查点系统": [
+    "检查点系统：失败后从最近的检查点重新开始，减少挫败感同时保持挑战性"
+  ],
+  "mechanic:旋转控制": [
+    "旋转控制 — 单手操作，通过旋转塔而非移动球来控制下落路径",
+    "螺旋旋转控制"
+  ],
+  "mechanic:多环境": [
+    "多环境多模式"
+  ],
+  "mechanic:载具系统_多种车辆可供驾驶_包含地面和可能的空中载具": [
+    "载具系统"
+  ],
+  "mechanic:收集品系统_关卡中隐藏收集品_增加探索乐趣": [
+    "收集品系统"
+  ],
+  "mechanic:元素反应系统": [
+    "元素反应系统：七种元素相互作用产生丰富战斗策略",
+    "反应系统"
+  ],
+  "mechanic:单手操作": [
+    "单手操作：一根手指拖动进度条，简单易上手"
+  ],
+  "mechanic:订单系统_顾客有不同口味和模糊要求": [
+    "订单系统"
+  ],
+  "mechanic:角色分配与隐藏身份": [
+    "角色分配"
+  ],
+  "mechanic:方块旋转_翻转": [
+    "方块旋转"
+  ],
+  "mechanic:路径连接": [
+    "路径连接规则"
+  ],
+  "mechanic:随机地牢生成": [
+    "随机地牢",
+    "随机地牢生成：每次重新开始的地图都不同"
+  ],
+  "mechanic:自动前进节奏": [
+    "自动前进"
+  ],
+  "mechanic:移动射击": [
+    "水平移动射击"
+  ],
+  "mechanic:赛道障碍": [
+    "赛道障碍：敌人和障碍物需要射击消灭或躲避"
+  ],
+  "mechanic:精准时机_点击时机和频率决定前进速度_需要节奏感": [
+    "节奏感"
+  ],
+  "mechanic:角色自定义_解锁有趣的方块角色和皮肤": [
+    "角色自定义"
+  ],
+  "mechanic:多角色解锁": [
+    "多角色解锁：数十个可玩角色各有独特机制"
+  ],
+  "mechanic:弹道射击": [
+    "物理弹道射击"
+  ],
+  "mechanic:法力水晶": [
+    "法力水晶系统"
+  ],
+  "mechanic:发现机制": [
+    "词汇发现机制",
+    "单词发现机制"
+  ],
+  "mechanic:危险区域惩罚": [
+    "危险区域"
+  ],
+  "mechanic:肉鸽房间系统": [
+    "房间系统"
+  ],
+  "mechanic:喷气背包": [
+    "喷气背包飞行系统"
+  ],
+  "mechanic:防御机制": [
+    "路径防御机制"
+  ],
+  "mechanic:收集图鉴系统": [
+    "图鉴系统",
+    "收集图鉴系统：每种生物都有详细的图鉴介绍，满足收集癖玩家的需求。"
+  ],
+  "mechanic:双模式切换机制": [
+    "双模式切换"
+  ],
+  "mechanic:金币收集_路上散落的金币和空中的金币圈": [
+    "金币收集"
+  ],
+  "mechanic:多人实时竞争_多个黑洞在同一地图上争夺资源_需要策略性地抢大目标": [
+    "多人实时竞争"
+  ],
+  "mechanic:护符系统": [
+    "魔法护符系统"
+  ],
+  "mechanic:剧情驱动_austin的故事线贯穿始终": [
+    "剧情驱动"
+  ],
+  "mechanic:战技点管理_全队共享资源池_需要合理分配": [
+    "战技点管理"
+  ],
+  "mechanic:属性克制_七种属性相互克制_影响队伍构建": [
+    "队伍构建"
+  ],
+  "mechanic:卡牌能量管理": [
+    "能量管理"
+  ],
+  "mechanic:多游戏轮换": [
+    "多游戏轮换机制"
+  ],
+  "mechanic:实时匹配系统": [
+    "实时匹配"
+  ],
+  "mechanic:技能匹配": [
+    "技能匹配系统"
+  ],
+  "mechanic:自动瞄准射击": [
+    "自动瞄准"
+  ],
+  "mechanic:滑动控制_单指滑动控制方向_操作简单": [
+    "滑动控制"
+  ],
+  "mechanic:墙壁反弹互动": [
+    "墙壁反弹"
+  ],
+  "mechanic:武器差异": [
+    "武器差异化",
+    "武器差异系统"
+  ],
+  "mechanic:色彩渐变识别": [
+    "色彩渐变"
+  ],
+  "mechanic:无压力体验": [
+    "无压力体验：无时间限制、无 Game Over",
+    "无压力体验：无计时、无失败条件"
+  ],
+  "mechanic:点击收集_点击动物收集金币_是最基础的交互方式": [
+    "动物收集"
+  ],
+  "mechanic:极简设计_专注于数字和决策_减少视觉干扰": [
+    "极简设计"
+  ],
+  "mechanic:区域递进解锁": [
+    "递进解锁"
+  ],
+  "mechanic:武器多样性_不同武器有不同攻击模式和特效": [
+    "武器多样性"
+  ],
+  "mechanic:球员养成_通过比赛获得的经验值提升球员属性_打击_防守_速度等": [
+    "球员属性"
+  ],
+  "mechanic:科幻武器多样化_激光_导弹_电磁脉冲等不同类型的武器应对不同敌人": [
+    "武器多样化"
+  ],
+  "mechanic:放置挂机机制": [
+    "放置挂机"
+  ],
+  "mechanic:滑动连接消除": [
+    "滑动连接"
+  ],
+  "mechanic:渐进式障碍系统": [
+    "障碍系统"
+  ],
+  "mechanic:精准跳跃": [
+    "精准跳跃（Precision Jumping）"
+  ],
+  "mechanic:物理弹道": [
+    "物理弹道模拟"
+  ],
+  "mechanic:物理碰撞消除": [
+    "碰撞消除"
+  ],
+  "mechanic:时机判断": [
+    "自动奔跑+手动躲避：降低操作门槛，专注于时机判断"
+  ],
+  "mechanic:惯性跳跃系统": [
+    "跳跃系统"
+  ],
+  "mechanic:rummy组牌": [
+    "Rummy组牌策略"
+  ],
+  "mechanic:任务引导": [
+    "任务引导系统"
+  ],
+  "mechanic:零压力设计": [
+    "零压力设计哲学"
+  ],
+  "mechanic:评分反馈": [
+    "评分反馈：系统根据制作精度给出评分"
+  ],
+  "mechanic:社交排行": [
+    "社交排行与多人"
+  ],
+  "mechanic:节奏判定": [
+    "节奏判定系统"
+  ],
+  "mechanic:回合制战术战斗": [
+    "战术战斗"
+  ],
+  "mechanic:离线进度": [
+    "离线进度：关闭游戏后队伍继续战斗，返回时收取金币",
+    "离线进度：英雄继续战斗"
+  ],
+  "mechanic:厨房设备升级": [
+    "设备升级"
+  ],
+  "mechanic:任务驱动推进": [
+    "任务驱动"
+  ],
+  "mechanic:解锁进度": [
+    "能力解锁进度（Metroidvania）"
+  ],
+  "mechanic:掩体系统": [
+    "掩体系统：利用掩体躲避敌人攻击，增加策略维度",
+    "掩体系统：利用掩体躲避子弹，增加策略深度"
+  ],
+  "mechanic:技能组合_生物学习多种技能_搭配策略丰富": [
+    "技能组合"
+  ],
+  "mechanic:多房间关卡_每个房间都有不同的陷阱和道具组合": [
+    "道具组合"
+  ],
+  "mechanic:渐进解锁_部分高级游戏需要达到一定总积分才能解锁_激励持续游玩": [
+    "渐进解锁"
+  ],
+  "mechanic:障碍关卡": [
+    "障碍关卡设计"
+  ],
+  "mechanic:多人对战模式": [
+    "双模式支持: 单人练习模式提升技能，多人对战模式享受竞技乐趣。"
+  ],
+  "mechanic:生存模式": [
+    "双模式系统：生存模式有挑战性，创造模式自由无限制"
+  ],
+  "mechanic:日夜循环_生存压力": [
+    "日夜循环"
+  ],
+  "mechanic:潜行机制_视线回避_噪音管理和守卫巡逻模式": [
+    "潜行机制"
+  ],
+  "mechanic:场景探索": [
+    "场景探索：不同场景有不同路线和跳台"
+  ],
+  "mechanic:掷骰移动": [
+    "经典掷骰移动"
+  ],
+  "mechanic:基地建造_建造和升级基地来存储资源和防御敌人": [
+    "基地建造"
+  ],
+  "mechanic:缩圈机制": [
+    "大逃杀缩圈机制：安全区不断缩小，强制玩家遭遇"
+  ],
+  "mechanic:分数倍率": [
+    "连击加成：连续完成特技获得分数倍率"
+  ],
+  "mechanic:等距视角呈现": [
+    "等距视角"
+  ],
+  "mechanic:淘汰赛制": [
+    "多轮淘汰赛制"
+  ],
+  "mechanic:角色特殊能力_10个角色各有独特技能": [
+    "角色特殊能力"
+  ],
+  "mechanic:兵种克制": [
+    "兵种克制系统",
+    "兵种克制与协同系统"
+  ],
+  "mechanic:阳光经济_种植产生阳光的植物来获取资源": [
+    "阳光经济"
+  ],
+  "mechanic:政治层级递进_从地方到全国的多层级晋升系统_提供清晰的长期目标": [
+    "层级递进"
+  ],
+  "mechanic:任务推进_送达邮件推进故事_解锁新区域": [
+    "任务推进"
+  ],
+  "mechanic:可变重力系统": [
+    "重力系统"
+  ],
+  "mechanic:岛屿探索": [
+    "多岛屿探索：解锁新岛屿带来新的资源类型和挑战，驱动持续扩张"
+  ],
+  "mechanic:任务系统_每个区域有独立的任务链_完成任务获得奖励和故事推进_任务类型多样": [
+    "任务链"
+  ],
+  "mechanic:平台跳跃_结合滚动和跳跃的混合操作_需要精确的时机把握": [
+    "时机把握"
+  ],
+  "mechanic:elo匹配": [
+    "ELO匹配系统：根据玩家水平匹配对手，保证竞技公平性"
+  ],
+  "mechanic:层叠遮挡机制": [
+    "层叠遮挡"
+  ],
+  "mechanic:意图系统": [
+    "回合制意图系统：显示敌人下一步行动，需要策略应对"
+  ],
+  "mechanic:遗物系统": [
+    "遗物系统：被动增益物品，改变游戏策略"
+  ],
+  "mechanic:无目标设计": [
+    "无目标设计：无计分、无失败、无压力"
+  ],
+  "mechanic:单词拼写消除": [
+    "单词拼写"
+  ],
+  "mechanic:棋盘字母管理": [
+    "字母管理"
+  ],
+  "mechanic:路线分支": [
+    "多路线分支"
+  ],
+  "mechanic:自动射击加方向控制": [
+    "方向控制"
+  ],
+  "mechanic:战术射击": [
+    "战术射击移动"
+  ],
+  "mechanic:棋盘空间策略": [
+    "空间策略"
+  ],
+  "mechanic:极速回合制": [
+    "极速回合制设计"
+  ],
+  "mechanic:随机小游戏": [
+    "随机小游戏轮转"
+  ],
+  "mechanic:清版过关战斗_经典横版战斗_包含拳_踢_跳和特殊攻击连招": [
+    "横版战斗"
+  ],
+  "mechanic:团队配合": [
+    "团队协作机制 — 需要分工（上单、打野、中单、辅助），团队配合决定胜负"
+  ],
+  "mechanic:塔升级": [
+    "塔升级系统",
+    "波次管理"
+  ],
+  "mechanic:多层次空间_每个房间有隐藏隔层_暗门和秘密通道": [
+    "秘密通道"
+  ],
+  "mechanic:多层嵌套谜题": [
+    "多层嵌套谜题 — 每个盒子内部还有盒子，层层递进的结构带来持续的惊喜"
+  ],
+  "mechanic:程序化地图": [
+    "程序化地图生成"
+  ],
+  "mechanic:零信息博弈": [
+    "信息博弈"
+  ],
+  "mechanic:挡板控制": [
+    "双挡板控制"
+  ],
+  "mechanic:每日一词_每天只有一个单词_稀缺性制造期待": [
+    "每日一词"
+  ],
+  "genre:动作休闲": [
+    "休闲",
+    "动作"
+  ],
+  "genre:解谜": [
+    "益智解谜",
+    "经典解谜",
+    "解谜逃脱",
+    "逃脱解谜",
+    "视觉小说解谜",
+    "叙事解谜",
+    "解谜冒险",
+    "超休闲解谜",
+    "解谜破坏",
+    "物理构建解谜",
+    "逻辑解谜",
+    "平台跳跃 + 解谜",
+    "休闲解谜",
+    "合并解谜",
+    "方块解谜",
+    "空间解谜",
+    "消除解谜",
+    "3D方块解谜",
+    "方块消除解谜",
+    "无计时解谜",
+    "排序解谜",
+    "挖掘解谜",
+    "文字解谜",
+    "物理绘图解谜",
+    "物理益智解谜",
+    "多合一解谜",
+    "关卡制解谜",
+    "弹射解谜",
+    "合成解谜",
+    "冒险解谜",
+    "寻物解谜",
+    "物理切割解谜",
+    "物理解谜",
+    "平衡解谜",
+    "元素合成解谜",
+    "交通疏导解谜",
+    "3D管道导向解谜",
+    "3D物理益智解谜",
+    "视觉解谜",
+    "跑酷解谜",
+    "动作解谜",
+    "声波解谜",
+    "找物解谜",
+    "三消解谜",
+    "第一人称冒险解谜",
+    "连线解谜",
+    "逻辑连接解谜",
+    "连接解谜",
+    "放松解谜",
+    "回合制解谜",
+    "策略解谜",
+    "锁具解谜",
+    "三消解谜冒险",
+    "解谜 + 叙事 + 模拟经营",
+    "3D匹配解谜",
+    "3D解谜",
+    "解谜平台",
+    "休闲解谜合集",
+    "线路规划解谜",
+    "视觉错位解谜",
+    "平台解谜",
+    "线条解谜",
+    "三消解谜+装饰",
+    "物理弹射解谜",
+    "3D 螺丝解谜",
+    "螺丝解谜",
+    "方块放置解谜",
+    "形状解谜",
+    "工厂建造 + 自动化解谜",
+    "滑块解谜",
+    "潜行解谜",
+    "路径规划解谜",
+    "瓷砖解谜",
+    "解谜合集",
+    "旋转解谜",
+    "创意解谜",
+    "连线消除解谜",
+    "解谜 RPG",
+    "编织解谜",
+    "划线解谜"
+  ],
+  "genre:逃脱": [
+    "房间逃脱",
+    "密室逃脱"
+  ],
+  "genre:卡牌": [
+    "卡牌对战",
+    "卡牌 RPG",
+    "卡牌收集",
+    "卡牌构建",
+    "卡牌策略",
+    "实时策略卡牌对战",
+    "二战卡牌",
+    "双人策略卡牌",
+    "集换卡牌",
+    "Roguelike卡牌",
+    "卡牌构筑",
+    "肉鸽卡牌",
+    "策略卡牌"
+  ],
+  "genre:card_board": [
+    "Card",
+    "Board"
+  ],
+  "genre:经典益智": [
+    "益智"
+  ],
+  "genre:滑块拼图": [
+    "拼图"
+  ],
+  "genre:puzzle": [
+    "Maze Puzzle",
+    "Word Puzzle",
+    "Hidden Object Puzzle",
+    "Physics Puzzle"
+  ],
+  "genre:逻辑": [
+    "逻辑推理",
+    "逻辑规划",
+    "空间逻辑",
+    "连线逻辑",
+    "逻辑连线",
+    "数字逻辑"
+  ],
+  "genre:games": [
+    "Mini-games"
+  ],
+  "genre:休闲合集": [
+    "合集",
+    "休闲合集（多品类迷你游戏集合）"
+  ],
+  "genre:街机": [
+    "街机弹射",
+    "街机滚动",
+    "街机合集",
+    "动作街机",
+    "复古街机",
+    "街机驾驶",
+    "休闲街机",
+    "街",
+    "街机动作",
+    "街机清版动作",
+    "街机竞速",
+    "街机射击",
+    "街机生存",
+    "街机足球",
+    "街机跑酷",
+    "街机小游戏",
+    "街机赛车",
+    "体育街机",
+    "无尽街机赛车",
+    "街机反应"
+  ],
+  "genre:飞行模拟": [
+    "模拟"
+  ],
+  "genre:策略射击": [
+    "策略",
+    "射击"
+  ],
+  "genre:冒险生存": [
+    "冒险",
+    "生存"
+  ],
+  "genre:party": [
+    "Art"
+  ],
+  "genre:多人派对游戏合集_本地同屏对战": [
+    "多人派对",
+    "派对",
+    "多人派对游戏",
+    "本地同屏",
+    "对战",
+    "派对游戏",
+    "游戏",
+    "多人",
+    "游戏合集",
+    "多人派对游戏合集",
+    "派对游戏合集"
+  ],
+  "genre:放置": [
+    "放置点击",
+    "放置 RPG",
+    "放置模拟",
+    "空间放置",
+    "放置装饰",
+    "放置策略",
+    "骰子放置",
+    "放置升级",
+    "三消 + 放置 + 角色扮演",
+    "放置经营",
+    "放置生存",
+    "点击放置",
+    "放置建造",
+    "策略放置",
+    "肉鸽放置RPG",
+    "休闲放置",
+    "放置塔防",
+    "方块放置"
+  ],
+  "genre:点击": [
+    "点击冒险",
+    "点击增量（Idle",
+    "点击竞技",
+    "点击建造",
+    "点击RPG"
+  ],
+  "genre:迷你游戏": [
+    "派对迷你游戏合集",
+    "多模式迷你游戏",
+    "迷你游戏合集",
+    "迷你游戏集合",
+    "休闲迷你游戏合集",
+    "益智迷你游戏"
+  ],
+  "genre:多人竞技": [
+    "竞技"
+  ],
+  "genre:本地派对": [
+    "多人本地派对"
+  ],
+  "genre:社交派对": [
+    "社交",
+    "社交派对问答"
+  ],
+  "genre:连线消除": [
+    "连线",
+    "消除"
+  ],
+  "genre:三消": [
+    "三消匹配",
+    "三消变体",
+    "经典三消",
+    "三消对战",
+    "合并三消",
+    "三消 + RPG",
+    "三消益智",
+    "三消匹配 + 模拟经营"
+  ],
+  "genre:rpg": [
+    "弹射 RPG",
+    "策略RPG",
+    "动作 RPG",
+    "角色扮演 RPG",
+    "ARPG",
+    "回合制 RPG",
+    "RPG冒险",
+    "末日生存RPG",
+    "地牢探索RPG",
+    "Roguelike RPG",
+    "肉鸽RPG",
+    "开放世界动作RPG",
+    "JRPG",
+    "体育RPG",
+    "MMORPG",
+    "生活 RPG",
+    "探索 RPG",
+    "RPG (JRPG)",
+    "像素 RPG"
+  ],
+  "genre:塔防": [
+    "轨道塔防",
+    "策略塔防",
+    "塔防 + 策略"
+  ],
+  "genre:asmr休闲": [
+    "ASMR"
+  ],
+  "genre:体育": [
+    "体育竞技",
+    "体育模拟",
+    "体育管理模拟",
+    "体育竞速",
+    "体育休闲",
+    "休闲体育"
+  ],
+  "genre:恶搞": [
+    "物理障碍赛 + 恶搞",
+    "恶搞挑战",
+    "物理恶搞"
+  ],
+  "genre:action": [
+    "IO",
+    "Action Adventure",
+    "Action platformer",
+    "Stealth action"
+  ],
+  "genre:反应": [
+    "反应力测试",
+    "反应类",
+    "反应躲避",
+    "反应平台",
+    "反应力",
+    "反应速度",
+    "反应力对战"
+  ],
+  "genre:平台跳跃": [
+    "平台",
+    "合作平台跳跃",
+    "硬核平台跳跃",
+    "横版平台跳跃",
+    "肉鸽平台跳跃",
+    "单指平台跳跃",
+    "物理平台跳跃"
+  ],
+  "genre:太空模拟": [
+    "太空"
+  ],
+  "genre:禅意": [
+    "禅意益智"
+  ],
+  "genre:棋盘策略": [
+    "棋盘"
+  ],
+  "genre:竞速": [
+    "模拟竞速",
+    "竞速管理",
+    "竞速收集",
+    "越野竞速",
+    "休闲竞速",
+    "竞速射击",
+    "蒸汽朋克竞速",
+    "赛车竞速",
+    "竞速飞行",
+    "多人竞速",
+    "卡通竞速",
+    "技巧竞速",
+    "竞速对战"
+  ],
+  "genre:推理": [
+    "社交推理",
+    "骰子推理",
+    "文字推理"
+  ],
+  "genre:跑酷": [
+    "无尽跑酷",
+    "休闲跑酷",
+    "横版跑酷",
+    "弹球跑酷",
+    "节奏跑酷",
+    "弹幕跑酷",
+    "超休闲跑酷",
+    "io 跑酷",
+    "赛车跑酷",
+    "跑酷射击"
+  ],
+  "genre:休闲益智": [
+    "休闲益智合集"
+  ],
+  "genre:多人在线": [
+    "多人在线竞技 + 升级",
+    "IO多人在线竞技",
+    "MOBA（多人在线战斗竞技场）",
+    "多人在线生存"
+  ],
+  "genre:模拟经营": [
+    "经营"
+  ],
+  "genre:tycoon": [
+    "Tycoon Simulation"
+  ],
+  "genre:时间管理": [
+    "时间",
+    "管理"
+  ],
+  "genre:进化益智": [
+    "进化"
+  ],
+  "genre:艺术": [
+    "像素艺术",
+    "艺术步行模拟",
+    "艺术游戏"
+  ],
+  "genre:沙丘冲浪": [
+    "冲浪"
+  ],
+  "genre:无尽滑雪": [
+    "滑雪",
+    "无尽"
+  ],
+  "genre:像素射击": [
+    "像素"
+  ],
+  "genre:roguelike": [
+    "动作Roguelike",
+    "像素风 Roguelike",
+    "Roguelike动作",
+    "Roguelike 地牢探索",
+    "Roguelike 射击",
+    "Roguelite"
+  ],
+  "genre:叙事冒险": [
+    "叙事"
+  ],
+  "genre:物理弹射": [
+    "弹射",
+    "物理",
+    "超休闲物理弹射"
+  ],
+  "genre:收集": [
+    "赛车收集",
+    "怪物收集",
+    "照片收集",
+    "潜行收集"
+  ],
+  "genre:simulation": [
+    "Farming Simulation"
+  ],
+  "genre:第一人称": [
+    "第一人称射击",
+    "第一人称射击 (FPS)",
+    "第一人称射击混合"
+  ],
+  "genre:非欧几何": [
+    "几何"
+  ],
+  "genre:沙盒": [
+    "沙盒建造",
+    "创意沙盒",
+    "沙盒冒险",
+    "沙盒模拟",
+    "沙盒创造",
+    "沙盒创作"
+  ],
+  "genre:游戏平台": [
+    "社交游戏平台",
+    "小游戏平台",
+    "休闲游戏合集（超大规模小游戏平台）"
+  ],
+  "genre:游戏中心": [
+    "社交游戏中心"
+  ],
+  "genre:合并消除": [
+    "合并"
+  ],
+  "genre:战棋": [
+    "回合制战棋"
+  ],
+  "genre:工具": [
+    "浏览器工具"
+  ],
+  "genre:合成消除": [
+    "合成"
+  ],
+  "genre:物理吞噬": [
+    "吞噬"
+  ],
+  "genre:自动战斗": [
+    "战斗"
+  ],
+  "genre:大逃杀": [
+    "大逃杀射击"
+  ],
+  "genre:回合制策略": [
+    "回合制"
+  ],
+  "genre:策略棋盘": [
+    "抽象策略棋盘"
+  ],
+  "genre:科幻策略": [
+    "科幻"
+  ],
+  "genre:增量游戏": [
+    "增量"
+  ],
+  "genre:音乐节奏": [
+    "音乐",
+    "节奏"
+  ],
+  "genre:3d射击": [
+    "3D"
+  ],
+  "genre:基地建设": [
+    "建设"
+  ],
+  "genre:休闲竞技": [
+    "休闲竞技合集",
+    "超休闲竞技"
+  ],
+  "genre:格斗": [
+    "动作格斗",
+    "节奏格斗",
+    "平台格斗",
+    "格斗竞技"
+  ],
+  "genre:物理建造": [
+    "建造"
+  ],
+  "genre:博彩模拟": [
+    "博彩"
+  ],
+  "genre:休闲游戏合集": [
+    "超大型休闲游戏合集"
+  ],
+  "genre:弹幕射击": [
+    "弹幕",
+    "弹幕射击 (Shoot 'em up)"
+  ],
+  "genre:策略角色扮演": [
+    "角色扮演"
+  ],
+  "genre:堆叠消除": [
+    "堆叠"
+  ],
+  "genre:方块消除": [
+    "竞技方块消除"
+  ],
+  "genre:匹配": [
+    "3D方块匹配",
+    "连线匹配"
+  ],
+  "genre:花园装饰": [
+    "装饰"
+  ],
+  "genre:战斗赛车": [
+    "赛车"
+  ],
+  "genre:问答游戏": [
+    "问答"
+  ],
+  "genre:脑力训练": [
+    "脑力"
+  ],
+  "genre:多人对战": [
+    "像素风多人对战",
+    ".io 多人对战",
+    "FPS 多人对战"
+  ],
+  "genre:弹球": [
+    "弹球逃生",
+    "物理弹球",
+    "弹球消除"
+  ],
+  "genre:复古游戏合集": [
+    "复古"
+  ],
+  "genre:超休闲": [
+    "超休闲射击",
+    "超休闲动作",
+    "超休闲物理",
+    "超休闲时机判断"
+  ],
+  "genre:弹幕躲避": [
+    "躲避"
+  ],
+  "genre:开放世界": [
+    "开放世界探索"
+  ],
+  "genre:配对": [
+    "配对消除"
+  ],
+  "genre:社交聚会": [
+    "聚会"
+  ],
+  "genre:色彩混合": [
+    "色彩"
+  ],
+  "genre:策略战争": [
+    "战争"
+  ],
+  "genre:英雄养成": [
+    "养成"
+  ],
+  "genre:物理攀爬": [
+    "攀爬"
+  ],
+  "genre:推箱子": [
+    "推箱子变体"
+  ],
+  "genre:生活模拟": [
+    "虚拟生活模拟"
+  ],
+  "genre:小游戏合集": [
+    "派对小游戏合集",
+    "聚会小游戏合集",
+    "放松小游戏合集",
+    "竞技小游戏合集",
+    "多人小游戏合集"
+  ],
+  "genre:潜行": [
+    "潜行策略",
+    "潜行冒险",
+    "休闲潜行"
+  ],
+  "genre:横版动作": [
+    "横版动作平台"
+  ],
+  "genre:横版闯关": [
+    "闯关"
+  ],
+  "genre:战术": [
+    "战术射击",
+    "战术策略",
+    "多人战术射击",
+    "回合制战术"
+  ],
+  "genre:肉鸽生存": [
+    "肉鸽"
+  ],
+  "genre:喜剧": [
+    "科幻喜剧"
+  ],
+  "genre:地牢探索": [
+    "探索"
+  ],
+  "genre:驾驶": [
+    "驾驶模拟",
+    "物理驾驶"
+  ],
+  "genre:抽象旋转": [
+    "抽象"
+  ],
+  "genre:即时战略_rts": [
+    "即时战略"
+  ],
+  "genre:骰子策略": [
+    "骰子"
+  ],
+  "genre:挖掘": [
+    "挖掘冒险",
+    "挖掘探索"
+  ],
+  "genre:恐怖": [
+    "生存恐怖",
+    "恐怖生存"
+  ],
+  "genre:创造": [
+    "生存创造"
+  ],
+  "genre:搞笑休闲": [
+    "搞笑"
+  ],
+  "genre:剧情驱动": [
+    "剧情"
+  ],
+  "genre:隐藏物品寻物": [
+    "隐藏物品"
+  ],
+  "genre:休闲放松": [
+    "放松"
+  ],
+  "genre:翻转": [
+    "空间翻转"
+  ],
+  "genre:摩托车越野": [
+    "摩托车"
+  ],
+  "genre:迷你高尔夫": [
+    "高尔夫"
+  ],
+  "genre:领土争夺": [
+    "领土"
+  ],
+  "genre:互动叙事": [
+    "互动"
+  ],
+  "genre:合作": [
+    "合作动作",
+    "社交合作",
+    "合作冒险"
+  ],
+  "genre:色彩排序": [
+    "排序"
+  ],
+  "genre:极简": [
+    "极简策略"
+  ],
+  "genre:弹跳躲避": [
+    "弹跳"
+  ],
+  "genre:文字冒险": [
+    "文字"
+  ],
+  "genre:策略自走棋": [
+    "自走棋"
+  ],
+  "genre:城镇建造": [
+    "合并+城镇建造"
+  ],
+  "genre:俯视角射击": [
+    "俯视角"
+  ],
+  "genre:放松解压": [
+    "解压"
+  ],
+  "genre:迷宫追逐": [
+    "迷宫"
+  ],
+  "genre:social_networking": [
+    "Social"
+  ],
+  "genre:宠物模拟": [
+    "宠物"
+  ],
+  "genre:拼字": [
+    "拼字游戏"
+  ],
+  "genre:实时对战": [
+    "1v1实时对战"
+  ],
+  "platform:mobile_psp": [
+    "Mobile",
+    "PS",
+    "PSP"
+  ],
+  "platform:ios": [
+    "Mobile (iOS)"
+  ],
+  "platform:mobile_ios_android": [
+    "Android)",
+    "iOS+Android",
+    "Mobile (iOS+Android) + PC + 主机",
+    "Mobile (iOS+Android) + PC",
+    "Mobile (iOS+Android) — 需Netflix会员"
+  ],
+  "platform:pc": [
+    "PC (Steam)",
+    "PC (Windows)",
+    "PC（桌面客户端）",
+    "PC (Linux",
+    "PC (独立游戏)",
+    "PC（重制版）",
+    "PC (Browser",
+    "PC (Epic)"
+  ],
+  "platform:console": [
+    "3DS Virtual Console"
+  ],
+  "platform:web": [
+    "Web (浏览器)",
+    "Web (Flash)",
+    "Web (Facebook",
+    "Web (Chrome浏览器离线页面)",
+    "Web (Flash) → 现通过 Flashpoint",
+    "Web（部分浏览器版本）",
+    "Web (HTML5"
+  ],
+  "platform:switch": [
+    "Nintendo Switch",
+    "Switch 2"
+  ],
+  "platform:flash_原始版": [
+    "Flash"
+  ],
+  "platform:xbox_one": [
+    "Xbox"
+  ],
+  "platform:主机_重制版": [
+    "主机"
+  ],
+  "platform:playstation": [
+    "PlayStation Vita",
+    "PlayStation 5",
+    "PlayStation Portable"
+  ],
+  "platform:dsiware": [
+    "DSi"
+  ],
+  "platform:mac": [
+    "macOS"
+  ],
+  "platform:ipad": [
+    "Mobile (iOS+iPadOS)"
+  ],
+  "platform:board_game": [
+    "Board Game (桌游)"
+  ],
+  "platform:wii": [
+    "Wii U"
+  ],
+  "platform:多平台": [
+    "多平台复刻",
+    "多平台移植",
+    "主机（多平台）"
+  ],
+  "platform:arcade": [
+    "Xbox Live Arcade",
+    "Multi-platform (Arcade",
+    "Mobile (iOS Apple Arcade+)",
+    "Mobile (iOS via Apple Arcade)"
+  ],
+  "platform:全平台": [
+    "主机全平台"
+  ],
+  "platform:game_boy": [
+    "Game Boy (GB)",
+    "Game Boy Color"
+  ],
+  "platform:windows_8": [
+    "Windows"
+  ],
+  "platform:iphone": [
+    "iOS (iPhone)"
+  ],
+  "dev:mediatonic": [
+    "N",
+    "A"
+  ],
+  "dev:peaksel": [
+    "EA"
+  ],
+  "dev:forsbit_llc": [
+    "LLC"
+  ],
+  "dev:sony_computer_entertainment_europe": [
+    "Sony"
+  ],
+  "dev:详见app_store": [
+    "详见App Store页面"
+  ],
+  "dev:unknown": [
+    "Unknown (cross-platform port)",
+    "Unknown .io 开发者",
+    "Unknown (基于电影IP授权)"
+  ],
+  "dev:ltd": [
+    "LIHUHU PTE. LTD.（及其他类似产品开发商）",
+    "KIARY GAMES LTD",
+    "Synoptical Studios Ltd",
+    "Nova Sphere Ltd.",
+    "Skip Ltd.",
+    "10tons Ltd",
+    "Playstack Ltd",
+    "Bushiroad International Pte. Ltd.",
+    "Chengdu Fserking sports technology co.LTD",
+    "WingsMob Global Ltd.",
+    "SayGames LTD",
+    "Fumb Games Ltd.",
+    "Playtika LTD",
+    "VirtTrade Ltd",
+    "JoyBits Ltd.",
+    "My Town Games LTD",
+    "CONVERGE AI PTE. LTD.",
+    "Wisdom Network Ltd.",
+    "Ilyon Dynamics Ltd.",
+    "Hot Right Now LTD",
+    "Beach Bum Ltd.",
+    "JoyBits Co Ltd.",
+    "SUPERSONIC STUDIOS LTD",
+    "Amanotes Pte Ltd",
+    "Metro Trains Melbourne Pty Ltd",
+    "FUNFLY PTE. LTD.",
+    "Glitch Games Ltd",
+    "Feral Interactive Ltd",
+    "Turbo Chilli Pty Ltd",
+    "Hutch Games Ltd",
+    "iWare Designs Ltd.",
+    "AppQuantum Publishing Ltd",
+    "WILD CALY PTE. LTD.",
+    "Century Games Pte. Ltd.",
+    "Hitapps Games LTD",
+    "KlickTock Pty Ltd",
+    "Easybrain Ltd",
+    "Plarium Global Ltd",
+    "Skystone Games Pte. Ltd.（Moonton）",
+    "Skystone Games Pte. Ltd.",
+    "Candivore LTD",
+    "LIHUHU PTE. LTD.",
+    "Payge Ltd",
+    "Original Games Pte. Ltd.",
+    "Shenyang Kidbear Network Technology Co. Ltd.",
+    "Full Fat Productions Ltd",
+    "NextGen Reality Pty. Ltd.",
+    "Outplay Entertainment Ltd",
+    "SweatyChair Pty. Ltd.",
+    "HYPERHUG LTD",
+    "Honey Badger Games LTD",
+    "Survival Games Ltd",
+    "PocketHaven Games Ltd.",
+    "First Touch Games Ltd.",
+    "IEC GAMES AUSTRALIA PTY LTD",
+    "CADENVERSE PTE. LTD.",
+    "XD Entertainment Pte Ltd",
+    "Kwalee Ltd",
+    "Topsmart Mobile Ltd.",
+    "FlukeDude Ltd",
+    "SMG STUDIO PTY LTD",
+    "PlaySimple Games Pte Ltd",
+    "NODRIX GAMES PTE. LTD.",
+    "MX INNOVATION PTE. LTD.",
+    "Huuuge Global Ltd.",
+    "Skgames (Yazilim Muhendislik Teknoloji Ltd. Sti.)",
+    "Boombox Games LTD",
+    "Vintolo Ltd",
+    "VITA STUDIO PTE. LTD.",
+    "IEC GLOBAL PTY LTD",
+    "Baoyong Ltd",
+    "Oasis Games LTD",
+    "Mad Brain Games LTD"
+  ],
+  "dev:jindoblu_limited": [
+    "Limited"
+  ],
+  "dev:nintendo": [
+    "Nintendo SPD"
+  ],
+  "dev:warner_bros": [
+    "Warner Bros. Entertainment"
+  ],
+  "dev:crazygames_平台": [
+    "CrazyGames"
+  ],
+  "dev:miniclip": [
+    "Miniclip SA",
+    "Dillon Vincent Apps (Miniclip)",
+    "Miniclip.com"
+  ],
+  "dev:gameloft": [
+    "Gameloft（Netflix）"
+  ],
+  "dev:ubisoft": [
+    "Future Games → Ubisoft London",
+    "Ubisoft（现代版）"
+  ],
+  "dev:chunsoft": [
+    "Spike Chunsoft"
+  ],
+  "dev:xor_gaming": [
+    "AMI"
+  ],
+  "dev:独立开发者": [
+    "独立开发"
+  ],
+  "dev:skyvu_inc": [
+    "Inc."
+  ],
+  "dev:未明确标注": [
+    "未明确"
+  ],
+  "dev:hyper_hippo": [
+    "Hyper"
+  ],
+  "dev:exient_entertainment": [
+    "Exient"
+  ],
+  "dev:pocketgamer_reviewed_title": [
+    "PocketGamer Review"
+  ],
+  "dev:mondayoff_llc": [
+    "MondayOFF"
+  ],
+  "dev:bandai_namco_entertainment_inc": [
+    "Namco",
+    "Bandai Namco"
+  ],
+  "dev:rovio_entertainment": [
+    "Rovio Entertainment Oyj",
+    "Rovio"
+  ],
+  "dev:mag_interactive": [
+    "MAG Interactive AB"
+  ],
+  "dev:antithesis_design_llc": [
+    "Antithesis Design"
+  ],
+  "dev:apple_inc": [
+    "Apple"
+  ],
+  "dev:rollic_games": [
+    "Rollic Games (Zynga)",
+    "Rollic",
+    "Rollic Games Oyun Yazilim ve Pazarlama Anonim Sirketi"
+  ],
+  "dev:panteon": [
+    "Panteon Yazilim"
+  ],
+  "dev:taito_corporation": [
+    "Taito"
+  ],
+  "dev:level_5": [
+    "Level-5（原作系列开发商）"
+  ],
+  "dev:gamesoul_studio": [
+    "Gamesoul"
+  ],
+  "dev:digital_media_technology_slu": [
+    "Digital Media Technology SL"
+  ],
+  "dev:tummy_games": [
+    "UM"
+  ],
+  "dev:zynga": [
+    "Zynga (原Newtoy)"
+  ],
+  "dev:chillingo": [
+    "Chillingo (EA)"
+  ],
+  "dev:robtop_games_ab": [
+    "RobTop Games"
+  ],
+  "dev:popcap": [
+    "PopCap Games",
+    "Blue Wizard Digital（由 PopCap Games 联合创始人 Jason Kapalka 领导）"
+  ],
+  "dev:pocketgamer收录作品": [
+    "PocketGamer收录"
+  ],
+  "dev:nimblebit": [
+    "NimbleBit LLC"
+  ],
+  "dev:padadaz_sarl": [
+    "Padadaz"
+  ],
+  "dev:tiny_games": [
+    "Tiny Games srl"
+  ],
+  "dev:klab_inc": [
+    "Abi"
+  ],
+  "dev:sega": [
+    "Sega（北美发行）",
+    "NetEase Games",
+    "funnychasegames",
+    "Sega（原 Amusement Vision",
+    "Iron Horse Games LLC"
+  ],
+  "dev:tripledot_studios": [
+    "Tripledot Studios Limited"
+  ],
+  "dev:tactile_games_后为yodo1_games": [
+    "Tactile Games"
+  ],
+  "dev:glu_mobile": [
+    "Glu"
+  ],
+  "dev:lion_studios_plus": [
+    "Lion Studios",
+    "Lion Studios Plus LLC"
+  ],
+  "dev:bizarre_creations": [
+    "ZA"
+  ],
+  "dev:hit_point_co": [
+    "Hit-Point"
+  ],
+  "dev:supercell": [
+    "Supercell Oy"
+  ],
+  "dev:orbital_nine_games": [
+    "Orbital Nine Games Inc"
+  ],
+  "dev:loop_games_oyun_teknolojileri_anonim_sirketi": [
+    "Loop Games"
+  ],
+  "dev:various": [
+    "Various (最早由Taneli Armanto为诺基亚开发)",
+    "Various (Tetris品牌授权)"
+  ],
+  "dev:supersonic_studios": [
+    "Supersonic"
+  ],
+  "dev:microjoy": [
+    "Microjoy Games Limited"
+  ],
+  "dev:ilyon_dynamics_原absolutist": [
+    "Absolutist",
+    "Ilyon"
+  ],
+  "dev:bunch_live": [
+    "Bunch"
+  ],
+  "dev:noodlecake_studios": [
+    "Noodlecake",
+    "Noodlecake Studios Inc"
+  ],
+  "dev:nexcore_studios_oyun_ve_yazilim_ticaret_pazarlama_limited_sirketi": [
+    "Nex"
+  ],
+  "dev:activision_publishing": [
+    "Activision"
+  ],
+  "dev:adam_saltsman_finji": [
+    "Finji"
+  ],
+  "dev:king_com_limited": [
+    "King"
+  ],
+  "dev:tapps_games_jogos_eletronicos": [
+    "Tapps Games"
+  ],
+  "dev:4_gen_bilgi_teknolojileri_sanayi_ticaret_limited_sirketi": [
+    "4 GEN BILGI TEKNOLOJILERI"
+  ],
+  "dev:storm8_studios": [
+    "Storm8 Studios LLC"
+  ],
+  "dev:konami": [
+    "Konami（原版）",
+    "Konami Digital Entertainment Co."
+  ],
+  "dev:naquatic": [
+    "Naquatic LLC"
+  ],
+  "dev:big_duck_games_llc": [
+    "Big Duck Games"
+  ],
+  "dev:ai_games_fz_llc": [
+    "AI Games FZ"
+  ],
+  "dev:coolmath_com_llc": [
+    "Coolmath.com"
+  ],
+  "dev:amanita_design_s_r_o": [
+    "Amanita Design"
+  ],
+  "dev:armor_games_joey_betz": [
+    "Armor Games"
+  ],
+  "dev:cubecube_sports_bilisim_ve_teknoloji_limited_sirketi": [
+    "CUBECUBE SPORTS BILISIM VE TEKNOLOJI",
+    "CUBECUBE SPORTS"
+  ],
+  "dev:zeptolab_uk_limited": [
+    "ZeptoLab"
+  ],
+  "dev:pentavision_studio": [
+    "Pentavision"
+  ],
+  "dev:flash_游戏社区开发者": [
+    "Rober 或 Flash 游戏社区开发者"
+  ],
+  "dev:halfbrick_studios": [
+    "Halfbrick"
+  ],
+  "dev:mintrocket_nexon": [
+    "Nexon"
+  ],
+  "dev:square_enix": [
+    "Square Enix (原Square)",
+    "Square Enix Montreal"
+  ],
+  "dev:glu_games_llc": [
+    "Glu Games"
+  ],
+  "dev:playfirst": [
+    "PlayFirst (原版)"
+  ],
+  "dev:metajoy_limited": [
+    "Metajoy"
+  ],
+  "dev:agave_games": [
+    "Agave Games Bilisim Yazilim ve Pazarlama Anonim Sirketi"
+  ],
+  "dev:new_story_inc_apps": [
+    "New Story Inc."
+  ],
+  "dev:jason_roberts_独立开发": [
+    "Jason Roberts"
+  ],
+  "dev:rockstar_games_netflix_移植版": [
+    "Netflix"
+  ],
+  "dev:capybara_games": [
+    "Capybara Games Inc."
+  ],
+  "dev:tt_games": [
+    "TT Games (LEGO系列)"
+  ],
+  "dev:nimblemind": [
+    "NimbleMind Network Inc."
+  ],
+  "dev:g5_entertainment_ab": [
+    "G5 Entertainment"
+  ],
+  "dev:playrix": [
+    "Playrix (Soft Games)"
+  ],
+  "dev:tutotoons": [
+    "TOO"
+  ],
+  "dev:nestcoin": [
+    "Nestcoin Holding Limited"
+  ],
+  "dev:crescent_moon_games": [
+    "SCE"
+  ],
+  "dev:unimob": [
+    "UNIMOB VIET NAM COMPANY LIMITED"
+  ],
+  "dev:kolibri_games": [
+    "Kolibri Games GmbH"
+  ],
+  "dev:infinity_games": [
+    "INFINITY GAMES LDA",
+    "LDA"
+  ],
+  "dev:wooga": [
+    "wooga gmbh"
+  ],
+  "dev:ludia_games_inc": [
+    "Ludia"
+  ],
+  "dev:gamelion": [
+    "Gamelion Studios"
+  ],
+  "dev:dma_design": [
+    "DMA Design (原版)"
+  ],
+  "dev:nicalis_移植版": [
+    "Nicalis"
+  ],
+  "dev:wizards_of_the_coast": [
+    "Wizards of the Coast LLC"
+  ],
+  "dev:mega_brands_mattel": [
+    "Mattel"
+  ],
+  "dev:block_puzzle_games": [
+    "Block Puzzle Games Inc."
+  ],
+  "dev:concernedape_eric_barone": [
+    "ConcernedApe"
+  ],
+  "dev:mojang": [
+    "Mojang Studios (Microsoft)"
+  ],
+  "dev:unico_studio_llc": [
+    "Unico Studio"
+  ],
+  "dev:scopely": [
+    "Scopely Explore"
+  ],
+  "dev:hasbro": [
+    "EA (Hasbro授权)"
+  ],
+  "dev:midway": [
+    "Bally Midway"
+  ],
+  "dev:brainvault_games": [
+    "BrainVault Games 等）"
+  ],
+  "dev:leek_ribs_games": [
+    "Leek & Ribs Games UG haftungsbeschraenkt",
+    "Leek & Ribs Games UG"
+  ],
+  "dev:pocket_gamer_收录的移动网球游戏": [
+    "Pocket Gamer 收录的移动端游戏"
+  ],
+  "dev:spooky_house_studios_ug_haftungsbeschraenkt": [
+    "Spooky House Studios UG"
+  ],
+  "dev:tatsumaki_games": [
+    "TATSUMAKI GAMES INC."
+  ],
+  "dev:fallen_tree_games": [
+    "Fallen Tree Games（英国）"
+  ],
+  "dev:gameguru": [
+    "Gameguru Advertisement FZC"
+  ],
+  "dev:dream_games": [
+    "Dream Games Dijital Teknolojiler A.S."
+  ],
+  "dev:tall_team": [
+    "Tall Team Limited"
+  ],
+  "dev:max_games": [
+    "Max Games Studios"
+  ],
+  "dev:stormbound_games": [
+    "Stormbound Games Sp. z o.o."
+  ],
+  "dev:sozap": [
+    "SOZAP AB"
+  ],
+  "dev:elad_apps": [
+    "Elad Apps FZ-LLC"
+  ],
+  "dev:game_hive": [
+    "Game Hive Corporation"
+  ],
+  "dev:supercent_inc": [
+    "Supercent"
+  ],
+  "dev:days_of_wonder": [
+    "Days of Wonder（原作 Alan R. Moon 设计）"
+  ],
+  "dev:paxie_games_oyun_ve_yazilim_anonim_sirketi": [
+    "Paxie Games",
+    "Paxie"
+  ],
+  "dev:digital_melody": [
+    "Deemedya (原为 Digital Melody)"
+  ],
+  "dev:team17_digital_limited": [
+    "Team17"
+  ],
+  "game:索尼克与世嘉全明星赛车_sonic_sega_all_stars_racing": [
+    "索尼克世嘉全明星赛车（Sonic and Sega All-Stars Racing）"
+  ],
+  "mechanic:滑动到停_slide_to_stop": [
+    "滑动到停（Swipe-to-Stop）"
+  ],
+  "game:playbite_playbite_mobile_arcade": [
+    "Playbite 移动街机（Playbite - Mobile Arcade）"
+  ],
+  "game:金属战争_2_metalwars_2": [
+    "金属战争（MetalWars）"
+  ],
+  "game:神庙逃亡2_temple_run_2": [
+    "神庙逃亡（Temple Run）"
+  ],
+  "mechanic:游戏目标_完成休闲类游戏的核心挑战": [
+    "游戏目标：完成解谜类游戏的核心挑战",
+    "游戏目标：完成竞速类游戏的核心挑战",
+    "游戏目标：完成塔防类游戏的核心挑战"
+  ],
+  "game:超级弓箭_hyper_arrow": [
+    "超级箭头（Hyper Arrow）"
+  ],
+  "mechanic:多结局_不同选择导向不同结局": [
+    "多结局路线：不同选择导向不同结局"
+  ],
+  "dev:hud_studio_limited": [
+    "Hi Studio Limited"
+  ],
+  "dev:grand_games_oyun_ve_yazilim_anonim_sirketi": [
+    "Paxie Games Oyun ve Yazilim Anonim Sirketi"
+  ],
+  "game:植物大战僵尸_plants_vs_zombies": [
+    "植物大战僵尸 HD（Plants vs. Zombies HD）"
+  ],
+  "mechanic:三消_匹配机制": [
+    "三消匹配机制"
+  ],
+  "mechanic:订单_任务系统": [
+    "订单任务系统",
+    "装饰/建造系统"
+  ],
+  "mechanic:多维度脑力评估": [
+    "多维度能力评估"
+  ],
+  "mechanic:提示_辅助系统": [
+    "提示辅助系统"
+  ],
+  "mechanic:网格建造系统": [
+    "网格化建造系统"
+  ],
+  "mechanic:渐进式关卡设计": [
+    "渐进关卡设计"
+  ],
+  "dev:boomit": [
+    "BoomBit"
+  ],
+  "game:15数字推盘挑战_15_puzzle_challenge": [
+    "15拼图挑战（15 Puzzle Challenge）"
+  ],
+  "mechanic:极简操控": [
+    "无压力模式",
+    "社交同屏对战"
+  ],
+  "mechanic:得分机制_通过完成关卡_挑战获得积分": [
+    "关卡递进：难度逐步增加，需要更精准的操作和策略"
+  ],
+  "mechanic:独立进度_每款小游戏有独立的最高分记录和解锁状态": [
+    "快速匹配：大部分小游戏支持秒开局，无需加载等待",
+    "成就系统：全局成就追踪玩家在各个小游戏中的总体表现"
+  ],
+  "mechanic:简化操作": [
+    "多样内容"
+  ],
+  "mechanic:进度管理_通过消耗体力进入关卡_成功通关获得奖励_体力随时间自动恢复": [
+    "难度曲线：关卡难度呈渐进式增长，每10关左右引入新的机制或加大挑战力度",
+    "短局设计"
+  ],
+  "mechanic:随机游戏轮换": [
+    "即时排名反馈"
+  ],
+  "mechanic:单触操作": [
+    "无限关卡/无尽模式"
+  ],
+  "mechanic:变体玩法": [
+    "收集与成长"
+  ],
+  "mechanic:小游戏轮换": [
+    "快速一局"
+  ],
+  "mechanic:多游戏切换": [
+    "积分解锁系统"
+  ],
+  "mechanic:core_loop": [
+    "Progression",
+    "Scoring/Rewards"
+  ],
+  "mechanic:点击探索": [
+    "谜题推理",
+    "渐进式逃脱"
+  ],
+  "game:99_ninjas": [
+    "Assassin's Creed II",
+    "Disney Pixar's Up"
+  ],
+  "game:ace_fishing": [
+    "AiRace Xeno",
+    "Battle Gems",
+    "Bloo Kid 2",
+    "Bomb Buds",
+    "Cally's Caves 2",
+    "CastleStorm",
+    "Dark Guardians",
+    "Eliza's Quest",
+    "Ethan Meteor Hunter",
+    "FarmVille 2",
+    "FreeDum",
+    "Gunship X",
+    "Heroes of Camelot",
+    "Magical Beat",
+    "Mecha Ace",
+    "Monty Python's Ministry of Silly Walks",
+    "Outernauts",
+    "Overkill Mafia",
+    "Pac-Man Ghostly Adventures",
+    "Pigs Can't Fly",
+    "Polar Bowler",
+    "RubPix",
+    "Spy Wars",
+    "Star Wars Pinball",
+    "Tiny City",
+    "Titan Attacks",
+    "nanoRPG"
+  ],
+  "mechanic:连击_连锁反馈": [
+    "有限步数/时间约束"
+  ],
+  "game:afterard": [
+    "Animal Mafia",
+    "Chicken vs Hotdog: Trickshot",
+    "Fangs Breaker",
+    "Glorbs",
+    "Hidden around the World",
+    "SlimyLeap",
+    "Soul Hunter"
+  ],
+  "mechanic:即时加入_无需注册_打开网页即玩": [
+    "实时多人：在同一服务器中与其他玩家竞争",
+    "成长系统：通过收集或击败对手变强",
+    "简洁控制：鼠标或简单键盘操作"
+  ],
+  "mechanic:自动收益": [
+    "扩张决策"
+  ],
+  "game:alberninho_football": [
+    "Street Football"
+  ],
+  "mechanic:关卡_模式系统_提供多样化的游戏内容": [
+    "奖励机制：完成目标后给予正向反馈"
+  ],
+  "mechanic:匹配_消除机制": [
+    "道具/特殊元素系统"
+  ],
+  "mechanic:进度奖励系统": [
+    "难度递增设计"
+  ],
+  "mechanic:资源约束机制": [
+    "评价与重玩驱动"
+  ],
+  "mechanic:主动点击与自动产出": [
+    "声望/转生系统",
+    "里程碑成就",
+    "升级树系统"
+  ],
+  "mechanic:统一账户": [
+    "持续更新"
+  ],
+  "mechanic:极简操作_只需单指或双指即可完成全部操作_降低了进入门槛": [
+    "快速重开：游戏结束后几乎零等待即可重新开始，最大化单次游戏时长"
+  ],
+  "game:atlantis_sky_patrol": [
+    "Puzzle World 3",
+    "Puzzler Collection",
+    "Scrabble"
+  ],
+  "mechanic:宇宙演化系统": [
+    "能量产出网络",
+    "无限扩展机制"
+  ],
+  "mechanic:手动点击产出": [
+    "自动产出引擎",
+    "多层升级系统",
+    "离线收益计算",
+    "自动产出机制"
+  ],
+  "mechanic:自动产出机制": [
+    "升级倍增效应"
+  ],
+  "mechanic:自动化升级链": [
+    "转生/重置机制"
+  ],
+  "mechanic:放置收益循环": [
+    "升级递增反馈"
+  ],
+  "mechanic:点击产出机制": [
+    "自动化生产机制",
+    "数值递增机制"
+  ],
+  "mechanic:资源链管理": [
+    "科技树解锁",
+    "自动化战争"
+  ],
+  "mechanic:增量成长机制": [
+    "自动化解锁",
+    "多线发展"
+  ],
+  "game:battle_for_mars": [
+    "Idroidsmania"
+  ],
+  "game:battle_rapper": [
+    "Monopoly 2008",
+    "Fort Apocalypse",
+    "Tetris iPhone"
+  ],
+  "mechanic:逻辑推理_每个谜题都有唯一的或最优的解法_需要玩家进行逻辑推理": [
+    "关卡递进：难度逐步增加，从简单教学到复杂多步骤推理",
+    "视觉反馈：每次操作都有清晰的视觉动画反馈"
+  ],
+  "mechanic:英雄协同效应_特定英雄组合触发额外加成_鼓励玩家探索不同的卡组搭配": [
+    "属性克制循环：火克草、草克水、水克火的三角克制关系，增加了战斗的策略深度"
+  ],
+  "mechanic:等级递进系统": [
+    "辅助道具"
+  ],
+  "game:block_blitz_skillz_puzzle_win_block_blitz_skillz_puzzle_win": [
+    "Infinity Loop: Relaxing Puzzle（Infinity Loop: Relaxing Puzzle）"
+  ],
+  "mechanic:空间填充机制": [
+    "无限时思考",
+    "拖拽放置玩法"
+  ],
+  "mechanic:多维度思考_每个谜题需要从不同角度思考_打破常规思维模式": [
+    "优雅的设计美学：简洁的画面和音效设计让解谜过程本身成为一种享受"
+  ],
+  "game:bud_farm_idle_tycoon_game": [
+    "Idle Farm: Farming Town Games",
+    "Idle Farmer: Farm Tycoon Games",
+    "Idle Farming Empire",
+    "Idle Inventor - Factory Tycoon",
+    "Little Farm Story: Idle Tycoon",
+    "Milk Farm Tycoon",
+    "Mystery Farm: Idle Tycoon Game",
+    "Super Idle Cats - Farm Tycoon"
+  ],
+  "mechanic:自动_半自动核心行为": [
+    "快速重开机制"
+  ],
+  "genre:survival": [
+    "Craft"
+  ],
+  "mechanic:技能树网络": [
+    "转生突破"
+  ],
+  "mechanic:成长_收集机制": [
+    "社交/竞争机制"
+  ],
+  "mechanic:方块采集与制作": [
+    "自由建造",
+    "生存指标管理"
+  ],
+  "game:crazy_cats": [
+    "Crush Bunny",
+    "Dead Panic",
+    "Dragon Bricks",
+    "Earth vs. Moon",
+    "Gold Keeper",
+    "Jounce",
+    "Snood",
+    "Zombie Attack"
+  ],
+  "game:cryptogram_word_brain_puzzle": [
+    "Easy Words - Word Puzzle Games",
+    "Word Beach: Fun Spelling Games",
+    "Word Search Quest Puzzles",
+    "Word Wiz - Connect Words Game",
+    "Word to Word®: Fun Brain Games",
+    "Words With Friends Word Game",
+    "Wordzee! - Puzzle Word Game",
+    "Zen Word® - Relax Puzzle Game"
+  ],
+  "game:cut_the_rope_2_om_nom_s_quest": [
+    "Ignis - Puzzle Game",
+    "Stack Smash - 3D Puzzle Game",
+    "Thinkrolls 2: Puzzles For Kids"
+  ],
+  "game:cyto": [
+    "Rise of the Blobs",
+    "Galactic Conflict"
+  ],
+  "game:destruction_derby": [
+    "Monster Jam",
+    "Racing Masters 2008"
+  ],
+  "mechanic:渐进设计_从简单规则开始_逐步引入新元素": [
+    "短时体验：适合碎片化时间的单局设计"
+  ],
+  "mechanic:核心消除_匹配机制": [
+    "道具/增益系统"
+  ],
+  "mechanic:装备_技能收集": [
+    "风险回报决策"
+  ],
+  "mechanic:随机事件驱动": [
+    "多路线选择"
+  ],
+  "game:find_hidden_objects_world_trip": [
+    "Spot Hidden Objects - Find It",
+    "Hidden Objects: Journey Story"
+  ],
+  "game:frontwars_io": [
+    "OpenFront.io"
+  ],
+  "game:greedy_pigs": [
+    "Hardwood Spades",
+    "Hustle Kings",
+    "Pickpawcket",
+    "Rogue Sky",
+    "Spacelings",
+    "Wooords",
+    "jukebeat"
+  ],
+  "game:lux_dlx_3_map_conquest_game": [
+    "Lux Touch 3 - World Domination"
+  ],
+  "mechanic:节奏点击": [
+    "多难度曲库",
+    "社交排行"
+  ],
+  "game:medievil": [
+    "Shadow of Rome"
+  ],
+  "dev:tencent_games": [
+    "Krafton"
+  ],
+  "game:shelter_from_the_storm_s_hilarious_charm_rekindled_my_love_for_the_humble_point_and_click": [
+    "Wish Upon A Cat review - \"A heartwarming point-and-click guilt trip on missing my friends' birthdays\""
+  ],
+  "game:slyder_adventures": [
+    "Toy Bot Diaries 3"
+  ],
+  "game:cheezia_gears_of_fur": [
+    "Harry The Fairy",
+    "Twinspin"
+  ],
+  "game:chocolate_shop_frenzy": [
+    "Sally's Salon"
+  ],
+  "mechanic:空间布局规划": [
+    "连锁消除机制"
+  ],
+  "mechanic:目标驱动关卡_每个关卡设定明确的分数或合成目标_给玩家清晰的短期追求": [
+    "棋盘放置",
+    "手牌管理"
+  ],
+  "mechanic:快速重试": [
+    "分数驱动"
+  ],
+  "game:do_not_fall_io": [
+    "Soul.io 3D - .io Games For Fun"
+  ],
+  "game:ancient_gods_deckbuilding_rpg": [
+    "Card Guardians - Deck builder",
+    "Card Crusade"
+  ],
+  "mechanic:逻辑排序": [
+    "步数优化"
+  ],
+  "game:deadshot_io": [
+    "Ducklings.io",
+    "Gulper.io"
+  ],
+  "game:evowars_io": [
+    "FrontWars.io",
+    "MineFun.io"
+  ],
+  "game:1942_classic_arcade": [
+    "1945 Air Force: Airplane Games",
+    "Galaxiga: Classic Arcade Game"
+  ],
+  "mechanic:短局制设计": [
+    "多模式轮换"
+  ],
+  "game:arcade_games_arcq": [
+    "Jigsaw Puzzle Art: Relax Book"
+  ],
+  "mechanic:塔位策略": [
+    "塔升级"
+  ],
+  "game:ping_pong_watch_retro_game": [
+    "Toy Blast"
+  ],
+  "game:burt_destruction": [
+    "Frogger Jump"
+  ],
+  "game:color_sheep": [
+    "Puzzle Restorer",
+    "Sushi Mushi"
+  ],
+  "game:everybody_s_golf": [
+    "Greedy Pigs",
+    "Rally-X Rumble"
+  ],
+  "game:fruit_pop": [
+    "Paper Galaxy"
+  ],
+  "game:krashlander": [
+    "Zombie Clash",
+    "Bionfly"
+  ],
+  "game:alphabetic": [
+    "Block n Roll"
+  ]
+}

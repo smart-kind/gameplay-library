@@ -1,0 +1,59 @@
+---
+title: Mini Golf Stars Arena Battle!
+original_filename: MiniGolfStarsArenaBattle!_20260823_2315
+date: 2026-08-23
+time: 23:15
+source: gameplay-library
+---
+
+# Mini Golf Stars: Arena Battle!
+
+- **类型**: 音乐节奏
+- **平台**: Mobile (iOS)
+- **开发商**: Game Masons, LLC
+- **首次发布**: 2012
+- **一句话描述**: Love the puzzling nature of putt putt golf? Mini Golf Stars offers the closest golf simulation since Golden Tee Golf. Sm
+
+## 玩法规则
+
+Mini Golf Stars: Arena Battle!是一款音乐节奏类型的移动游戏，由Game Masons, LLC开发。以下详细说明其玩法规则：
+
+**游戏画面与UI**：游戏主界面以核心玩法区域为中心，操作按钮和状态信息分布在屏幕周围。界面设计简洁直观，操作区域占据屏幕主要部分，确保玩家能够专注于游戏内容。状态栏显示当前的关键信息（如分数、剩余步数/时间、资源数量等）。
+
+**操作方式**：游戏主要采用触屏操作，核心操作包括跳跃。操作响应灵敏，适合单手持握游玩。通过简单直观的手势即可完成大部分游戏操作，降低了上手门槛。
+
+**游戏目标**：通过跳跃完成当前关卡或挑战，在达到关卡条件后进入下一阶段。
+
+**胜利/失败条件**：达成关卡设定的目标条件（如完成指定操作、达到目标分数、在限制条件下通关等）即可过关。若无法满足继续游戏的条件（如步数耗尽、生命值归零、时间用尽等）则挑战失败，需要重新开始当前关卡。
+
+## 核心循环
+
+跟随节拍操作 → 保持连击 → 获得高分 → 解锁新曲目
+
+## 核心机制
+
+- **节拍判定系统**：根据音乐节拍在准确时间点进行操作，判定精度影响得分。
+- **连击加成机制**：连续正确操作累积连击数，连击越高得分倍率越高。
+- **难度分级**：每首歌曲提供多个难度等级，适合不同水平的玩家。
+
+## 为什么好玩
+
+完美踩点的流畅感配合动听的音乐，连击带来的视觉和听觉反馈让人沉浸其中，是音乐爱好者的理想选择。
+
+## 粘性来源
+
+完美连击带来的流畅感和高分排名的竞争驱动持续练习。解锁新曲目维持长期兴趣。
+
+## Meta 系统
+
+- **曲库与角色系统**：解锁新歌曲和角色，角色可能带有分数加成。
+- **对核心玩法的影响**：曲库扩展维持长期兴趣，角色收集提供额外目标。
+
+## 实现难度
+
+中 — 精确的节拍判定和低延迟音频处理是技术难点。曲目制作或授权成本较高。
+
+## 来源
+
+- https://apps.apple.com/app/id560372072
+- iTunes API搜索结果（搜索关键词：best mini games mobile casual 2024 2025 / viral hyper casual games list gameplay mechanics / idle clicker games best mechanics）

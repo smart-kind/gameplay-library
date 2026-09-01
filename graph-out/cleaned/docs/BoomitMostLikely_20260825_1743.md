@@ -1,0 +1,64 @@
+---
+title: Boomit Most Likely
+original_filename: BoomitMostLikely_20260825_1743
+date: 2026-08-25
+time: 17:43
+source: gameplay-library
+---
+
+# Boomit - Most Likely
+
+- **类型**: 益智问答
+- **平台**: Mobile (iOS)
+- **开发商**: SmartID Technologies b.v.
+- **首次发布**: 2020
+- **一句话描述**: Someone always gets exposed. Someone always loses. The only question is who will
+
+## 玩法规则
+
+Someone always gets exposed. Someone always loses. The only question is who will be holding the phone when the bomb goes off.
+
+Boomit Party combines pass-the-phone gameplay, Most Likely questions, party challenges, and a ticking bomb mechanic to create a different experience every round —for any group, anywhere, any night. No cards. No setup. One phone. Let's go.
+
+### 界面布局
+游戏大厅界面展示当前房间人数和即将开始的小游戏类型。进入小游戏后，屏幕上方显示倒计时和当前比分，底部为操作按钮区域。
+
+### 操作方式
+- **点击/滑动**：根据不同小游戏的规则进行相应操作
+- **快速反应**：需要在限定时间内做出正确操作
+- **体感操作**：部分小游戏利用设备陀螺仪进行体感控制
+
+### 游戏目标
+在每局小游戏中获得最高分数或最先完成目标。多局累计积分决定最终排名。
+
+## 核心循环
+选择小游戏 -> 参与对战 -> 获得积分/奖励 -> 解锁新内容 -> 继续挑战
+
+## 核心机制
+
+- **多人实时对战**：支持多人同时参与，实时竞争或合作完成小游戏。
+- **迷你游戏合集轮换**：包含多种不同规则的小游戏，每局随机选择，保持新鲜感。
+- **积分排名系统**：每局游戏产出积分，支持全局排行榜和好友竞争。
+
+## 为什么好玩
+
+多人对战的社交乐趣和不可预测性是最大卖点。每局游戏的规则变化和对手反应让体验充满新鲜感。适合朋友聚会或线上社交场景，游戏的节目效果往往比胜负本身更重要。
+
+## 粘性来源
+
+社交竞争 + 每局变化（不同小游戏轮换）+ 群体笑声和互动。多人游戏的粘性主要来自社交关系而非游戏本身。排行榜和成就系统提供额外的竞争动力。
+
+## Meta 系统
+
+iOS App Store 数据显示：版本 2.8.2，用户评分 4.72（1505 评价），游戏 分类。如包含内购，则存在付费加速或外观购买的商业化系统。
+
+## 实现难度
+
+中。单个小游戏实现难度低，但合集需要大量不同的游戏逻辑和美术资源。最大难点是多人实时同步（帧同步或状态同步）、房间管理、以及为每种小游戏设计公平的匹配机制。
+
+## 来源
+
+- 抓取 URL: https://apps.apple.com/us/app/boomit-most-likely/id1526940871?uo=4
+- 数据来源: iTunes Search API
+- Bundle ID: com.storm-heezen.BoomIt
+- 文件大小: 91.3 MB
