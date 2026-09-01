@@ -16,11 +16,28 @@ author: david-crazyamber
 
 **执行频率**：每小时 1 次（cron 驱动）
 **工作目录**：`/data/workspace/gameplay-library/`
-**输出目录**：`design/batches-v2/`
+**输出目录**：`design/`
 
 ## 前置依赖
 
-### 1. docgraph 知识库（子工具）
+### 1. 游戏主类型分类表
+
+文件：`design/genre-classification.md`
+
+此文件是**预处理产物**（一次性生成），包含从 4000+ 游戏文档中聚类出的主类型列表：
+
+```markdown
+| 主类型 | 游戏数量 | 代表游戏 |
+|--------|---------|---------|
+| 塔防 | 312 | 王国保卫战、植物大战僵尸 |
+| 消除 | 287 | 糖果传奇、开心消消乐 |
+| 物理弹射 | 198 | 愤怒的小鸟、割绳子 |
+| ... | ... | ... |
+```
+
+**生成游戏时，从此表中挑选 2 个主类型进行组合。**
+
+### 2. docgraph 知识库（子工具）
 
 知识库已注册在 `~/.docgraph/config.json`：
 ```json
@@ -76,19 +93,53 @@ ls design/batches-v2/game-*.md 2>/dev/null | sort
 | 02 | 连线法师 | 连线消除+法术 |
 | ... | ... | ... |
 
-### Step 2: 分析知识库找灵感
+### Step 2: 随机生成 3 组组合，判断可行性
 
-用 docgraph 查询以下方向（选 1-2 个）：
+```bash
+# 读取类型分类表
+cat design/genre-classification.md
 
-1. **高频大众类型**：`docgraph query "塔防"`、`docgraph query "消除"`
-2. **创新组合**：找两个看似无关但有连接点的类型
-3. **参考成功游戏**：`docgraph explain "某个爆款"` 学习其机制
+# 读取已有游戏列表（避免重复）
+ls design/game-*.md 2>/dev/null | sort
+```
 
-**目标**：找到一个**未被已有游戏覆盖**的核心组合。
+**选组合规则**：
+1. **不考虑分数限制**，从 24 种类型中**随机选 2 种**进行组合
+2. **生成 3 组不同的组合**（如：塔防+消除、休闲+解谜、放置+卡牌）
+3. **对每组粗略判断实现可能性**：
+   - 两个类型是否有天然的连接点？（如：消除→得分→用于战斗 ✓）
+   - 是否强行拼凑？（如：塔防+赛车，无逻辑关联 ✗）
+   - 核心循环是否清晰？玩家操作→发生什么→反馈
+4. **过滤掉不可行的组合**
+5. **从可行的组合中随机挑选 1 个**
+6. **检查重复**：如果该组合已被已有游戏使用，重新生成
 
-### Step 3: 生成游戏创意文档
+**示例**：
+- 组合 A：塔防 + 三消/合并 → 消除获得能量，能量建造防御塔 ✓ 可行
+- 组合 B：休闲 + 解谜 → 极简操作+逻辑挑战，天然契合 ✓ 可行
+- 组合 C：建造/生存 + 竞速 → 沙盒建造+赛车，无逻辑关联 ✗ 不可行
 
-写入文件：`design/batches-v2/game-XX-游戏名.md`
+**结果**：从 A、B 中随机挑 1 个进入生成流程。
+
+**目的**：通过"生成多组→人工判断→随机挑选"的方式，避免被分数限制死，同时保证组合有逻辑可行性。
+
+### Step 3: 查知识库辅助（生成阶段）
+
+组合确定后，用 docgraph 查询细节：
+
+```bash
+# 查某个类型的成功游戏，学习其机制
+docgraph explain "愤怒的小鸟" --kb games
+
+# 查两个类型是否已有关联
+docgraph path "塔防" "消除" --kb games
+```
+
+**注意**：知识库只在生成阶段使用，不在选类型阶段使用。
+
+### Step 4: 生成游戏创意文档
+
+写入文件：`design/game-XX-游戏名.md`
 
 编号规则：按已有编号递增（01→02→03...），不足两位补零。
 
@@ -179,11 +230,11 @@ ls design/batches-v2/game-*.md 2>/dev/null | sort
 
 **目标**：总分 ≥ 3.8
 
-### Step 4: 更新总榜
+### Step 5: 更新总榜
 
-读取 `design/batches-v2/summary-总榜.md`，把新游戏加入总榜表格。
+读取 `design/leaderboard.md`（总榜文件），把新游戏加入并重新排序。
 
-**规则**：每批只取最高分进入总榜（但现在是每小时1个，每个都进总榜）。
+**规则**：所有游戏都进入总榜，按加权总分排序。
 
 总榜表格格式：
 ```markdown
@@ -191,11 +242,11 @@ ls design/batches-v2/game-*.md 2>/dev/null | sort
 |------|------|---------|---------|------|------|------|------|------|------|--------|------|
 ```
 
-### Step 5: Git 提交并推送
+### Step 6: Git 提交并推送
 
 ```bash
 cd /data/workspace/gameplay-library/
-git add design/batches-v2/
+git add design/
 git commit -m "feat(game-XX): add 游戏名 design doc, score: X.XX"
 git push origin main
 ```
@@ -203,10 +254,10 @@ git push origin main
 **提交信息规范**：
 - `feat(game-XX): add 游戏名 design doc, score: X.XX`
 
-### Step 6: 删除触发标记
+### Step 7: 删除触发标记
 
 ```bash
-rm -f design/batches/.trigger-next
+rm -f design/.trigger-next
 ```
 
 ## 失败处理
