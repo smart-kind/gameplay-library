@@ -112,7 +112,9 @@ ls design/game-*.md 2>/dev/null | sort
    - 核心循环是否清晰？玩家操作→发生什么→反馈
 4. **过滤掉不可行的组合**
 5. **从可行的组合中随机挑选 1 个**
-6. **检查重复**：如果该组合已被已有游戏使用，重新生成
+6. **检查重复**：统计已有游戏中该组合的数量
+   - **< 5 个** → 可以生成
+   - **≥ 5 个** → 该组合已饱和，重新生成
 
 **示例**：
 - 组合 A：塔防 + 三消/合并 → 消除获得能量，能量建造防御塔 ✓ 可行
@@ -125,14 +127,20 @@ ls design/game-*.md 2>/dev/null | sort
 
 ### Step 3: 查知识库辅助（生成阶段）
 
-组合确定后，用 docgraph 查询细节：
+组合确定后，用 docgraph 查询细节（已配置默认知识库，无需指定 --kb）：
 
 ```bash
 # 查某个类型的成功游戏，学习其机制
-docgraph explain "愤怒的小鸟" --kb games
+docgraph explain "塔防" --format json
 
 # 查两个类型是否已有关联
-docgraph path "塔防" "消除" --kb games
+docgraph path "塔防" "消除"
+
+# 查询玩法机制
+docgraph query "塔防升级机制"
+
+# 知识库统计
+docgraph stats
 ```
 
 **注意**：知识库只在生成阶段使用，不在选类型阶段使用。
@@ -254,7 +262,23 @@ git push origin main
 **提交信息规范**：
 - `feat(game-XX): add 游戏名 design doc, score: X.XX`
 
-### Step 7: 删除触发标记
+### Step 7: 列出排行榜前8
+
+生成完成后，读取 `design/leaderboard.md`，列出当前排名前8的游戏：
+
+```bash
+cat design/leaderboard.md | head -12
+```
+
+输出格式：
+```
+🏆 排行榜 Top 8
+1. 游戏名A - 4.52分
+2. 游戏名B - 4.20分
+...
+```
+
+### Step 8: 删除触发标记
 
 ```bash
 rm -f design/.trigger-next
